@@ -1,0 +1,85 @@
+[Info: 2020-03-25 00:16:55.7573747: NetQueue.cpp(234)] NetQueue: Setting up.
+[Info: 2020-03-25 00:16:55.7670319: NetQueue.cpp(234)] NetQueue: Setting up.
+[Info: 2020-03-25 00:16:55.7676104: Common.cpp(31)] Native Launcher Version: 659
+[Info: 2020-03-25 00:16:55.7677116: Common.cpp(32)] Operating System: Windows 10 Home China
+[Info: 2020-03-25 00:16:55.7679910: Common.cpp(33)] Application Data directory: C:\Users\lenovo\AppData\Roaming\.minecraft
+[Info: 2020-03-25 00:16:55.7680218: Common.cpp(34)] Executable Path: MinecraftLauncher.exe
+[Info: 2020-03-25 00:16:55.7680454: Common.cpp(35)] App Directory dir: D:\Program Files (x86)\Minecraft Launcher
+[Info: 2020-03-25 00:16:55.7680690: Common.cpp(36)] Game data directory: C:\Users\lenovo\AppData\Roaming\.minecraft
+[Info: 2020-03-25 00:16:55.7680918: Common.cpp(37)] Launcher dir: D:\Program Files (x86)\Minecraft Launcher\game
+[Info: 2020-03-25 00:16:55.7681149: Common.cpp(38)] Java dir: D:\Program Files (x86)\Minecraft Launcher\runtime\jre-x64
+[Info: 2020-03-25 00:16:55.7681380: Common.cpp(39)] TmpDir dir: C:\Users\lenovo\AppData\Local\Temp\MinecraftLauncher
+[Info: 2020-03-25 00:16:55.7681596: Common.cpp(40)] x64: 1
+[Info: 2020-03-25 00:16:55.7681862: LauncherConfiguration.cpp(257)] Using configuration at path: C:\Users\lenovo\AppData\Roaming\.minecraft\launcher_profiles.json
+[Info: 2020-03-25 00:16:55.7686201: LauncherConfiguration.cpp(52)] [DATA]338de247b782aef61f360dbd3ce506f1d0180e41f7c0dd78b4c04f072bae6b2848b5782f6c8606e5e14a0a3c3a54b2bad72a6ad13107ff78be3517f4dd9a44f7d09343d2b3dd0cd522a2044c150c885f45f502a2cd7a41219641198c6c47584b0c27002a1684d76884053c41175b3d3bb290393610bfe473d99a6255a34415c91d95d54cc4f07952fd2bd6dbcdf50e7125b5eb198b2f8d537fe2ce0e336907a4150a330dd7ce317801d6a494dadd11f057312daed2bde0d1b713741cfab581efbe049b76f6fb7012ffec8149756f0c1b984460f769278ef51eb5bc90db4c5dce349b11f20a7b52be596ba469863bd8b758db1ad3355732fc97f01d2679aa946f9952d367a3fe46014594eb0955e8fda0ff2b357392b17b78ab8c342e1bcc645e7e77bf281ff03f279bb2a3e83f0fb6325341fbfe55c042f19733944958f6020e4f1e90b25e45e1e47ce00412fac9b8f21496e6c9efd5712117e2b7c0d1b979f2e1473adef5589d0d760b6103ad355774345a26ae694a9536ddb07e7f715667fe0ccf41ca6d6ef4b71a6d267508b83dbb6ccf3e0bf3d19a50cee80bf94ab9f0fa42b0bb372b9a10aab920e4c1b0d9db7d5e11cd84997c48617713969884951184f972e4210c1f470be4b6062e2823d7b491f3893690037a2548e201834ea8f6a070317ecf726816c7c864f3d2472f1d16601a42a9e9c4b5ff87fd3c534d46e008e0a608fa9718b9f0c1bbf436f37eafb0870667585843ff064b9fe2403e9d7a2d2224db51290bffc374b50895d6176531a3a8cec19b04cfb7f34d1bd43fd48197dc00d8e682f08ebae21e0ecb30d8309c180c142b580dfb42d9d8fbccf772d6709125e0692eb0e99798248ef7aa9f6b93336b7abf88caa5a1c7714a721bf23ef4559ce0a22336715b6838d90430d0870e9d3ff1e55843be0c629647ee809c83103b844a7e3edff01c7354c040341eec3c215984bae44ff6285bb6f976d4b456b96bdb60041c85998593bef470af098446b44bbbd1664c55c03b5b22c8025b0db9c8126accdeeb45b9c28c145df30b80511e487fdc6f0f247c11c62348e80509de4cf4c272729334a827e96c4dbf987c195df410d9971994fd91131b7c214862d2fe2679b8d6b7acc773c7fedb95f75719216b6ebc4a604e126caf5d26fdecf83ff336056336c3a80f47f2f37be4e6dbf1c4e7179b20c8962db9047507ba8e9f70c8cce1cc0f96b6114937e558f6b14df8ed37f3d638b4ad59fbdfa40a92dcef7f7c098790e9ed32251ddd64b4c59988cdd1010f53005255545fcb008dc00c66877b4c06bffbb19d5afa57db1cd8edac775812ce1d43145bd712a060d995238dbcb1ab5eb78c44a5d6a2c205bffe53f3f83ca7ad8b6fb244265421a3b6df707860f28386238dfeb86ab35448f76480894c20553faf82386865f94e3f119089205de3311731d182120db6d715761abf83f9019ff3ff01ddafc80671c4df3ba33766ab6f8d023efc67a81169556a07867977411723aec15966182ce57d0747789f7b162d7caa1a0a0dfc762495baf5f166b5c3fa896b661d269eb5dac47944a6cd6e4b5cf3c4b22f6b61c461459f3199d5ff25b8aae2c46a9376fb1a9ad3b62184fdead4bde900e481824f1564d96f33db2fb7cbf52b77ef1e22d7a66a7bb0e64fada1c7a821793c95eafa455ce5632f1c5e8d386872202c28fe82894fa28cb175d93e014fa6e9fc495886aedd2bd867bc224e7df2862cd1b9de607c9764d2763ee4815424464474abe7a6f1d13d98d4cab2a68faf4c0d413df5a15841159e64913daa45bb911415c1e49a805add61226abac34b30375e87a8ebde20e63440b7b9fc1404e92d21afa8737d9d83fbf428244b3d9a3956e3d0ed4ea78c94fa02e84e53a45e402c25630fbf2b8e762fa0334b1aa62cba30b8b9a090bdc23657f5a15faa84bd748c7193771f69b63f5ae1786584b3106cac1bb8158183788bad6c0576085c774f87b66c3ada9b5fa2c6391f1c7b65751b5fbef958d0edceba9117aff3fd844a815ba6d1641da8c0a52c71576dff5db476b9c5abf1c5c9f31e45784725b49cc7b7a70c0ee16cfbd0db9baf1795f4325d3ad7fd1f5e7be611fa31b8a28696474fb387396a2550f98a8bef86cbbee23503d291fe7dd68e3d6d0a462913b1cbba874d93d004278d53bf73666dd3a175b2a79e992d825704beb847ca2f4e3a194f5531a39d858c863e5aa5ace964134a905bc6d64c0710b56bfaf87464411b7132135734677e43f561015c8f67ecdf36eb4e657ebb896405d56309af54700eb55435e6bace27471cbd91d86ba1ea4d91b3c8f478d722fa2c471d64ced2fe2a5d2be0c7a9db3e3316481680c9b7b4ca827f93dbb7dda818a58fa02902f12543c81d40d371368346a166ead185c73cacdff72ff40fa7396916c4f966affa625a6ecc29df4486888abfc9dfc6a5e93abb3e4544dbf83e543786bdcfef06e1d254dde9bdf47b13d91743e4d8d9dcb57b9edce3c71edee7cee4175f2b4ffc9cea4cd2add31d0168e62029acf60d365f7ae2d3d5b374fe7d47c938e9ebc94118dc6e9e293f2c5de717ff931da4419073f38daf19423cc437772b84de577b320f5bb2cc87c7f19ebf966bc412f24a79cf10067f6d0c6d50d30adae575debc5ffea93aac0044b03ab3e7f2b63c33cdf04336c8e24638bcca90dd28667f7cda25b4f661771ce8f66f155c67488c57e910e81110abf6c20b16a62e38423967945eda7a8264ffee3084b3252f11143b9264c61aa04db4c91ecbb31e71888cabcb798566849b2b4c6bb85e014090e282e4f80dccf69a84a54ef528a2bad0a6e524461550e91140669a7bb8c1871bf9078c18f95ea90507cda0bf8d2b8a5a93f51dbecf323caf552c78f20e15d9d5b81ea76787df9e99a5d2dec5a0ece66d5d118f418a8c0c7e7e2d5b3612a077c69ebb4a191d50fbb48843576e925268d674897e75c0022eb528b129dbdcc1cb02b35749ae15c41679c48b34ddd855d36d552164aaea2e15b71f016906ca6340ce2fcc0f5fa0222cb93275a47a5053c292ca6e0d8589fe13899c1f5ee3fd4e27062f13b70e11184bdf5214a50e6807fca3668dc3103e67c63ab2c4007f169f4c5a448cc5237f799b99baa30be0772f455825f18f70f5d20e6c89e44603db69712d89f3b7623303159b3dd85adb29aa04aa60aa5a2090ac5bfd771571acdd65692aa8a8a1566be92ac1241b551ba8106c177976d8671dbf700d7993f960c7d7024be2a066a1221eb89cbff7b30d991ba273c623cfc29990efabc6967e24231531ed6b81876cb94589034da5ca88ffcdad5e8172a3340cf69438aec2b08d4acebd5081841d1780265911f784e4617bd4cc3e5d1d2d769a8e51e9f4405990de05a5728a8ead01aa53e184de7276edfe105d0fce730a07393f605265a0caa65a4a39be334733182e0ceffa1eedfcadfcefc56e7a5f42ef0bed3d44eba0f172458b53adf07ef9005dd10bac0794caef3db084d9f4da21d55dd1425e4217719db3484e1ca46164997db8535ae64dc812129a0487a7422c24a72d16cf31453dc1ff6144a39243140d7b6618414ccb3bf865556257e061c3ffb6416b7e0a3fbc5a8e857a9eecdd8a6c94ad3c1066482ea5fb4fc0452bd9683892a52a058f34afae879aef093c5ea53cc5479f2fc65ecd014c268b235a4a98edbb460f2eedfacfdbad23e361395d0cbda3129fc294d9826bf1a0e54f2c978d59a1e5b2942c0d5f089406060f6f674d850d08db32c0c5cecb9a53f60898c65ff89d701d896522a586a493add82af8966d241e46d80ea0999a4ef3dba49bbfd22f44a9b8cb742c4b9ad8069404dc2b230a347558091602855a145a0afe6f7761852e3eafffd2c5a4715f54dfb57ea2f8e4dcb1f3a736f2582974d4dec9374504334e0497a9a376cc044f85e3019a934b8af25fe7abc18f0dde0af86a59f33b78a0ef6d4f479a928ed95e094615be905e5e35d56d985b40140187f2dcb0c41f5c18c2ca774e7aa64c8db148585f85d1d667c7af6eb98f344ec7f895f8f5b0e6da62b0f9a8010faba35ddf46e79be1f8c593b72766937704b37d45a2aefec76bf9230816a8d40c5b109af72bb582e28868b80da165fb5404e52b9ac5d10f97670dfb3595bf4c7f1e6ab1d15fc9630553fabf797f4217d17beec2eae46fca91daa9c7c6b2a71fe4881eb8ed0e227616b2e9f80dd17dc186d0206e09c5d3aac4e1c91fe3aec0f41fd98e24a8048e0cafbfa9f900a2c8777aaaa441de9e043f27314b2ce61b1c4051a7a86dea5f504494abf8be8a239674
+[Info: 2020-03-25 00:16:55.7700186: NetQueue.cpp(568)] NetQueue: worker thread started.
+[Info: 2020-03-25 00:16:55.7787060: NetQueue.cpp(583)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-03-25 00:16:56.7663865: NetQueue.cpp(447)] NetQueue: Primary ip: 13.227.66.20, Url: launchermeta.mojang.com
+[Info: 2020-03-25 00:16:56.7664465: NetQueue.cpp(520)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-03-25 00:16:56.7668367: LauncherConfiguration.cpp(167)] Deciding on update with strategy 2 and clientID 247
+[Info: 2020-03-25 00:16:56.7668789: LauncherConfiguration.cpp(183)] Version of launcher-bootstrap is current, no action is necessary.
+[Info: 2020-03-25 00:16:56.7669048: LauncherConfiguration.cpp(216)] Bootstrap is current
+[Info: 2020-03-25 00:16:56.7672560: LauncherConfiguration.cpp(167)] Deciding on update with strategy 2 and clientID 247
+[Info: 2020-03-25 00:16:56.7672899: LauncherConfiguration.cpp(183)] Version of launcher-core is current, no action is necessary.
+[Info: 2020-03-25 00:16:56.7673130: LauncherConfiguration.cpp(216)] Bootstrap is current
+[Info: 2020-03-25 00:16:56.7676001: LauncherConfiguration.cpp(167)] Deciding on update with strategy 2 and clientID 247
+[Info: 2020-03-25 00:16:56.7676311: LauncherConfiguration.cpp(183)] Version of jre-x64 is current, no action is necessary.
+[Info: 2020-03-25 00:16:56.7676534: LauncherConfiguration.cpp(216)] Bootstrap is current
+[Info: 2020-03-25 00:16:56.7677061: StartLibrary.cpp(68)] Starting D:\Program Files (x86)\Minecraft Launcher\game\launcher.dll with D:\Program Files (x86)\Minecraft Launcher\runtime\jre-x64\bin\javaw.exe
+[Info: 2020-03-25 00:16:57.7760735: StartLibrary.cpp(83)] Running launcher!
+[Info: 2020-03-25 00:16:57.7769642: LauncherMain.cpp(84)] Initiated models
+[Info: 2020-03-25 00:16:57.7789743: LauncherMain.cpp(211)] Running launcher core (version 2.1.13085)
+[Info: 2020-03-25 00:16:57.7793119: LauncherMain.cpp(93)] Initiated launcher controller
+[Info: 2020-03-25 00:16:57.7795368: LauncherMain.cpp(226)] Initialization completed
+[Info: 2020-03-25 00:16:57.7800139: LauncherMain.cpp(249)] Main process: true
+[Info: 2020-03-25 00:16:57.7800844: SentryAPI.cpp(322)] The string 'C:\Users\lenovo\AppData\Roaming' was added to the logging blacklist
+[Info: 2020-03-25 00:16:57.7801151: SentryAPI.cpp(322)] The string '/C/Users/lenovo/AppData/Roaming' was added to the logging blacklist
+[Info: 2020-03-25 00:16:57.7801399: LauncherMain.cpp(295)] workDir: ...\.minecraft
+[Info: 2020-03-25 00:16:57.7801788: SentryAPI.cpp(322)] The string 'D:\Program Files (x86)' was added to the logging blacklist
+[Info: 2020-03-25 00:16:57.7802043: SentryAPI.cpp(322)] The string '/D/Program Files (x86)' was added to the logging blacklist
+[Info: 2020-03-25 00:16:57.7802277: LauncherMain.cpp(303)] appDir: ...\Minecraft Launcher
+[Info: 2020-03-25 00:16:57.7805262: LauncherMain.cpp(355)] Launcher core version: 2.1.13085 (db99b7aeda53111fe00ef252483353af1d54c962)
+[Info: 2020-03-25 00:16:57.7805837: NetQueue.cpp(234)] NetQueue: Setting up.
+[Info: 2020-03-25 00:16:57.7806167: LauncherController.cpp(187)] Constructing launcher controller with workDir: ...\.minecraft, isActive: 1
+[Info: 2020-03-25 00:16:57.7817050: ProfilesFileData.cpp(159)] Reading preferences on path: C:\Users\lenovo\AppData\Roaming\.minecraft\launcher_profiles.json
+[Info: 2020-03-25 00:16:57.7819922: SkinManager.cpp(192)] Failed to read skins file: ...\.minecraft\launcher_skins.json
+[Info: 2020-03-25 00:16:57.7821747: SentryAPI.cpp(322)] The string '49faa55745869189bb1d2be531da5263' was added to the logging blacklist
+[Info: 2020-03-25 00:16:57.7822110: SentryAPI.cpp(322)] The string 'majingyuan2000@gmail.com' was added to the logging blacklist
+[Info: 2020-03-25 00:16:57.7822417: SentryAPI.cpp(322)] The string 'BiShop_Ma' was added to the logging blacklist
+[Info: 2020-03-25 00:16:57.7822825: SentryAPI.cpp(322)] The string 'f9d07451cb02d5af82af7eef3ba0cea1' was added to the logging blacklist
+[Info: 2020-03-25 00:16:57.7823142: SentryAPI.cpp(322)] The string 'a11cf95b131d4d12b08cd4a194dd71d9' was added to the logging blacklist
+[Info: 2020-03-25 00:16:57.7828807: NetQueue.cpp(568)] NetQueue: worker thread started.
+[Info: 2020-03-25 00:16:57.7829627: GameVersionManager.cpp(77)] Looking for installed versions in ...\.minecraft\versions
+[Info: 2020-03-25 00:16:57.7843846: GameVersionManager.cpp(121)] Parsing version 1.10.2
+[Info: 2020-03-25 00:16:57.7866415: GameVersionManager.cpp(121)] Parsing version 1.13.2
+[Info: 2020-03-25 00:16:57.7892040: GameVersionManager.cpp(121)] Parsing version 1.14.4
+[Info: 2020-03-25 00:16:57.7905548: NetQueue.cpp(583)] NetQueue: Starting net action https://authserver.mojang.com/validate
+[Info: 2020-03-25 00:16:57.7923756: GameVersionManager.cpp(121)] Parsing version 1.15.2
+[Info: 2020-03-25 00:16:57.7954752: GameVersionManager.cpp(121)] Parsing version 20w12a
+[Info: 2020-03-25 00:16:57.8610824: NetQueue.cpp(583)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest.json?_t=2020-03-25T00:16:57Z
+[Info: 2020-03-25 00:16:58.1868413: LauncherAppBrowser.cpp(57)] Work dir is ...\.minecraft
+[Info: 2020-03-25 00:16:58.4039733: root_window_manager.cpp(80)] Main window has been opened: 0361C778
+[Info: 2020-03-25 00:16:58.7030743: LauncherMain.cpp(84)] Initiated models
+[Info: 2020-03-25 00:16:58.7032043: LauncherMain.cpp(211)] Running launcher core (version 2.1.13085)
+[Info: 2020-03-25 00:16:58.7050961: LauncherMain.cpp(93)] Initiated launcher controller
+[Info: 2020-03-25 00:16:58.7053877: LauncherMain.cpp(226)] Initialization completed
+[Info: 2020-03-25 00:16:58.7060994: LauncherMain.cpp(249)] Main process: false
+[Info: 2020-03-25 00:16:58.7061545: SentryAPI.cpp(322)] The string 'D:\Program Files (x86)\Minecraft Launcher' was added to the logging blacklist
+[Info: 2020-03-25 00:16:58.7061690: SentryAPI.cpp(322)] The string '/D/Program Files (x86)/Minecraft Launcher' was added to the logging blacklist
+[Info: 2020-03-25 00:16:58.7061798: LauncherMain.cpp(295)] workDir: ...\.minecraft
+[Info: 2020-03-25 00:16:58.7062033: SentryAPI.cpp(322)] The string 'D:\Program Files (x86)' was added to the logging blacklist
+[Info: 2020-03-25 00:16:58.7062148: SentryAPI.cpp(322)] The string '/D/Program Files (x86)' was added to the logging blacklist
+[Info: 2020-03-25 00:16:58.7062248: LauncherMain.cpp(303)] appDir: ...
+[Info: 2020-03-25 00:16:58.7062553: NetQueue.cpp(234)] NetQueue: Setting up.
+[Info: 2020-03-25 00:16:58.7062734: LauncherController.cpp(187)] Constructing launcher controller with workDir: ...\.minecraft, isActive: 0
+[Info: 2020-03-25 00:16:58.7231541: LauncherAppRenderer.cpp(85)] Javascript bridge extended.
+[Info: 2020-03-25 00:16:59.2040348: NetQueue.cpp(447)] NetQueue: Primary ip: 13.224.28.68, Url: authserver.mojang.com
+[Info: 2020-03-25 00:16:59.2041633: NetQueue.cpp(520)] NetQueue: Action finished: https://authserver.mojang.com/validate
+[Info: 2020-03-25 00:17:00.0679150: LauncherAppRenderer.cpp(226)] Creating renderer context
+[Info: 2020-03-25 00:17:00.3932673: ControllerInterface.cpp(120)] Running async method checkForUpdates
+[Info: 2020-03-25 00:17:01.2045979: NetQueue.cpp(583)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-03-25 00:17:02.4158931: NetQueue.cpp(447)] NetQueue: Primary ip: 13.227.66.20, Url: launchermeta.mojang.com
+[Info: 2020-03-25 00:17:02.4161058: NetQueue.cpp(520)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-03-25 00:17:02.7105607: NetQueue.cpp(447)] NetQueue: Primary ip: 13.227.66.20, Url: launchermeta.mojang.com
+[Info: 2020-03-25 00:17:02.7107476: NetQueue.cpp(520)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest.json?_t=2020-03-25T00:16:57Z
+[Info: 2020-03-25 00:17:02.7108996: GameVersionManager.cpp(184)] Got available versions manifest from https://launchermeta.mojang.com/mc/game/version_manifest.json?_t=2020-03-25T00:16:57Z

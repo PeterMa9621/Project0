@@ -1,0 +1,105 @@
+{
+  "User": {
+    "UserDatabase": {
+      "89c2489e6e3111ea908800163e095b49": {
+        "AuthModule": "统一通行证",
+        "UserName": "BiShop",
+        "AccessToken": "9b25b3476e3111ea908800163e095b49",
+        "SelectProfileUUID": "9754b8e352ad3c33b44aa5ed356ad6f2",
+        "Profiles": {
+          "9754b8e352ad3c33b44aa5ed356ad6f2": {
+            "id": "9754b8e352ad3c33b44aa5ed356ad6f2",
+            "name": "BiShop",
+            "legacy": false,
+            "demo": null
+          }
+        },
+        "UserData": {
+          "id": "89c2489e6e3111ea908800163e095b49",
+          "email": null,
+          "username": null,
+          "properties": [
+            {
+              "name": "preferredLanguage",
+              "value": "zh_CN"
+            }
+          ]
+        }
+      }
+    },
+    "AuthenticationDic": {
+      "统一通行证": {
+        "Name": "统一通行证",
+        "AuthType": 2,
+        "Property": {
+          "nide8ID": "85abede16e2e11ea908800163e095b49"
+        }
+      }
+    },
+    "ClientToken": "f9a88de9e8ac4d91bcf3a3a74e62293d",
+    "LockAuthName": null,
+    "Nide8ServerDependence": false
+  },
+  "Environment": {
+    "VersionIsolation": false,
+    "GamePathType": 0,
+    "GamePath": null,
+    "GCEnabled": true,
+    "GCType": 0,
+    "GCArgument": null,
+    "AutoJava": true,
+    "JavaPath": "C:\\Program Files\\Java\\jre1.8.0_144\\bin\\javaw.exe",
+    "JavaAgent": null,
+    "AutoMemory": true,
+    "MaxMemory": 810,
+    "MinMemory": 0,
+    "AdvencedJvmArguments": null,
+    "AdvencedGameArguments": null,
+    "WindowSize": {
+      "FullScreen": false,
+      "Height": 0,
+      "Width": 0
+    },
+    "DownloadLostDepend": true,
+    "DownloadLostAssets": true,
+    "ExitAfterLaunch": false
+  },
+  "History": {
+    "SelectedUserNodeID": "89c2489e6e3111ea908800163e095b49",
+    "LastLaunchVersion": "1.14.4",
+    "LastLaunchTime": "0001-01-01T00:00:00",
+    "LastLaunchUsingMs": 0
+  },
+  "Launcher": {
+    "Debug": false,
+    "NoTracking": false,
+    "CheckUpdate": true,
+    "WriteLog": false
+  },
+  "Download": {
+    "DownloadSource": 0,
+    "DownloadThreadsSize": 3,
+    "DownloadProxyAddress": null,
+    "DownloadProxyPort": 0,
+    "ProxyUserName": null,
+    "ProxyUserPassword": null,
+    "CheckDownloadFileHash": true
+  },
+  "Server": {
+    "ServerName": null,
+    "ShowServerInfo": false,
+    "LaunchToServer": false,
+    "Address": null,
+    "Port": 25565
+  },
+  "Customize": {
+    "CustomBackGroundPicture": false,
+    "CustomBackGroundMusic": false,
+    "AccentColor": "Blue",
+    "AppThme": "BaseLight",
+    "LauncherTitle": null,
+    "GameWindowTitle": null,
+    "VersionInfo": null
+  },
+  "ConfigVersion": "4.8.7368.23222"
+}
