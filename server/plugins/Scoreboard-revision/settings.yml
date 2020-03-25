@@ -24,42 +24,23 @@ disabled-worlds:
 
 board:
   title:
-    interval: 3
+    interval: 10
     liner:
-      - '&4> &c&lScoreboard-r &4<'
-      - '&4> &c&lScoreboard &4<'
-      - '&4> &c&lcoreboar &4<'
-      - '&4> &c&loreboa &4<'
-      - '&4> &c&leb &4<'
-      - '&4> &4<'
-      - '&4> &c&leb &4<'
-      - '&4> &c&loreboa &4<'
-      - '&4> &c&lcoreboar &4<'
-      - '&4> &4&lScoreboard &4<'
-      - '&4> &4&lScoreboard-r &4<'
-      - '&4> &c&lScoreboard-r &4<'
-      - '&4> &4&lScoreboard-r &4<'
-      - '&4> &c&lScoreboard-r &4<'
-      - '&4> &4&lScoreboard-r &4<'
-      - '&4> &c&lScoreboard-r &4<'
-      - '&4> &c&lScoreboard-r &4<'
-      - '&4> &c&lScoreboard-r &4<'
+      - '&4> &c&l欢迎 %player_name% &4<'
+      - '&c> &c&l欢迎 %player_name% &c<'
   rows:
     1:
-      interval: 5
+      interval: 80
       liner:
-      - '&c------------------------'
-      - '&4------------------------'
+      - '&c-----------------'
     2:
       interval: 80
       liner:
-      - '&cPlayer:'
-      - '&cAuthor:'
+      - '&c昵称:'
     3:
       interval: 80
       liner:
       - '%player_name%'
-      - 'HelloitsRien'
     4:
       interval: 80
       liner:
@@ -67,7 +48,7 @@ board:
     5:
       interval: 80
       liner:
-      - '&cPing:'
+      - '&c延迟:'
     6:
       interval: 5
       liner:
@@ -79,7 +60,7 @@ board:
     '8':
       interval: 80
       liner:
-      - '&cUptime:'
+      - '&c在线时间:'
     '9':
       interval: 20
       liner:
@@ -91,13 +72,12 @@ board:
     11:
       interval: 80
       liner:
-      - 'This is an awesome plugin'
+      - '金币: %vault_eco_balance%'
     12:
       interval: 80
       liner:
-      - 'made by HelloitsRien.'
+      - '点券: %playerpoints_points%'
     50:
-      interval: 5
+      interval: 80
       liner:
-      - '&c------------------------'
-      - '&4------------------------'
+      - '&c-----------------'

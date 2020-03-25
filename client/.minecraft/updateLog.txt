@@ -1,9 +1,0 @@
-24-03-2020 13:59:46 - going to update MinecraftLauncher.exe using MinecraftLauncher.exe.tmp
-Launcher is definitely closed.
-Backing up previous version of the launcher...
-Previous version has been backed up as MinecraftLauncher.exe.backup.
-Installing new version of the launcher...
-Moved MinecraftLauncher.exe.tmp to MinecraftLauncher.exe successfully.
-Removing backup file MinecraftLauncher.exe.backup
-Removed backup MinecraftLauncher.exe.backup successfully.
-Update succeeded!

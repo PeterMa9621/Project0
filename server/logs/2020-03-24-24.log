@@ -1,0 +1,305 @@
+[22:52:09] [main/INFO]: [STDERR]: [统一通行证] transform [https://sessionserver.mojang.com/session/minecraft/profile/] to [https://auth2.nide8.com:233/85abede16e2e11ea908800163e095b49/sessionserver/session/minecraft/profile/]
+[22:52:09] [main/INFO]: [STDERR]: [统一通行证] transform [https://sessionserver.mojang.com/session/minecraft/join] to [https://auth2.nide8.com:233/85abede16e2e11ea908800163e095b49/sessionserver/session/minecraft/join]
+[22:52:09] [main/INFO]: [STDERR]: [统一通行证] transform [https://sessionserver.mojang.com/session/minecraft/hasJoined] to [https://auth2.nide8.com:233/85abede16e2e11ea908800163e095b49/sessionserver/session/minecraft/hasJoined]
+[22:52:09] [main/INFO]: [STDERR]: [统一通行证] transform com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService using yggdrasil-api-transform
+[22:52:09] [main/INFO]: [STDERR]: [统一通行证] transform com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService using skin-whitelist-transform
+[22:52:09] [main/INFO]: [STDERR]: [统一通行证] transform [https://api.mojang.com/profiles/] to [https://auth2.nide8.com:233/85abede16e2e11ea908800163e095b49/api/profiles/]
+[22:52:09] [main/INFO]: [STDERR]: [统一通行证] transform com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository using yggdrasil-api-transform
+[22:52:09] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[22:52:09] [Server thread/INFO]: Loading properties
+[22:52:10] [Server thread/INFO]: This server is running Paper version git-Paper-243 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[22:52:10] [Server thread/INFO]: Debug logging is disabled
+[22:52:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:52:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:52:10] [Server thread/INFO]: Default game type: SURVIVAL
+[22:52:10] [Server thread/INFO]: Generating keypair
+[22:52:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:52:10] [Server thread/INFO]: Using default channel type
+[22:52:13] [Server thread/WARN]: Plugin AntiXray v1.7 does not specify an api-version.
+[22:52:14] [Server thread/WARN]: Plugin SQLibrary v7.1 does not specify an api-version.
+[22:52:14] [Server thread/WARN]: Plugin PlayerPoints v2.1.4 does not specify an api-version.
+[22:52:15] [Server thread/WARN]: Plugin PVPSwitch v1.2 does not specify an api-version.
+[22:52:15] [Server thread/WARN]: Plugin Scoreboard-revision vR3 1.4.2 RELEASE does not specify an api-version.
+[22:52:15] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
+[22:52:15] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[22:52:15] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@64fb8aff]
+[22:52:15] [Server thread/INFO]: [AntiXray] Loading AntiXray v1.7
+[22:52:15] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.4
+[22:52:15] [Server thread/INFO]: [SQLibrary] Loading SQLibrary v7.1
+[22:52:15] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[22:52:15] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.4
+[22:52:15] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.0
+[22:52:16] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[22:52:16] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.26-SNAPSHOT (build 1852)
+[22:52:16] [Server thread/INFO]: [PVPSwitch] Loading PVPSwitch v1.2
+[22:52:16] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
+[22:52:16] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.17.2.0
+[22:52:16] [Server thread/INFO]: [Scoreboard-revision] Loading Scoreboard-revision vR3 1.4.2 RELEASE
+[22:52:16] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.0
+[22:52:16] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.17.2.0
+[22:52:16] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
+[22:52:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:52:16] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
+[22:52:16] [Server thread/INFO]:         __    
+[22:52:16] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.72
+[22:52:16] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[22:52:16] [Server thread/INFO]: 
+[22:52:16] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[22:52:16] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[22:52:16] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[22:52:16] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[22:52:16] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 681ms)
+[22:52:16] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[22:52:16] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[22:52:17] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_14_R4 as the Bukkit adapter
+[22:52:17] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[22:52:17] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[22:52:17] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[22:52:17] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[22:52:17] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[22:52:17] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[22:52:17] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.0
+[22:52:17] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[22:52:17] [Server thread/INFO]: Preparing level "world"
+[22:52:17] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[22:52:18] [Server thread/INFO]: Loaded 6 recipes
+[22:52:18] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:52:18] [Server thread/INFO]: View Distance: 10
+[22:52:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:52:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:52:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:52:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:52:18] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:52:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:52:18] [Server thread/INFO]: Mob Spawn Range: 8
+[22:52:18] [Server thread/INFO]: Max TNT Explosions: 100
+[22:52:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:52:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:52:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:52:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:52:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:52:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:52:18] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[22:52:18] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:52:18] [Server thread/INFO]: View Distance: 10
+[22:52:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:52:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:52:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:52:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:52:18] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:52:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:52:18] [Server thread/INFO]: Mob Spawn Range: 8
+[22:52:18] [Server thread/INFO]: Max TNT Explosions: 100
+[22:52:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:52:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:52:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:52:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:52:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:52:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:52:18] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:52:18] [Server thread/INFO]: View Distance: 10
+[22:52:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:52:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:52:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:52:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:52:18] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:52:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:52:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:52:18] [Server thread/INFO]: Mob Spawn Range: 8
+[22:52:18] [Server thread/INFO]: Max TNT Explosions: 100
+[22:52:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:52:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:52:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:52:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:52:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:52:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:52:18] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[22:52:18] [Server thread/INFO]: Preparing spawn area: 0%
+[22:52:19] [Server thread/INFO]: Preparing spawn area: 54%
+[22:52:20] [Server-Worker-1/INFO]: Preparing spawn area: 100%
+[22:52:20] [Server-Worker-1/INFO]: Preparing spawn area: 100%
+[22:52:20] [Server-Worker-4/INFO]: Preparing spawn area: 100%
+[22:52:21] [Server thread/INFO]: Preparing spawn area: 100%
+[22:52:21] [Server thread/INFO]: Preparing spawn area: 100%
+[22:52:22] [Server-Worker-5/INFO]: Preparing spawn area: 100%
+[22:52:22] [Server thread/INFO]: Loaded 441 spawn chunks for world world
+[22:52:22] [Server thread/INFO]: Time elapsed: 3725 ms
+[22:52:22] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[22:52:22] [Server thread/INFO]: Preparing spawn area: 0%
+[22:52:22] [Server-Worker-5/INFO]: Preparing spawn area: 100%
+[22:52:23] [Server-Worker-6/INFO]: Preparing spawn area: 100%
+[22:52:23] [Server thread/INFO]: Loaded 441 spawn chunks for world world_nether
+[22:52:23] [Server thread/INFO]: Time elapsed: 1482 ms
+[22:52:23] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[22:52:23] [Server thread/INFO]: Preparing spawn area: 0%
+[22:52:24] [Server thread/INFO]: Preparing spawn area: 100%
+[22:52:24] [Server thread/INFO]: Loaded 441 spawn chunks for world world_the_end
+[22:52:24] [Server thread/INFO]: Time elapsed: 590 ms
+[22:52:24] [Server thread/INFO]: [AntiXray] Enabling AntiXray v1.7*
+[22:52:24] [Server thread/WARN]: java.lang.Throwable: Warning: A plugin is creating a recipe using a Deprecated method. This will cause you to receive warnings stating 'Tried to load unrecognized recipe: bukkit:<ID>'. Please ask the author to give their recipe a static key using NamespacedKey.
+[22:52:24] [Server thread/WARN]: 	at org.bukkit.inventory.ShapedRecipe.<init>(ShapedRecipe.java:28)
+[22:52:24] [Server thread/WARN]: 	at antiXray.AntiXray.initRecoverItemRecipe(AntiXray.java:70)
+[22:52:24] [Server thread/WARN]: 	at antiXray.AntiXray.onEnable(AntiXray.java:49)
+[22:52:24] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+[22:52:24] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:338)
+[22:52:24] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:420)
+[22:52:24] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugin(CraftServer.java:467)
+[22:52:24] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugins(CraftServer.java:381)
+[22:52:24] [Server thread/WARN]: 	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:474)
+[22:52:24] [Server thread/WARN]: 	at net.minecraft.server.v1_14_R1.DedicatedServer.init(DedicatedServer.java:290)
+[22:52:24] [Server thread/WARN]: 	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:876)
+[22:52:24] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:52:24] [Server thread/INFO]: [AntiXray] 限制挖矿系统加载完毕
+[22:52:24] [Server thread/INFO]: [AntiXray] 制作者QQ:920157557
+[22:52:24] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.4
+[22:52:24] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[22:52:24] [Server thread/INFO]: [SQLibrary] Enabling SQLibrary v7.1*
+[22:52:24] [Server thread/INFO]: SQLibrary loaded.
+[22:52:24] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.4*
+[22:52:24] [Server thread/WARN]: Tue Mar 24 22:52:24 MDT 2020 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[22:52:24] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.2-SNAPSHOT;bf2593e
+[22:52:24] [Server thread/WARN]: [统一通行证] transform [https://api.mojang.com/profiles/] to [https://auth2.nide8.com:233/85abede16e2e11ea908800163e095b49/api/profiles/]
+[22:52:24] [Server thread/WARN]: [统一通行证] transform com.sk89q.worldguard.util.profile.resolver.HttpRepositoryService using yggdrasil-api-transform
+[22:52:24] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[22:52:24] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[22:52:24] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[22:52:24] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[22:52:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[22:52:24] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[22:52:24] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[22:52:24] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[22:52:24] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[22:52:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[22:52:24] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[22:52:24] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[22:52:24] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[22:52:24] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[22:52:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[22:52:24] [Server thread/INFO]: [WorldGuard] Loading region data...
+[22:52:25] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.26-SNAPSHOT (build 1852)
+[22:52:25] [Server thread/WARN]: [统一通行证] transform [https://sessionserver.mojang.com/session/minecraft/profile/] to [https://auth2.nide8.com:233/85abede16e2e11ea908800163e095b49/sessionserver/session/minecraft/profile/]
+[22:52:25] [Server thread/WARN]: [统一通行证] transform net.citizensnpcs.Settings$Setting using yggdrasil-api-transform
+[22:52:25] [Server thread/INFO]: [PVPSwitch] Enabling PVPSwitch v1.2*
+[22:52:25] [Server thread/INFO]: [PVPSwitch] PVP系统加载完毕
+[22:52:25] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
+[22:52:25] [Server thread/INFO]: [Essentials] File G:\Minecraft Program\Project0\server\plugins\Essentials\config.yml is not utf-8 encoded, trying GBK
+[22:52:25] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[22:52:25] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[22:52:25] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[22:52:25] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[22:52:25] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[22:52:25] [Server thread/INFO]: [Essentials] File G:\Minecraft Program\Project0\server\plugins\Essentials\config.yml is not utf-8 encoded, trying GBK
+[22:52:25] [Server thread/INFO]: [Essentials] Loaded 21018 items from items.json.
+[22:52:25] [Server thread/INFO]: [Essentials] Using locale zh_CN
+[22:52:25] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:52:25] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:52:25] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[22:52:25] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[22:52:25] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.17.2.0
+[22:52:25] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[22:52:25] [Server thread/INFO]: [Scoreboard-revision] Enabling Scoreboard-revision vR3 1.4.2 RELEASE*
+[22:52:26] [Server thread/WARN]: java.io.IOException: Server returned HTTP response code: 403 for URL: https://www.spigotmc.org/api/general.php
+[22:52:26] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[22:52:26] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[22:52:26] [Server thread/WARN]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[22:52:26] [Server thread/WARN]: 	at rien.bijl.Scoreboard.r.Session.isUpToDate(Session.java:45)
+[22:52:26] [Server thread/WARN]: 	at rien.bijl.Scoreboard.r.Main.init(Main.java:33)
+[22:52:26] [Server thread/WARN]: 	at rien.bijl.Scoreboard.r.Main.onEnable(Main.java:24)
+[22:52:26] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+[22:52:26] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:338)
+[22:52:26] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:420)
+[22:52:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugin(CraftServer.java:467)
+[22:52:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugins(CraftServer.java:381)
+[22:52:26] [Server thread/WARN]: 	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:474)
+[22:52:26] [Server thread/WARN]: 	at net.minecraft.server.v1_14_R1.DedicatedServer.init(DedicatedServer.java:290)
+[22:52:26] [Server thread/WARN]: 	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:876)
+[22:52:26] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:52:26] [Server thread/INFO]: [Scoreboard-revision] Loaded app handler for board: board
+[22:52:26] [Server thread/INFO]: Scoreboard is online! Scoreboard version: R3 1.4.2 RELEASE (OUTDATED)
+[22:52:26] [Server thread/INFO]: 
+[22:52:26] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.0
+[22:52:26] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.17.2.0
+[22:52:26] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
+[22:52:26] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[22:52:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: essentials
+[22:52:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: player
+[22:52:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: playerpoints
+[22:52:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: server
+[22:52:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: vault
+[22:52:26] [Server thread/INFO]: Done (8.832s)! For help, type "help"
+[22:52:26] [Server thread/INFO]: Timings Reset
+[22:52:26] [Server thread/INFO]: [Citizens] 已载入 0 个NPC.
+[22:52:27] [Craft Scheduler Thread - 1/INFO]: [PlaceholderAPI] 170 placeholder expansions are available on the cloud.
+[22:53:03] [User Authenticator #1/INFO]: UUID of player BiShop is 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
+[22:53:03] [Server thread/ERROR]: Tried to load unrecognized recipe: bukkit:a2973952-5c06-4729-bb81-a1bb190e1757 removed now.
+[22:53:03] [Server thread/ERROR]: Tried to load unrecognized recipe: bukkit:a2973952-5c06-4729-bb81-a1bb190e1757 removed now.
+[22:53:03] [Server thread/INFO]: BiShop[/127.0.0.1:55184] logged in with entity id 196 at ([world]-18.11191746917965, 74.0, -2.8785052773242557)
+[22:53:21] [Server thread/INFO]: BiShop issued server command: /ax
+[22:53:23] [Server thread/INFO]: BiShop issued server command: /ax get
+[22:53:59] [Server thread/INFO]: BiShop issued server command: /gm
+[22:54:02] [Server thread/INFO]: BiShop issued server command: /gm survival
+[22:54:06] [Server thread/INFO]: BiShop issued server command: /ax my
+[22:54:09] [Server thread/INFO]: BiShop issued server command: /ax my
+[22:54:10] [Server thread/INFO]: BiShop has made the advancement [Diamonds!]
+[22:54:14] [Server thread/INFO]: BiShop issued server command: /ax my
+[22:54:19] [Server thread/INFO]: BiShop issued server command: /gm 1
+[22:54:35] [Server thread/INFO]: BiShop issued server command: /gm 1
+[22:54:37] [Server thread/INFO]: BiShop issued server command: /ax my
+[22:54:40] [Server thread/INFO]: BiShop issued server command: /ax my
+[22:54:57] [Server thread/INFO]: BiShop issued server command: /op BiShop
+[22:55:04] [Server thread/INFO]: BiShop issued server command: /unop
+[22:55:12] [Server thread/INFO]: BiShop issued server command: /deop BiShop
+[22:55:12] [Server thread/INFO]: [BiShop: Made BiShop no longer a server operator]
+[22:55:20] [Server thread/INFO]: BiShop issued server command: /ax my
+[22:55:23] [Server thread/INFO]: BiShop issued server command: /ax my
+[22:55:29] [Server thread/INFO]: BiShop issued server command: /op
+[22:55:35] [Server thread/INFO]: Made BiShop a server operator
+[23:03:28] [Server thread/INFO]: BiShop lost connection: Disconnected
+[23:03:28] [Server thread/INFO]: BiShop left the game

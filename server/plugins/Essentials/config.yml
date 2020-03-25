@@ -527,7 +527,8 @@ world-time-permissions: false
 # Note: If you have a command that starts with ^, then you can escape it using backslash (\). e.g. \^command: 123
 command-cooldowns:
 #  feed: 100 # 100 second cooldown on /feed command
-#  '*': 5 # 5 Second cooldown on all commands
+# 5 Second cooldown on all commands
+'*': 5
 
 # Whether command cooldowns should be persistent past server shutdowns
 command-cooldown-persistence: true
@@ -626,7 +627,7 @@ max-projectile-speed: 8
 # For more information, visit http://wiki.ess3.net/wiki/Essentials_Economy
 
 # Defines the balance with which new players begin. Defaults to 0.
-starting-balance: 0
+starting-balance: 100
 
 # worth-# defines the value of an item when it is sold to the server via /sell.
 # These are now defined in worth.yml
@@ -678,7 +679,7 @@ minimum-pay-amount: 0.001
 ############################################################
 
 # Show other plugins commands in help.
-non-ess-in-help: true
+non-ess-in-help: false
 
 # Hide plugins which do not give a permission.
 # You can override a true value here for a single plugin by adding a permission to a user/group.
@@ -713,8 +714,8 @@ chat:
   #format: '&7{PREFIX}&r {DISPLAYNAME}&r &7{SUFFIX}&r: {MESSAGE}'
 
   group-formats:
-  #  default: '{WORLDNAME} {DISPLAYNAME}&7:&r {MESSAGE}'
-  #  admins: '{WORLDNAME} &c[{GROUP}]&r {DISPLAYNAME}&7:&c {MESSAGE}'
+    default: '{WORLDNAME} {DISPLAYNAME}&7:&r {MESSAGE}'
+    admins: '{WORLDNAME} &c[{GROUP}]&r {DISPLAYNAME}&7:&c {MESSAGE}'
 
   # If you are using group formats make sure to remove the '#' to allow the setting to be read.
   # Note: Group names are case-sensitive so you must match them up with your permission plugin.
@@ -739,9 +740,9 @@ protect:
     flint-fire: false
     lightning-fire-spread: true
     portal-creation: false
-    tnt-explosion: false
+    tnt-explosion: true
     tnt-playerdamage: false
-    tnt-minecart-explosion: false
+    tnt-minecart-explosion: true
     tnt-minecart-playerdamage: false
     fireball-explosion: false
     fireball-fire: false
@@ -766,7 +767,7 @@ protect:
       # Prevent villagers becoming zombie villagers.
       zombie-villager: false
       # Prevent zombie villagers being cured.
-      villager: false
+      villager: true
       # Prevent villagers becoming witches when struck by lightning.
       witch: false
       # Prevent pigs becoming zombie pigmen when struck by lightning.
@@ -790,7 +791,7 @@ protect:
       silverfish: false
       blaze: false
       magma_cube: false
-      ender_dragon: false
+      ender_dragon: true
       pig: false
       sheep: false
       cow: false
@@ -912,7 +913,7 @@ newbies:
   # If so, use this format, replacing {DISPLAYNAME} with the player name.
   # If not, set to ''
   #announce-format: ''
-  announce-format: '&dWelcome {DISPLAYNAME}&d to the server!'
+  announce-format: '&d欢迎 {DISPLAYNAME}&d 进入服务器!'
 
   # When we spawn for the first time, which spawnpoint do we use?
   # Set to "none" if you want to use the spawn point of the world.
@@ -942,7 +943,7 @@ respawn-at-home: false
 spawn-if-no-home: true
 
 # Teleport all joining players to the spawnpoint
-spawn-on-join: false
+spawn-on-join: true
 # The following value of `guests` states that all players in group `guests` will be teleported to spawn when joining.
 #spawn-on-join: guests
 # The following list value states that all players in group `guests` and `admin` are to be teleported to spawn when joining. 
