@@ -1,11 +1,11 @@
-VIP1:
+vip1:
   Money: 3000
   Items:
     '1':
       ID: diamond
       Amount: 32
-      DisplayName: 閽荤煶
-      Lore: 绁炲閽荤煶
+      DisplayName: 钻石
+      Lore: 神奇钻石
       Enchant:
         ID: fortune
         Level: 1

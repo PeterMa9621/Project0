@@ -1,7 +1,13 @@
 {
-  "minecraft:recipes/decorations/torch": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
-      "has_stone_pickaxe": "2020-03-24 23:49:52 -0600"
+      "has_diamond": "2020-03-26 08:59:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2020-03-26 08:59:01 -0600"
     },
     "done": true
   },
@@ -11,15 +17,69 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
-      "killed_by_something": "2020-03-25 22:32:43 -0600"
+      "has_diamond": "2020-03-26 08:59:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-03-26 08:59:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2020-03-26 08:59:01 -0600"
     },
     "done": true
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2020-03-24 23:49:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2020-03-26 08:59:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2020-03-24 23:49:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2020-03-26 08:59:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2020-03-26 08:59:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2020-03-26 08:59:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-03-25 22:32:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2020-03-26 08:59:01 -0600"
     },
     "done": true
   },
@@ -30,6 +90,12 @@
       "minecraft:swamp": "2020-03-25 22:33:10 -0600"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2020-03-26 08:59:01 -0600"
+    },
+    "done": true
   },
   "DataVersion": 1976
 }
