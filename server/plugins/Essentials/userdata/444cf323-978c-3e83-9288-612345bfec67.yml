@@ -1,15 +1,23 @@
 lastAccountName: Test
 timestamps:
-  login: 1585115391970
+  login: 1585198690911
   kits:
     tools: 1585116686238
-  lastteleport: 1585117263953
+  lastteleport: 1585197229329
+  logout: 1585197238323
 ipAddress: 127.0.0.1
 lastlocation:
   world: world
-  x: 158.43349182126803
-  y: 70.0
-  z: -114.42534436634033
-  yaw: 67.7959
-  pitch: 6.3003697
-afk: false
+  x: 20.699999988079075
+  y: 68.0
+  z: 21.16687450670393
+  yaw: 151.35219
+  pitch: 15.300358
+afk: true
+logoutlocation:
+  world: world
+  x: -16.92220852999296
+  y: 74.5753455594904
+  z: -2.342575828980408
+  yaw: 299.10147
+  pitch: 17.250288

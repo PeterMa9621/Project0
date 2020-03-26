@@ -1,0 +1,64 @@
+Clock:
+  AutoGetClock: true
+  Name: §a钟表菜单
+  Lore: §1我的世界钟表菜单%§2右键我打开菜单
+GUI:
+  '0':
+    Name: §1我的世界钟表菜单
+    Item:
+      '1':
+        Position: 1
+        ItemID: CLOCK
+        Name: 示例1
+        Lore: 这是第一行%这是第二行%这是第三行
+        Enchantment:
+          ID: fortune
+          Level: 1
+        Cost:
+          Type: Money
+          Price: 1000
+        Message: §a你已按下这个按钮%§c测试
+        Frequency: 1
+        Function:
+          OpenAnotherGUI:
+            Use: true
+            Number: 1
+          Command:
+            Use: false
+            Content: /say 钟表菜单
+      '2':
+        Position: 10
+        ItemID: CLOCK
+        Name: 示例2
+        Lore: 这是第一行%这是第二行%这是第三行
+        Cost:
+          Type: PlayerPoints
+          Price: 500
+        Function:
+          Command:
+            Use: true
+            Content: /say 钟表菜单%/eco set {player} 10000{ignoreOP}
+          OpenAnotherGUI:
+            Use: false
+            Number: 2
+  '1':
+    Name: 第一个GUI
+    Item:
+      '1':
+        Position: 3
+        ItemID: diamond
+        Name: 示例3
+        Lore: 这是第一行%这是第二行%这是第三行
+        Function:
+          Command:
+            Use: true
+            Content: /say 另一个GUI
+      '2':
+        Position: 16
+        ItemID: iron_pickaxe
+        Name: 示例4
+        Lore: 这是第一行%这是第二行%这是第三行
+        Function:
+          Command:
+            Use: true
+            Content: /say 钟表菜单
