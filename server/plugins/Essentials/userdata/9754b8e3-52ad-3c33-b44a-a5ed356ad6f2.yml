@@ -1,7 +1,7 @@
 lastAccountName: BiShop
 timestamps:
-  login: 1585246247559
-  logout: 1585246368821
+  login: 1585291451521
+  logout: 1585291570607
   lastteleport: 1585110262531
   kits:
     color: 1585190794414
@@ -16,11 +16,11 @@ lastlocation:
   pitch: 16.80029
 logoutlocation:
   world: world
-  x: -18.599842798323877
+  x: -18.566126107534526
   y: 74.0
-  z: -2.3875454587802576
-  yaw: 297.15155
-  pitch: 16.80029
+  z: -2.5646124492492897
+  yaw: 300.9014
+  pitch: 20.40028
 afk: false
 powertools: {}
 money: '13000.0'

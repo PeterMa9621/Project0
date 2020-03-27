@@ -372,4 +372,4 @@ CheckIn:
         Name: §f未鉴定的宝石
       Money: 0
       Describe: §7奖品为绿宝石一个
-  Database: YML
+  Database: MYSQL

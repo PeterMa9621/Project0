@@ -44,15 +44,15 @@ board:
     4:
       interval: 80
       liner:
-      - ''
+      - '今日%checkInSystem_isCheckIn%'
     5:
-      interval: 80
+      interval: 1200
       liner:
-      - '&c延迟:'
+      - '&f共签到&2%checkInSystem_days%&f天'
     6:
       interval: 5
       liner:
-      - '%player_ping% ms'
+      - ''
     7:
       interval: 80
       liner:
