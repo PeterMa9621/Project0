@@ -943,7 +943,7 @@ respawn-at-home: false
 spawn-if-no-home: true
 
 # Teleport all joining players to the spawnpoint
-spawn-on-join: true
+spawn-on-join: false
 # The following value of `guests` states that all players in group `guests` will be teleported to spawn when joining.
 #spawn-on-join: guests
 # The following list value states that all players in group `guests` and `admin` are to be teleported to spawn when joining. 

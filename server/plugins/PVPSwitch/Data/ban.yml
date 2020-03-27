@@ -1,4 +1,5 @@
 bannedPlayer:
+  Test1: false
   BiShop: false
   Test: false
   BiShop_Ma: false

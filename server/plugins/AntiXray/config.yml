@@ -1,3 +1,5 @@
+Database: YML
+RecoverPointPerMinute: 30
 Points: 600
 RecoverItem:
   ID: gold_ingot
@@ -5,18 +7,18 @@ RecoverItem:
   Name: §2矿工玉米
   Lore: §a这是一瓶神奇的玉米%§a右键吃掉它可以增加100挖矿点数
   Recipe: 0-gold_ingot-0-gold_ingot-gold_ingot-gold_ingot-0-gold_ingot-0
-ToolsLimit: 257,270,274,278,285
+ToolsLimit: iron_pickaxe,wooden_pickaxe,stone_pickaxe,diamond_pickaxe,golden_pickaxe
 Worlds: world,world_nether
 Notify: true
 world:
-  BlockInfo: 14:10,15:5,56:30,129:50
+  BlockInfo: gold_ore:10,iron_ore:5,diamond_ore:30,emerald_ore:50
   HeightUnlimit: 60
   RecoverPointByBreakingBlock:
     OnUse: false
-    BlockInfo: 1:1,2:1
+    BlockInfo: stone:1,grass_block:1
 world_nether:
-  BlockInfo: '89:10'
+  BlockInfo: glowstone:10
   HeightUnlimit: 80
   RecoverPointByBreakingBlock:
     OnUse: false
-    BlockInfo: '87:1'
+    BlockInfo: soul_sand:1

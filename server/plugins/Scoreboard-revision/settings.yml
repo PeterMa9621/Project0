@@ -50,9 +50,9 @@ board:
       liner:
       - '&f共签到&2%checkInSystem_days%&f天'
     6:
-      interval: 5
+      interval: 100
       liner:
-      - ''
+      - '&f挖矿点数:&2%antiXray_points%'
     7:
       interval: 80
       liner:
