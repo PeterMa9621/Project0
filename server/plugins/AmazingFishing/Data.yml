@@ -1,7 +1,7 @@
 FishOfDay:
-  Type: TropicalFish
+  Type: PufferFish
   Name: '1'
-  Bonus: 6
+  Bonus: 2
 Players:
   BiShop:
-    AFK: 1585588550603
+    AFK: 1585602011698

@@ -261,12 +261,6 @@
         "custom_model_data": 49
       },
       "model": "mjy:item/tiaozhanzhe_sword"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 50
-      },
-      "model": "mjy:item/tiaozhanzhe_axe"
     }
   ]
 }
