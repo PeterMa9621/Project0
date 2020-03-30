@@ -39,6 +39,42 @@
         "custom_model_data": 6
       },
       "model": "itemsadder:auto_generated/bronze_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "mjy:item/shiyue_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "mjy:item/riyue_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "mjy:item/fenshixieyan_stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "mjy:item/mietianxieyan_stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "mjy:item/shuihuo_stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "mjy:item/leidian/leidian_axe"
     }
   ]
 }

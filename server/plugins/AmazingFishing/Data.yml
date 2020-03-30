@@ -1,7 +1,7 @@
 FishOfDay:
   Type: TropicalFish
-  Name: '2'
-  Bonus: 2
+  Name: '1'
+  Bonus: 6
 Players:
   BiShop:
-    AFK: 1585526033428
+    AFK: 1585588550603

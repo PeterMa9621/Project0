@@ -508,65 +508,77 @@ items:
         armor: 3
         armorToughness: 1
   turquoise_head:
-    display_name: Turquoise helmet
+    display_name: '&3守护者头盔'
     permission: turquoisearmor
+    lore:
+    - '&6守护者的魂魄承载'
+    - '&6起它永恒的使命'
     resource:
       generate: true
     durability:
-      max_custom_durability: 175
+      max_custom_durability: 364
     specific_properties:
       armor:
         slot: head
         color: 75bebe
     attribute_modifiers:
       head:
-        armor: 9
-        armorToughness: 2
+        armor: 5
+        armorToughness: 3
   turquoise_chest:
-    display_name: Turquoise chestplate
+    display_name: '&3守护者铠甲'
     permission: turquoisearmor
+    lore:
+    - '&6守护者的魂魄承载'
+    - '&6起它永恒的使命'
     resource:
       generate: true
     durability:
-      max_custom_durability: 300
+      max_custom_durability: 529
     specific_properties:
       armor:
         slot: chest
         color: 75bebe
     attribute_modifiers:
       chest:
-        armor: 7
-        armorToughness: 2
+        armor: 10
+        armorToughness: 3
   turquoise_legs:
-    display_name: Turquoise leggings
+    display_name: '&3守护者护腿'
     permission: turquoisearmor
+    lore:
+    - '&6守护者的魂魄承载'
+    - '&6起它永恒的使命'
     resource:
       generate: true
     durability:
-      max_custom_durability: 275
+      max_custom_durability: 496
     specific_properties:
       armor:
         slot: legs
         color: 75bebe
     attribute_modifiers:
       legs:
-        armor: 5
-        armorToughness: 2
+        armor: 8
+        armorToughness: 3
   turquoise_boots:
-    display_name: Turquoise boots
+    display_name: '&3守护者战靴'
     permission: turquoisearmor
+    lore:
+    - '&6守护者的魂魄承载'
+    - '&6起它永恒的使命'
     resource:
       generate: true
     durability:
-      max_custom_durability: 225
+      max_custom_durability: 430
     specific_properties:
       armor:
         slot: FEET
         color: 75bebe
     attribute_modifiers:
       feet:
-        armor: 3
-        armorToughness: 2
+        armor: 5
+        armorToughness: 3
   aqua_head:
     display_name: Aqua Aura helmet
     permission: aquaarmor
@@ -909,62 +921,75 @@ items:
         play_particle:
           name: ENCHANTMENT_TABLE
   bronze_head:
-    display_name: Bronze helmet
+    display_name: '&3暗金头盔'
     permission: bronzearmor
+    lore:
+    - '&8暗金术士遗留'
+    - '&8下来的宝物'
     resource:
       generate: true
     durability:
-      max_custom_durability: 375
+      max_custom_durability: 320
     specific_properties:
       armor:
         slot: head
-        color: d36823
+        color: dbb014
     attribute_modifiers:
       head:
-        armor: 9
+        armor: 4.5
         armorToughness: 2
   bronze_chest:
-    display_name: Bronze chestplate
+    display_name: '&3暗金铠甲'
     permission: bronzearmor
+    lore:
+    - '&8暗金术士遗留'
+    - '&8下来的宝物'
     resource:
       generate: true
     durability:
-      max_custom_durability: 500
+      max_custom_durability: 498
     specific_properties:
       armor:
         slot: chest
-        color: d36823
+        color: dbb014
     attribute_modifiers:
       chest:
-        armor: 8
+        armor: 9.5
         armorToughness: 2
+        knockbackResistance: 0.05
   bronze_legs:
-    display_name: Bronze leggings
+    display_name: '&3暗金护腿'
     permission: bronzearmor
+    lore:
+    - '&8暗金术士遗留'
+    - '&8下来的宝物'
     resource:
       generate: true
     durability:
-      max_custom_durability: 475
+      max_custom_durability: 445
     specific_properties:
       armor:
         slot: legs
-        color: d36823
+        color: dbb014
     attribute_modifiers:
       legs:
-        armor: 5
+        armor: 7.5
         armorToughness: 2
   bronze_boots:
-    display_name: Bronze boots
+    display_name: '&3暗金战靴'
     permission: bronzearmor
+    lore:
+    - '&8暗金术士遗留'
+    - '&8下来的宝物'
     resource:
       generate: true
     durability:
-      max_custom_durability: 425
+      max_custom_durability: 402
     specific_properties:
       armor:
         slot: FEET
-        color: d36823
+        color: dbb014
     attribute_modifiers:
       feet:
-        armor: 3
+        armor: 4.5
         armorToughness: 2

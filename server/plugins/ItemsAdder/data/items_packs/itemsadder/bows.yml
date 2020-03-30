@@ -101,10 +101,31 @@ items:
       textures:
       - item/purple_bow.png
   cyan_bow:
-    display_name: Cyan Dyed Bow
+    display_name: '&b行者'
     permission: cyan_bow
+    lore:
+    - '&6弓体小巧轻盈'
+    - '&6由神秘的工艺制造'
+    durability:
+      max_custom_durability: 450
     resource:
       material: BOW
       generate: true
       textures:
       - item/cyan_bow.png
+    specific_properties:
+      bow:
+        arrow_damage: 4.0
+    events:
+      held:
+        potion_effect:
+          type: SPEED
+          duration: 1000000
+          amplifier: 0
+        play_particle:
+          name: ENCHANTMENT_TABLE
+      unheld:
+        remove_potion_effect:
+          type: SPEED
+        play_particle:
+          name: ENCHANTMENT_TABLE

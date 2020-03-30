@@ -32,6 +32,23 @@ DIAMOND_SWORD:
   mjy:rongyan_sword: 31
   mjy:xinglun_sword: 32
   mjy:yeren_sword: 33
+  mjy:anjin_sword: 34
+  mjy:gujian_sword: 35
+  mjy:shiyue_axe: 36
+  mjy:riyue_axe: 37
+  mjy:tulong_sword: 38
+  mjy:tianwen_sword: 39
+  mjy:aokuzhe_sword: 40
+  mjy:yitian_sword: 41
+  mjy:fenji_sword: 42
+  mjy:longlin_sword: 43
+  mjy:shuihuo_sword: 44
+  mjy:guihuo_sword: 45
+  mjy:zhulong_sword: 46
+  mjy:moxiang_sword: 47
+  mjy:fuzhou_sword: 48
+  mjy:tiaozhanzhe_sword: 49
+  mjy:tiaozhanzhe_axe: 50
 LEATHER_HELMET:
   itemsadder:ruby_head: 1
   itemsadder:spinel_head: 2
@@ -95,6 +112,8 @@ LEATHER_BOOTS:
   mjy:xuemo_feet: 13
   mjy:shilian_feet: 14
   mjy:bailian_feet: 15
+  mjy:putongpaoxie_feet: 16
+  mjy:gaojipaoxie_feet: 17
 REDSTONE_BLOCK:
   itemsadder:ruby_block: 1
   itemsadder:spinel_block: 2
@@ -460,6 +479,12 @@ DIAMOND_AXE:
   itemsadder:aqua_aura_axe: 4
   itemsadder:amethyst_axe: 5
   itemsadder:bronze_axe: 6
+  mjy:shiyue_axe: 7
+  mjy:riyue_axe: 8
+  mjy:fenshixieyan_stick: 9
+  mjy:mietianxieyan_stick: 10
+  mjy:shuihuo_sword: 11
+  mjy:leidian_axe: 12
 WOODEN_AXE:
   itemsadder:crystal_axe: 1
 DIAMOND_PICKAXE:

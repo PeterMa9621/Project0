@@ -852,21 +852,25 @@ items:
       mainhand:
         attackDamage: 9.0
   firesword_sword:
-    display_name: Fire Sword
+    display_name: '&c烈焰'
     permission: firesword_sword
+    lore:
+    - '&6据说这曾是烈焰王'
+    - '&6身上的一根骨头'
     resource:
       material: DIAMOND_SWORD
       generate: false
       model_path: item/firesword_sword
     enchants:
-    - FIRE_ASPECT:1
+    - FIRE_ASPECT:2
     durability:
-      max_custom_durability: 850
+      max_custom_durability: 1050
     attribute_modifiers:
       mainhand:
-        attackDamage: 10.0
+        attackDamage: 12.0
+        attackSpeed: 1.9
   aqualight_sword:
-    display_name: Aqualight
+    display_name: '&3守护者之剑'
     permission: aqualight_sword
     resource:
       material: DIAMOND_SWORD
@@ -874,10 +878,11 @@ items:
       textures:
       - item/aqualight_sword.png
     durability:
-      max_custom_durability: 2890
+      max_custom_durability: 1561
     attribute_modifiers:
       mainhand:
-        attackDamage: 12.0
+        attackDamage: 10.0
+        maxHealth: 2
   rusteroth_sword:
     display_name: Rusteroth
     permission: rusteroth_sword

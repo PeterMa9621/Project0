@@ -14,7 +14,7 @@ items:
         color: a14520
     attribute_modifiers:
       head:
-        armor: 5
+        armor: 6
         armorToughness: 2
       
   rongyan_chest:
@@ -30,7 +30,7 @@ items:
         color: a14520
     attribute_modifiers:
       chest:
-        armor: 10
+        armor: 11
         armorToughness: 2
       
   rongyan_leg:
@@ -46,7 +46,7 @@ items:
         color: a14520
     attribute_modifiers:
       legs:
-        armor: 8
+        armor: 9
         armorToughness: 2
       
   rongyan_feet:
@@ -62,7 +62,7 @@ items:
         color: a14520
     attribute_modifiers:
       feet:
-        armor: 5
+        armor: 6
         armorToughness: 2
   
   wushi_head:
@@ -145,7 +145,7 @@ items:
         color: b25cd1
     attribute_modifiers:
       head:
-        armor: 5
+        armor: 6
         armorToughness: 2
         knockbackResistance: 0.01
       
@@ -165,7 +165,7 @@ items:
         color: b25cd1
     attribute_modifiers:
       chest:
-        armor: 10
+        armor: 11
         armorToughness: 2
         knockbackResistance: 0.03
       
@@ -185,7 +185,7 @@ items:
         color: b25cd1
     attribute_modifiers:
       legs:
-        armor: 8
+        armor: 9
         armorToughness: 2
         knockbackResistance: 0.02
       
@@ -205,7 +205,7 @@ items:
         color: b25cd1
     attribute_modifiers:
       feet:
-        armor: 5
+        armor: 6
         armorToughness: 2
         knockbackResistance: 0.02
         
@@ -225,7 +225,7 @@ items:
         color: ff0000
     attribute_modifiers:
       head:
-        armor: 2
+        armor: 3
         armorToughness: 2
         maxHealth: 1
       
@@ -245,7 +245,7 @@ items:
         color: ff0000
     attribute_modifiers:
       chest:
-        armor: 7
+        armor: 8
         armorToughness: 2
         maxHealth: 3
       
@@ -265,7 +265,7 @@ items:
         color: ff0000
     attribute_modifiers:
       legs:
-        armor: 5
+        armor: 6
         armorToughness: 2
         maxHealth: 2
       
@@ -285,7 +285,7 @@ items:
         color: ff0000
     attribute_modifiers:
       feet:
-        armor: 2
+        armor: 3
         armorToughness: 2
         maxHealth: 2
     
@@ -444,3 +444,41 @@ items:
     attribute_modifiers:
       feet:
         armor: 2.5
+        
+  putongpaoxie_feet:
+    display_name: '&3普通跑鞋'
+    permission: putongpaoxie_feet
+    lore:
+    - '&8这件鞋子很轻巧'
+    - '&8穿上它可以跑得更快'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 430
+    specific_properties:
+      armor:
+        slot: feet
+        color: '547eba'
+    attribute_modifiers:
+      feet:
+        armor: 2
+        movementSpeed: 0.01
+        
+  gaojipaoxie_feet:
+    display_name: '&5高级跑鞋'
+    permission: gaojipaoxie_feet
+    lore:
+    - '&8特殊材料制成的跑鞋'
+    - '&8比普通的跑鞋还要快'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 430
+    specific_properties:
+      armor:
+        slot: feet
+        color: '31b51d'
+    attribute_modifiers:
+      feet:
+        armor: 2.5
+        movementSpeed: 0.02

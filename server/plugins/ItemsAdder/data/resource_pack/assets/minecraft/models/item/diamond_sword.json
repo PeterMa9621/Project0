@@ -183,6 +183,90 @@
         "custom_model_data": 33
       },
       "model": "mjy:auto_generated/yeren_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "mjy:auto_generated/anjin_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "mjy:item/gujian_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "mjy:item/tulong_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "mjy:item/tianwen_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "mjy:auto_generated/aokuzhe_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "mjy:item/yitian_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "mjy:item/fenji_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "mjy:auto_generated/longlin_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "mjy:item/guihuo/guihuo_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "mjy:item/zhulong/zhulong_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "mjy:item/moxiang/moxiang_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "mjy:item/fuzhou/fuzhou_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "mjy:item/tiaozhanzhe_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "mjy:item/tiaozhanzhe_axe"
     }
   ]
 }

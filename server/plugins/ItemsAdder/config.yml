@@ -26,8 +26,8 @@ blocks:
     unlit-on-place: true
     allow-any-item: true
 items:
-  fix-show-attack-and-damage-as-lore: true
-  give_death_location_maps: true
+  fix-show-attack-and-damage-as-lore: false
+  give_death_location_maps: false
 font_images:
   chat:
     enabled: true
@@ -42,6 +42,8 @@ font_images:
   book:
     enabled: true
   anvil:
+    enabled: true
+  negative-spaces-font:
     enabled: true
 huds:
   enabled: true

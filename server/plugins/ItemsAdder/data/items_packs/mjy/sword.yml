@@ -17,8 +17,6 @@ items:
       mainhand:
         attackDamage: 8
         attackSpeed: 1.6
-        hide_attributes: false
-        hide_enchants: false
         
   tiechi_sword:
     display_name: '&2铁齿剑'
@@ -37,11 +35,9 @@ items:
       mainhand:
         attackDamage: 6.0
         attackSpeed: 1.8
-        hide_attributes: false
-        hide_enchants: false
         
   wushi_sword:
-    display_name: '&1武士剑'
+    display_name: '&9武士剑'
     permission: wushi_sword
     lore:
     - '&6每一位武士必备的武器'
@@ -54,10 +50,8 @@ items:
       max_custom_durability: 1561
     attribute_modifiers:
       mainhand:
-        attackDamage: 10.0
+        attackDamage: 9.0
         attackSpeed: 1.6
-        hide_attributes: false
-        hide_enchants: false
   
   shilian_sword:
     display_name: '&8试练剑'
@@ -76,8 +70,38 @@ items:
     attribute_modifiers:
       mainhand:
         attackDamage: 6
-        hide_attributes: false
-        hide_enchants: false
+        
+  tiaozhanzhe_sword:
+    display_name: '&5挑战者之剑'
+    permission: tiaozhanzhe_sword
+    lore:
+    - '&6优秀的挑战者的专用剑'
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/tiaozhanzhe_sword
+    durability:
+      max_custom_durability: 1561
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 10
+        attackSpeed: 1.6
+  
+  tiaozhanzhe_axe:
+    display_name: '&5挑战者之斧'
+    permission: tiaozhanzhe_axe
+    lore:
+    - '&6优秀的挑战者的专用斧'
+    resource:
+      material: DIAMOND_AXE
+      generate: false
+      model_path: item/tiaozhanzhe_axe
+    durability:
+      max_custom_durability: 1561
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 13
+        attackSpeed: 0.9
         
   riyue_sword:
     display_name: '&5日月剑'
@@ -93,10 +117,8 @@ items:
       max_custom_durability: 1999
     attribute_modifiers:
       mainhand:
-        attackDamage: 13.0
+        attackDamage: 12.5
         attackSpeed: 1.6
-        hide_attributes: false
-        hide_enchants: false
         
   xinglun_sword:
     display_name: '&5星轮剑'
@@ -114,8 +136,6 @@ items:
       mainhand:
         attackDamage: 10.0
         attackSpeed: 2.0
-        hide_attributes: false
-        hide_enchants: false
         
   yeren_sword:
     display_name: '&8夜刃'
@@ -134,5 +154,321 @@ items:
       mainhand:
         attackDamage: 7.5
         attackSpeed: 2.0
-        hide_attributes: false
-        hide_enchants: false
+  
+  anjin_sword:
+    display_name: '&5暗金'
+    permission: anjin_sword
+    lore:
+    - '&6由神秘的暗金术'
+    - '&6铸造而成'
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/anjin/anjin_sword.png
+    durability:
+      max_custom_durability: 596
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 8
+        attackSpeed: 1.8
+        
+  gujian_sword:
+    display_name: '&9骨剑'
+    permission: gujian_sword
+    lore:
+    - '&6这是一个神奇的骨头'
+    - '&6充满着黑暗的气息'
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/gujian_sword
+    durability:
+      max_custom_durability: 396
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 7.5
+        attackSpeed: 1.3
+        maxHealth: 2
+        movementSpeed: -0.03
+        
+  shiyue_axe:
+    display_name: '&c蚀月斧'
+    permission: shiyue_axe
+    lore:
+    - '&8斧头呈暗红'
+    - '&8有&c蚀月&8之力'
+    resource:
+      material: DIAMOND_AXE
+      generate: false
+      model_path: item/shiyue_axe
+    durability:
+      max_custom_durability: 1999
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 20.0
+        attackSpeed: 0.7
+        
+  riyue_axe:
+    display_name: '&c日月斧'
+    permission: riyue_axe
+    lore:
+    - '&8汲天地之精华'
+    - '&8采&c日月&8之灵气'
+    resource:
+      material: DIAMOND_AXE
+      generate: false
+      model_path: item/riyue_axe
+    durability:
+      max_custom_durability: 1999
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 16
+        attackSpeed: 0.9
+        
+  tulong_sword:
+    display_name: '&c屠龙刀'
+    permission: tulong_sword
+    lore:
+    - '&6刀柄上镶着四颗龙齿'
+    - '&6刀刃上雕刻着符咒'
+    - '&6拥有此刀者定非凡人'
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/tulong_sword
+    durability:
+      max_custom_durability: 1999
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 13.5
+        attackSpeed: 1.8
+        
+  tianwen_sword:
+    display_name: '&c天问'
+    permission: tianwen_sword
+    lore:
+    - '&8被人类所&c惧'
+    - '&8被众神疏离'
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/tianwen_sword
+    durability:
+      max_custom_durability: 1999
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 10.0
+        attackSpeed: 2.4
+        
+  aokuzhe_sword:
+    display_name: '&c恸哭者'
+    permission: aokuzhe_sword
+    lore:
+    - '&8死神之镰'
+    - '&8所到之处即带来&c死亡'
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/aokuzhe/aokuzhe_sword.png
+    durability:
+      max_custom_durability: 1999
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 11.0
+        attackSpeed: 2.1
+        
+  yitian_sword:
+    display_name: '&c倚天剑'
+    permission: yitian_sword
+    lore:
+    - '&8隐隐发出一层青气'
+    - '&8剑鞘镶着&c倚天&8两个字'
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/yitian_sword
+    durability:
+      max_custom_durability: 1999
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 15.5
+        attackSpeed: 1.6
+        
+  fenji_sword:
+    display_name: '&c焚寂剑'
+    permission: fenji_sword
+    lore:
+    - '&8有着凶剑魔剑之称的它'
+    - '&8内含足以&c焚毁&8一切的邪火之力'
+    enchants:
+      - FIRE_ASPECT:1
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/fenji_sword
+    durability:
+      max_custom_durability: 1999
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 15.5
+        attackSpeed: 1.6
+        
+  longlin_sword:
+    display_name: '&c龙鳞'
+    permission: longlin_sword
+    lore:
+    - '&8状似龙文'
+    - '&8名曰&5龙鳞'
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/longlin_sword.png
+    durability:
+      max_custom_durability: 1999
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 15.5
+        attackSpeed: 1.6
+        
+  shuihuo_sword:
+    display_name: '&c水火棍'
+    permission: shuihuo_sword
+    lore:
+    - '&8形如短棍'
+    - '&8一半红一半青'
+    - '&8红为&c火&8青为&3水'
+    resource:
+      material: DIAMOND_AXE
+      generate: false
+      model_path: item/shuihuo_stick
+    durability:
+      max_custom_durability: 1999
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 16
+        attackSpeed: 1.3
+        
+  fenshixieyan_stick:
+    display_name: '&8焚世&c邪焰'
+    permission: fenshixieyan_stick
+    enchants:
+      - FIRE_ASPECT:2
+    lore:
+    - '&c地狱邪火练铸而成'
+    - '&c拥焚世之力'
+    resource:
+      material: DIAMOND_AXE
+      generate: false
+      model_path: item/fenshixieyan_stick
+    durability:
+      max_custom_durability: 1999
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 16
+        attackSpeed: 1.5
+  
+  mietianxieyan_stick:
+    display_name: '&c灭天&8邪焰'
+    permission: mietianxieyan_stick
+    enchants:
+      - FIRE_ASPECT:2
+    lore:
+    - '&c地狱烈火练铸而成'
+    - '&c拥焚天之力'
+    resource:
+      material: DIAMOND_AXE
+      generate: false
+      model_path: item/mietianxieyan_stick
+    durability:
+      max_custom_durability: 1999
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 16
+        attackSpeed: 1.5
+        
+  guihuo_sword:
+    display_name: '&8鬼&c火'
+    permission: guihuo_sword
+    lore:
+    - '&c地狱烈火练铸而成'
+    - '&c拥焚天之力'
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/guihuo/guihuo_sword
+    durability:
+      max_custom_durability: 2388
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 17
+        attackSpeed: 1.6
+        
+  leidian_axe:
+    display_name: '&9雷&5电'
+    permission: leidian_axe
+    lore:
+    - '&c地狱烈火练铸而成'
+    - '&c拥焚天之力'
+    resource:
+      material: DIAMOND_AXE
+      generate: false
+      model_path: item/leidian/leidian_axe
+    durability:
+      max_custom_durability: 2388
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 22
+        attackSpeed: 0.9
+        
+  zhulong_sword:
+    display_name: '&6烛龙'
+    permission: zhulong_sword
+    lore:
+    - '&c锺山之神，名曰烛阴'
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/zhulong/zhulong_sword
+    durability:
+      max_custom_durability: 2388
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 17
+        attackSpeed: 1.6
+        
+  moxiang_sword:
+    display_name: '&6魔像'
+    permission: moxiang_sword
+    lore:
+    - '&c先由巫术灌注黏土制成人偶'
+    - '&c后经改造铸成此剑'
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/moxiang/moxiang_sword
+    durability:
+      max_custom_durability: 2388
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 16.5
+        attackSpeed: 1.6
+        
+  fuzhou_sword:
+    display_name: '&6符咒'
+    permission: fuzhou_sword
+    lore:
+    - '&c剑身上雕刻的符咒'
+    - '&c能有效震慑鬼怪'
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/fuzhou/fuzhou_sword
+    durability:
+      max_custom_durability: 2388
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 16.5
+        attackSpeed: 1.6
