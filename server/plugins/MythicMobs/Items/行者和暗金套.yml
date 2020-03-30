@@ -1,0 +1,67 @@
+﻿# 
+# This example file shows you how to set up special items
+# for your mobs to equip or drop.
+行者:
+  Id: 261
+  Data: 0
+  Display: '&b行者'
+  Lore:
+  - '&8弓体小巧轻盈'
+  - '&8由神秘的工艺制造'
+  Enchantments:
+  - DURABILITY:4
+  Attributes:
+    MainHand:
+      MovementSpeed: 0.05
+暗金4:
+  Id: 314
+  Data: 0
+  Display: '&3暗金头盔'
+  Lore:
+  - '&8暗金术士遗留'
+  - '&8下来的宝物'
+  Enchantments:
+  - DURABILITY:4
+  Attributes:
+    Head:
+      Armor: 2
+      KnockbackResistance: 0.02
+暗金3:
+  Id: 315
+  Data: 0
+  Display: '&3暗金铠甲'
+  Lore:
+  - '&8暗金术士遗留'
+  - '&8下来的宝物'
+  Enchantments:
+  - DURABILITY:4
+  Attributes:
+    Chest:
+      Armor: 6
+      KnockbackResistance: 0.03
+暗金2:
+  Id: 316
+  Data: 0
+  Display: '&3暗金护腿'
+  Lore:
+  - '&8暗金术士遗留'
+  - '&8下来的宝物'
+  Enchantments:
+  - DURABILITY:4
+  Attributes:
+    Legs:
+      Armor: 5
+      KnockbackResistance: 0.03
+暗金1:
+  Id: 317
+  Data: 0
+  Display: '&3暗金战靴'
+  Lore:
+  - '&8暗金术士遗留'
+  - '&8下来的宝物'
+  Enchantments:
+  - DURABILITY:4
+  Attributes:
+    Feet:
+      Armor: 2
+      KnockbackResistance: 0.02

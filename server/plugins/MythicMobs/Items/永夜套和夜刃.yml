@@ -1,0 +1,77 @@
+﻿# 斧头的基础（原版）攻速为AttackSpeed: -0.75
+# 剑的基础（原版）攻速为AttackSpeed: -0.6
+# 木头，金，钻石镰刀的基础（原版）攻速为AttackSpeed: 0
+# 石头，铁镰刀的基础（原版）攻速为AttackSpeed: -0.4
+# 稿子的基础（原版）攻速为AttackSpeed: -0.7
+# 铲的基础（原版）攻速为AttackSpeed: -0.75
+yeren:
+  Id: 276
+  Data: 0
+  Display: '&8夜刃'
+  Lore:
+  - '&8宁静的黑夜中'
+  - '&8充满黑暗的气息'
+  Enchantments:
+  - DAMAGE_ALL:3
+  Attributes:
+    MainHand:
+      AttackSpeed: -0.5
+      Damage: 5.5
+  Options: 
+    Unbreakable: true
+yongye4:
+  Id: 310
+  Data: 0
+  Display: '&8永夜(头盔)'
+  Lore:
+  - '&8这是黑暗的力量'  
+  - '&8正如它的名字'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:3
+  Attributes:
+    Head:
+      Armor: 2
+  Options: 
+    Unbreakable: true
+yongye3:
+  Id: 311
+  Data: 0
+  Display: '&8永夜(铠甲)'
+  Lore:
+  - '&8这是黑暗的力量'  
+  - '&8正如它的名字'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:3
+  Attributes:
+    Chest:
+      Armor: 6
+  Options: 
+    Unbreakable: true
+yongye2:
+  Id: 312
+  Data: 0
+  Display: '&8永夜(护腿)'
+  Lore:
+  - '&8这是黑暗的力量'  
+  - '&8正如它的名字'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:3
+  Attributes:
+    Legs:
+      Armor: 5
+  Options: 
+    Unbreakable: true
+yongye1:
+  Id: 313
+  Data: 0
+  Display: '&8永夜(战靴)'
+  Lore:
+  - '&8这是黑暗的力量'
+  - '&8正如它的名字'
+  Enchantments:
+  - PROTECTION_ENVIRONMENTAL:3
+  Attributes:
+    Feet:
+      Armor: 2
+  Options: 
+    Unbreakable: true

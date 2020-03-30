@@ -1,0 +1,153 @@
+﻿# 斧头的基础（原版）攻速为AttackSpeed: -0.75
+# 剑的基础（原版）攻速为AttackSpeed: -0.6
+# 木头，金，钻石镰刀的基础（原版）攻速为AttackSpeed: 0
+# 石头，铁镰刀的基础（原版）攻速为AttackSpeed: -0.4
+# 稿子的基础（原版）攻速为AttackSpeed: -0.7
+# 铲的基础（原版）攻速为AttackSpeed: -0.75
+####################
+# 斧头
+####################
+乌金斧:
+  Id: 286
+  Data: 0
+  Display: '&e乌金斧'
+  Lore:
+  - '&8乌金锻造的斧体'
+  - '&8拥有着不俗的伤害'
+  - '&8和较为轻盈的重量'
+  Enchantments:
+  - DURABILITY:4
+  Attributes:
+    MainHand:
+      AttackSpeed: -0.5
+      Damage: 10
+鱼尾斧:
+  Id: 275
+  Data: 0
+  Display: '&3鱼尾斧'
+  Lore:
+  - '&8十分笨重的斧头'
+  - '&8但是伤害惊人'
+  Enchantments:
+  - DURABILITY:4
+  Attributes:
+    MainHand:
+      AttackSpeed: -0.8
+      Damage: 14
+曲柄斧:
+  Id: 258
+  Data: 0
+  Display: '&3曲柄斧'
+  Lore:
+  - '&8特殊的钢铁工艺'
+  - '&8使斧头变得异常坚硬'
+  Enchantments:
+  - DURABILITY:6
+  Attributes:
+    MainHand:
+      AttackSpeed: -0.6
+      Damage: 11
+####################
+# 镰刀
+####################
+无名:
+  Id: 292
+  Data: 0
+  Display: '&7无名'
+  Lore:
+  - '&8轮回中遗忘了姓名'
+  - '&8却遗留下这把镰刀'
+  Enchantments:
+  - DURABILITY:4
+  Attributes:
+    MainHand:
+      AttackSpeed: -0.3
+      Damage: 7
+无声:
+  Id: 292
+  Data: 0
+  Display: '&7无声'
+  Lore:
+  - '&8无声无息'
+  - '&8不声不响'
+  Enchantments:
+  - DURABILITY:4
+  Attributes:
+    MainHand:
+      AttackSpeed: -0.25
+      Damage: 6
+####################
+# 剑
+####################
+黄金剑:
+  Id: 267
+  Data: 0
+  Display: '&e黄金剑'
+  Lore:
+  - '&8黄金打造的剑'
+  - '&8却有着铁的硬度'
+  Enchantments:
+  - DURABILITY:6
+  Attributes:
+    MainHand:
+      AttackSpeed: -0.5
+      Damage: 8.5
+火麟剑:
+  Id: 267
+  Data: 0
+  Display: '&5火麟剑'
+  Lore:
+  - '&8有着惊人的伤害'
+  - '&8和轻盈的剑体'
+  - '&8却像花瓶一样易碎'
+  Enchantments:
+  - DURABILITY:2
+  Attributes:
+    MainHand:
+      AttackSpeed: -0.45
+      Damage: 11
+游龙剑:
+  Id: 267
+  Data: 0
+  Display: '&5游龙剑'
+  Lore:
+  - '&8传说神龙铸造了这把剑'
+  - '&8却因惹怒众神被贬下凡间'
+  - '&8而这把剑也逐渐黯淡'
+  Enchantments:
+  - DURABILITY:4
+  Attributes:
+    MainHand:
+      AttackSpeed: -0.45
+      Damage: 9.5
+####################
+# 特殊武器
+####################
+梅花匕:
+  Id: 409
+  Data: 0
+  Display: '&3梅花匕'
+  Lore:
+  - '&8两端有枪头的锐器'
+  - '&8体系娇小可双持'
+  Enchantments:
+  - DURABILITY:1
+  Attributes:
+    MainHand:
+      Damage: 2
+    OffHand:
+      Damage: 2
+狼牙棒:
+  Id: 280
+  Data: 0
+  Display: '&3狼牙棒'
+  Lore:
+  - '&8镶嵌着形似狼牙锐器'
+  - '&8加上自身的重量'
+  - '&8会造成不俗的伤害以及击飞效果'
+  Enchantments:
+  - KNOCKBACK:1
+  Attributes:
+    MainHand:
+      AttackSpeed: -0.65
+      Damage: 8

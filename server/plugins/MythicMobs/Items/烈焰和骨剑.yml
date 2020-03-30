@@ -1,0 +1,23 @@
+﻿# 
+# This example file shows you how to set up special items
+# for your mobs to equip or drop.
+骨剑:
+  Id: 352
+  Data: 0
+  Display: '&8骨剑'
+  Lore:
+  - '&8这是一个神奇的骨头'
+  - '&8充满着黑暗的气息'
+  Attributes:
+    MainHand:
+      Damage: 13
+烈焰:
+  Id: 369
+  Data: 0
+  Display: '&c烈焰'
+  Lore:
+  - '&8据说这曾是烈焰王'
+  - '&8身上的一根骨头'
+  Attributes:
+    MainHand:
+      Damage: 13

@@ -1,0 +1,446 @@
+info:
+  namespace: mjy
+items:
+  rongyan_head:
+    display_name: 熔岩头盔
+    permission: rongyan
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 364
+    specific_properties:
+      armor:
+        slot: head
+        color: a14520
+    attribute_modifiers:
+      head:
+        armor: 5
+        armorToughness: 2
+      
+  rongyan_chest:
+    display_name: 熔岩护甲
+    permission: rongyan
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 529
+    specific_properties:
+      armor:
+        slot: chest
+        color: a14520
+    attribute_modifiers:
+      chest:
+        armor: 10
+        armorToughness: 2
+      
+  rongyan_leg:
+    display_name: 熔岩护腿
+    permission: rongyan
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 496
+    specific_properties:
+      armor:
+        slot: legs
+        color: a14520
+    attribute_modifiers:
+      legs:
+        armor: 8
+        armorToughness: 2
+      
+  rongyan_feet:
+    display_name: 熔岩靴子
+    permission: rongyan
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 430
+    specific_properties:
+      armor:
+        slot: feet
+        color: a14520
+    attribute_modifiers:
+      feet:
+        armor: 5
+        armorToughness: 2
+  
+  wushi_head:
+    display_name: 武士头盔
+    permission: rongyan
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 364
+    specific_properties:
+      armor:
+        slot: head
+        color: 6b6963
+    attribute_modifiers:
+      head:
+        armor: 4
+        armorToughness: 1
+      
+  wushi_chest:
+    display_name: 武士护甲
+    permission: rongyan
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 529
+    specific_properties:
+      armor:
+        slot: chest
+        color: 6b6963
+    attribute_modifiers:
+      chest:
+        armor: 9
+        armorToughness: 1
+      
+  wushi_leg:
+    display_name: 武士护腿
+    permission: rongyan
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 496
+    specific_properties:
+      armor:
+        slot: legs
+        color: 6b6963
+    attribute_modifiers:
+      legs:
+        armor: 7
+        armorToughness: 1
+      
+  wushi_feet:
+    display_name: 武士靴子
+    permission: rongyan
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 430
+    specific_properties:
+      armor:
+        slot: feet
+        color: 6b6963
+    attribute_modifiers:
+      feet:
+        armor: 4
+        armorToughness: 1
+        
+  diaolingwang_head:
+    display_name: '&d凋零王的皇冠'
+    permission: diaolingwang
+    lore:
+    - '&6稀有的凋零王皇冠'
+    - '&6穿上它会有不可思议的效果!'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 399
+    specific_properties:
+      armor:
+        slot: head
+        color: b25cd1
+    attribute_modifiers:
+      head:
+        armor: 5
+        armorToughness: 2
+        knockbackResistance: 0.01
+      
+  diaolingwang_chest:
+    display_name: '&d凋零王的护甲'
+    permission: diaolingwang
+    lore:
+    - '&6稀有的凋零王护甲'
+    - '&6穿上它会有不可思议的效果!'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 549
+    specific_properties:
+      armor:
+        slot: chest
+        color: b25cd1
+    attribute_modifiers:
+      chest:
+        armor: 10
+        armorToughness: 2
+        knockbackResistance: 0.03
+      
+  diaolingwang_leg:
+    display_name: '&d凋零王的护腿'
+    permission: diaolingwang
+    lore:
+    - '&6稀有的凋零王护腿'
+    - '&6穿上它会有不可思议的效果!'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 529
+    specific_properties:
+      armor:
+        slot: legs
+        color: b25cd1
+    attribute_modifiers:
+      legs:
+        armor: 8
+        armorToughness: 2
+        knockbackResistance: 0.02
+      
+  diaolingwang_feet:
+    display_name: '&d凋零王的战靴'
+    permission: diaolingwang
+    lore:
+    - '&6稀有的凋零王战靴'
+    - '&6穿上它会有不可思议的效果!'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 489
+    specific_properties:
+      armor:
+        slot: feet
+        color: b25cd1
+    attribute_modifiers:
+      feet:
+        armor: 5
+        armorToughness: 2
+        knockbackResistance: 0.02
+        
+  xuemo_head:
+    display_name: '&e血魔(头盔)'
+    permission: xuemo
+    lore:
+    - '&6这是一件被鲜血浸渍的头盔'
+    - '&d传说中的血魔曾拥有过它！'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 364
+    specific_properties:
+      armor:
+        slot: head
+        color: ff0000
+    attribute_modifiers:
+      head:
+        armor: 2
+        armorToughness: 2
+        maxHealth: 1
+      
+  xuemo_chest:
+    display_name: '&e血魔(盔甲)'
+    permission: xuemo
+    lore: 
+    - '&6这是一件被鲜血浸渍的盔甲'
+    - '&d传说中的血魔曾拥有过它！'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 529
+    specific_properties:
+      armor:
+        slot: chest
+        color: ff0000
+    attribute_modifiers:
+      chest:
+        armor: 7
+        armorToughness: 2
+        maxHealth: 3
+      
+  xuemo_leg:
+    display_name: '&e血魔(护腿)'
+    permission: xuemo
+    lore: 
+    - '&6这是一件被鲜血浸渍的护腿'
+    - '&d传说中的血魔曾拥有过它！'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 496
+    specific_properties:
+      armor:
+        slot: legs
+        color: ff0000
+    attribute_modifiers:
+      legs:
+        armor: 5
+        armorToughness: 2
+        maxHealth: 2
+      
+  xuemo_feet:
+    display_name: '&e血魔(战靴)'
+    permission: xuemo
+    lore: 
+    - '&6这是一件被鲜血浸渍的战靴'
+    - '&d传说中的血魔曾拥有过它！'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 430
+    specific_properties:
+      armor:
+        slot: feet
+        color: ff0000
+    attribute_modifiers:
+      feet:
+        armor: 2
+        armorToughness: 2
+        maxHealth: 2
+    
+  shilian_head:
+    display_name: '&8试练头盔'
+    permission: shilian
+    lore:
+    - '&8这是一件普通的头盔'
+    - '&8但却拥有着很高的耐久'
+    - '&8这使它成为试练者不可或缺的装备'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 3222
+    specific_properties:
+      armor:
+        slot: head
+        color: 00a6ff
+    attribute_modifiers:
+      head:
+        armor: 1.5
+      
+  shilian_chest:
+    display_name: '&8试练胸甲'
+    permission: shilian
+    lore:
+    - '&8这是一件普通的胸甲'  
+    - '&8但却拥有着很高的耐久'
+    - '&8这使它成为试练者不可或缺的装备'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 3555
+    specific_properties:
+      armor:
+        slot: chest
+        color: 00a6ff
+    attribute_modifiers:
+      chest:
+        armor: 5.5
+      
+  shilian_leg:
+    display_name: '&8试练护腿'
+    permission: shilian
+    lore:
+    - '&8这是一件普通的护腿'  
+    - '&8但却拥有着很高的耐久'
+    - '&8这使它成为试练者不可或缺的装备'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 3444
+    specific_properties:
+      armor:
+        slot: legs
+        color: 00a6ff
+    attribute_modifiers:
+      legs:
+        armor: 4.5
+      
+  shilian_feet:
+    display_name: '&8试练战靴'
+    permission: shilian
+    lore:
+    - '&8这是一件普通的战靴'  
+    - '&8但却拥有着很高的耐久'
+    - '&8这使它成为试练者不可或缺的装备'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 3333
+    specific_properties:
+      armor:
+        slot: feet
+        color: 00a6ff
+    attribute_modifiers:
+      feet:
+        armor: 1.5
+        
+  bailian_head:
+    display_name: '&3百炼头盔'
+    permission: bailian
+    lore:
+    - '&7黝黑的外表可以'
+    - '&7想象他有多么坚固'
+    enchants:
+      - DURABILITY:4
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 364
+    specific_properties:
+      armor:
+        slot: head
+        color: '646464'
+    attribute_modifiers:
+      head:
+        armor: 2.5
+      
+  bailian_chest:
+    display_name: '&3百炼铠甲'
+    permission: bailian
+    lore:
+    - '&7黝黑的外表可以'
+    - '&7想象他有多么坚固'
+    enchants:
+      - DURABILITY:4
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 529
+    specific_properties:
+      armor:
+        slot: chest
+        color: '646464'
+    attribute_modifiers:
+      chest:
+        armor: 6.5
+      
+  bailian_leg:
+    display_name: '&3百炼护腿'
+    permission: bailian
+    lore:
+    - '&7黝黑的外表可以'
+    - '&7想象他有多么坚固'
+    enchants:
+      - DURABILITY:4
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 496
+    specific_properties:
+      armor:
+        slot: legs
+        color: '646464'
+    attribute_modifiers:
+      legs:
+        armor: 5.5
+      
+  bailian_feet:
+    display_name: '&3百炼战靴'
+    permission: bailian
+    lore:
+    - '&7黝黑的外表可以'
+    - '&7想象他有多么坚固'
+    enchants:
+      - DURABILITY:4
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 430
+    specific_properties:
+      armor:
+        slot: feet
+        color: '646464'
+    attribute_modifiers:
+      feet:
+        armor: 2.5

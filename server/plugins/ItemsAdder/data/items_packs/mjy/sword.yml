@@ -1,0 +1,138 @@
+info:
+  namespace: mjy
+items:
+  rongyan_sword:
+    display_name: '&2熔岩剑'
+    permission: rongyan_sword
+    lore:
+    - '&6曾浸泡在熔岩里的剑'
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/rongyan/rongyan_sword.png
+    durability:
+      max_custom_durability: 1561
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 8
+        attackSpeed: 1.6
+        hide_attributes: false
+        hide_enchants: false
+        
+  tiechi_sword:
+    display_name: '&2铁齿剑'
+    permission: tiechi_sword
+    lore:
+    - '&6精铁打练制成的剑'
+    - '&6比普通铁剑更耐用且更轻'
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/tiechi/tiechi_sword.png
+    durability:
+      max_custom_durability: 1561
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 6.0
+        attackSpeed: 1.8
+        hide_attributes: false
+        hide_enchants: false
+        
+  wushi_sword:
+    display_name: '&1武士剑'
+    permission: wushi_sword
+    lore:
+    - '&6每一位武士必备的武器'
+    - '&6伤害与速度兼备的上好兵器'
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/wushi_sword
+    durability:
+      max_custom_durability: 1561
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 10.0
+        attackSpeed: 1.6
+        hide_attributes: false
+        hide_enchants: false
+  
+  shilian_sword:
+    display_name: '&8试练剑'
+    permission: shilian_sword
+    lore:
+    - '&8这是一把普通的剑'
+    - '&8但却拥有着很高的耐久'
+    - '&8这使它成为试练者不可或缺的装备'
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/shilian/shilian_sword.png
+    durability:
+      max_custom_durability: 2999
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 6
+        hide_attributes: false
+        hide_enchants: false
+        
+  riyue_sword:
+    display_name: '&5日月剑'
+    permission: riyue_sword
+    lore:
+    - '&6汇聚日月之力'
+    - '&6并由最好的铁匠铸造而成'
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/riyue_sword
+    durability:
+      max_custom_durability: 1999
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 13.0
+        attackSpeed: 1.6
+        hide_attributes: false
+        hide_enchants: false
+        
+  xinglun_sword:
+    display_name: '&5星轮剑'
+    permission: xinglun_sword
+    lore:
+    - '&6一颗吸收星星力量的转子'
+    - '&6为这把宝剑提供惊人的力量'
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/xinglun_sword
+    durability:
+      max_custom_durability: 1999
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 10.0
+        attackSpeed: 2.0
+        hide_attributes: false
+        hide_enchants: false
+        
+  yeren_sword:
+    display_name: '&8夜刃'
+    permission: yeren_sword
+    lore:
+    - '&8宁静的黑夜中'
+    - '&8充满黑暗的气息'
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/yeren_sword.png
+    durability:
+      max_custom_durability: 891
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 7.5
+        attackSpeed: 2.0
+        hide_attributes: false
+        hide_enchants: false

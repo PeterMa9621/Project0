@@ -1,0 +1,81 @@
+# TNT -> Action -> LowTPS types: WAIT/DROP
+Format:
+  Broadcast:
+    Ban-Permission: TheAPI.Ban
+    Mute: '&6Player &c%player% &6muted for &c%reason%'
+    TempBanIP-Permission: TheAPI.TempBanIP
+    TempBan-Permission: TheAPI.TempBan
+    Ban: '&6Player &c%player% &6banned for &c%reason%'
+    TempMute-Permission: TheAPI.TempMute
+    BanIP: '&6Player &c%target% &6ip-banned for &c%reason%'
+    BanIP-Permission: TheAPI.BanIP
+    TempBan: '&6Player &c%player% &6banned for &c%reason% &6on &c%time%'
+    Mute-Permission: TheAPI.Mute
+    TempBanIP: '&6Player &c%target% &6temp ip-banned for &c%reason% &6on &c%time%'
+    TempMute: '&6Player &c%player% &6muted for &c%reason% &6on &c%time%'
+  Report-Permission: TheAPI.Report
+  Ban: '&6You are banned for &c%reason%'
+  Mute: '&6You are muted for &c%reason%'
+  HelpOp: '&0[&4HelpOp&0] &c%sender%&8: &c%message%'
+  BanIP: '&6You are ip-banned for &c%reason%'
+  TempBanIP: '&6You are temp ip-banned for &c%reason% &6on &c%time%'
+  TempMute: '&6You are muted for &c%reason% &6on &c%time%'
+  TempBan: '&6You are banned for &c%reason% &6on &c%time%'
+  HelpOp-Permission: TheAPI.HelpOp
+  Report: '&0[&4Report&0] &c%sender% &6reported &c%reported% &6for &c%message%'
+GameAPI:
+  StartingIn: '&aStarting in %time%s'
+  Start: '&aStart'
+Options:
+  FakeEconomyAPI:
+    Symbol: $
+    Format: $%money%
+  HideErrors: false
+  EntityMoveEvent:
+    Reflesh: 3
+    Enabled: true
+  LagChecker:
+    TNT:
+      Use: true
+      Drops:
+        InFirstTNTLocation: false
+        Allowed: true
+        InSingleLocation: true
+      SpawnTNT: false
+      Particles:
+        Type: EXPLOSION_LARGE
+        Disable: true
+      Action:
+        LowMememory: WAIT
+        LowTPS: WAIT
+      CollidingTNT:
+        IgniteTime: 5
+        Disabled: false
+    Reflesh: 5min
+    ClearMemIfPercentIsFree: 25
+    Log: false
+    Enabled: true
+    ChunkMobLimit:
+      Bypass:
+      - BEE
+      - ITEM_FRAME
+      - ARMOR_STAND
+      - VILLAGER
+      - TAMED_WOLF
+      - TAMED_CAT
+      - OCELOT
+      - PARROT
+      - DROPPED_ITEM
+      Limit: 120
+      OnLimitExceeded: WARN
+      Use: true
+Words:
+  Millenium: mil
+  Week: w
+  Second: s
+  Year: y
+  Century: cen
+  Minute: min
+  Month: mon
+  Day: d
+  Hour: h

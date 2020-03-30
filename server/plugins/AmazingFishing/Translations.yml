@@ -1,0 +1,276 @@
+Words:
+  Help:
+    Bag: '&5Open fish bag'
+    Shop: '&dShop'
+    Editor: '&6Editor of Fishes and Settings'
+    List: '&aList of fishes'
+    Toggle: '&3Toggle new record reached message'
+    Admin: '&7Switch to admin section'
+    Enchant: '&5Enchant table for your rod'
+    Tournament: '&bStart new tournament'
+    Top: '&bTop 3 players records'
+    Record: '&cYour records'
+    Player: '&7Switch to player section'
+    Stats:
+      My: '&cStats about you'
+      Other: '&cStats about specified player'
+    Points: '&9Manager of player points'
+    Reload: '&2Reload config'
+  Biomes:
+    MOUNTAINS:
+      Name: '&7MOUNTAINS'
+      Icon: STONE
+    BEACH:
+      Icon: SAND
+      Name: '&eBEACH'
+    DEEP_LUKEWARM_OCEAN:
+      Icon: FIRE_CORAL
+      Name: '&cDEEP LUKEWARM OCEAN'
+    FROZEN_OCEAN:
+      Name: '&1FROZEN OCEAN'
+      Icon: ICE
+    NETHER:
+      Name: '&4NETHER'
+      Icon: LAVA_BUCKET
+    DEEP_OCEAN:
+      Name: '&9DEEP OCEAN'
+      Icon: WATER_BUCKET
+    WOODED_HILLS:
+      Icon: OAK_LOG
+      Name: '&2WOODED HILLS'
+    DEEP_COLD_OCEAN:
+      Name: '&9DEEP COLD OCEAN'
+      Icon: WATER_BUCKET
+    END:
+      Name: '&5THE END'
+      Icon: ENDER_PEARL
+    PLAINS:
+      Name: '&aPLAINS'
+      Icon: GRASS_BLOCK
+    SWAMP:
+      Name: '&2SWAMP'
+      Icon: SLIME_BALL
+    MUSHROOM:
+      Icon: MYCELIUM
+      Name: '&dMUSHROOMS FIELD'
+    DEEP_FROZEN_OCEAN:
+      Icon: ICE
+      Name: '&1DEEP FROZEN OCEAN'
+    COLD_OCEAN:
+      Name: '&1COLD OCEAN'
+      Icon: WATER_BUCKET
+    ICE_SPIKES:
+      Icon: PACKED_ICE
+      Name: '&1ICE SPIKES'
+    STONE_SHORE:
+      Icon: STONE
+      Name: '&7STONE SHORE'
+    SAVANNA:
+      Icon: SAND
+      Name: '&6SAVANNA'
+    RIVER:
+      Icon: DIRT
+      Name: '&9RIVER'
+    DEEP_WARM_OCEAN:
+      Icon: FIRE_CORAL
+      Name: '&cDEEP WARM OCEAN'
+    TAIGA:
+      Name: '&2TAIGA'
+      Icon: SPRUCE_SAPLING
+    JUNGLE:
+      Name: '&aJUNGLE'
+      Icon: JUNGLE_SAPLING
+    BADLANDS:
+      Name: '&7BADLANDS'
+      Icon: RED_SAND
+    TUNDRA:
+      Icon: SNOW
+      Name: '&9TUNDRA'
+    FOREST:
+      Icon: OAK_SAPLING
+      Name: '&2FOREST'
+    WARM_OCEAN:
+      Name: '&cWARM OCEAN'
+      Icon: FIRE_CORAL
+    ALL:
+      Name: '&6ALL'
+      Icon: CHEST
+    DESERT:
+      Icon: CACTUS
+      Name: '&eDESERT'
+  Messages: '&rMessages'
+  Bag_Title: '&bFish Bag'
+  NowPoints-Give: '&2Give points'
+  Save: '&2Save'
+  Experiences: '&9Experiences'
+  Legendary: '&4Legendary'
+  SelectFishes: '&6Fishes editor'
+  Points: '&dPoints'
+  TreasuresTitle: '&bTreaures'
+  Tropical_Fish: '&cTropical Fish'
+  Description: '&3Description'
+  Treasures: '&6Custom treasures'
+  Sell_Fishes: '&6Sell fishes'
+  Exp: '&9Experiences Bonus'
+  SelectTreasures: '&bTreasures editor'
+  Create: '&2Create'
+  Deleted: '&4DELETED'
+  Bag: '&eBag'
+  Shop_Sell_Title: '&6Fishing Shop Sell Section'
+  Disabled: '&cDisabled'
+  Shop: '&6Custom plugin shop'
+  Money: '&6Money'
+  NowPoints-Set: '&6Set points'
+  SelectEnchants: '&5Enchants editor'
+  Commands: '&dCommands'
+  Cancel: '&cCancel'
+  Rare: '&1Rare'
+  Epic: '&6Epic'
+  HasPoints: '&9%points% points'
+  Back: '&4Back'
+  Fish: '&7Fishes'
+  Cod: '&8Cod'
+  PerBiome: '&bPer Biome'
+  Enabled: '&aEnabled'
+  Name: '&bName'
+  Common: '&7Common'
+  Salmon: '&4Salmon'
+  PointsBonus: '&9Points Bonus'
+  MaxCm: '&3Max length'
+  Enchants: '&6Custom fishing rod enchants'
+  ShopLogo: '&6Fishing Shop'
+  Cost: '&6Cost'
+  Delete: '&4Delete'
+  NowPoints-Take: '&cTake points'
+  FishRemove: '&cRemove normal fish on catch custom fish'
+  Edit: '&6Edit'
+  MoneyBonus: '&6Money Bonus'
+  SelectSettings: '&7Settings editor'
+  Amount: '&aAmount Bonus'
+  Chance: '&eChance'
+  Pufferfish: '&ePufferfish'
+  EverythingByCm: '&6Earnings from fish length'
+  Close: '&cClose'
+Editor:
+  WriteName:
+    '1': '&6Write new name'
+    '2': '&6To the chat.'
+  SuccefullyCreatedCrate:
+    '1': '&6Treasure &a%treasure%'
+    '2': '&6Succefully created!'
+  Saved:
+    '1': '&6Saved!'
+    '2': ''
+  MissingFishName:
+    '2': '&6Name of fish!'
+    '1': '&6Missing'
+  SuccefullyCreatedEnchant:
+    '2': '&6Succefully created!'
+    '1': '&6Enchant %enchant%'
+  WritePointsBonus:
+    '1': '&6Write points bonus in percentage'
+    '2': '&6To the chat.'
+  WriteChance:
+    '2': '&6To the chat.'
+    '1': '&6Write new chance in percentage'
+  NewDescription:
+    '1': '&6Write new description message'
+    '2': '&6To the chat.'
+  WritePoint:
+    '2': '&6To the chat.'
+    '1': '&6Write new points amount'
+  SuccefullyCreated:
+    '1': '&6Fish &a%fish%'
+    '2': '&6Succefully created!'
+  NewMessage:
+    '1': '&6Write new message'
+    '2': '&6To the chat.'
+  WriteCommand:
+    '1': '&6Write new command'
+    '2': '&6To the chat.'
+  WriteMoneyBonus:
+    '1': '&6Write money bonus in percentage'
+    '2': '&6To the chat.'
+  WriteCost:
+    '2': '&6To the chat.'
+    '1': '&6Write cost of enchant'
+  MissingEnchantName:
+    '1': '&6Missing'
+    '2': '&6Name of enchant!'
+  WriteAmount:
+    '2': '&6To the chat.'
+    '1': '&6Write fishes chance amount bonus'
+  WriteLength:
+    '1': '&6Write new max length of fish'
+    '2': '&6To the chat.'
+  WriteMoney:
+    '2': '&6To the chat.'
+    '1': '&6Write new money amount'
+  WriteExpBonus:
+    '2': '&6To the chat.'
+    '1': '&6Write exp bonus in percentage'
+  WriteExp:
+    '1': '&6Write new experiences amount'
+    '2': '&6To the chat.'
+  MissingCrateName:
+    '2': '&6Name of treasure!'
+    '1': '&6Missing'
+Help:
+  Points-Give: '&5Give player specified amount of points'
+  Points-Balance: '&5Points balance of player'
+  Record: '&5Your record of specified fish'
+  Points-Take: '&5Take from player specified amount of points'
+  Points-Set: '&5Set specified amount of player points'
+  Stats:
+    My: '&5Your fishing stats'
+    Other: '&5Fishing stats of specified player'
+  Points: '&5Manager of player points'
+  Enchants: '&5Open enchant table for your fishing rod'
+  Toggle: '&5Toggle new record message'
+  List: '&5List of fishes'
+  Tournament_Stop: '&cStop running tournament'
+  Reload: '&5Reload config'
+  Bag: '&5Open your fish bag'
+  Tournament: '&5Start new tournament for time'
+  Shop: '&5Open shop'
+  Top: '&5Top 3 players of specified fish'
+  Editor: '&5Open virtual editor for plugin settings/fishes and more'
+Running: '&6Running tournament type &0''%type%&0'' &6on %time%'
+Started: '&aStarted tournament type &0''%type%&0'' &6on %time%'
+Prefix: '&bFishing &4• &6'
+HelpGUI:
+  Record:
+    Want: '&aI want receive record reached message'
+    Receive: '&aYou will receive a new record message'
+    NoLongerReceive: '&cYou will no longer receive a new record messagee'
+    DoNotWant: '&cI don''t want receive record reached message'
+  ClickToStart: '&aClick to start'
+Biome-Added: '&aBiome added'
+Winners: '&6Tournament winners of type &0''%type%&0''&6:'
+NeverCaught: '&6You never caught &c%fish%'
+Toggled:
+  'true': '&6Notifications about new records will be no longer shows'
+  'false': '&6Notifications about new records now will be showing'
+TopPlayers: '&6Top 3 players records on fish &a%fish%'
+ListFishes: '&6List of fishes:'
+Stats:
+- '&6------< &b%playername% &6>------'
+- '&b> &6Caught fishes: &a%fishes%'
+- '&b> &6Longest fish & name: &a%fish%: %record%'
+- '&b> &6Participating tournaments: &a%tournaments%'
+- '&b> &6Top 1 in participating tournaments: &a%top1% times'
+SoldFishes: '&eSold %amount% fishes for %money%$, %exp%exp and %points% points'
+RecordOnFish: '&6Your record on fish &a%fish%&6 is &a%record%cm'
+CommandIsDisabled: '&cCommand is disabled!'
+ConsoleErrorMessage: '&cCommand can be used only in-game!'
+TournamentTypes: '&6Tournament Types:'
+NoPermissions: '&cYou don''t have permission ''%permission%'' to do that!'
+Stopped: '&cStopped tournament type &0''%type%&0'' &6on %time%'
+ReachNewRecord: '&6You reach new record on fish &a%fish%&6, Last record was &a%last%cm&6,
+  New record &a%record%cm'
+Caught: '&6You caught &a%fish% &6with &a%cm%cm &7(%weight%kg)'
+MissingData: '&cMissing data, First you must caught fish'
+AFK-Title:
+  '2': '&6To another location'
+  '1': '&6Please move'
+ConfigReloaded: '&2Config reloaded!'

@@ -1,4 +1,4 @@
-Database: YML
+Database: MYSQL
 RecoverPointPerMinute: 30
 Points: 600
 RecoverItem:
@@ -14,7 +14,7 @@ world:
   BlockInfo: gold_ore:10,iron_ore:5,diamond_ore:30,emerald_ore:50
   HeightUnlimit: 60
   RecoverPointByBreakingBlock:
-    OnUse: false
+    OnUse: true
     BlockInfo: stone:1,grass_block:1
 world_nether:
   BlockInfo: glowstone:10

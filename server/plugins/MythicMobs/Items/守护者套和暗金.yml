@@ -1,0 +1,67 @@
+﻿# 斧头的基础（原版）攻速为AttackSpeed: -0.75
+# 剑的基础（原版）攻速为AttackSpeed: -0.6
+# 木头，金，钻石镰刀的基础（原版）攻速为AttackSpeed: 0
+# 石头，铁镰刀的基础（原版）攻速为AttackSpeed: -0.4
+# 稿子的基础（原版）攻速为AttackSpeed: -0.7
+# 铲的基础（原版）攻速为AttackSpeed: -0.75
+暗金:
+  Id: 283
+  Data: 0
+  Display: '&5暗金'
+  Lore:
+  - '&8由神秘的暗金术'
+  - '&8铸造而成'
+  Enchantments:
+  - DURABILITY:4
+  Attributes:
+    MainHand:
+      AttackSpeed: -0.5
+      Damage: 6
+守护者4:
+  Id: 306
+  Data: 0
+  Display: '&3守护者头盔'
+  Lore:
+  - '&8守护者的魂魄承载'
+  - '&8起它永恒的使命'
+  Enchantments:
+  - DURABILITY:4
+  Attributes:
+    Head:
+      Armor: 2.5
+守护者3:
+  Id: 307
+  Data: 0
+  Display: '&3守护者铠甲'
+  Lore:
+  - '&8守护者的魂魄承载'
+  - '&8起它永恒的使命'
+  Enchantments:
+  - DURABILITY:4
+  Attributes:
+    Chest:
+      Armor: 6.5
+守护者2:
+  Id: 308
+  Data: 0
+  Display: '&3守护者护腿'
+  Lore:
+  - '&8守护者的魂魄承载'
+  - '&8起它永恒的使命'
+  Enchantments:
+  - DURABILITY:4
+  Attributes:
+    Legs:
+      Armor: 5.5
+守护者1:
+  Id: 309
+  Data: 0
+  Display: '&3守护者战靴'
+  Lore:
+  - '&8守护者的魂魄承载'
+  - '&8起它永恒的使命'
+  Enchantments:
+  - DURABILITY:4
+  Attributes:
+    Feet:
+      Armor: 2.5

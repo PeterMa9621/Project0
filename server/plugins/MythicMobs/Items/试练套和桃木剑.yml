@@ -1,0 +1,88 @@
+﻿# 斧头的基础（原版）攻速为AttackSpeed: -0.75
+# 剑的基础（原版）攻速为AttackSpeed: -0.6
+# 木头，金，钻石镰刀的基础（原版）攻速为AttackSpeed: 0
+# 石头，铁镰刀的基础（原版）攻速为AttackSpeed: -0.4
+# 稿子的基础（原版）攻速为AttackSpeed: -0.7
+# 铲的基础（原版）攻速为AttackSpeed: -0.75
+桃木剑:
+  Id: 268
+  Data: 0
+  Display: '&3桃木剑'
+  Lore:
+  - '&8用桃木制成的剑'
+  - '&8通常被用来练习'
+  - '&8比普通木剑伤害要高一点'
+  Attributes:
+    MainHand:
+      AttackSpeed: -0.5
+      Damage: 4
+  Options: 
+    Unbreakable: true
+新手木剑:
+  Id: 268
+  Data: 0
+  Display: '&f新手木剑'
+  Lore:
+  - '&8很普通的一把木剑'
+  Attributes:
+    MainHand:
+      AttackSpeed: -0.6
+      Damage: 3
+  Options: 
+    Unbreakable: true
+试练4:
+  Id: 298
+  Data: 0
+  Display: '&8试练头盔'
+  Lore:
+  - '&8这是一件普通的头盔'  
+  - '&8但却拥有着无限的耐久'
+  - '&8这使它成为试练者不可或缺的装备'
+  Attributes:
+    Head:
+      Armor: 1.5
+  Options: 
+    Unbreakable: true
+    Color: 200,200,200
+试练3:
+  Id: 299
+  Data: 0
+  Display: '&8试练胸甲'
+  Lore:
+  - '&8这是一件普通的头盔'  
+  - '&8但却拥有着无限的耐久'
+  - '&8这使它成为试练者不可或缺的装备'
+  Attributes:
+    Chest:
+      Armor: 3.5
+  Options: 
+    Unbreakable: true
+    Color: 200,200,200
+试练2:
+  Id: 300
+  Data: 0
+  Display: '&8试练护腿'
+  Lore:
+  - '&8这是一件普通的头盔'  
+  - '&8但却拥有着无限的耐久'
+  - '&8这使它成为试练者不可或缺的装备'
+  Attributes:
+    Legs:
+      Armor: 2.5
+  Options: 
+    Unbreakable: true
+    Color: 200,200,200
+试练1:
+  Id: 301
+  Data: 0
+  Display: '&8试练战靴'
+  Lore:
+  - '&8这是一件普通的头盔'  
+  - '&8但却拥有着无限的耐久'
+  - '&8这使它成为试练者不可或缺的装备'
+  Attributes:
+    Feet:
+      Armor: 1.5
+  Options: 
+    Unbreakable: true
+    Color: 200,200,200
