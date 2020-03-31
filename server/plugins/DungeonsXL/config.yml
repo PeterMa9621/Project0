@@ -1,6 +1,6 @@
 configVersion: 16
 language: chinese
-enableEconomy: false
+enableEconomy: true
 chatEnabled: true
 chatFormat:
   edit: '&2[Edit] &r%player_name%: '
