@@ -1,6 +1,9 @@
 configVersion: 4
 stats:
   finishedTutorial: false
-  timeLastStarted: {}
-  timeLastFinished: {}
-  timeLastLoot: {}
+  timeLastStarted:
+    test: 1585678997523
+  timeLastFinished:
+    test: 1585679006631
+  timeLastLoot:
+    test: 1585679006630

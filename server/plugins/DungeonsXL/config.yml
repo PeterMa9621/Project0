@@ -40,4 +40,9 @@ secureMode:
   dropItems: false
   checkInterval: 5.0
 backupMode: ON_DISABLE_AND_SAVE
-default: {}
+default: {
+    keepInventoryOnEnter: true,
+    keepInventoryOnDeath: true,
+    keepInventoryOnFinish: true,
+    keepInventoryOnEscape: true
+}

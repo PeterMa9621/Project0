@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-03-30 23:12:14 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2020-03-24 22:54:10 -0600"
@@ -239,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-03-30 23:12:14 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2020-03-30 10:55:13 -0600"
@@ -317,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2020-03-30 23:12:14 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2020-03-25 13:34:22 -0600"
@@ -363,6 +381,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-03-28 15:11:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-03-30 22:57:10 -0600"
     },
     "done": true
   },
@@ -528,6 +552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2020-03-30 23:12:14 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-03-28 16:04:39 -0600"
@@ -555,6 +585,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2020-03-28 14:40:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-03-30 23:12:14 -0600"
     },
     "done": true
   },
@@ -591,6 +627,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-03-27 13:31:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2020-03-30 23:12:14 -0600"
     },
     "done": true
   },
@@ -645,6 +687,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2020-03-30 08:12:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2020-03-30 23:12:14 -0600"
     },
     "done": true
   },
@@ -705,6 +753,18 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2020-03-29 14:01:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-03-30 23:12:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-03-30 23:12:14 -0600"
     },
     "done": true
   },
@@ -870,6 +930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-03-30 23:12:14 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-03-24 22:54:10 -0600"
@@ -883,6 +949,7 @@
       "minecraft:spider": "2020-03-28 16:15:16 -0600",
       "minecraft:creeper": "2020-03-28 16:14:43 -0600",
       "minecraft:phantom": "2020-03-28 14:40:25 -0600",
+      "minecraft:wither_skeleton": "2020-03-30 22:56:55 -0600",
       "minecraft:zombie": "2020-03-28 16:15:51 -0600",
       "minecraft:zombie_villager": "2020-03-28 18:06:41 -0600"
     },
@@ -990,9 +1057,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2020-03-30 23:12:14 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2020-03-30 00:09:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2020-03-30 23:12:14 -0600"
     },
     "done": true
   },
