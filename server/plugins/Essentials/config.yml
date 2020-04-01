@@ -745,16 +745,16 @@ protect:
     tnt-playerdamage: false
     tnt-minecart-explosion: true
     tnt-minecart-playerdamage: false
-    fireball-explosion: false
+    fireball-explosion: true
     fireball-fire: false
     fireball-playerdamage: false
-    witherskull-explosion: false
-    witherskull-playerdamage: false
-    wither-spawnexplosion: false
-    wither-blockreplace: false
-    creeper-explosion: false
-    creeper-playerdamage: false
-    creeper-blockdamage: false
+    witherskull-explosion: true
+    witherskull-playerdamage: true
+    wither-spawnexplosion: true
+    wither-blockreplace: true
+    creeper-explosion: true
+    creeper-playerdamage: true
+    creeper-blockdamage: true
     enderdragon-blockdamage: true
     enderman-pickup: false
     villager-death: false
@@ -803,7 +803,7 @@ protect:
       snowman: false
       ocelot: false
       iron_golem: false
-      villager: false
+      villager: true
       wither: false
       bat: false
       witch: false
