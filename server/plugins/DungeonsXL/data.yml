@@ -1,14 +1,5 @@
 configVersion: 2
 protections:
-  groupSigns:
-    world:
-      '1':
-        x: 48
-        y: 76
-        z: 93
-        dungeon: test
-        maxElements: 4
-        groupName: '2'
   leaveSigns:
     world:
       '1':
@@ -23,3 +14,12 @@ protections:
         z: 93
         dungeon: test
         maxElements: 1
+  groupSigns:
+    world:
+      '1':
+        x: 48
+        y: 76
+        z: 93
+        dungeon: test
+        maxElements: 4
+        groupName: BOSS挑战

@@ -200,7 +200,7 @@ player:
   portalIntroduction: "&6使用木剑点击传送门的两个角."
   portalProgress: "&6第一个角已选取. 请选取第二个角."
   protectedBlockDeleted: "&6成功移除保护."
-  ready: "&6你现在可以启动这个副本."
+  ready: "&6你已经准备."
   signCopied: "&6已复制牌子信息."
   signCreated: "&6创建副本牌子成功."
   timeKick: "&2&v1&6的时间耗尽."

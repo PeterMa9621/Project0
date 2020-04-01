@@ -597,12 +597,3 @@ PAPER:
   mcicons:icon_search: 32
 WATER_BUCKET:
   realcraft:boiled_water_bucket: 1
-DIAMOND_HELMET:
-  mjy:head_rongyan: 1
-DIAMOND_CHESTPLATE:
-  mjy:chest_rongyan: 1
-DIAMOND_LEGGINGS:
-  mjy:leg_rongyan: 1
-DIAMOND_BOOTS:
-  mjy:feet_rongyan: 1
-  mjy:test_feet: 2

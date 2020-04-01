@@ -339,7 +339,7 @@ meta-formatting:
     duplicates: first-only
     start-spacer: "&6["
     middle-spacer: " "
-    end-spacer: "]&8"
+    end-spacer: "]&f"
   suffix:
     format:
       - "highest"
