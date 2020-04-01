@@ -1307,3 +1307,89 @@
 04-01-2020 10:14 [INFO] [MyPet] Version 3.9-b1525 ENABLED
 04-01-2020 10:16 [INFO] [MyPet] added DXL_Game_0 to 'default' group.
 04-01-2020 10:31 [INFO] [MyPet] Disabling MyPet v3.9
+04-01-2020 14:25 [INFO] [MyPet] Error-Reporter ENABLED
+04-01-2020 14:25 [INFO] [MyPet] Enabling MyPet v3.9
+04-01-2020 14:25 [INFO] [MyPet] No Update available.
+04-01-2020 14:25 [INFO] [MyPet] Custom entity registry found: net.citizensnpcs.nms.v1_15_R1.util.CustomEntityRegistry
+04-01-2020 14:25 [INFO] [MyPet] Compat mode for v1_15_R1 loaded.
+04-01-2020 14:25 [INFO] [MyPet] Exp calculation mode: MyPet
+04-01-2020 14:25 [INFO] [MyPet] Loading WorldGroups...
+04-01-2020 14:25 [INFO] [MyPet]    added 'world' to 'default'
+04-01-2020 14:25 [INFO] [MyPet]    added 'world_nether' to 'default'
+04-01-2020 14:25 [INFO] [MyPet]    added 'world_the_end' to 'default'
+04-01-2020 14:25 [INFO] [MyPet] Connect to MySQL database...
+04-01-2020 14:25 [INFO] [MyPet] MySQL connection successful.
+04-01-2020 14:25 [INFO] [MyPet] Citizens (2.0.26-SNAPSHOT (build 1852)) hook activated.
+04-01-2020 14:25 [INFO] [MyPet] MythicMobs (4.9.0-3255) hook activated.
+04-01-2020 14:25 [INFO] [MyPet] PlaceholderAPI (2.10.4) hook activated.
+04-01-2020 14:25 [INFO] [MyPet] ProtocolLib (4.5.0) hook activated.
+04-01-2020 14:25 [INFO] [MyPet] Vault (1.7.2-b107) (Economy: Essentials Economy) (Permissions: LuckPerms) hook activated.
+04-01-2020 14:25 [INFO] [MyPet] WorldGuard (7.0.2-SNAPSHOT;bf2593e) hook activated.
+04-01-2020 14:25 [INFO] [MyPet] Version 3.9-b1525 ENABLED
+04-01-2020 14:29 [INFO] [MyPet] added DXL_Game_0 to 'default' group.
+04-01-2020 14:35 [INFO] [MyPet] Disabling MyPet v3.9
+04-01-2020 14:36 [INFO] [MyPet] Error-Reporter ENABLED
+04-01-2020 14:36 [INFO] [MyPet] Enabling MyPet v3.9
+04-01-2020 14:36 [INFO] [MyPet] No Update available.
+04-01-2020 14:36 [INFO] [MyPet] Custom entity registry found: net.citizensnpcs.nms.v1_15_R1.util.CustomEntityRegistry
+04-01-2020 14:36 [INFO] [MyPet] Compat mode for v1_15_R1 loaded.
+04-01-2020 14:36 [INFO] [MyPet] Exp calculation mode: MyPet
+04-01-2020 14:36 [INFO] [MyPet] Loading WorldGroups...
+04-01-2020 14:36 [INFO] [MyPet]    added 'world' to 'default'
+04-01-2020 14:36 [INFO] [MyPet]    added 'world_nether' to 'default'
+04-01-2020 14:36 [INFO] [MyPet]    added 'world_the_end' to 'default'
+04-01-2020 14:36 [INFO] [MyPet] Connect to MySQL database...
+04-01-2020 14:36 [INFO] [MyPet] MySQL connection successful.
+04-01-2020 14:36 [INFO] [MyPet] Citizens (2.0.26-SNAPSHOT (build 1852)) hook activated.
+04-01-2020 14:36 [INFO] [MyPet] MythicMobs (4.9.0-3255) hook activated.
+04-01-2020 14:36 [INFO] [MyPet] PlaceholderAPI (2.10.4) hook activated.
+04-01-2020 14:36 [INFO] [MyPet] ProtocolLib (4.5.0) hook activated.
+04-01-2020 14:36 [INFO] [MyPet] Vault (1.7.2-b107) (Economy: Essentials Economy) (Permissions: LuckPerms) hook activated.
+04-01-2020 14:36 [INFO] [MyPet] WorldGuard (7.0.2-SNAPSHOT;bf2593e) hook activated.
+04-01-2020 14:36 [INFO] [MyPet] Version 3.9-b1525 ENABLED
+04-01-2020 14:48 [INFO] [MyPet] added DXL_Game_0 to 'default' group.
+04-01-2020 14:53 [INFO] [MyPet] added DXL_Edit_0 to 'default' group.
+04-01-2020 14:54 [INFO] [MyPet] added DXL_Game_1 to 'default' group.
+04-01-2020 15:08 [INFO] [MyPet] Disabling MyPet v3.9
+04-01-2020 15:08 [INFO] [MyPet] Error-Reporter ENABLED
+04-01-2020 15:09 [INFO] [MyPet] Enabling MyPet v3.9
+04-01-2020 15:09 [INFO] [MyPet] No Update available.
+04-01-2020 15:09 [INFO] [MyPet] Custom entity registry found: net.citizensnpcs.nms.v1_15_R1.util.CustomEntityRegistry
+04-01-2020 15:09 [INFO] [MyPet] Compat mode for v1_15_R1 loaded.
+04-01-2020 15:09 [INFO] [MyPet] Exp calculation mode: MyPet
+04-01-2020 15:09 [INFO] [MyPet] Loading WorldGroups...
+04-01-2020 15:09 [INFO] [MyPet]    added 'world' to 'default'
+04-01-2020 15:09 [INFO] [MyPet]    added 'world_nether' to 'default'
+04-01-2020 15:09 [INFO] [MyPet]    added 'world_the_end' to 'default'
+04-01-2020 15:09 [INFO] [MyPet] Connect to MySQL database...
+04-01-2020 15:09 [INFO] [MyPet] MySQL connection successful.
+04-01-2020 15:09 [INFO] [MyPet] Citizens (2.0.26-SNAPSHOT (build 1852)) hook activated.
+04-01-2020 15:09 [INFO] [MyPet] MythicMobs (4.9.0-3255) hook activated.
+04-01-2020 15:09 [INFO] [MyPet] PlaceholderAPI (2.10.4) hook activated.
+04-01-2020 15:09 [INFO] [MyPet] ProtocolLib (4.5.0) hook activated.
+04-01-2020 15:09 [INFO] [MyPet] Vault (1.7.2-b107) (Economy: Essentials Economy) (Permissions: LuckPerms) hook activated.
+04-01-2020 15:09 [INFO] [MyPet] WorldGuard (7.0.2-SNAPSHOT;bf2593e) hook activated.
+04-01-2020 15:09 [INFO] [MyPet] Version 3.9-b1525 ENABLED
+04-01-2020 15:18 [INFO] [MyPet] Disabling MyPet v3.9
+04-01-2020 15:18 [INFO] [MyPet] Error-Reporter ENABLED
+04-01-2020 15:19 [INFO] [MyPet] Enabling MyPet v3.9
+04-01-2020 15:19 [INFO] [MyPet] No Update available.
+04-01-2020 15:19 [INFO] [MyPet] Custom entity registry found: net.citizensnpcs.nms.v1_15_R1.util.CustomEntityRegistry
+04-01-2020 15:19 [INFO] [MyPet] Compat mode for v1_15_R1 loaded.
+04-01-2020 15:19 [INFO] [MyPet] Exp calculation mode: MyPet
+04-01-2020 15:19 [INFO] [MyPet] Loading WorldGroups...
+04-01-2020 15:19 [INFO] [MyPet]    added 'world' to 'default'
+04-01-2020 15:19 [INFO] [MyPet]    added 'world_nether' to 'default'
+04-01-2020 15:19 [INFO] [MyPet]    added 'world_the_end' to 'default'
+04-01-2020 15:19 [INFO] [MyPet] Connect to MySQL database...
+04-01-2020 15:19 [INFO] [MyPet] MySQL connection successful.
+04-01-2020 15:19 [INFO] [MyPet] Citizens (2.0.26-SNAPSHOT (build 1852)) hook activated.
+04-01-2020 15:19 [INFO] [MyPet] PlaceholderAPI (2.10.4) hook activated.
+04-01-2020 15:19 [INFO] [MyPet] ProtocolLib (4.5.0) hook activated.
+04-01-2020 15:19 [INFO] [MyPet] Vault (1.7.2-b107) (Economy: Essentials Economy) (Permissions: LuckPerms) hook activated.
+04-01-2020 15:19 [INFO] [MyPet] WorldGuard (7.0.2-SNAPSHOT;bf2593e) hook activated.
+04-01-2020 15:19 [INFO] [MyPet] Version 3.9-b1525 ENABLED
+04-01-2020 15:41 [INFO] [MyPet] added DXL_Edit_0 to 'default' group.
+04-01-2020 15:45 [INFO] [MyPet] added DXL_Game_1 to 'default' group.
+04-01-2020 15:51 [INFO] [MyPet] added DXL_Game_0 to 'default' group.
+04-01-2020 15:58 [INFO] [MyPet] Disabling MyPet v3.9

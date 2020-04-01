@@ -1,3 +1,340 @@
 {
-  "persistentMobs": {}
+  "persistentMobs": {
+    "cf194afb-0480-47ee-acb5-08c0f3173cee": {
+      "uuid": "cf194afb-0480-47ee-acb5-08c0f3173cee",
+      "mobType": "SkeletalKnight",
+      "aliveTime": 2955,
+      "lastSeen": 1585778134156,
+      "spawnLocation": {
+        "world": {
+          "uuid": "f7d895c6-ceaf-45f3-b736-9a49fa23eac3",
+          "name": "DXL_Game_0"
+        },
+        "x": -36.5,
+        "y": 4.0,
+        "z": -161.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "fc517a04-9a71-44a0-bbb5-e79567e698e6": {
+      "uuid": "fc517a04-9a71-44a0-bbb5-e79567e698e6",
+      "mobType": "SkeletalKnight",
+      "aliveTime": 1048,
+      "lastSeen": 1585777953950,
+      "spawnLocation": {
+        "world": {
+          "uuid": "f5ef52e3-f13a-40c9-933a-f44b8c7c8e1b",
+          "name": "DXL_Game_0"
+        },
+        "x": -36.5,
+        "y": 4.0,
+        "z": -161.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 1,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "bc4a2237-6dfc-46ed-83fb-0c7272a48ca9": {
+      "uuid": "bc4a2237-6dfc-46ed-83fb-0c7272a48ca9",
+      "mobType": "SkeletalKnight",
+      "aliveTime": 4757,
+      "lastSeen": 1585778072257,
+      "spawnLocation": {
+        "world": {
+          "uuid": "bc89e146-17f2-4f31-bba2-289549cc7c32",
+          "name": "world"
+        },
+        "x": 119.5,
+        "y": 50.0,
+        "z": 120.5,
+        "yaw": 2.1311216,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 1.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "1aea0822-f928-4467-89a4-880328fe8996": {
+      "uuid": "1aea0822-f928-4467-89a4-880328fe8996",
+      "mobType": "SkeletalKnight",
+      "aliveTime": 888,
+      "lastSeen": 1585777953950,
+      "spawnLocation": {
+        "world": {
+          "uuid": "f5ef52e3-f13a-40c9-933a-f44b8c7c8e1b",
+          "name": "DXL_Game_0"
+        },
+        "x": -36.5,
+        "y": 4.0,
+        "z": -161.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "bf6dc771-5afb-4e15-82c2-6b1eaab3db17": {
+      "uuid": "bf6dc771-5afb-4e15-82c2-6b1eaab3db17",
+      "mobType": "SkeletalKnight",
+      "aliveTime": 1008,
+      "lastSeen": 1585777953950,
+      "spawnLocation": {
+        "world": {
+          "uuid": "f5ef52e3-f13a-40c9-933a-f44b8c7c8e1b",
+          "name": "DXL_Game_0"
+        },
+        "x": -36.5,
+        "y": 4.0,
+        "z": -161.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "c2e79d44-6d67-409e-bfb4-c2cdd46c4d84": {
+      "uuid": "c2e79d44-6d67-409e-bfb4-c2cdd46c4d84",
+      "mobType": "SkeletalKnight",
+      "aliveTime": 976,
+      "lastSeen": 1585777953905,
+      "spawnLocation": {
+        "world": {
+          "uuid": "f5ef52e3-f13a-40c9-933a-f44b8c7c8e1b",
+          "name": "DXL_Game_0"
+        },
+        "x": -36.5,
+        "y": 4.0,
+        "z": -161.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 1,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "b30db8ae-cc77-4b1f-bfbc-0c17d11efd6e": {
+      "uuid": "b30db8ae-cc77-4b1f-bfbc-0c17d11efd6e",
+      "mobType": "SkeletalKnight",
+      "aliveTime": 3115,
+      "lastSeen": 1585778126157,
+      "spawnLocation": {
+        "world": {
+          "uuid": "f7d895c6-ceaf-45f3-b736-9a49fa23eac3",
+          "name": "DXL_Game_0"
+        },
+        "x": -36.5,
+        "y": 4.0,
+        "z": -161.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "9e44dd55-beb6-4a11-8a25-4bc7caf5b910": {
+      "uuid": "9e44dd55-beb6-4a11-8a25-4bc7caf5b910",
+      "mobType": "SkeletalKnight",
+      "aliveTime": 3074,
+      "lastSeen": 1585778128157,
+      "spawnLocation": {
+        "world": {
+          "uuid": "f7d895c6-ceaf-45f3-b736-9a49fa23eac3",
+          "name": "DXL_Game_0"
+        },
+        "x": -36.5,
+        "y": 4.0,
+        "z": -161.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 1,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "bdcf109d-caae-437e-855f-775a62478552": {
+      "uuid": "bdcf109d-caae-437e-855f-775a62478552",
+      "mobType": "SkeletalKnight",
+      "aliveTime": 3035,
+      "lastSeen": 1585778130156,
+      "spawnLocation": {
+        "world": {
+          "uuid": "f7d895c6-ceaf-45f3-b736-9a49fa23eac3",
+          "name": "DXL_Game_0"
+        },
+        "x": -36.5,
+        "y": 4.0,
+        "z": -161.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "5eed562f-d726-4746-8872-7a7c5c047c7b": {
+      "uuid": "5eed562f-d726-4746-8872-7a7c5c047c7b",
+      "mobType": "SkeletalKnight",
+      "aliveTime": 6551,
+      "lastSeen": 1585777982556,
+      "spawnLocation": {
+        "world": {
+          "uuid": "bc89e146-17f2-4f31-bba2-289549cc7c32",
+          "name": "world"
+        },
+        "x": 82.5,
+        "y": 22.0,
+        "z": 190.5,
+        "yaw": 4.1345115,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 1.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "3d093a4d-43b9-4c80-9db8-b162268fdcf0": {
+      "uuid": "3d093a4d-43b9-4c80-9db8-b162268fdcf0",
+      "mobType": "SkeletalKnight",
+      "aliveTime": 928,
+      "lastSeen": 1585777953950,
+      "spawnLocation": {
+        "world": {
+          "uuid": "f5ef52e3-f13a-40c9-933a-f44b8c7c8e1b",
+          "name": "DXL_Game_0"
+        },
+        "x": -36.5,
+        "y": 4.0,
+        "z": -161.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 1,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "c284941a-404b-4935-8ef6-e9c36d134e3e": {
+      "uuid": "c284941a-404b-4935-8ef6-e9c36d134e3e",
+      "mobType": "SkeletalKnight",
+      "aliveTime": 2995,
+      "lastSeen": 1585778132158,
+      "spawnLocation": {
+        "world": {
+          "uuid": "f7d895c6-ceaf-45f3-b736-9a49fa23eac3",
+          "name": "DXL_Game_0"
+        },
+        "x": -36.5,
+        "y": 4.0,
+        "z": -161.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    }
+  }
 }
