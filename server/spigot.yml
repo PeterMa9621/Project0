@@ -32,12 +32,12 @@ settings:
     attackDamage:
       max: 2048.0
 messages:
-  whitelist: "你不在服务器的白名单上!"
-  unknown-command: "未知命令."
-  server-full: "服务器已满!"
-  outdated-client: "客户端版本不正确! 请使用 {0}"
-  outdated-server: "客户端与服务器版本不匹配! 服务器版本: {0}"
-  restart: "服务器正在重启中"
+  whitelist: 你不在服务器的白名单上!
+  unknown-command: '&6[服务器] &c未知命令.'
+  server-full: 服务器已满!
+  outdated-client: 客户端版本不正确! 请使用 {0}
+  outdated-server: '客户端与服务器版本不匹配! 服务器版本: {0}'
+  restart: 服务器正在重启中
 commands:
   silent-commandblock-console: false
   tab-complete: 0
