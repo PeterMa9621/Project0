@@ -7,7 +7,7 @@ protections:
         y: 76
         z: 93
         dungeon: test
-        maxElements: 4
+        maxElements: 1
   groupSigns:
     world:
       '1':

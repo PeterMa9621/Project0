@@ -1,24 +1,24 @@
 lastAccountName: Test
 timestamps:
-  login: 1585676208852
+  login: 1585689506322
   kits:
     tools: 1585116686238
   lastteleport: 1585629567810
-  logout: 1585637578314
+  logout: 1585696283451
 ipAddress: 127.0.0.1
 lastlocation:
   world: world
-  x: -18.5
+  x: -18.599842798323877
   y: 74.0
-  z: -2.5
-  yaw: -215.39912
-  pitch: 6.1503253
-afk: true
+  z: -2.3875454587802576
+  yaw: 331.9511
+  pitch: 19.950281
+afk: false
 logoutlocation:
   world: world
-  x: 42.7884392319183
-  y: 75.0
-  z: 81.54043159578092
-  yaw: -2.54782
-  pitch: 23.400074
+  x: -20.69999998807907
+  y: 74.0
+  z: -5.138203690263205
+  yaw: 314.851
+  pitch: 26.550264
 money: '2101.0'
