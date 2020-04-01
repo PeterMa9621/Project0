@@ -1,39 +1,47 @@
-test1:
+test:
   '1':
-    cmd: give {{player}} diamond 0
+    cmd: iagive %player% mjy:moxiang_sword
     chance: 0.25
+    icon:
+      id: DIAMOND_SWORD
+      displayName: "&6魔像"
+      model: 47
   '2':
-    cmd: give {{player}} diamond 1
+    cmd: give %player% diamond 1
     chance: 0.25
   '3':
-    cmd: give {{player}} diamond 2
+    cmd: iagive %player% mjy:tiaozhanzhe_axe
     chance: 0.25
+    icon:
+      id: DIAMOND_AXE
+      displayName: "&5挑战者之斧"
+      model: 13
   '4':
-    cmd: give {{player}} diamond 3
+    cmd: give %player% diamond 3
     chance: 0.25
 test2:
   '1':
-    cmd: give {{player}} diamond 0
+    cmd: give %player% diamond 0
     chance: 0.25
   '2':
-    cmd: give {{player}} diamond 1
+    cmd: give %player% diamond 1
     chance: 0.25
   '3':
-    cmd: give {{player}} diamond 2
+    cmd: give %player% diamond 2
     chance: 0.25
   '4':
-    cmd: give {{player}} diamond 3
+    cmd: give %player% diamond 3
     chance: 0.25
 test3:
   '1':
-    cmd: give {{player}} diamond 0
+    cmd: give %player% diamond 0
     chance: 0.25
   '2':
-    cmd: give {{player}} diamond 1
+    cmd: give %player% diamond 1
     chance: 0.25
   '3':
-    cmd: give {{player}} diamond 2
+    cmd: give %player% diamond 2
     chance: 0.25
   '4':
-    cmd: give {{player}} diamond 3
+    cmd: give %player% diamond 3
     chance: 0.25

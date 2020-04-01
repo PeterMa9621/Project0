@@ -1,9 +1,9 @@
 FishOfDay:
-  Type: Cod
-  Name: '2'
-  Bonus: 9
+  Type: PufferFish
+  Name: '0'
+  Bonus: 2
 Players:
   BiShop:
-    AFK: 1585696870791
+    AFK: 1585717321535
   Test:
-    AFK: 1585695005981
+    AFK: 1585717454839
