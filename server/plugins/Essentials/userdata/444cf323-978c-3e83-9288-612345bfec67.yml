@@ -1,10 +1,10 @@
 lastAccountName: Test
 timestamps:
-  login: 1585755386784
+  login: 1585844708704
   kits:
     tools: 1585116686238
   lastteleport: 1585750581844
-  logout: 1585755387226
+  logout: 1585844696074
   command-cooldowns:
   - pattern: .*( .*)?
     expiry: 1585750841746
@@ -16,7 +16,7 @@ lastlocation:
   z: -1.1320857265899158
   yaw: 297.15155
   pitch: 16.80029
-afk: false
+afk: true
 logoutlocation:
   world: world
   x: -18.5
