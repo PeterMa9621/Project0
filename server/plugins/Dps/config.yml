@@ -19,7 +19,7 @@ test:
   '4':
     cmd: give %player% diamond 3
     chance: 0.25
-test2:
+boss:
   '1':
     cmd: give %player% diamond 0
     chance: 0.25
