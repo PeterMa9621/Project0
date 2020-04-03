@@ -1,5 +1,13 @@
 configVersion: 2
 protections:
+  gameSigns:
+    world:
+      '1':
+        x: 46
+        y: 76
+        z: 93
+        dungeon: shiwang
+        maxElements: 1
   groupSigns:
     world:
       '1':
@@ -15,14 +23,6 @@ protections:
         x: 44
         y: 76
         z: 93
-  gameSigns:
-    world:
-      '1':
-        x: 46
-        y: 76
-        z: 93
-        dungeon: shiwang
-        maxElements: 1
   portals:
     world:
       '1':
