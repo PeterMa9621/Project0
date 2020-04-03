@@ -1,9 +1,9 @@
 FishOfDay:
-  Type: PufferFish
+  Type: Salmon
   Name: '0'
-  Bonus: 4
+  Bonus: 2
 Players:
   BiShop:
-    AFK: 1585806641931
+    AFK: 1585874887125
   Test:
-    AFK: 1585750478861
+    AFK: 1585874771662

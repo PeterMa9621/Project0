@@ -21,20 +21,20 @@ test:
     chance: 0.25
 boss:
   '1':
-    cmd: give %player% diamond 0
-    chance: 0.25
-  '2':
     cmd: give %player% diamond 1
     chance: 0.25
-  '3':
+  '2':
     cmd: give %player% diamond 2
     chance: 0.25
-  '4':
+  '3':
     cmd: give %player% diamond 3
+    chance: 0.25
+  '4':
+    cmd: give %player% diamond 4
     chance: 0.25
 test3:
   '1':
-    cmd: give %player% diamond 0
+    cmd: give %player% diamond 1
     chance: 0.25
   '2':
     cmd: give %player% diamond 1

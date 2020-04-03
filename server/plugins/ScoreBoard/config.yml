@@ -7,7 +7,7 @@ ScoreBoard:
     Line3: '今日%checkInSystem_isCheckIn%'
     Line4: '&f共签到&2%checkInSystem_days%&f天'
     Line5: '&f挖矿点数:&2%antiXray_points%'
-    Line6: ''
+    Line6: '队伍:%dxl_group_name%'
     Line7: '%pvpSwitch_status%'
     Line8: '%peterHelper_itemInfo%'
     Line9: 'Armor: %peterHelper_armorInfo%'

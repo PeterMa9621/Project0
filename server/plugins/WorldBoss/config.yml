@@ -1,0 +1,17 @@
+group1:
+  name: boss1
+  displayName: Boss No.1
+  startGameCmd: dxl play boss
+  day: 1
+  time: '18:35'
+group2:
+  name: boss2
+  displayName: Boss No.2
+  startGameCmd: dxl play boss
+  time: '15:53'
+group3:
+  name: boss3
+  displayName: Boss No.3
+  startGameCmd: dxl play boss
+  day: 3
+  time: '15:50'
