@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-04-03 09:57:39 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2020-03-25 13:34:22 -0600"
@@ -522,6 +528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-03 09:04:36 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-03-24 22:54:10 -0600"
@@ -747,6 +759,7 @@
       "minecraft:creeper": "2020-03-28 16:14:43 -0600",
       "minecraft:phantom": "2020-03-28 14:40:25 -0600",
       "minecraft:wither_skeleton": "2020-03-30 22:56:55 -0600",
+      "minecraft:enderman": "2020-04-03 09:49:45 -0600",
       "minecraft:zombie": "2020-03-28 16:15:51 -0600",
       "minecraft:zombie_villager": "2020-03-28 18:06:41 -0600"
     },

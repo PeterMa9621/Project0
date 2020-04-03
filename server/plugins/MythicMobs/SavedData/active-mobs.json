@@ -335,6 +335,34 @@
       "owner": {},
       "faction": {},
       "cooldowns": {}
+    },
+    "40e899a6-53f1-4a2c-b582-20ef8061d8a4": {
+      "uuid": "40e899a6-53f1-4a2c-b582-20ef8061d8a4",
+      "mobType": "shiwang",
+      "aliveTime": 2292,
+      "lastSeen": 1585927909681,
+      "spawnLocation": {
+        "world": {
+          "uuid": "76fab5fb-9e79-4e83-aa8d-8afc8bca84f4",
+          "name": "DXL_Game_0"
+        },
+        "x": 268.5,
+        "y": 10.0,
+        "z": -90.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 1.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 1,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
     }
   }
 }

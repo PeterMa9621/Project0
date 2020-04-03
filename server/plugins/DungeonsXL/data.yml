@@ -1,5 +1,28 @@
 configVersion: 2
 protections:
+  groupSigns:
+    world:
+      '1':
+        x: 48
+        y: 76
+        z: 93
+        dungeon: shiwang
+        maxElements: 4
+        groupName: boss1
+  leaveSigns:
+    world:
+      '1':
+        x: 44
+        y: 76
+        z: 93
+  gameSigns:
+    world:
+      '1':
+        x: 46
+        y: 76
+        z: 93
+        dungeon: shiwang
+        maxElements: 1
   portals:
     world:
       '1':
@@ -12,26 +35,3 @@ protections:
           y: 75
           z: 94
         material: WATER
-  leaveSigns:
-    world:
-      '1':
-        x: 44
-        y: 76
-        z: 93
-  groupSigns:
-    world:
-      '1':
-        x: 48
-        y: 76
-        z: 93
-        dungeon: boss
-        maxElements: 4
-        groupName: boss1
-  gameSigns:
-    world:
-      '1':
-        x: 46
-        y: 76
-        z: 93
-        dungeon: boss
-        maxElements: 1

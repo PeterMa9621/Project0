@@ -4,12 +4,14 @@
 shiwang:
   Type: ZOMBIE
   Display: '&6尸王'
-  #Riding: 尸王坐骑
   Health: 2500
   Damage: 16
   Equipment:
-  - KingsCrown:4
-  - hongshuijingjian: 0
+  - KingsCrown HEAD
+  - huangjin3 CHEST
+  - huangjin2 LEGS
+  - huangjin1 FEET
+  - fenjijian HAND
   AITargetSelectors:
   - 0 clear
   - 1 attacker
@@ -22,8 +24,6 @@ shiwang:
     Style: SOLID
   Modules:
     ThreatTable: true
-  KillMessages:
-  #- '&6[世界BOSS] &a<target.name> &6被&c尸王&6吃掉了脑子！！'
   DamageModifiers:
   - DROWNING 0
   - BLOCK_EXPLOSION 0
@@ -51,8 +51,7 @@ shiwang:
   #- doppleganger ~onDamaged
   - forcepull @PlayersInRadius{r=10} ~onDamaged 0.1
   - heal{a=40;overheal=false} @Self ~onDamaged =10%-30% 0.2
-  - sendactionmessage{msg="&3$boss &2&l在 &7$boss_x,$boss_y,$boss_z 复活了!"} @PlayersOnServer ~onSpawn
-  - sendtitle{fi=50;fo=50;d=200;t="&c尸王再次复活了!";st="&6大家快去消灭它!"} @PlayersOnServer ~onSpawn
+  - sendtitle{fi=50;fo=50;d=100;t="&c尸王复活了!";} @PlayersInRadius{r=50} ~onSpawn
   - summon{m=jiangshizhanshi1;a=2;r=5} @Target ~onDamaged <30% 0.1
   - mount{type=尸王坐骑} @self ~onSpawn
   - remove @MIR{r=5;t=尸王坐骑} ~onDeath
@@ -60,13 +59,17 @@ shiwang:
   - GCD{ticks=60}
   - consume{d=30;h=15} @MobsInRadius{type=jiangshizhanshi1;r=10} ~onDamaged <30% 0.1
   - setlevel{a=set;l=1} ~onSpawn
+  - message{m="&a[尸王] &c尸王的血量还有70%了。大家加油！"} @PlayersInRadius{r=50} ~onDamaged =70% 
+  - message{m="&a[尸王] &c尸王的血量还有50%了。大家加油！"} @PlayersInRadius{r=50} ~onDamaged =50% 
+  - message{m="&a[尸王] &c尸王的血量还有30%了。大家加油！"} @PlayersInRadius{r=50} ~onDamaged =30% 
+  - message{m="&a[尸王] &c尸王的血量还有10%了。大家加油！"} @PlayersInRadius{r=50} ~onDamaged =10% 
   #- command{c="broadcast &a[世界BOSS] &c恐怖的尸王又一次复活了。次元空间内的勇士们，输入/warp boss传送到BOSS战场维护世界和平把！"} @self
-  - jsonmessage{m="[{'text':'&a[世界BOSS] &c尸王的血量还有70%了。大家加油！点击传送到BOSS场地','hoverEvent':{'action':'show_text','value':{'text':'&a点击传送'}},'clickEvent':{'action':'run_command','value':'/warp boss'}}]"} @PlayersOnServer ~onDamaged =70% 
-  - jsonmessage{m="[{'text':'&a[世界BOSS] &c尸王的血量还有50%了。大家加油！点击传送到BOSS场地','hoverEvent':{'action':'show_text','value':{'text':'&a点击传送'}},'clickEvent':{'action':'run_command','value':'/warp boss'}}]"} @PlayersOnServer ~onDamaged =50% 
-  - jsonmessage{m="[{'text':'&a[世界BOSS] &c尸王的血量还有30%了。大家加油！点击传送到BOSS场地','hoverEvent':{'action':'show_text','value':{'text':'&a点击传送'}},'clickEvent':{'action':'run_command','value':'/warp boss'}}]"} @PlayersOnServer ~onDamaged =30% 
-  - jsonmessage{m="[{'text':'&a[世界BOSS] &c恐怖的尸王又一次复活了。点击传送到BOSS场地','hoverEvent':{'action':'show_text','value':{'text':'&a点击传送'}},'clickEvent':{'action':'run_command','value':'/warp boss'}}]"} @PlayersOnServer ~onSpawn 
+  #- jsonmessage{m="[{'text':'&a[世界BOSS] &c尸王的血量还有70%了。大家加油！点击传送到BOSS场地','hoverEvent':{'action':'show_text','value':{'text':'&a点击传送'}},'clickEvent':{'action':'run_command','value':'/warp boss'}}]"} @PlayersOnServer ~onDamaged =70% 
+  #- jsonmessage{m="[{'text':'&a[世界BOSS] &c尸王的血量还有50%了。大家加油！点击传送到BOSS场地','hoverEvent':{'action':'show_text','value':{'text':'&a点击传送'}},'clickEvent':{'action':'run_command','value':'/warp boss'}}]"} @PlayersOnServer ~onDamaged =50% 
+  #- jsonmessage{m="[{'text':'&a[世界BOSS] &c尸王的血量还有30%了。大家加油！点击传送到BOSS场地','hoverEvent':{'action':'show_text','value':{'text':'&a点击传送'}},'clickEvent':{'action':'run_command','value':'/warp boss'}}]"} @PlayersOnServer ~onDamaged =30% 
+  #- jsonmessage{m="[{'text':'&a[世界BOSS] &c恐怖的尸王又一次复活了。点击传送到BOSS场地','hoverEvent':{'action':'show_text','value':{'text':'&a点击传送'}},'clickEvent':{'action':'run_command','value':'/warp boss'}}]"} @PlayersOnServer ~onSpawn 
   #- jsonmessage{m="[{'text':'&a[世界BOSS] &c恐怖的尸王又一次复活了。次元空间内的勇士们，输入/warp boss传送到BOSS战场维护世界和平把！','hoverEvent':{'action':'show_text','value':{'text':'&a点击传送'}},'clickEvent':{'action':'run_command','value':'/warp boss'}}]"} @PlayersOnServer ~onSpawn
-  - jsonmessage{m="[{'text':'&a[世界BOSS] &c尸王被消灭了，世界再一次恢复平静！'}]"} @PlayersOnServer ~onDeath
+  #- jsonmessage{m="[{'text':'&a[世界BOSS] &c尸王被消灭了，世界再一次恢复平静！'}]"} @PlayersOnServer ~onDeath
   #- prison{type=Grass;duration=200;breakable=false} @target
   #- rally{r=15;types=ExampleMobs,SkeletalMinion} @Self 没什么效果
   #- summon{type=彩蛋蝙蝠;a=5;r=1} @Self ~onDeath
@@ -78,17 +81,24 @@ shiwang:
     AlwaysShowName: true
     KnockbackResistance: 0.5
 尸王坐骑:
-  Type: HORSE
+  Type: ZOMBIE
   Display: '&e尸王坐骑'
   Health: 200
+  Damage: 1
+  Disguise:
+    Type: SKELETON_HORSE
+  AITargetSelectors:
+  - 0 clear
+  - 1 attacker
+  - 2 players
+  Modules:
+    ThreatTable: true
   Drops:
   - exp 10
   - GOLD_INGOT 5-15 1
   Options:
     Despawn: false
     MovementSpeed: 0.35
-    HorseTamed: true
-    HorseSaddled: true
 彩蛋蝙蝠:
   MobType: bat
   Display: '&6Loot Stash Bat'

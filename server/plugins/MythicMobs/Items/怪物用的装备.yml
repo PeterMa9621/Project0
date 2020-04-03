@@ -90,3 +90,19 @@ gongjian:
   Id: 258
   Data: 0
   Display: '&e铁斧' 
+hongshuijingjian:
+  Id: DIAMOND_SWORD
+  Model: 16
+  Data: 0
+xinglunjian:
+  Id: DIAMOND_SWORD
+  Model: 32
+  Data: 0
+riyuejian:
+  Id: DIAMOND_SWORD
+  Model: 30
+  Data: 0
+fenjijian:
+  Id: DIAMOND_SWORD
+  Model: 42
+  Data: 0
