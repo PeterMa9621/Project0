@@ -3,7 +3,7 @@ group1:
   displayName: Boss No.1
   startGameCmd: dxl play boss
   day: 1
-  time: '18:35'
+  time: '01:00'
 group2:
   name: boss2
   displayName: Boss No.2

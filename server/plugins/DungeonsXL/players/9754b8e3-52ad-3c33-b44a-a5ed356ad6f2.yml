@@ -2,11 +2,11 @@ configVersion: 4
 stats:
   finishedTutorial: false
   timeLastStarted:
-    boss: 1585857735120
+    boss: 1585895280389
     test: 1585805774883
   timeLastFinished:
-    boss: 1585857759916
+    boss: 1585895291132
     test: 1585805777313
   timeLastLoot:
-    boss: 1585857759905
+    boss: 1585895291131
     test: 1585805777312

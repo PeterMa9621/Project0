@@ -21,7 +21,7 @@ Configuration:
     CustomSpawners: true
     RandomSpawning: true
   Mobs:
-    DespawnByDefault: false
+    DespawnByDefault: true
     EnableAIModifiers: true
     EnableTimerSkills: true
     EnableThreatTables: true

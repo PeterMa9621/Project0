@@ -12,6 +12,12 @@ protections:
           y: 75
           z: 94
         material: WATER
+  leaveSigns:
+    world:
+      '1':
+        x: 44
+        y: 76
+        z: 93
   groupSigns:
     world:
       '1':
@@ -29,9 +35,3 @@ protections:
         z: 93
         dungeon: boss
         maxElements: 1
-  leaveSigns:
-    world:
-      '1':
-        x: 44
-        y: 76
-        z: 93
