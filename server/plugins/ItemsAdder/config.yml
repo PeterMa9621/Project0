@@ -10,6 +10,9 @@ resource-pack:
   external-host:
     enabled: false
     url: http://matteodev.it/spigot/itemsadder/res/v2/pack.zip
+  custom-font:
+    enabled: false
+    name: ipaexg.ttf
 blocks:
   light-api: true
   fix-bugged-mushrooms:
@@ -37,6 +40,7 @@ font_images:
     - home
     - sethome
     - tpa
+    commandblocks: true
   sign:
     enabled: true
   book:

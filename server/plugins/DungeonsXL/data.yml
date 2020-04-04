@@ -1,17 +1,5 @@
 configVersion: 2
 protections:
-  portals:
-    world:
-      '1':
-        loc1:
-          x: 42
-          y: 77
-          z: 94
-        loc2:
-          x: 39
-          y: 75
-          z: 94
-        material: WATER
   gameSigns:
     world:
       '1':
@@ -29,6 +17,18 @@ protections:
         dungeon: shiwang
         maxElements: 4
         groupName: boss1
+  portals:
+    world:
+      '1':
+        loc1:
+          x: 42
+          y: 77
+          z: 94
+        loc2:
+          x: 39
+          y: 75
+          z: 94
+        material: WATER
   leaveSigns:
     world:
       '1':
