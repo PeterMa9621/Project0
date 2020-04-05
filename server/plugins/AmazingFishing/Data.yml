@@ -1,9 +1,9 @@
 FishOfDay:
-  Type: Salmon
-  Name: '2'
+  Type: TropicalFish
+  Name: '1'
   Bonus: 2
 Players:
   BiShop:
-    AFK: 1585959163362
+    AFK: 1586058599316
   Test:
     AFK: 1585949965373

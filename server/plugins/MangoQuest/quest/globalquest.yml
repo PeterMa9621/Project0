@@ -1,0 +1,43 @@
+Quests:
+  test1:
+    QuestName: 测试任务1
+    QuestOutline:
+    - first line
+    - second line
+    QuestNPC: 0
+    MessageRequirementNotMeet: §c你并没有达到指定的任务条件。
+    Redoable: false
+    TimeLimited: false
+    Stages:
+      '1':
+        '1':
+          ObjectType: BREAK_BLOCK
+          BlockType: DIAMOND_ORE
+          Amount: 10
+    UsePermission: false
+    Visibility:
+      onTake: true
+      onProgress: true
+      onFinish: true
+      onInteraction: true
+    QuitSettings:
+      Quitable: true
+      QuitAcceptMsg: §0是，我要放弃。
+      QuitCancelMsg: §0不，我要反悔！
+    Version: 1586056176504
+    Requirements:
+      Level: 0
+      Quest: []
+      Money: 0.0
+    TriggerEvents:
+      TRIGGER_ON_TAKE:
+      - SEND_TITLE This is a test
+      TRIGGER_ON_FINISH:
+      - COMMAND_PLAYER warp dy
+    Rewards:
+      RewardAmount: 1
+      InstantGiveReward: false
+      Money: 200.0
+      Commands:
+      - iagive <player> mjy:tiaozhanzhe_axe
+      RewardNPC: 0

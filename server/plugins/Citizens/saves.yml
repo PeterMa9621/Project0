@@ -110,3 +110,43 @@
 
 
 
+
+
+last-created-npc-id: 0
+npc:
+  '0':
+    name: guider
+    uuid: dde0542e-597a-4459-bf80-a6d4f4a62f2a
+    traits:
+      type: PLAYER
+      location:
+        headYaw: 13.255508
+        world: world
+        x: '106.8775'
+        y: '31.0'
+        z: '-109.9625'
+        yaw: '13.2555'
+        pitch: '0.0'
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      gravity:
+        enabled: false
+      spawned: true
+      owner:
+        owner: BiShop
+        uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
+    traitnames: lookclose,owner,mounttrait,type,spawned,scoreboardtrait,gravity,inventory,equipment,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
