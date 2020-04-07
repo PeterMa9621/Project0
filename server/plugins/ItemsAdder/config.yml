@@ -82,3 +82,4 @@ debug:
     loading-ms: true
   huds:
     log-triggers: false
+metrics: true

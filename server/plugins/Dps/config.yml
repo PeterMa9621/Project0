@@ -1,13 +1,13 @@
 shiwang:
   '1':
-    cmd: iagive %player% mjy:fenji_sword
+    cmd: ph giveitem %player% mjy:fenji_sword
     chance: 0.03
     icon:
       id: DIAMOND_SWORD
       displayName: "&c焚寂剑"
       model: 42
   '2':
-    cmd: iagive %player% mjy:tiaozhanzhe_axe
+    cmd: ph giveitem %player% mjy:tiaozhanzhe_axe
     chance: 0.08
     icon:
       id: DIAMOND_AXE
@@ -42,21 +42,21 @@ shiwang:
       displayName: "&f绿宝石32个"
       model: 0
   '7':
-    cmd: iagive %player% mjy:rongyan_sword
+    cmd: ph giveitem %player% mjy:rongyan_sword
     chance: 0.2
     icon:
       id: DIAMOND_SWORD
       displayName: "&2熔岩剑"
       model: 31
   '8':
-    cmd: iagive %player% mjy:tiechi_sword
+    cmd: ph giveitem %player% mjy:tiechi_sword
     chance: 0.09
     icon:
       id: DIAMOND_SWORD
       displayName: "&2铁齿剑"
       model: 26
   '9':
-    cmd: iagive %player% mjy:wushi_sword
+    cmd: ph giveitem %player% mjy:wushi_sword
     chance: 0.1
     icon:
       id: DIAMOND_SWORD
@@ -77,11 +77,19 @@ boss:
     chance: 0.25
 test:
   '1':
-    cmd: give %player% diamond 1
+    cmd: ph giveitem %player% mjy:wushi_sword
     chance: 0.25
+    icon:
+      id: DIAMOND_SWORD
+      displayName: "&9武士剑"
+      model: 27
   '2':
-    cmd: give %player% diamond 1
+    cmd: ph giveitem %player% mjy:wushi_sword
     chance: 0.25
+    icon:
+      id: DIAMOND_SWORD
+      displayName: "&9武士剑"
+      model: 27
   '3':
     cmd: give %player% diamond 2
     chance: 0.25

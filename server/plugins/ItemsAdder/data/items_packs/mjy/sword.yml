@@ -15,7 +15,7 @@ items:
       max_custom_durability: 1561
     attribute_modifiers:
       mainhand:
-        attackDamage: 8
+        attackDamage: 9
         attackSpeed: 1.6
         
   tiechi_sword:
@@ -33,7 +33,7 @@ items:
       max_custom_durability: 1561
     attribute_modifiers:
       mainhand:
-        attackDamage: 6.0
+        attackDamage: 7.0
         attackSpeed: 1.8
         
   wushi_sword:
@@ -50,7 +50,7 @@ items:
       max_custom_durability: 1561
     attribute_modifiers:
       mainhand:
-        attackDamage: 9.0
+        attackDamage: 10.0
         attackSpeed: 1.6
   
   shilian_sword:
@@ -69,7 +69,7 @@ items:
       max_custom_durability: 2999
     attribute_modifiers:
       mainhand:
-        attackDamage: 6
+        attackDamage: 7
         
   tiaozhanzhe_sword:
     display_name: '&5挑战者之剑'
@@ -84,7 +84,7 @@ items:
       max_custom_durability: 1561
     attribute_modifiers:
       mainhand:
-        attackDamage: 10
+        attackDamage: 11
         attackSpeed: 1.6
   
   tiaozhanzhe_axe:
@@ -100,7 +100,7 @@ items:
       max_custom_durability: 1561
     attribute_modifiers:
       mainhand:
-        attackDamage: 13
+        attackDamage: 14
         attackSpeed: 0.9
         
   riyue_sword:
@@ -117,7 +117,7 @@ items:
       max_custom_durability: 1999
     attribute_modifiers:
       mainhand:
-        attackDamage: 12.5
+        attackDamage: 13.5
         attackSpeed: 1.6
         
   xinglun_sword:
@@ -134,7 +134,7 @@ items:
       max_custom_durability: 1999
     attribute_modifiers:
       mainhand:
-        attackDamage: 10.0
+        attackDamage: 11.0
         attackSpeed: 2.0
         
   yeren_sword:
@@ -152,7 +152,7 @@ items:
       max_custom_durability: 891
     attribute_modifiers:
       mainhand:
-        attackDamage: 7.5
+        attackDamage: 8.5
         attackSpeed: 2.0
   
   anjin_sword:
@@ -170,7 +170,7 @@ items:
       max_custom_durability: 596
     attribute_modifiers:
       mainhand:
-        attackDamage: 8
+        attackDamage: 9
         attackSpeed: 1.8
         
   gujian_sword:
@@ -187,7 +187,7 @@ items:
       max_custom_durability: 396
     attribute_modifiers:
       mainhand:
-        attackDamage: 7.5
+        attackDamage: 8.5
         attackSpeed: 1.3
         maxHealth: 2
         movementSpeed: -0.03
@@ -206,7 +206,7 @@ items:
       max_custom_durability: 1999
     attribute_modifiers:
       mainhand:
-        attackDamage: 20.0
+        attackDamage: 21.0
         attackSpeed: 0.7
         
   riyue_axe:
@@ -223,7 +223,7 @@ items:
       max_custom_durability: 1999
     attribute_modifiers:
       mainhand:
-        attackDamage: 16
+        attackDamage: 17
         attackSpeed: 0.9
         
   tulong_sword:
@@ -241,7 +241,7 @@ items:
       max_custom_durability: 1999
     attribute_modifiers:
       mainhand:
-        attackDamage: 13.5
+        attackDamage: 14.5
         attackSpeed: 1.8
         
   tianwen_sword:
@@ -258,7 +258,7 @@ items:
       max_custom_durability: 1999
     attribute_modifiers:
       mainhand:
-        attackDamage: 10.0
+        attackDamage: 11.0
         attackSpeed: 2.4
         
   aokuzhe_sword:
@@ -276,7 +276,7 @@ items:
       max_custom_durability: 1999
     attribute_modifiers:
       mainhand:
-        attackDamage: 11.0
+        attackDamage: 12.0
         attackSpeed: 2.1
         
   yitian_sword:
@@ -293,7 +293,7 @@ items:
       max_custom_durability: 1999
     attribute_modifiers:
       mainhand:
-        attackDamage: 15.5
+        attackDamage: 16.5
         attackSpeed: 1.6
         
   fenji_sword:
@@ -312,7 +312,7 @@ items:
       max_custom_durability: 1999
     attribute_modifiers:
       mainhand:
-        attackDamage: 15.5
+        attackDamage: 16.5
         attackSpeed: 1.6
         
   longlin_sword:
@@ -330,7 +330,7 @@ items:
       max_custom_durability: 1999
     attribute_modifiers:
       mainhand:
-        attackDamage: 15.5
+        attackDamage: 16.5
         attackSpeed: 1.6
         
   shuihuo_sword:
@@ -348,7 +348,7 @@ items:
       max_custom_durability: 1999
     attribute_modifiers:
       mainhand:
-        attackDamage: 16
+        attackDamage: 17
         attackSpeed: 1.3
         
   fenshixieyan_stick:
@@ -367,7 +367,7 @@ items:
       max_custom_durability: 1999
     attribute_modifiers:
       mainhand:
-        attackDamage: 16
+        attackDamage: 17
         attackSpeed: 1.5
   
   mietianxieyan_stick:
@@ -386,7 +386,7 @@ items:
       max_custom_durability: 1999
     attribute_modifiers:
       mainhand:
-        attackDamage: 16
+        attackDamage: 17
         attackSpeed: 1.5
         
   guihuo_sword:
@@ -403,7 +403,7 @@ items:
       max_custom_durability: 2388
     attribute_modifiers:
       mainhand:
-        attackDamage: 17
+        attackDamage: 18
         attackSpeed: 1.6
         
   leidian_axe:
@@ -420,7 +420,7 @@ items:
       max_custom_durability: 2388
     attribute_modifiers:
       mainhand:
-        attackDamage: 22
+        attackDamage: 23
         attackSpeed: 0.9
         
   zhulong_sword:
@@ -436,7 +436,7 @@ items:
       max_custom_durability: 2388
     attribute_modifiers:
       mainhand:
-        attackDamage: 17
+        attackDamage: 18
         attackSpeed: 1.6
         
   moxiang_sword:
@@ -453,7 +453,7 @@ items:
       max_custom_durability: 2388
     attribute_modifiers:
       mainhand:
-        attackDamage: 16.5
+        attackDamage: 17.5
         attackSpeed: 1.6
         
   fuzhou_sword:
@@ -470,5 +470,58 @@ items:
       max_custom_durability: 2388
     attribute_modifiers:
       mainhand:
-        attackDamage: 16.5
+        attackDamage: 17.5
         attackSpeed: 1.6
+  
+  diaolingwang_sword:
+    display_name: '&d凋零王的长剑'
+    permission: diaolingwang_sword
+    lore:
+    - '&6凋零王手中持有的剑，'
+    - '&6持有它代表着拥有比凋零王'
+    - '&6还要强大的力量!'
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/elucidator_sword.png
+    durability:
+      max_custom_durability: 1756
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 13.0
+        attackSpeed: 0.7
+        
+  lieyan_sword:
+    display_name: '&c烈焰'
+    permission: lieyan_sword
+    lore:
+    - '&6据说这曾是烈焰王'
+    - '&6身上的一根骨头'
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/firesword_sword
+    enchants:
+    - FIRE_ASPECT:2
+    durability:
+      max_custom_durability: 1050
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 13.0
+        attackSpeed: 1.9
+        
+  shouhuzhe_sword:
+    display_name: '&3守护者之剑'
+    permission: shouhuzhe_sword
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/aqualight_sword.png
+    durability:
+      max_custom_durability: 1561
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 11.0
+        maxHealth: 2

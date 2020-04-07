@@ -156,6 +156,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "mjy:auto_generated/diaolingwang_sword"
+    },
+    {
+      "predicate": {
         "custom_model_data": 29
       },
       "model": "mjy:auto_generated/shilian_sword"
@@ -261,6 +267,18 @@
         "custom_model_data": 49
       },
       "model": "mjy:item/tiaozhanzhe_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "mjy:item/firesword_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "mjy:auto_generated/shouhuzhe_sword"
     }
   ]
 }

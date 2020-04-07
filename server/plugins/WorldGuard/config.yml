@@ -4,7 +4,7 @@ regions:
         keep-names-that-lack-uuids: true
     use-creature-spawn-event: true
     sql:
-        use: true
+        use: false
         dsn: jdbc:mysql://localhost/minecraft
         username: root
         password: mjy159357

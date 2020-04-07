@@ -20,8 +20,14 @@ prevent-block-place: false
 prevent-mob-spawn: false
 worlds:
   world:
-    x: 93.51823383362738
-    z: -94.5050592794817
+    x: 93.47716708036363
+    z: -94.75273397447577
     radiusX: 200
-    radiusZ: 100
+    radiusZ: 200
+    wrapping: false
+  shengcun:
+    x: -383.55777047757164
+    z: -158.3591312527384
+    radiusX: 4000
+    radiusZ: 4000
     wrapping: false

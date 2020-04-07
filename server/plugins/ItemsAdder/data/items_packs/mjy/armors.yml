@@ -14,7 +14,7 @@ items:
         color: a14520
     attribute_modifiers:
       head:
-        armor: 6
+        armor: 6.5
         armorToughness: 2
       
   rongyan_chest:
@@ -30,7 +30,7 @@ items:
         color: a14520
     attribute_modifiers:
       chest:
-        armor: 11
+        armor: 11.5
         armorToughness: 2
       
   rongyan_leg:
@@ -46,7 +46,7 @@ items:
         color: a14520
     attribute_modifiers:
       legs:
-        armor: 9
+        armor: 9.5
         armorToughness: 2
       
   rongyan_feet:
@@ -62,7 +62,7 @@ items:
         color: a14520
     attribute_modifiers:
       feet:
-        armor: 6
+        armor: 6.5
         armorToughness: 2
   
   wushi_head:
@@ -78,7 +78,7 @@ items:
         color: 6b6963
     attribute_modifiers:
       head:
-        armor: 4
+        armor: 4.5
         armorToughness: 1
       
   wushi_chest:
@@ -94,7 +94,7 @@ items:
         color: 6b6963
     attribute_modifiers:
       chest:
-        armor: 9
+        armor: 9.5
         armorToughness: 1
       
   wushi_leg:
@@ -110,7 +110,7 @@ items:
         color: 6b6963
     attribute_modifiers:
       legs:
-        armor: 7
+        armor: 7.5
         armorToughness: 1
       
   wushi_feet:
@@ -126,7 +126,7 @@ items:
         color: 6b6963
     attribute_modifiers:
       feet:
-        armor: 4
+        armor: 4.5
         armorToughness: 1
         
   diaolingwang_head:
@@ -145,7 +145,7 @@ items:
         color: b25cd1
     attribute_modifiers:
       head:
-        armor: 6
+        armor: 6.5
         armorToughness: 2
         knockbackResistance: 0.01
       
@@ -165,7 +165,7 @@ items:
         color: b25cd1
     attribute_modifiers:
       chest:
-        armor: 11
+        armor: 11.5
         armorToughness: 2
         knockbackResistance: 0.03
       
@@ -185,7 +185,7 @@ items:
         color: b25cd1
     attribute_modifiers:
       legs:
-        armor: 9
+        armor: 9.5
         armorToughness: 2
         knockbackResistance: 0.02
       
@@ -205,7 +205,7 @@ items:
         color: b25cd1
     attribute_modifiers:
       feet:
-        armor: 6
+        armor: 6.5
         armorToughness: 2
         knockbackResistance: 0.02
         
@@ -225,7 +225,7 @@ items:
         color: ff0000
     attribute_modifiers:
       head:
-        armor: 3
+        armor: 3.5
         armorToughness: 2
         maxHealth: 1
       
@@ -245,7 +245,7 @@ items:
         color: ff0000
     attribute_modifiers:
       chest:
-        armor: 8
+        armor: 8.5
         armorToughness: 2
         maxHealth: 3
       
@@ -265,7 +265,7 @@ items:
         color: ff0000
     attribute_modifiers:
       legs:
-        armor: 6
+        armor: 6.5
         armorToughness: 2
         maxHealth: 2
       
@@ -285,7 +285,7 @@ items:
         color: ff0000
     attribute_modifiers:
       feet:
-        armor: 3
+        armor: 3.5
         armorToughness: 2
         maxHealth: 2
     
@@ -306,7 +306,7 @@ items:
         color: 00a6ff
     attribute_modifiers:
       head:
-        armor: 1.5
+        armor: 2
       
   shilian_chest:
     display_name: '&8试练胸甲'
@@ -325,7 +325,7 @@ items:
         color: 00a6ff
     attribute_modifiers:
       chest:
-        armor: 5.5
+        armor: 6
       
   shilian_leg:
     display_name: '&8试练护腿'
@@ -344,7 +344,7 @@ items:
         color: 00a6ff
     attribute_modifiers:
       legs:
-        armor: 4.5
+        armor: 6
       
   shilian_feet:
     display_name: '&8试练战靴'
@@ -363,7 +363,7 @@ items:
         color: 00a6ff
     attribute_modifiers:
       feet:
-        armor: 1.5
+        armor: 2
         
   bailian_head:
     display_name: '&3百炼头盔'
@@ -383,7 +383,7 @@ items:
         color: '646464'
     attribute_modifiers:
       head:
-        armor: 2.5
+        armor: 3
       
   bailian_chest:
     display_name: '&3百炼铠甲'
@@ -403,7 +403,7 @@ items:
         color: '646464'
     attribute_modifiers:
       chest:
-        armor: 6.5
+        armor: 7
       
   bailian_leg:
     display_name: '&3百炼护腿'
@@ -423,7 +423,7 @@ items:
         color: '646464'
     attribute_modifiers:
       legs:
-        armor: 5.5
+        armor: 6
       
   bailian_feet:
     display_name: '&3百炼战靴'
@@ -443,7 +443,7 @@ items:
         color: '646464'
     attribute_modifiers:
       feet:
-        armor: 2.5
+        armor: 3
         
   putongpaoxie_feet:
     display_name: '&3普通跑鞋'
@@ -461,7 +461,7 @@ items:
         color: '547eba'
     attribute_modifiers:
       feet:
-        armor: 2
+        armor: 2.5
         movementSpeed: 0.01
         
   gaojipaoxie_feet:
@@ -480,5 +480,234 @@ items:
         color: '31b51d'
     attribute_modifiers:
       feet:
-        armor: 2.5
+        armor: 3
         movementSpeed: 0.02
+  
+  shouhuzhe_head:
+    display_name: '&3守护者头盔'
+    permission: shouhuzhe
+    lore:
+    - '&6守护者的魂魄承载'
+    - '&6起它永恒的使命'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 364
+    specific_properties:
+      armor:
+        slot: head
+        color: 75bebe
+    attribute_modifiers:
+      head:
+        armor: 5.5
+        armorToughness: 3
+        
+  shouhuzhe_chest:
+    display_name: '&3守护者铠甲'
+    permission: shouhuzhe
+    lore:
+    - '&6守护者的魂魄承载'
+    - '&6起它永恒的使命'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 529
+    specific_properties:
+      armor:
+        slot: chest
+        color: 75bebe
+    attribute_modifiers:
+      chest:
+        armor: 10.5
+        armorToughness: 3
+        
+  shouhuzhe_legs:
+    display_name: '&3守护者护腿'
+    permission: shouhuzhe
+    lore:
+    - '&6守护者的魂魄承载'
+    - '&6起它永恒的使命'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 496
+    specific_properties:
+      armor:
+        slot: legs
+        color: 75bebe
+    attribute_modifiers:
+      legs:
+        armor: 8.5
+        armorToughness: 3
+        
+  shouhuzhe_boots:
+    display_name: '&3守护者战靴'
+    permission: shouhuzhe
+    lore:
+    - '&6守护者的魂魄承载'
+    - '&6起它永恒的使命'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 430
+    specific_properties:
+      armor:
+        slot: FEET
+        color: 75bebe
+    attribute_modifiers:
+      feet:
+        armor: 5.5
+        armorToughness: 3
+        
+  yongye_head:
+    display_name: '&8永夜(头盔)'
+    permission: yongye
+    lore:
+    - '&8这是黑暗的力量'  
+    - '&8正如它的名字'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 364
+    specific_properties:
+      armor:
+        slot: head
+        color: '010002'
+    attribute_modifiers:
+      head:
+        armor: 4
+        armorToughness: 2
+        
+  yongye_chest:
+    display_name: '&8永夜(铠甲)'
+    permission: yongye
+    lore:
+    - '&8这是黑暗的力量'  
+    - '&8正如它的名字'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 529
+    specific_properties:
+      armor:
+        slot: chest
+        color: '010002'
+    attribute_modifiers:
+      chest:
+        armor: 9
+        armorToughness: 2
+        
+  yongye_legs:
+    display_name: '&8永夜(护腿)'
+    permission: yongye
+    lore:
+    - '&8这是黑暗的力量'  
+    - '&8正如它的名字'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 496
+    specific_properties:
+      armor:
+        slot: legs
+        color: '010002'
+    attribute_modifiers:
+      legs:
+        armor: 7
+        armorToughness: 2
+        
+  yongye_boots:
+    display_name: '&8永夜(战靴)'
+    permission: yongye
+    lore:
+    - '&8这是黑暗的力量'
+    - '&8正如它的名字'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 430
+    specific_properties:
+      armor:
+        slot: FEET
+        color: '010002'
+    attribute_modifiers:
+      feet:
+        armor: 4
+        armorToughness: 2
+        
+  anjin_head:
+    display_name: '&3暗金头盔'
+    permission: anjin
+    lore:
+    - '&8暗金术士遗留'
+    - '&8下来的宝物'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 320
+    specific_properties:
+      armor:
+        slot: head
+        color: dbb014
+    attribute_modifiers:
+      head:
+        armor: 5
+        armorToughness: 2
+        
+  anjin_chest:
+    display_name: '&3暗金铠甲'
+    permission: anjin
+    lore:
+    - '&8暗金术士遗留'
+    - '&8下来的宝物'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 498
+    specific_properties:
+      armor:
+        slot: chest
+        color: dbb014
+    attribute_modifiers:
+      chest:
+        armor: 10
+        armorToughness: 2
+        knockbackResistance: 0.05
+        
+  anjin_legs:
+    display_name: '&3暗金护腿'
+    permission: anjin
+    lore:
+    - '&8暗金术士遗留'
+    - '&8下来的宝物'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 445
+    specific_properties:
+      armor:
+        slot: legs
+        color: dbb014
+    attribute_modifiers:
+      legs:
+        armor: 8
+        armorToughness: 2
+        
+  anjin_boots:
+    display_name: '&3暗金战靴'
+    permission: anjin
+    lore:
+    - '&8暗金术士遗留'
+    - '&8下来的宝物'
+    resource:
+      generate: true
+    durability:
+      max_custom_durability: 402
+    specific_properties:
+      armor:
+        slot: FEET
+        color: dbb014
+    attribute_modifiers:
+      feet:
+        armor: 5
+        armorToughness: 2

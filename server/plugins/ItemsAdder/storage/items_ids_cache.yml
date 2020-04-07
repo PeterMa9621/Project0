@@ -49,6 +49,11 @@ DIAMOND_SWORD:
   mjy:fuzhou_sword: 48
   mjy:tiaozhanzhe_sword: 49
   mjy:tiaozhanzhe_axe: 50
+  itemsadder:diaolingwang_sword: 51
+  itemsadder:lieyan_sword: 52
+  itemsadder:shouhuzhe_sword: 53
+  mjy:lieyan_sword: 54
+  mjy:shouhuzhe_sword: 55
 LEATHER_HELMET:
   itemsadder:ruby_head: 1
   itemsadder:spinel_head: 2
@@ -64,6 +69,12 @@ LEATHER_HELMET:
   mjy:xuemo_head: 12
   mjy:shilian_head: 13
   mjy:bailian_head: 14
+  itemsadder:shouhuzhe_head: 15
+  itemsadder:yongye_head: 16
+  itemsadder:anjin_head: 17
+  mjy:shouhuzhe_head: 18
+  mjy:yongye_head: 19
+  mjy:anjin_head: 20
 LEATHER_CHESTPLATE:
   itemsadder:ruby_chest: 1
   itemsadder:spinel_chest: 2
@@ -80,6 +91,12 @@ LEATHER_CHESTPLATE:
   mjy:xuemo_chest: 13
   mjy:shilian_chest: 14
   mjy:bailian_chest: 15
+  itemsadder:shouhuzhe_chest: 16
+  itemsadder:yongye_chest: 17
+  itemsadder:anjin_chest: 18
+  mjy:shouhuzhe_chest: 19
+  mjy:yongye_chest: 20
+  mjy:anjin_chest: 21
 LEATHER_LEGGINGS:
   itemsadder:ruby_legs: 1
   itemsadder:spinel_legs: 2
@@ -96,6 +113,12 @@ LEATHER_LEGGINGS:
   mjy:xuemo_leg: 13
   mjy:shilian_leg: 14
   mjy:bailian_leg: 15
+  itemsadder:shouhuzhe_legs: 16
+  itemsadder:yongye_legs: 17
+  itemsadder:anjin_legs: 18
+  mjy:shouhuzhe_legs: 19
+  mjy:yongye_legs: 20
+  mjy:anjin_legs: 21
 LEATHER_BOOTS:
   itemsadder:ruby_boots: 1
   itemsadder:spinel_boots: 2
@@ -114,6 +137,12 @@ LEATHER_BOOTS:
   mjy:bailian_feet: 15
   mjy:putongpaoxie_feet: 16
   mjy:gaojipaoxie_feet: 17
+  itemsadder:shouhuzhe_boots: 18
+  itemsadder:yongye_boots: 19
+  itemsadder:anjin_boots: 20
+  mjy:shouhuzhe_boots: 21
+  mjy:yongye_boots: 22
+  mjy:anjin_boots: 23
 REDSTONE_BLOCK:
   itemsadder:ruby_block: 1
   itemsadder:spinel_block: 2
@@ -241,6 +270,12 @@ COOKED_PORKCHOP:
   itemsadder:sliced_bread_with_sweet_berries_jam: 41
   itemsadder:sliced_bread_with_pear_jam: 42
   itemsadder:sliced_bread_with_apple_jam: 43
+  mjy:qinghua_fish: 44
+  mjy:fei_fish: 45
+  mjy:haidiao_fish: 46
+  mjy:heilu_fish: 47
+  mjy:jinqiang_fish: 48
+  mjy:shrimp: 49
 OAK_WOOD:
   itemsadder:old_clock: 1
   itemsadder:opened_chest: 2
@@ -597,3 +632,21 @@ PAPER:
   mcicons:icon_search: 32
 WATER_BUCKET:
   realcraft:boiled_water_bucket: 1
+COD:
+  mjy:huanghua_fish: 1
+COOKED_COD:
+  mjy:qinghua_fish: 1
+  mjy:fei_fish: 2
+  mjy:haidiao_fish: 3
+  mjy:heilu_fish: 4
+  mjy:jinqiang_fish: 5
+  mjy:shrimp: 6
+  mjy:huanghua_fish: 7
+  mjy:lansha_fish: 8
+  mjy:bimu_fish: 9
+  mjy:gu_fish: 10
+  mjy:gold_fish: 11
+  mjy:jingu_fish: 12
+  mjy:duoxushishou_fish: 13
+  mjy:fenhetun_fish: 14
+  mjy:jing_fish: 15

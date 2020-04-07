@@ -1085,40 +1085,40 @@ items:
       eat:
         feed:
           amount: 5
-loots:
-  fishing:
-    loot_blue_parrotfish:
-      items:
-        item_1:
-          item: itemsadder:blue_parrotfish
-          min_amount: 1
-          max_amount: 1
-          chance: 5
-    loot_green_sunfish:
-      items:
-        item_1:
-          item: itemsadder:green_sunfish
-          min_amount: 1
-          max_amount: 1
-          chance: 5
-    loot_goldfish:
-      items:
-        item_1:
-          item: itemsadder:goldfish
-          min_amount: 1
-          max_amount: 1
-          chance: 5
-    loot_black_moor_goldfish:
-      items:
-        item_1:
-          item: itemsadder:black_moor_goldfish
-          min_amount: 1
-          max_amount: 1
-          chance: 7
-    loot_tuna:
-      items:
-        item_1:
-          item: itemsadder:tuna
-          min_amount: 1
-          max_amount: 1
-          chance: 5
+# loots:
+  # fishing:
+    # loot_blue_parrotfish:
+      # items:
+        # item_1:
+          # item: itemsadder:blue_parrotfish
+          # min_amount: 1
+          # max_amount: 1
+          # chance: 5
+    # loot_green_sunfish:
+      # items:
+        # item_1:
+          # item: itemsadder:green_sunfish
+          # min_amount: 1
+          # max_amount: 1
+          # chance: 5
+    # loot_goldfish:
+      # items:
+        # item_1:
+          # item: itemsadder:goldfish
+          # min_amount: 1
+          # max_amount: 1
+          # chance: 5
+    # loot_black_moor_goldfish:
+      # items:
+        # item_1:
+          # item: itemsadder:black_moor_goldfish
+          # min_amount: 1
+          # max_amount: 1
+          # chance: 7
+    # loot_tuna:
+      # items:
+        # item_1:
+          # item: itemsadder:tuna
+          # min_amount: 1
+          # max_amount: 1
+          # chance: 5

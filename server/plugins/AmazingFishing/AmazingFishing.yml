@@ -430,3 +430,7 @@ Tournaments:
       - eco give %player% 80
       '1':
       - eco give %player% 400
+Creating-Tournament:
+  Test:
+    Type: Random
+    Time: 330

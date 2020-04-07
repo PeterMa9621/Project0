@@ -27,3 +27,5 @@ MythicMobs:
     - VeryFriendlyFaction
     Mobs:
     - VeryFriendlyMob
+Residence:
+  Enabled: true
