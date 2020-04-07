@@ -650,3 +650,7 @@ COOKED_COD:
   mjy:duoxushishou_fish: 13
   mjy:fenhetun_fish: 14
   mjy:jing_fish: 15
+  mjy:crab: 16
+  mjy:squid: 17
+  mjy:jellyfish: 18
+  mjy:turtle: 19

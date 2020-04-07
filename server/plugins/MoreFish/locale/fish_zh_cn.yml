@@ -65,8 +65,7 @@ fish-list:
       length-min: 7
       length-max: 13
       icon:
-        id: "minecraft:cooked_cod"
-        model: 33
+        id: "minecraft:cod"
     Croaker:
       display-name: "黄花鱼"
       length-min: 12
@@ -78,8 +77,8 @@ fish-list:
       length-min: 10
       length-max: 15
       icon:
-        id: "minecraft:cod"
-        model: 1
+        id: "minecraft:cooked_cod"
+        model: 16
     Mackerel:
       display-name: "青花鱼"
       length-min: 15
@@ -151,18 +150,20 @@ fish-list:
       length-min: 20
       length-max: 40
       icon:
-        id: "minecraft:cod"
+        id: "minecraft:cooked_cod"
+        model: 18
       commands:
-        - "minecraft:effect give @p minecraft:poison 3 1"
+        - "minecraft:effect give @p minecraft:poison 15 1"
         - "tellraw @p [\"\",{\"text\":\"[MoreFish]\",\"color\":\"aqua\"},{\"text\":\" 你并不喜欢这条水母!\",\"color\":\"none\"}]"
     Squid:
       display-name: "乌贼"
       length-min: 30
       length-max: 50
       icon:
-        id: "minecraft:ink_sac"
+        id: "minecraft:cooked_cod"
+        model: 17
       commands:
-        - "minecraft:effect give @p minecraft:blindness 5 1"
+        - "minecraft:effect give @p minecraft:blindness 15 1"
         - "tellraw @p [\"\",{\"text\":\"[MoreFish]\",\"color\":\"aqua\"},{\"text\":\" 这乌贼射了你一脸的墨汁!\",\"color\":\"none\"}]"
     Flatfish:
       display-name: "比目鱼"
@@ -203,7 +204,8 @@ fish-list:
       length-min: 90
       length-max: 130
       icon:
-        id: "minecraft:cod"
+        id: "minecraft:cooked_cod"
+        model: 19
     Salmon:
       display-name: "鲑鱼"
       length-min: 100
@@ -225,6 +227,20 @@ fish-list:
         id: "minecraft:cooked_cod"
         model: 5
   legendary:
+    GoldFish:
+      display-name: "金鱼"
+      length-min: 16
+      length-max: 30
+      icon:
+        id: "minecraft:cooked_cod"
+        model: 11
+        lore:
+          - "&7&o金贵的鱼"
+          - "&7当你吃了这条鱼,你会获得 &9400金币&7."
+      food-effects:
+        commands:
+          - "eco give %player% 400"
+    
     BlueShark:
       display-name: "蓝鲨"
       length-min: 160

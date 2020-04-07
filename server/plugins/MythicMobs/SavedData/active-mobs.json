@@ -112,34 +112,6 @@
       "faction": {},
       "cooldowns": {}
     },
-    "fc231b0a-d4e9-44d2-b7ad-6d03b345a652": {
-      "uuid": "fc231b0a-d4e9-44d2-b7ad-6d03b345a652",
-      "mobType": "SkeletalKnight",
-      "aliveTime": 548,
-      "lastSeen": 1585867388812,
-      "spawnLocation": {
-        "world": {
-          "uuid": "bc89e146-17f2-4f31-bba2-289549cc7c32",
-          "name": "world"
-        },
-        "x": 121.5,
-        "y": 63.0,
-        "z": 187.5,
-        "yaw": 0.30063656,
-        "pitch": 0.0
-      },
-      "variables": {
-        "entries": {}
-      },
-      "level": 1.0,
-      "globalCooldown": 0,
-      "stance": "default",
-      "lastSignal": "",
-      "playerKills": 0,
-      "owner": {},
-      "faction": {},
-      "cooldowns": {}
-    },
     "c2e79d44-6d67-409e-bfb4-c2cdd46c4d84": {
       "uuid": "c2e79d44-6d67-409e-bfb4-c2cdd46c4d84",
       "mobType": "SkeletalKnight",
@@ -164,6 +136,34 @@
       "stance": "default",
       "lastSignal": "",
       "playerKills": 1,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "fc231b0a-d4e9-44d2-b7ad-6d03b345a652": {
+      "uuid": "fc231b0a-d4e9-44d2-b7ad-6d03b345a652",
+      "mobType": "SkeletalKnight",
+      "aliveTime": 548,
+      "lastSeen": 1585867388812,
+      "spawnLocation": {
+        "world": {
+          "uuid": "bc89e146-17f2-4f31-bba2-289549cc7c32",
+          "name": "world"
+        },
+        "x": 121.5,
+        "y": 63.0,
+        "z": 187.5,
+        "yaw": 0.30063656,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 1.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
       "owner": {},
       "faction": {},
       "cooldowns": {}

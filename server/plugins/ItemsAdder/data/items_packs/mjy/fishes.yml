@@ -82,15 +82,6 @@ items:
       textures:
       - item/fish/gu_fish.png
       
-  jingu_fish:
-    display_name: '&2金骨鱼'
-    permission: jingu_fish
-    resource:
-      material: COOKED_COD
-      generate: true
-      textures:
-      - item/fish/gold_fish.png
-      
   gold_fish:
     display_name: '&2金鱼'
     permission: gold_fish
@@ -126,3 +117,39 @@ items:
       generate: true
       textures:
       - item/fish/jing_fish
+      
+  crab:
+    display_name: '&2螃蟹'
+    permission: crab
+    resource:
+      material: COOKED_COD
+      generate: true
+      textures:
+      - item/fish/crab
+      
+  squid:
+    display_name: '&2鱿鱼'
+    permission: squid
+    resource:
+      material: COOKED_COD
+      generate: true
+      textures:
+      - item/fish/squid
+      
+  jellyfish:
+    display_name: '&2水母'
+    permission: jellyfish
+    resource:
+      material: COOKED_COD
+      generate: true
+      textures:
+      - item/fish/jellyfish
+      
+  turtle:
+    display_name: '&2海龟'
+    permission: turtle
+    resource:
+      material: COOKED_COD
+      generate: true
+      textures:
+      - item/fish/turtle
