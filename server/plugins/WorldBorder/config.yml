@@ -31,3 +31,21 @@ worlds:
     radiusX: 4000
     radiusZ: 4000
     wrapping: false
+  kuangjie:
+    x: 33.5
+    z: -122.5
+    radiusX: 4000
+    radiusZ: 4000
+    wrapping: false
+  world_nether:
+    x: 26.5
+    z: 52.5
+    radiusX: 4000
+    radiusZ: 4000
+    wrapping: false
+  world_the_end:
+    x: -89.5
+    z: -38.5
+    radiusX: 4000
+    radiusZ: 4000
+    wrapping: false

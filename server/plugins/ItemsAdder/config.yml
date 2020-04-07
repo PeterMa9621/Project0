@@ -50,7 +50,7 @@ font_images:
   negative-spaces-font:
     enabled: true
 huds:
-  enabled: true
+  enabled: false
 config_files:
   update-automatically: false
   lang: en

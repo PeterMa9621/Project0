@@ -1,3 +1,6 @@
+# ###################
+# 尸王BOSS
+# ###################
 shiwang:
   '1':
     cmd: ph giveitem %player% mjy:fenji_sword
@@ -14,25 +17,25 @@ shiwang:
       displayName: "&5挑战者之斧"
       model: 13
   '3':
-    cmd: give %player% diamond 10
+    cmd: give %player% diamond 32
     chance: 0.3
     icon:
       id: DIAMOND
       displayName: "&f钻石10个"
       model: 0
   '4':
-    cmd: give %player% diamond 32
+    cmd: give %player% diamond 64
     chance: 0.1
     icon:
       id: DIAMOND
-      displayName: "&f钻石32个"
+      displayName: "&f钻石64个"
       model: 0
   '5':
-    cmd: give %player% diamond 64
+    cmd: give %player% emerald 64
     chance: 0.02
     icon:
-      id: DIAMOND
-      displayName: "&f钻石64个"
+      id: EMERALD
+      displayName: "&f绿宝石64个"
       model: 0
   '6':
     cmd: give %player% emerald 32
@@ -62,19 +65,53 @@ shiwang:
       id: DIAMOND_SWORD
       displayName: "&9武士剑"
       model: 27
-boss:
+      
+# ###################
+# 凋零王BOSS
+# ###################
+diaolingwang:
   '1':
-    cmd: give %player% diamond 1
-    chance: 0.25
+    cmd: ph giveitem %player% mjy:diaolingwang_sword
+    chance: 0.08
+    icon:
+      id: DIAMOND_SWORD
+      displayName: "&9凋零王的长剑"
+      model: 28
   '2':
-    cmd: give %player% diamond 2
-    chance: 0.25
+    cmd: give %player% diamond 12
+    chance: 0.13
   '3':
-    cmd: give %player% diamond 3
-    chance: 0.25
+    cmd: give %player% diamond 8
+    chance: 0.2
   '4':
-    cmd: give %player% diamond 4
-    chance: 0.25
+    cmd: give %player% emerald 6
+    chance: 0.12
+    icon:
+      id: EMERALD
+      displayName: "&f绿宝石6个"
+      model: 0
+  '5':
+    cmd: ph giveitem BiShop mjy:shilian_sword
+    chance: 0.19
+    icon:
+      id: DIAMOND_SWORD
+      displayName: "&8试炼剑"
+      model: 29
+  '6':
+    cmd: ph giveitem BiShop mjy:yeren_sword
+    chance: 0.18
+    icon:
+      id: DIAMOND_SWORD
+      displayName: "&8夜刃"
+      model: 33
+  '7':
+    cmd: ph giveitem BiShop mjy:tiaozhanzhe_sword
+    chance: 0.1
+    icon:
+      id: DIAMOND_SWORD
+      displayName: "&5挑战者之剑"
+      model: 49
+
 test:
   '1':
     cmd: ph giveitem %player% mjy:wushi_sword

@@ -112,21 +112,21 @@
 
 
 
-last-created-npc-id: 0
+last-created-npc-id: 1
 npc:
   '0':
-    name: guider
+    name: 引导者
     uuid: dde0542e-597a-4459-bf80-a6d4f4a62f2a
     traits:
       type: PLAYER
       location:
         headYaw: 0.0
         world: world
-        x: '102.4296'
+        x: '105.4995'
         y: '31.0'
-        z: '-102.3'
+        z: '-94.5414'
         yaw: '0.0'
-        pitch: '-50.2192'
+        pitch: '0.0'
       lookclose:
         range: '5.0'
         enabled: true
@@ -145,8 +145,48 @@ npc:
       owner:
         owner: BiShop
         uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
-    traitnames: scoreboardtrait,inventory,owner,location,type,spawned,equipment,lookclose,mounttrait,gravity
+    traitnames: mounttrait,spawned,type,lookclose,gravity,location,owner,scoreboardtrait,inventory,equipment
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
       usedefaultstuckaction: true
+    metadata:
+      nameplate-visible: 'true'
+  '1':
+    name: 渔夫
+    uuid: edac2078-35af-4c67-bcb6-6a96a6e4e175
+    traits:
+      spawned: true
+      type: PLAYER
+      gravity:
+        enabled: false
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      location:
+        headYaw: 0.0
+        world: world
+        x: '109.3527'
+        y: '31.0'
+        z: '-90.4392'
+        yaw: '0.0'
+        pitch: '-15.8677'
+      owner:
+        owner: BiShop
+        uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
+    traitnames: mounttrait,spawned,type,lookclose,gravity,location,owner,inventory,scoreboardtrait,equipment,fishshop
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      player-skin-name: fisher
