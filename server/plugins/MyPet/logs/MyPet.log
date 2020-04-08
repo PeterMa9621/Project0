@@ -2455,3 +2455,73 @@
 04-08-2020 00:33 [INFO] [MyPet] Version 3.9-b1525 ENABLED
 04-08-2020 00:57 [INFO] [MyPet] Skilltrees reloaded!
 04-08-2020 01:07 [INFO] [MyPet] Disabling MyPet v3.9
+04-08-2020 09:39 [INFO] [MyPet] Error-Reporter ENABLED
+04-08-2020 09:40 [INFO] [MyPet] Enabling MyPet v3.9
+04-08-2020 09:40 [INFO] [MyPet] No Update available.
+04-08-2020 09:40 [INFO] [MyPet] Custom entity registry found: net.citizensnpcs.nms.v1_15_R1.util.CustomEntityRegistry
+04-08-2020 09:40 [INFO] [MyPet] Compat mode for v1_15_R1 loaded.
+04-08-2020 09:40 [INFO] [MyPet] Exp calculation mode: MyPet
+04-08-2020 09:40 [INFO] [MyPet] Loading WorldGroups...
+04-08-2020 09:40 [INFO] [MyPet]    added 'world' to 'default'
+04-08-2020 09:40 [INFO] [MyPet]    added 'world_nether' to 'default'
+04-08-2020 09:40 [INFO] [MyPet]    added 'world_the_end' to 'default'
+04-08-2020 09:40 [INFO] [MyPet]    added 'shengcun' to 'default'
+04-08-2020 09:40 [INFO] [MyPet]    added 'kuangjie' to 'default'
+04-08-2020 09:40 [INFO] [MyPet] Connect to MySQL database...
+04-08-2020 09:40 [INFO] [MyPet] MySQL connection successful.
+04-08-2020 09:40 [INFO] [MyPet] Citizens (2.0.26-SNAPSHOT (build 1852)) hook activated.
+04-08-2020 09:40 [INFO] [MyPet] MythicMobs (4.9.0-3255) hook activated.
+04-08-2020 09:40 [INFO] [MyPet] PlaceholderAPI (2.10.5) hook activated.
+04-08-2020 09:40 [INFO] [MyPet] ProtocolLib (4.5.0) hook activated.
+04-08-2020 09:40 [INFO] [MyPet] Residence (4.9.0.5) hook activated.
+04-08-2020 09:40 [INFO] [MyPet] Vault (1.7.2-b107) (Economy: Essentials Economy) (Permissions: LuckPerms) hook activated.
+04-08-2020 09:40 [INFO] [MyPet] WorldGuard (7.0.2-SNAPSHOT;bf2593e) hook activated.
+04-08-2020 09:40 [INFO] [MyPet] Version 3.9-b1525 ENABLED
+04-08-2020 12:16 [INFO] [MyPet] Disabling MyPet v3.9
+04-08-2020 12:17 [INFO] [MyPet] Error-Reporter ENABLED
+04-08-2020 12:18 [INFO] [MyPet] Enabling MyPet v3.9
+04-08-2020 12:18 [INFO] [MyPet] No Update available.
+04-08-2020 12:18 [INFO] [MyPet] Custom entity registry found: net.citizensnpcs.nms.v1_15_R1.util.CustomEntityRegistry
+04-08-2020 12:18 [INFO] [MyPet] Compat mode for v1_15_R1 loaded.
+04-08-2020 12:18 [INFO] [MyPet] Exp calculation mode: MyPet
+04-08-2020 12:18 [INFO] [MyPet] Loading WorldGroups...
+04-08-2020 12:18 [INFO] [MyPet]    added 'world' to 'default'
+04-08-2020 12:18 [INFO] [MyPet]    added 'world_nether' to 'default'
+04-08-2020 12:18 [INFO] [MyPet]    added 'world_the_end' to 'default'
+04-08-2020 12:18 [INFO] [MyPet]    added 'shengcun' to 'default'
+04-08-2020 12:18 [INFO] [MyPet]    added 'kuangjie' to 'default'
+04-08-2020 12:18 [INFO] [MyPet] Connect to MySQL database...
+04-08-2020 12:18 [INFO] [MyPet] MySQL connection successful.
+04-08-2020 12:18 [INFO] [MyPet] Citizens (2.0.26-SNAPSHOT (build 1852)) hook activated.
+04-08-2020 12:18 [INFO] [MyPet] MythicMobs (4.9.0-3255) hook activated.
+04-08-2020 12:18 [INFO] [MyPet] PlaceholderAPI (2.10.5) hook activated.
+04-08-2020 12:18 [INFO] [MyPet] ProtocolLib (4.5.0) hook activated.
+04-08-2020 12:18 [INFO] [MyPet] Residence (4.9.0.5) hook activated.
+04-08-2020 12:18 [INFO] [MyPet] Vault (1.7.2-b107) (Economy: Essentials Economy) (Permissions: LuckPerms) hook activated.
+04-08-2020 12:18 [INFO] [MyPet] WorldGuard (7.0.2-SNAPSHOT;bf2593e) hook activated.
+04-08-2020 12:18 [INFO] [MyPet] Version 3.9-b1525 ENABLED
+04-08-2020 12:19 [INFO] [MyPet] added DXL_Edit_0 to 'default' group.
+04-08-2020 12:26 [INFO] [MyPet] Disabling MyPet v3.9
+04-08-2020 12:26 [INFO] [MyPet] Error-Reporter ENABLED
+04-08-2020 12:27 [INFO] [MyPet] Enabling MyPet v3.9
+04-08-2020 12:27 [INFO] [MyPet] No Update available.
+04-08-2020 12:27 [INFO] [MyPet] Custom entity registry found: net.citizensnpcs.nms.v1_15_R1.util.CustomEntityRegistry
+04-08-2020 12:27 [INFO] [MyPet] Compat mode for v1_15_R1 loaded.
+04-08-2020 12:27 [INFO] [MyPet] Exp calculation mode: MyPet
+04-08-2020 12:27 [INFO] [MyPet] Loading WorldGroups...
+04-08-2020 12:27 [INFO] [MyPet]    added 'world' to 'default'
+04-08-2020 12:27 [INFO] [MyPet]    added 'world_nether' to 'default'
+04-08-2020 12:27 [INFO] [MyPet]    added 'world_the_end' to 'default'
+04-08-2020 12:27 [INFO] [MyPet]    added 'shengcun' to 'default'
+04-08-2020 12:27 [INFO] [MyPet]    added 'kuangjie' to 'default'
+04-08-2020 12:27 [INFO] [MyPet] Connect to MySQL database...
+04-08-2020 12:27 [INFO] [MyPet] MySQL connection successful.
+04-08-2020 12:27 [INFO] [MyPet] Citizens (2.0.26-SNAPSHOT (build 1852)) hook activated.
+04-08-2020 12:27 [INFO] [MyPet] MythicMobs (4.9.0-3255) hook activated.
+04-08-2020 12:27 [INFO] [MyPet] PlaceholderAPI (2.10.5) hook activated.
+04-08-2020 12:27 [INFO] [MyPet] ProtocolLib (4.5.0) hook activated.
+04-08-2020 12:27 [INFO] [MyPet] Residence (4.9.0.5) hook activated.
+04-08-2020 12:27 [INFO] [MyPet] Vault (1.7.2-b107) (Economy: Essentials Economy) (Permissions: LuckPerms) hook activated.
+04-08-2020 12:27 [INFO] [MyPet] WorldGuard (7.0.2-SNAPSHOT;bf2593e) hook activated.
+04-08-2020 12:27 [INFO] [MyPet] Version 3.9-b1525 ENABLED
+04-08-2020 12:27 [INFO] [MyPet] Disabling MyPet v3.9
