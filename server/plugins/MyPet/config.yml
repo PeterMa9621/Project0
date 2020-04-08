@@ -12,7 +12,7 @@ MyPet:
     In-Background: false
     OP-Notification: true
   Leash:
-    Consume: false
+    Consume: true
     AllowRanged: true
   OwnerCanAttackPet: false
   DisablePetVersusPlayer: false
@@ -22,7 +22,7 @@ MyPet:
     Level: INFO
     Report-Errors: true
     Unique-ID: a8264c75-f748-4098-b243-00f035c97157
-  Max-Stored-Pet-Count: 45
+  Max-Stored-Pet-Count: 5
   Throw-PlayerMoveEvent-While-Riding: true
   Disable-All-Actionbar-Messages: false
   OverwriteLanguages: ''

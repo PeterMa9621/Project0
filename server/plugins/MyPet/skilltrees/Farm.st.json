@@ -1,5 +1,10 @@
 {
-  "Order": 4,
+  "ID": "Farm",
+  "Order": 6,
+  "Name": "Farm",
+  "Icon": {
+    "Material": "writable_book"
+  },
   "Description": [
     "- <red><bold>Melee<r> + <red><bold>Ranged Attack",
     "- <yellow><bold>Inventory",
@@ -7,25 +12,30 @@
     "- <red><bold>Poison",
     "- <blue><bold>Control"
   ],
+  "MobTypes": [
+    "*"
+  ],
   "Skills": {
-    "Ranged": {
-      "Upgrades": {
-        "7": {
-          "Rate": "+35",
-          "Damage": "+2",
-          "Projectile": "Arrow"
-        }
-      }
-    },
     "Backpack": {
       "Upgrades": {
         "1": {
-          "drop": false,
-          "rows": "+1"
+          "rows": "+1",
+          "drop": false
         },
         "5": {
-          "drop": false,
-          "rows": "+1"
+          "rows": "+1",
+          "drop": false
+        }
+      }
+    },
+    "Behavior": {
+      "Upgrades": {
+        "4": {
+          "Aggro": true,
+          "Duel": true,
+          "Farm": true,
+          "Friend": true,
+          "Raid": true
         }
       }
     },
@@ -33,6 +43,16 @@
       "Upgrades": {
         "8": {
           "Active": true
+        }
+      }
+    },
+    "Damage": {
+      "Upgrades": {
+        "3": {
+          "Damage": "+2"
+        },
+        "5": {
+          "Damage": "+0.5"
         }
       }
     },
@@ -48,14 +68,6 @@
         }
       }
     },
-    "Thorns": {
-      "Upgrades": {
-        "6": {
-          "Reflection": "+10",
-          "Chance": "+20"
-        }
-      }
-    },
     "Poison": {
       "Upgrades": {
         "9": {
@@ -64,34 +76,22 @@
         }
       }
     },
-    "Behavior": {
+    "Ranged": {
       "Upgrades": {
-        "4": {
-          "Friend": true,
-          "Farm": true,
-          "Duel": true,
-          "Aggro": true,
-          "Raid": true
+        "7": {
+          "Damage": "+2",
+          "Rate": "+35",
+          "Projectile": "Arrow"
         }
       }
     },
-    "Damage": {
+    "Thorns": {
       "Upgrades": {
-        "3": {
-          "Damage": "+2"
-        },
-        "5": {
-          "Damage": "+0.5"
+        "6": {
+          "Reflection": "+10",
+          "Chance": "+20"
         }
       }
     }
-  },
-  "MobTypes": [
-    "*"
-  ],
-  "ID": "Farm",
-  "Icon": {
-    "Material": "writable_book"
-  },
-  "Name": "Farm"
+  }
 }

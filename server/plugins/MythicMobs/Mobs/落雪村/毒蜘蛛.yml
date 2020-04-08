@@ -1,0 +1,15 @@
+﻿毒蜘蛛:
+  Type: CAVE_SPIDER
+  Display: '&4毒蜘蛛'
+  Health: 50
+  Damage: 10
+  Armor: 3
+  Options:
+    FollowRange: 10
+    PreventOtherDrops: true
+    AlwaysShowName: true
+    MovementSpeed: 0.3
+  AITargetSelectors:
+  - 0 clear
+  - 1 attacker
+  - 2 players

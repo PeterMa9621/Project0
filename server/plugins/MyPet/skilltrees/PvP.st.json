@@ -1,5 +1,10 @@
 {
-  "Order": 2,
+  "ID": "PvP",
+  "Order": 4,
+  "Name": "PvP",
+  "Icon": {
+    "Material": "diamond_sword"
+  },
   "Description": [
     "- <red><bold>Damage",
     "- <blue><bold>Sprint",
@@ -7,93 +12,54 @@
     "- <red><bold>Fire",
     "- <yellow><bold>Beacon"
   ],
+  "MobTypes": [
+    "*"
+  ],
   "Skills": {
     "Backpack": {
       "Upgrades": {
         "6": {
-          "drop": false,
-          "rows": "+1"
-        }
-      }
-    },
-    "Control": {
-      "Upgrades": {
-        "3": {
-          "Active": true
-        }
-      }
-    },
-    "Slow": {
-      "Upgrades": {
-        "4": {
-          "Duration": "+2",
-          "Chance": "+10"
-        },
-        "9": {
-          "Duration": "+1",
-          "Chance": "+5"
-        }
-      }
-    },
-    "Fire": {
-      "Upgrades": {
-        "5": {
-          "Duration": "+3",
-          "Chance": "+15"
+          "rows": "+1",
+          "drop": false
         }
       }
     },
     "Beacon": {
       "Upgrades": {
         "7": {
+          "Range": "+5",
+          "Duration": "+8",
+          "Count": "+1",
           "Buffs": {
             "Resistance": "+1",
             "Strength": "+1"
-          },
-          "Duration": "+8",
-          "Count": "+1",
-          "Range": "+5"
+          }
         },
         "10": {
+          "Range": "+5",
+          "Duration": "+2",
+          "Count": "+1",
           "Buffs": {
             "Resistance": "+2",
             "Strength": "+2"
-          },
-          "Duration": "+2",
-          "Count": "+1",
-          "Range": "+5"
-        }
-      }
-    },
-    "Life": {
-      "Upgrades": {
-        "9": {
-          "Health": "+5"
-        }
-      }
-    },
-    "Heal": {
-      "Upgrades": {
-        "8": {
-          "Timer": "+60",
-          "Health": "+4"
+          }
         }
       }
     },
     "Behavior": {
       "Upgrades": {
         "3": {
-          "Friend": true,
-          "Farm": false,
-          "Duel": true,
           "Aggro": false,
+          "Duel": true,
+          "Farm": false,
+          "Friend": true,
           "Raid": false
         }
       }
     },
-    "Sprint": {
+    "Control": {
       "Upgrades": {
-        "4": {
+        "3": {
           "Active": true
         }
       }
@@ -110,14 +76,48 @@
           "Damage": "+0.5"
         }
       }
+    },
+    "Fire": {
+      "Upgrades": {
+        "5": {
+          "Duration": "+3",
+          "Chance": "+15"
+        }
+      }
+    },
+    "Heal": {
+      "Upgrades": {
+        "8": {
+          "Health": "+4",
+          "Timer": "+60"
+        }
+      }
+    },
+    "Life": {
+      "Upgrades": {
+        "9": {
+          "Health": "+5"
+        }
+      }
+    },
+    "Slow": {
+      "Upgrades": {
+        "4": {
+          "Duration": "+2",
+          "Chance": "+10"
+        },
+        "9": {
+          "Duration": "+1",
+          "Chance": "+5"
+        }
+      }
+    },
+    "Sprint": {
+      "Upgrades": {
+        "4": {
+          "Active": true
+        }
+      }
     }
-  },
-  "MobTypes": [
-    "*"
-  ],
-  "ID": "PvP",
-  "Icon": {
-    "Material": "diamond_sword"
-  },
-  "Name": "PvP"
+  }
 }

@@ -1,5 +1,11 @@
 {
-  "Order": 3,
+  "ID": "Ride",
+  "Order": 5,
+  "Name": "Ride",
+  "Icon": {
+    "Material": "saddle",
+    "Glowing": true
+  },
   "Description": [
     "- <yellow><bold>Ride",
     "- <red><bold>Ranged Attacks",
@@ -8,25 +14,50 @@
     "- <red><bold>Thorns",
     "- <yellow><bold>Beacon<r> (Speed)"
   ],
+  "MobTypes": [
+    "*"
+  ],
   "Skills": {
-    "Ranged": {
-      "Upgrades": {
-        "2": {
-          "Rate": "+35",
-          "Damage": "+2",
-          "Projectile": "Snowball"
-        }
-      }
-    },
     "Backpack": {
       "Upgrades": {
         "3": {
-          "drop": false,
-          "rows": "+2"
+          "rows": "+2",
+          "drop": false
         },
         "5": {
-          "drop": false,
-          "rows": "+1"
+          "rows": "+1",
+          "drop": false
+        }
+      }
+    },
+    "Beacon": {
+      "Upgrades": {
+        "10": {
+          "Range": "+10",
+          "Duration": "+8",
+          "Count": "+1",
+          "Buffs": {
+            "WaterBreathing": true,
+            "Regeneration": "+2"
+          }
+        }
+      }
+    },
+    "Behavior": {
+      "Upgrades": {
+        "2": {
+          "Aggro": false,
+          "Duel": true,
+          "Farm": false,
+          "Friend": false,
+          "Raid": false
+        },
+        "7": {
+          "Aggro": false,
+          "Duel": true,
+          "Farm": false,
+          "Friend": true,
+          "Raid": false
         }
       }
     },
@@ -45,42 +76,24 @@
         }
       }
     },
-    "Beacon": {
-      "Upgrades": {
-        "10": {
-          "Buffs": {
-            "Regeneration": "+2",
-            "WaterBreathing": true
-          },
-          "Duration": "+8",
-          "Count": "+1",
-          "Range": "+10"
-        }
-      }
-    },
-    "Thorns": {
-      "Upgrades": {
-        "9": {
-          "Reflection": "+20",
-          "Chance": "+50"
-        }
-      }
-    },
-    "Behavior": {
+    "Ranged": {
       "Upgrades": {
         "2": {
-          "Friend": false,
-          "Farm": false,
-          "Duel": true,
-          "Aggro": false,
-          "Raid": false
+          "Damage": "+2",
+          "Rate": "+35",
+          "Projectile": "Snowball"
+        }
+      }
+    },
+    "Ride": {
+      "Upgrades": {
+        "1": {
+          "Active": true,
+          "Speed": "+5",
+          "JumpHeight": "+1.25"
         },
-        "7": {
-          "Friend": true,
-          "Farm": false,
-          "Duel": true,
-          "Aggro": false,
-          "Raid": false
+        "10": {
+          "CanFly": true
         }
       }
     },
@@ -91,26 +104,13 @@
         }
       }
     },
-    "Ride": {
+    "Thorns": {
       "Upgrades": {
-        "1": {
-          "Speed": "+5",
-          "Active": true,
-          "JumpHeight": "+1.25"
-        },
-        "10": {
-          "CanFly": true
+        "9": {
+          "Reflection": "+20",
+          "Chance": "+50"
         }
       }
     }
-  },
-  "MobTypes": [
-    "*"
-  ],
-  "ID": "Ride",
-  "Icon": {
-    "Material": "saddle",
-    "Glowing": true
-  },
-  "Name": "Ride"
+  }
 }

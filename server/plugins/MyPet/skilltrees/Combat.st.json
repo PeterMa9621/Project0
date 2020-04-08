@@ -1,17 +1,46 @@
 {
+  "ID": "Combat",
   "Order": 0,
+  "Name": "Combat",
+  "Requirements": [
+    "NoSkilltree"
+  ],
+  "Icon": {
+    "Material": "stone_axe"
+  },
   "Description": [
     "- <red><bold>Damage",
     "- <green><bold>Hp Regeneration",
     "- <red><bold>Thorns",
     "- <blue><bold>Knockback"
   ],
+  "MobTypes": [
+    "*"
+  ],
   "Skills": {
     "Backpack": {
       "Upgrades": {
         "6": {
-          "drop": false,
-          "rows": "+1"
+          "rows": "+1",
+          "drop": false
+        }
+      }
+    },
+    "Behavior": {
+      "Upgrades": {
+        "1": {
+          "Aggro": false,
+          "Duel": true,
+          "Farm": false,
+          "Friend": false,
+          "Raid": false
+        },
+        "3": {
+          "Aggro": true,
+          "Duel": true,
+          "Farm": false,
+          "Friend": true,
+          "Raid": false
         }
       }
     },
@@ -19,6 +48,29 @@
       "Upgrades": {
         "7": {
           "Active": true
+        }
+      }
+    },
+    "Damage": {
+      "Upgrades": {
+        "1": {
+          "Damage": "+1.5"
+        },
+        "3": {
+          "Damage": "+1.5"
+        },
+        "6": {
+          "Damage": "+1.5"
+        },
+        "8": {
+          "Damage": "+1.5"
+        }
+      }
+    },
+    "Heal": {
+      "Upgrades": {
+        "2": {
+          "Health": "+1"
         }
       }
     },
@@ -46,55 +98,6 @@
           "Chance": "+8"
         }
       }
-    },
-    "Heal": {
-      "Upgrades": {
-        "2": {
-          "Health": "+1"
-        }
-      }
-    },
-    "Behavior": {
-      "Upgrades": {
-        "1": {
-          "Friend": false,
-          "Farm": false,
-          "Duel": true,
-          "Aggro": false,
-          "Raid": false
-        },
-        "3": {
-          "Friend": true,
-          "Farm": false,
-          "Duel": true,
-          "Aggro": true,
-          "Raid": false
-        }
-      }
-    },
-    "Damage": {
-      "Upgrades": {
-        "1": {
-          "Damage": "+1.5"
-        },
-        "3": {
-          "Damage": "+1.5"
-        },
-        "6": {
-          "Damage": "+1.5"
-        },
-        "8": {
-          "Damage": "+1.5"
-        }
-      }
     }
-  },
-  "MobTypes": [
-    "*"
-  ],
-  "ID": "Combat",
-  "Icon": {
-    "Material": "stone_axe"
-  },
-  "Name": "Combat"
+  }
 }

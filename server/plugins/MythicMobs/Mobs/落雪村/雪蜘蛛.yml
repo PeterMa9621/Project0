@@ -1,0 +1,20 @@
+﻿雪蜘蛛:
+  Type: SPIDER
+  Display: '&a雪蜘蛛'
+  Health: 80
+  Damage: 7
+  Armor: 3
+  Options:
+    FollowRange: 15
+    AlwaysShowName: true
+    PreventOtherDrops: true
+  AITargetSelectors:
+  - 0 clear
+  - 1 attacker
+  - 2 players
+  LevelModifiers:
+    Health: 5
+    Damage: 0.5
+  Skills:
+  - setlevel{a=set;l=1} ~onSpawn
+  - setlevel{a=add;l=1} ~onKillPlayer
