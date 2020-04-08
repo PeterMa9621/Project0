@@ -1,0 +1,25 @@
+﻿shiwangbaobao:
+  Type: BABY_ZOMBIE
+  Display: '&c尸王宝宝'
+  Health: 500
+  Damage: 11
+  Armor: 1
+  Modules:
+    ThreatTable: true
+  Options:
+    AlwaysShowName: true
+    KnockbackResistance: 0.1
+    PreventOtherDrops: true
+  AITargetSelectors:
+  - 0 clear
+  - 1 attacker
+  - 2 players
+  DamageModifiers:
+  - PROJECTILE 1.5
+  Equipment:
+  - pige4:4
+  Skills:
+  - forcepull @PlayersInRadius{r=10} ~onDamaged 0.2
+  - summon{m=shiwangxiaoshouwei;a=1;r=5} @Target ~onTimer:300 0.5
+  - heal{a=60;overheal=false} @Self ~onDamaged <30% 0.2
+  - potion{type=SLOW;d=40;l=3} @Target ~onTimer:100 0.3

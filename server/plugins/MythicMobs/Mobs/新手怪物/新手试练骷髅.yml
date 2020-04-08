@@ -1,0 +1,22 @@
+﻿xinshoushilian3:
+  Type: SKELETON
+  Display: '新手试练骷髅'
+  Health: 25
+  Damage: 3
+  Modules:
+    ThreatTable: true
+  Options:
+    AlwaysShowName: true
+    MovementSpeed: 0.2
+    PreventOtherDrops: true
+    FollowRange: 10
+  AITargetSelectors:
+  - 0 clear
+  - 1 players
+  - 2 attacker
+  Equipment:
+  - pige4:4
+  - pige3:3
+  - pige2:2
+  - pige1:1 
+  - mujian:0

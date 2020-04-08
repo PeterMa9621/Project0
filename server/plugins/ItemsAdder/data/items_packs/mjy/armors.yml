@@ -16,6 +16,7 @@ items:
       head:
         armor: 6.5
         armorToughness: 2
+        maxHealth: 3
       
   rongyan_chest:
     display_name: 熔岩护甲
@@ -32,6 +33,7 @@ items:
       chest:
         armor: 11.5
         armorToughness: 2
+        maxHealth: 6
       
   rongyan_leg:
     display_name: 熔岩护腿
@@ -48,6 +50,7 @@ items:
       legs:
         armor: 9.5
         armorToughness: 2
+        maxHealth: 3
       
   rongyan_feet:
     display_name: 熔岩靴子
@@ -64,6 +67,7 @@ items:
       feet:
         armor: 6.5
         armorToughness: 2
+        maxHealth: 2
   
   wushi_head:
     display_name: 武士头盔
@@ -148,6 +152,7 @@ items:
         armor: 6.5
         armorToughness: 2
         knockbackResistance: 0.01
+        maxHealth: 3
       
   diaolingwang_chest:
     display_name: '&d凋零王的护甲'
@@ -168,6 +173,7 @@ items:
         armor: 11.5
         armorToughness: 2
         knockbackResistance: 0.03
+        maxHealth: 7
       
   diaolingwang_leg:
     display_name: '&d凋零王的护腿'
@@ -188,6 +194,7 @@ items:
         armor: 9.5
         armorToughness: 2
         knockbackResistance: 0.02
+        maxHealth: 3
       
   diaolingwang_feet:
     display_name: '&d凋零王的战靴'
@@ -208,6 +215,7 @@ items:
         armor: 6.5
         armorToughness: 2
         knockbackResistance: 0.02
+        maxHealth: 3
         
   xuemo_head:
     display_name: '&e血魔(头盔)'
@@ -227,7 +235,7 @@ items:
       head:
         armor: 3.5
         armorToughness: 2
-        maxHealth: 1
+        maxHealth: 4
       
   xuemo_chest:
     display_name: '&e血魔(盔甲)'
@@ -247,7 +255,7 @@ items:
       chest:
         armor: 8.5
         armorToughness: 2
-        maxHealth: 3
+        maxHealth: 10
       
   xuemo_leg:
     display_name: '&e血魔(护腿)'
@@ -267,7 +275,7 @@ items:
       legs:
         armor: 6.5
         armorToughness: 2
-        maxHealth: 2
+        maxHealth: 3
       
   xuemo_feet:
     display_name: '&e血魔(战靴)'
@@ -287,7 +295,7 @@ items:
       feet:
         armor: 3.5
         armorToughness: 2
-        maxHealth: 2
+        maxHealth: 3
     
   shilian_head:
     display_name: '&8试练头盔'
@@ -501,6 +509,7 @@ items:
       head:
         armor: 5.5
         armorToughness: 3
+        maxHealth: 2
         
   shouhuzhe_chest:
     display_name: '&3守护者铠甲'
@@ -520,6 +529,7 @@ items:
       chest:
         armor: 10.5
         armorToughness: 3
+        maxHealth: 5
         
   shouhuzhe_legs:
     display_name: '&3守护者护腿'
@@ -539,6 +549,7 @@ items:
       legs:
         armor: 8.5
         armorToughness: 3
+        maxHealth: 4
         
   shouhuzhe_boots:
     display_name: '&3守护者战靴'
@@ -558,6 +569,7 @@ items:
       feet:
         armor: 5.5
         armorToughness: 3
+        maxHealth: 3
         
   yongye_head:
     display_name: '&8永夜(头盔)'
@@ -577,6 +589,7 @@ items:
       head:
         armor: 4
         armorToughness: 2
+        maxHealth: 1
         
   yongye_chest:
     display_name: '&8永夜(铠甲)'
@@ -596,6 +609,7 @@ items:
       chest:
         armor: 9
         armorToughness: 2
+        maxHealth: 4
         
   yongye_legs:
     display_name: '&8永夜(护腿)'
@@ -615,6 +629,7 @@ items:
       legs:
         armor: 7
         armorToughness: 2
+        maxHealth: 2
         
   yongye_boots:
     display_name: '&8永夜(战靴)'
@@ -634,6 +649,7 @@ items:
       feet:
         armor: 4
         armorToughness: 2
+        maxHealth: 1
         
   anjin_head:
     display_name: '&3暗金头盔'
@@ -653,6 +669,7 @@ items:
       head:
         armor: 5
         armorToughness: 2
+        maxHealth: 1
         
   anjin_chest:
     display_name: '&3暗金铠甲'
@@ -673,6 +690,7 @@ items:
         armor: 10
         armorToughness: 2
         knockbackResistance: 0.05
+        maxHealth: 4
         
   anjin_legs:
     display_name: '&3暗金护腿'
@@ -692,6 +710,7 @@ items:
       legs:
         armor: 8
         armorToughness: 2
+        maxHealth: 2
         
   anjin_boots:
     display_name: '&3暗金战靴'
@@ -711,3 +730,4 @@ items:
       feet:
         armor: 5
         armorToughness: 2
+        maxHealth: 1

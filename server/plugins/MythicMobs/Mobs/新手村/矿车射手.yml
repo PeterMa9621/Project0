@@ -1,0 +1,24 @@
+﻿kuangchesheshou:
+  Type: SKELETON
+  Display: '&4矿车射手'
+  Health: 20
+  Armor: 3
+  Modules:
+    ThreatTable: true
+  Options:
+    FollowRange: 10
+    AlwaysShowName: true
+    KnockbackResistance: 0.5
+    PreventOtherDrops: true
+  Disguise:
+    Type: minecart_chest
+  AITargetSelectors:
+  - 0 clear
+  - 1 attacker
+  - 2 players
+  Equipment:
+  - pige4:4
+  - pige3:3
+  Skills:
+  - shoot{t=snowball;v=2;d=6} @target ~onTimer:20 1   
+  - suicide @self ~onDamaged <20% 0.5

@@ -1,0 +1,29 @@
+﻿疯牛魂魄:
+  Type: SPIDER
+  Display: '&c疯牛 魂魄'
+  Health: 30
+  Damage: 3
+  Armor: 1
+  Modules:
+    ThreatTable: true
+  Options:
+    AlwaysShowName: true
+    MovementSpeed: 0.2
+    PreventOtherDrops: true
+  Disguise:
+    Type: cow
+    Burning: true
+    #Player: BiShop
+    #Skin: BiShop
+    #Type: BLOCK
+    #Block: IRON_BLOCK
+    #BlockData: 0
+    #ShowName: true
+  AITargetSelectors:
+  - 0 ThreatHolder
+  - 1 attacker
+  - 2 players
+  Equipment:
+  - pige4:4
+  Skills:
+  - leap{v=200} @Target ~onDamaged 0.2
