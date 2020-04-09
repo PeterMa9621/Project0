@@ -1,0 +1,9 @@
+timeToNextPlayAfterFinish: 2
+timeToFinish: 1200
+
+initialLives: 3
+
+title:
+  title: "&4混乱之地"
+  
+time: 4000

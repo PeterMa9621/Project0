@@ -112,7 +112,10 @@ diaolingwang:
       displayName: "&5挑战者之剑"
       model: 49
 
-test:
+# ###################
+# 混乱之地
+# ###################
+hunluanzhidi:
   '1':
     cmd: ph giveitem %player% mjy:wushi_sword
     chance: 0.25

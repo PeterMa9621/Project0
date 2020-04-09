@@ -77,7 +77,7 @@ Blacklist:
 Whitelist: []
 
 # Show the health of the entity that the player is looking at.
-Show On Look: true
+Show On Look: false
 Look Distance: 10
 
 LookValues:
