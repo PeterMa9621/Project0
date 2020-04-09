@@ -51,15 +51,15 @@ timings:
   history-length: 3600
   server-name: Unknown Server
 messages:
-  no-permission: '&cI''m sorry, but you do not have permission to perform this command.
-    Please contact the server administrators if you believe that this is in error.'
+  no-permission: '&c你没有权限这么做.'
   kick:
-    connection-throttle: Connection throttled! Please wait before reconnecting.
-    flying-player: Flying is not enabled on this server
-    flying-vehicle: Flying is not enabled on this server
+    connection-throttle: 同时连接数量过多,请稍后再试.
+    flying-player: 服务器禁止飞行
+    flying-vehicle: 服务器禁止飞行
     authentication-servers-down: ''
 world-settings:
   default:
+    light-queue-size: 20
     seed-based-feature-search: true
     portal-create-radius: 16
     iron-golems-can-spawn-in-air: false
@@ -74,47 +74,47 @@ world-settings:
     keep-spawn-loaded: true
     auto-save-interval: -1
     armor-stands-do-collision-entity-lookups: true
-    per-player-mob-spawns: false
-    optimize-explosions: false
-    prevent-moving-into-unloaded-chunks: false
+    per-player-mob-spawns: true
+    optimize-explosions: true
+    prevent-moving-into-unloaded-chunks: true
     use-vanilla-world-scoreboard-name-coloring: false
     portal-search-radius: 128
     enable-treasure-maps: true
     treasure-maps-return-already-discovered: false
-    max-auto-save-chunks-per-tick: 24
+    max-auto-save-chunks-per-tick: 8
     fixed-chunk-inhabited-time: -1
     duplicate-uuid-resolver: saferegen
     duplicate-uuid-saferegen-delete-range: 32
     disable-creeper-lingering-effect: false
     filter-nbt-data-from-spawn-eggs-and-related: true
-    max-entity-collisions: 8
+    max-entity-collisions: 2
     nether-ceiling-void-damage-height: 0
     disable-explosion-knockback: false
     allow-non-player-entities-on-scoreboards: false
     water-over-lava-flow-speed: 5
-    use-faster-eigencraft-redstone: false
+    use-faster-eigencraft-redstone: true
     fix-zero-tick-instant-grow-farms: true
     parrots-are-unaffected-by-player-movement: false
-    container-update-tick-rate: 1
-    non-player-arrow-despawn-rate: -1
-    creative-arrow-despawn-rate: -1
+    container-update-tick-rate: 3
+    non-player-arrow-despawn-rate: 60
+    creative-arrow-despawn-rate: 60
     prevent-tnt-from-moving-in-water: false
-    grass-spread-tick-rate: 1
+    grass-spread-tick-rate: 4
     bed-search-radius: 1
     disable-teleportation-suffocation-check: false
-    armor-stands-tick: true
+    armor-stands-tick: false
     spawner-nerfed-mobs-should-jump: false
     baby-zombie-movement-modifier: 0.5
     allow-leashing-undead-horse: false
     all-chunks-are-slime-chunks: false
-    mob-spawner-tick-rate: 1
+    mob-spawner-tick-rate: 2
     remove-corrupt-tile-entities: false
     experience-merge-max-value: -1
     falling-block-height-nerf: 0
     tnt-entity-height-nerf: 0
     anti-xray:
-      enabled: false
-      engine-mode: 1
+      enabled: true
+      engine-mode: 2
       chunk-edge-mode: 2
       max-chunk-section-index: 3
       update-radius: 2
@@ -144,7 +144,7 @@ world-settings:
       nerf-pigmen-from-nether-portals: false
       scan-for-legacy-ender-dragon: true
       shield-blocking-delay: 5
-      disable-chest-cat-detection: false
+      disable-chest-cat-detection: true
       disable-player-crits: false
       disable-end-credits: false
       disable-sprint-interruption-on-attack: false
@@ -164,7 +164,7 @@ world-settings:
       reeds: 3
     hopper:
       cooldown-when-full: true
-      disable-move-event: false
+      disable-move-event: true
     lootables:
       auto-replenish: false
       restrict-player-reloot: true
@@ -173,15 +173,16 @@ world-settings:
       refresh-min: 12h
       refresh-max: 2d
     alt-item-despawn-rate:
-      enabled: false
+      enabled: true
       items:
         COBBLESTONE: 300
+        NETHERRACK: 300
     fishing-time-range:
       MinimumTicks: 100
       MaximumTicks: 600
     despawn-ranges:
-      soft: 32
-      hard: 128
+      soft: 28
+      hard: 96
     frosted-ice:
       enabled: true
       delay:

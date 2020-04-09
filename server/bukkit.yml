@@ -21,19 +21,19 @@ settings:
   connection-throttle: 4000
   query-plugins: true
   deprecated-verbose: default
-  shutdown-message: Server closed
+  shutdown-message: 服务器已关闭
   minimum-api: none
 spawn-limits:
-  monsters: 70
-  animals: 10
-  water-animals: 15
-  ambient: 15
+  monsters: 50
+  animals: 8
+  water-animals: 3
+  ambient: 1
 chunk-gc:
-  period-in-ticks: 600
+  period-in-ticks: 400
 ticks-per:
   water-spawns: 1
   ambient-spawns: 1
   animal-spawns: 400
-  monster-spawns: 1
+  monster-spawns: 4
   autosave: 6000
 aliases: now-in-commands.yml

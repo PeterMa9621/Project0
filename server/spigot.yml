@@ -80,14 +80,14 @@ world-settings:
     arrow-despawn-rate: 1200
     hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
-    nerf-spawner-mobs: false
-    mob-spawn-range: 8
+    nerf-spawner-mobs: true
+    mob-spawn-range: 6
     hopper-amount: 1
     max-tnt-per-tick: 100
     max-entity-collisions: 8
     merge-radius:
-      item: 2.5
-      exp: 3.0
+      item: 4.0
+      exp: 6.0
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -107,11 +107,11 @@ world-settings:
       kelp-modifier: 100
     entity-activation-range:
       water: 16
-      animals: 32
-      monsters: 32
+      animals: 16
+      monsters: 24
       raiders: 48
-      misc: 16
-      tick-inactive-villagers: true
+      misc: 8
+      tick-inactive-villagers: false
     ticks-per:
       hopper-transfer: 8
       hopper-check: 1

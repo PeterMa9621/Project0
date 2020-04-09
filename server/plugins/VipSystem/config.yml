@@ -5,9 +5,7 @@ VipSystem:
   - vip1
   - vip2
   - vip3
-  - vip4
   VIPGroupsName:
   - 初级会员
-  - 中级会员
   - 高级会员
   - 至尊会员

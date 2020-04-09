@@ -64,6 +64,7 @@ anjinshushi2:
   - message{m="<mob.name><&co> 出来吧，魂魄们!"} @PlayersInRadius{r=20}
   - delay 20
   - summon{mob=疯牛魂魄;amount=1;noise=5} @Self
+  - summon{mob=疯狗魂魄;amount=1;noise=5} @Self
 # 隐身技能
 隐身:
   Skills:
