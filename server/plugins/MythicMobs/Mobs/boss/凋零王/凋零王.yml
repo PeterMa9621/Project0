@@ -20,6 +20,7 @@ diaolingqishi:
     Despawn: false
     MovementSpeed: 0.3
     AlwaysShowName: true
+    PreventOtherDrops: true
     
 diaolingwang:
   Type: WITHER_SKELETON
@@ -52,15 +53,17 @@ diaolingwang:
     MovementSpeed: 0.25
     MaxCombatDistance: 25
     PreventOtherDrops: true
+
 diaolingshibing:
   Type: SKELETON
   Display: '&2凋零士兵'
-  Health: 10
-  Damage: 2
+  Health: 16
+  Damage: 3
   AITargetSelectors:
   - 0 clear
   - 1 players
   Options:
     Despawn: false
     MovementSpeed: 0.2
+    PreventOtherDrops: true
     AlwaysShowName: true

@@ -2,11 +2,16 @@ configVersion: 4
 stats:
   finishedTutorial: false
   timeLastStarted:
+    jingmizhidi: 1586413829751
     boss: 1585891316622
     test: 1585949252289
+    shiwang: 1586401604945
+    hunluanzhidi: 1586414428290
   timeLastFinished:
+    jingmizhidi: 1586413586011
     boss: 1585891368584
     test: 1585949256606
   timeLastLoot:
+    jingmizhidi: 1586413586010
     boss: 1585891368582
     test: 1585949256576

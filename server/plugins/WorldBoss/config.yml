@@ -6,10 +6,10 @@ group1:
   day: 5
   time: '15:27'
 group2:
-  name: boss2
-  displayName: Boss No.2
-  startGameCmd: dxl play test
-  time: '15:27'
+  name: diaolingwang
+  displayName: 凋零王
+  startGameCmd: dxl play diaolingwang
+  time: '22:38'
 group3:
   name: boss3
   displayName: Boss No.3

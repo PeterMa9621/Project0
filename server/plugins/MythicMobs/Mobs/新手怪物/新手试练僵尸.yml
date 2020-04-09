@@ -1,22 +1,59 @@
-﻿xinshoushilian1:
+﻿shilian1:
   Type: ZOMBIE
-  Display: '新手试练僵尸'
+  Display: '弱小的僵尸'
   Health: 30
-  Damage: 2
+  Damage: 3
   Modules:
     ThreatTable: true
   Options:
     AlwaysShowName: true
     MovementSpeed: 0.2
     PreventOtherDrops: true
-    FollowRange: 10
+    PreventSunburn: true
+    FollowRange: 20
   AITargetSelectors:
   - 0 ThreatHolder
   - 1 attacker
   - 2 players
   Equipment:
-  - pige4:4
-  - pige3:3
-  - pige2:2
-  - pige1:1 
+  - mujian:0
+
+shilian1T1:
+  Type: ZOMBIE
+  Display: '弱小的僵尸'
+  Health: 30
+  Damage: 3
+  Modules:
+    ThreatTable: true
+  Options:
+    AlwaysShowName: true
+    MovementSpeed: 0.2
+    PreventOtherDrops: true
+    PreventSunburn: true
+    FollowRange: 20
+  AITargetSelectors:
+  - 0 ThreatHolder
+  - 1 attacker
+  - 2 players
+  Equipment:
+  - mujian:0
+
+shilian1T2:
+  Type: ZOMBIE
+  Display: '弱小的僵尸'
+  Health: 30
+  Damage: 3
+  Modules:
+    ThreatTable: true
+  Options:
+    AlwaysShowName: true
+    MovementSpeed: 0.2
+    PreventOtherDrops: true
+    PreventSunburn: true
+    FollowRange: 20
+  AITargetSelectors:
+  - 0 ThreatHolder
+  - 1 attacker
+  - 2 players
+  Equipment:
   - mujian:0

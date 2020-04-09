@@ -1,5 +1,5 @@
 cmd:
-  doesNotExist: "&cThis command does not exist."
-  noConsoleCommand: "&cThis command may not be executed by the console."
-  noPermission: "&cYou do not have permission to use this command."
-  noPlayerCommand: "&cThis command may not be executed by a player."
+  doesNotExist: "&c命令不存在."
+  noConsoleCommand: "&c控制台无法执行这条命令."
+  noPermission: "&c你没有权限这么做."
+  noPlayerCommand: "&c玩家无法执行这条命令."

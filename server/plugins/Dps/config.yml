@@ -21,28 +21,28 @@ shiwang:
     chance: 0.3
     icon:
       id: DIAMOND
-      displayName: "&f钻石10个"
+      displayName: "&6钻石10个"
       model: 0
   '4':
     cmd: give %player% diamond 64
     chance: 0.1
     icon:
       id: DIAMOND
-      displayName: "&f钻石64个"
+      displayName: "&6钻石64个"
       model: 0
   '5':
     cmd: give %player% emerald 64
     chance: 0.02
     icon:
       id: EMERALD
-      displayName: "&f绿宝石64个"
+      displayName: "&6绿宝石64个"
       model: 0
   '6':
     cmd: give %player% emerald 32
     chance: 0.08
     icon:
       id: EMERALD
-      displayName: "&f绿宝石32个"
+      displayName: "&6绿宝石32个"
       model: 0
   '7':
     cmd: ph giveitem %player% mjy:rongyan_sword
@@ -80,32 +80,40 @@ diaolingwang:
   '2':
     cmd: give %player% diamond 12
     chance: 0.13
+    icon:
+      id: DIAMOND
+      displayName: "&6钻石12个"
+      model: 0
   '3':
     cmd: give %player% diamond 8
     chance: 0.2
+    icon:
+      id: DIAMOND
+      displayName: "&6钻石8个"
+      model: 0
   '4':
     cmd: give %player% emerald 6
     chance: 0.12
     icon:
       id: EMERALD
-      displayName: "&f绿宝石6个"
+      displayName: "&6绿宝石6个"
       model: 0
   '5':
-    cmd: ph giveitem BiShop mjy:shilian_sword
+    cmd: ph giveitem %player% mjy:shilian_sword
     chance: 0.19
     icon:
       id: DIAMOND_SWORD
       displayName: "&8试炼剑"
       model: 29
   '6':
-    cmd: ph giveitem BiShop mjy:yeren_sword
+    cmd: ph giveitem %player% mjy:yeren_sword
     chance: 0.18
     icon:
       id: DIAMOND_SWORD
       displayName: "&8夜刃"
       model: 33
   '7':
-    cmd: ph giveitem BiShop mjy:tiaozhanzhe_sword
+    cmd: ph giveitem %player% mjy:tiaozhanzhe_sword
     chance: 0.1
     icon:
       id: DIAMOND_SWORD
@@ -117,22 +125,105 @@ diaolingwang:
 # ###################
 hunluanzhidi:
   '1':
-    cmd: ph giveitem %player% mjy:wushi_sword
-    chance: 0.25
+    cmd: ph giveitem %player% mjy:shilian_sword
+    chance: 0.29
     icon:
       id: DIAMOND_SWORD
-      displayName: "&9武士剑"
-      model: 27
+      displayName: "&8试炼剑"
+      model: 29
   '2':
-    cmd: ph giveitem %player% mjy:wushi_sword
-    chance: 0.25
+    cmd: ph giveitem %player% mjy:gujian_sword
+    chance: 0.06
     icon:
       id: DIAMOND_SWORD
-      displayName: "&9武士剑"
-      model: 27
+      displayName: "&9骨剑"
+      model: 35
   '3':
-    cmd: give %player% diamond 2
-    chance: 0.25
+    cmd: eco give %player% 100
+    chance: 0.23
+    icon:
+      id: STICK
+      displayName: "&6100金币"
+      model: 29
   '4':
-    cmd: give %player% diamond 3
-    chance: 0.25
+    cmd: eco give %player% 300
+    chance: 0.09
+    icon:
+      id: STICK
+      displayName: "&6300金币"
+      model: 29
+  '5':
+    cmd: give %player% diamond 4
+    chance: 0.2
+    icon:
+      id: DIAMOND
+      displayName: "&6钻石4个"
+      model: 0
+  '6':
+    cmd: give %player% diamond 8
+    chance: 0.1
+    icon:
+      id: DIAMOND
+      displayName: "&6钻石8个"
+      model: 0
+  '7':
+    cmd: give %player% emerald 8
+    chance: 0.03
+    icon:
+      id: EMERALD
+      displayName: "&6绿宝石8个"
+      model: 0
+
+# ###################
+# 静谧之地
+# ###################
+jingmizhidi:
+  '1':
+    cmd: give %player% iron_sword 1
+    chance: 0.3
+    icon:
+      id: IRON_SWORD
+      displayName: "&f铁剑"
+      model: 0
+  '2':
+    cmd: ph giveitem %player% mjy:shilian_sword
+    chance: 0.1
+    icon:
+      id: DIAMOND_SWORD
+      displayName: "&8试炼剑"
+      model: 29
+  '3':
+    cmd: eco give %player% 50
+    chance: 0.2
+    icon:
+      id: STICK
+      displayName: "&650金币"
+      model: 29
+  '4':
+    cmd: eco give %player% 100
+    chance: 0.1
+    icon:
+      id: STICK
+      displayName: "&6100金币"
+      model: 29
+  '5':
+    cmd: give %player% diamond 2
+    chance: 0.1
+    icon:
+      id: DIAMOND
+      displayName: "&6钻石2个"
+      model: 0
+  '6':
+    cmd: give %player% iron_ingot 10
+    chance: 0.1
+    icon:
+      id: IRON_INGOT
+      displayName: "&6铁10个"
+      model: 0
+  '7':
+    cmd: give %player% gold_ingot 6
+    chance: 0.1
+    icon:
+      id: GOLD_INGOT
+      displayName: "&6黄金6个"
+      model: 0

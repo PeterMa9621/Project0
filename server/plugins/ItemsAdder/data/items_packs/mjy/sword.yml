@@ -190,7 +190,6 @@ items:
         attackDamage: 8.5
         attackSpeed: 1.3
         maxHealth: 2
-        movementSpeed: -0.03
         
   shiyue_axe:
     display_name: '&c蚀月斧'
