@@ -667,7 +667,7 @@ items:
         color: dbb014
     attribute_modifiers:
       head:
-        armor: 5
+        armor: 3
         armorToughness: 2
         maxHealth: 1
         
@@ -687,7 +687,7 @@ items:
         color: dbb014
     attribute_modifiers:
       chest:
-        armor: 10
+        armor: 9
         armorToughness: 2
         knockbackResistance: 0.05
         maxHealth: 4
@@ -708,7 +708,7 @@ items:
         color: dbb014
     attribute_modifiers:
       legs:
-        armor: 8
+        armor: 6
         armorToughness: 2
         maxHealth: 2
         
@@ -728,6 +728,6 @@ items:
         color: dbb014
     attribute_modifiers:
       feet:
-        armor: 5
+        armor: 3
         armorToughness: 2
         maxHealth: 1

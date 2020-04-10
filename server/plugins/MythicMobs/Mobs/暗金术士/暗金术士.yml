@@ -12,6 +12,7 @@
     PreventOtherDrops: true
     KnockbackResistance: 0.5
     NoAI: false
+    Despawn: false
   AITargetSelectors:
   - 0 ThreatHolder
   - 1 attacker

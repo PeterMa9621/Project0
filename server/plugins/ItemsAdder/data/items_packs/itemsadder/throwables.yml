@@ -89,13 +89,13 @@ items:
       item_throw:
         play_particle:
           name: ENCHANTMENT_TABLE
-loots:
-  mobs:
-    witch:
-      type: WITCH
-      items:
-        item_1:
-          item: itemsadder:mysterious_amulet
-          min_amount: 1
-          max_amount: 1
-          chance: 20
+# loots:
+  # mobs:
+    # witch:
+      # type: WITCH
+      # items:
+        # item_1:
+          # item: itemsadder:mysterious_amulet
+          # min_amount: 1
+          # max_amount: 1
+          # chance: 20

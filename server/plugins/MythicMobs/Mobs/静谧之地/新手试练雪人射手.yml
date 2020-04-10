@@ -8,6 +8,7 @@
     Despawn: false
     PreventSnowFormation: true
     PreventOtherDrops: true
+    Despawn: false
   AITargetSelectors:
   - 0 clear
   - 1 players
@@ -26,6 +27,7 @@ shilian3T1:
     Despawn: false
     PreventSnowFormation: true
     PreventOtherDrops: true
+    Despawn: false
   AITargetSelectors:
   - 0 clear
   - 1 players
@@ -44,6 +46,7 @@ shilian3T2:
     Despawn: false
     PreventSnowFormation: true
     PreventOtherDrops: true
+    Despawn: false
   AITargetSelectors:
   - 0 clear
   - 1 players

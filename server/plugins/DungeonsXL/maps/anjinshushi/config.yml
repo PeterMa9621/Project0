@@ -1,3 +1,5 @@
+timeToNextPlayAfterFinish: 2
+timeToFinish: 1200
 initialLives: 4
 
 title:

@@ -10,6 +10,7 @@
     AlwaysShowName: true
     MovementSpeed: 0.2
     PreventOtherDrops: true
+    Despawn: false
   Disguise:
     Type: cow
     Burning: true

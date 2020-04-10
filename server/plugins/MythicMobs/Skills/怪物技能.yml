@@ -15,11 +15,11 @@ kuangchesiling:
   Skills:
   - message{m="<mob.name><&co> 出来吧，我的战士们!"} @PlayersInRadius{r=20}
   - delay 20
-  - summon{mob=kuangchesheshou;amount=1;noise=5} @Self
+  - summon{mob=kc_sheshou;amount=1;noise=5} @Self
   - delay 20
-  - summon{mob=kuangchezhadan;amount=1;noise=5} @Self
+  - summon{mob=kc_zhadan;amount=1;noise=5} @Self
   - delay 20
-  - summon{mob=kuangchezhanshi;amount=1;noise=5} @Self
+  - summon{mob=kc_zhanshi;amount=1;noise=5} @Self
 AngrySludgePoison:
   Cooldown: 10
   Skills:

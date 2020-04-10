@@ -945,26 +945,26 @@ items:
       generate: true
       textures:
       - item/shotgun_cartridge.png
-loots:
-  blocks:
-    oak_leaves:
-      type: OAK_LEAVES
-      items:
-        nest:
-          item: itemsadder:nest
-          min_amount: 1
-          max_amount: 2
-          chance: 3
-        eggs_nest:
-          item: itemsadder:eggs_nest
-          min_amount: 1
-          max_amount: 2
-          chance: 1
-    grass:
-      type: GRASS
-      items:
-        four_leaf_clover:
-          item: itemsadder:four_leaf_clover
-          min_amount: 1
-          max_amount: 1
-          chance: 1
+# loots:
+  # blocks:
+    # oak_leaves:
+      # type: OAK_LEAVES
+      # items:
+        # nest:
+          # item: itemsadder:nest
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 3
+        # eggs_nest:
+          # item: itemsadder:eggs_nest
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 1
+    # grass:
+      # type: GRASS
+      # items:
+        # four_leaf_clover:
+          # item: itemsadder:four_leaf_clover
+          # min_amount: 1
+          # max_amount: 1
+          # chance: 1

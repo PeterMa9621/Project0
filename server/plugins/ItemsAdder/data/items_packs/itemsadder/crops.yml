@@ -74,50 +74,50 @@ recipes:
       result:
         item: itemsadder:tobacco_seeds
         amount: 2
-loots:
-  blocks:
-    grass:
-      type: GRASS
-      items:
-        tomato_seeds:
-          item: itemsadder:tomato_seeds
-          min_amount: 1
-          max_amount: 2
-          chance: 5
-        garlic_seeds:
-          item: itemsadder:garlic_seeds
-          min_amount: 1
-          max_amount: 2
-          chance: 5
-        rice_seeds:
-          item: itemsadder:rice_seeds
-          min_amount: 1
-          max_amount: 2
-          chance: 10
-    fern:
-      type: FERN
-      items:
-        lettuce_seeds:
-          item: itemsadder:lettuce_seeds
-          min_amount: 1
-          max_amount: 2
-          chance: 10
-    tall_grass:
-      type: TALL_GRASS
-      items:
-        chili_pepper_seeds:
-          item: itemsadder:chili_pepper_seeds
-          min_amount: 1
-          max_amount: 2
-          chance: 5
-    dead_bush:
-      type: DEAD_BUSH
-      items:
-        tobacco_seeds:
-          item: itemsadder:tobacco_seeds
-          min_amount: 1
-          max_amount: 2
-          chance: 10
+# loots:
+  # blocks:
+    # grass:
+      # type: GRASS
+      # items:
+        # tomato_seeds:
+          # item: itemsadder:tomato_seeds
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 5
+        # garlic_seeds:
+          # item: itemsadder:garlic_seeds
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 5
+        # rice_seeds:
+          # item: itemsadder:rice_seeds
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 10
+    # fern:
+      # type: FERN
+      # items:
+        # lettuce_seeds:
+          # item: itemsadder:lettuce_seeds
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 10
+    # tall_grass:
+      # type: TALL_GRASS
+      # items:
+        # chili_pepper_seeds:
+          # item: itemsadder:chili_pepper_seeds
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 5
+    # dead_bush:
+      # type: DEAD_BUSH
+      # items:
+        # tobacco_seeds:
+          # item: itemsadder:tobacco_seeds
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 10
 items:
   tomato_seeds:
     display_name: Tomato Seeds

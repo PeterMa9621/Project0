@@ -1322,197 +1322,197 @@ items:
         break_tools_whitelist:
         - PICKAXE
         - pickaxe
-worlds_populators:
-  ruby_ore:
-    block: itemsadder:ruby_ore
-    worlds:
-    - world
-    replaceable_blocks:
-    - STONE
-    - DIRT
-    - ANDESITE
-    - GRANITE
-    - COBBLESTONE
-    - GRAVEL
-    chance: 70.0
-    max_height: 45
-    min_height: 25
-    amount: 6
-    iterations: 1
-  spinel_ore:
-    block: itemsadder:spinel_ore
-    worlds:
-    - world
-    replaceable_blocks:
-    - STONE
-    - DIRT
-    - ANDESITE
-    - GRANITE
-    - COBBLESTONE
-    - GRAVEL
-    chance: 90.0
-    max_height: 45
-    min_height: 35
-    amount: 6
-    iterations: 1
-  turquoise_ore:
-    block: itemsadder:turquoise_ore
-    worlds:
-    - world
-    replaceable_blocks:
-    - STONE
-    - DIRT
-    - ANDESITE
-    - GRANITE
-    - COBBLESTONE
-    - GRAVEL
-    chance: 50.0
-    max_height: 25
-    min_height: 15
-    amount: 6
-    iterations: 1
-  aqua_aura_ore:
-    block: itemsadder:aqua_aura_ore
-    worlds:
-    - world
-    replaceable_blocks:
-    - STONE
-    - DIRT
-    - ANDESITE
-    - GRANITE
-    - COBBLESTONE
-    - GRAVEL
-    chance: 50.0
-    max_height: 15
-    min_height: 10
-    amount: 6
-    iterations: 1
-  amethyst_ore:
-    block: itemsadder:amethyst_ore
-    worlds:
-    - world
-    replaceable_blocks:
-    - STONE
-    - DIRT
-    - ANDESITE
-    - GRANITE
-    - COBBLESTONE
-    - GRAVEL
-    chance: 40.0
-    max_height: 15
-    min_height: 10
-    amount: 4
-    iterations: 1
-  bronze_ore:
-    block: itemsadder:bronze_ore
-    worlds:
-    - world
-    replaceable_blocks:
-    - STONE
-    - DIRT
-    - ANDESITE
-    - GRANITE
-    - COBBLESTONE
-    - GRAVEL
-    chance: 50.0
-    max_height: 50
-    min_height: 30
-    amount: 4
-    iterations: 1
-  mysterious_ore:
-    block: itemsadder:mysterious_ore
-    worlds:
-    - world
-    replaceable_blocks:
-    - STONE
-    - DIRT
-    - ANDESITE
-    - GRANITE
-    - COBBLESTONE
-    - GRAVEL
-    chance: 20.0
-    max_height: 6
-    min_height: 1
-    amount: 2
-    iterations: 1
-  end_ore:
-    block: itemsadder:end_ore
-    worlds:
-    - world_the_end
-    replaceable_blocks:
-    - END_STONE
-    chance: 100.0
-    max_height: 40
-    min_height: 10
-    amount: 4
-    iterations: 1
-  iron_dirt_ore:
-    block: itemsadder:iron_dirt_ore
-    worlds:
-    - world
-    replaceable_blocks:
-    - STONE
-    - DIRT
-    - ANDESITE
-    - GRANITE
-    - COBBLESTONE
-    - GRAVEL
-    chance: 60.0
-    max_height: 59
-    min_height: 5
-    amount: 6
-    iterations: 1
-  gold_dirt_ore:
-    block: itemsadder:gold_dirt_ore
-    worlds:
-    - world
-    replaceable_blocks:
-    - STONE
-    - DIRT
-    - ANDESITE
-    - GRANITE
-    - COBBLESTONE
-    - GRAVEL
-    chance: 50.0
-    max_height: 59
-    min_height: 5
-    amount: 6
-    iterations: 1
-  coal_dirt_ore:
-    block: itemsadder:coal_dirt_ore
-    worlds:
-    - world
-    replaceable_blocks:
-    - STONE
-    - DIRT
-    - ANDESITE
-    - GRANITE
-    - COBBLESTONE
-    - GRAVEL
-    chance: 80.0
-    max_height: 59
-    min_height: 5
-    amount: 6
-    iterations: 1
-  blaze_powder_ore:
-    block: itemsadder:blaze_powder_ore
-    worlds:
-    - world_nether
-    replaceable_blocks:
-    - NETHERRACK
-    chance: 10.0
-    max_height: 255
-    min_height: 5
-    amount: 6
-    iterations: 1
-  nether_alchemy_ore:
-    block: itemsadder:nether_alchemy_ore
-    worlds:
-    - world_nether
-    replaceable_blocks:
-    - NETHERRACK
-    chance: 1.0
-    max_height: 255
-    min_height: 5
-    amount: 4
-    iterations: 1
+# worlds_populators:
+  # ruby_ore:
+    # block: itemsadder:ruby_ore
+    # worlds:
+    # - world
+    # replaceable_blocks:
+    # - STONE
+    # - DIRT
+    # - ANDESITE
+    # - GRANITE
+    # - COBBLESTONE
+    # - GRAVEL
+    # chance: 70.0
+    # max_height: 45
+    # min_height: 25
+    # amount: 6
+    # iterations: 1
+  # spinel_ore:
+    # block: itemsadder:spinel_ore
+    # worlds:
+    # - world
+    # replaceable_blocks:
+    # - STONE
+    # - DIRT
+    # - ANDESITE
+    # - GRANITE
+    # - COBBLESTONE
+    # - GRAVEL
+    # chance: 90.0
+    # max_height: 45
+    # min_height: 35
+    # amount: 6
+    # iterations: 1
+  # turquoise_ore:
+    # block: itemsadder:turquoise_ore
+    # worlds:
+    # - world
+    # replaceable_blocks:
+    # - STONE
+    # - DIRT
+    # - ANDESITE
+    # - GRANITE
+    # - COBBLESTONE
+    # - GRAVEL
+    # chance: 50.0
+    # max_height: 25
+    # min_height: 15
+    # amount: 6
+    # iterations: 1
+  # aqua_aura_ore:
+    # block: itemsadder:aqua_aura_ore
+    # worlds:
+    # - world
+    # replaceable_blocks:
+    # - STONE
+    # - DIRT
+    # - ANDESITE
+    # - GRANITE
+    # - COBBLESTONE
+    # - GRAVEL
+    # chance: 50.0
+    # max_height: 15
+    # min_height: 10
+    # amount: 6
+    # iterations: 1
+  # amethyst_ore:
+    # block: itemsadder:amethyst_ore
+    # worlds:
+    # - world
+    # replaceable_blocks:
+    # - STONE
+    # - DIRT
+    # - ANDESITE
+    # - GRANITE
+    # - COBBLESTONE
+    # - GRAVEL
+    # chance: 40.0
+    # max_height: 15
+    # min_height: 10
+    # amount: 4
+    # iterations: 1
+  # bronze_ore:
+    # block: itemsadder:bronze_ore
+    # worlds:
+    # - world
+    # replaceable_blocks:
+    # - STONE
+    # - DIRT
+    # - ANDESITE
+    # - GRANITE
+    # - COBBLESTONE
+    # - GRAVEL
+    # chance: 50.0
+    # max_height: 50
+    # min_height: 30
+    # amount: 4
+    # iterations: 1
+  # mysterious_ore:
+    # block: itemsadder:mysterious_ore
+    # worlds:
+    # - world
+    # replaceable_blocks:
+    # - STONE
+    # - DIRT
+    # - ANDESITE
+    # - GRANITE
+    # - COBBLESTONE
+    # - GRAVEL
+    # chance: 20.0
+    # max_height: 6
+    # min_height: 1
+    # amount: 2
+    # iterations: 1
+  # end_ore:
+    # block: itemsadder:end_ore
+    # worlds:
+    # - world_the_end
+    # replaceable_blocks:
+    # - END_STONE
+    # chance: 100.0
+    # max_height: 40
+    # min_height: 10
+    # amount: 4
+    # iterations: 1
+  # iron_dirt_ore:
+    # block: itemsadder:iron_dirt_ore
+    # worlds:
+    # - world
+    # replaceable_blocks:
+    # - STONE
+    # - DIRT
+    # - ANDESITE
+    # - GRANITE
+    # - COBBLESTONE
+    # - GRAVEL
+    # chance: 60.0
+    # max_height: 59
+    # min_height: 5
+    # amount: 6
+    # iterations: 1
+  # gold_dirt_ore:
+    # block: itemsadder:gold_dirt_ore
+    # worlds:
+    # - world
+    # replaceable_blocks:
+    # - STONE
+    # - DIRT
+    # - ANDESITE
+    # - GRANITE
+    # - COBBLESTONE
+    # - GRAVEL
+    # chance: 50.0
+    # max_height: 59
+    # min_height: 5
+    # amount: 6
+    # iterations: 1
+  # coal_dirt_ore:
+    # block: itemsadder:coal_dirt_ore
+    # worlds:
+    # - world
+    # replaceable_blocks:
+    # - STONE
+    # - DIRT
+    # - ANDESITE
+    # - GRANITE
+    # - COBBLESTONE
+    # - GRAVEL
+    # chance: 80.0
+    # max_height: 59
+    # min_height: 5
+    # amount: 6
+    # iterations: 1
+  # blaze_powder_ore:
+    # block: itemsadder:blaze_powder_ore
+    # worlds:
+    # - world_nether
+    # replaceable_blocks:
+    # - NETHERRACK
+    # chance: 10.0
+    # max_height: 255
+    # min_height: 5
+    # amount: 6
+    # iterations: 1
+  # nether_alchemy_ore:
+    # block: itemsadder:nether_alchemy_ore
+    # worlds:
+    # - world_nether
+    # replaceable_blocks:
+    # - NETHERRACK
+    # chance: 1.0
+    # max_height: 255
+    # min_height: 5
+    # amount: 4
+    # iterations: 1

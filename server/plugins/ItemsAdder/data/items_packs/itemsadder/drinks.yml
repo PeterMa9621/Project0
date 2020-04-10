@@ -295,13 +295,13 @@ items:
         increment_player_stat:
           name: thirst
           amount: 6
-loots:
-  mobs:
-    witch:
-      type: WITCH
-      items:
-        item_1:
-          item: itemsadder:bloody_mary
-          min_amount: 1
-          max_amount: 1
-          chance: 10
+# loots:
+  # mobs:
+    # witch:
+      # type: WITCH
+      # items:
+        # item_1:
+          # item: itemsadder:bloody_mary
+          # min_amount: 1
+          # max_amount: 1
+          # chance: 10

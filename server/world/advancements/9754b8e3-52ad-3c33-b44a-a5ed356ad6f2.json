@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-04-09 21:18:53 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-04 11:47:20 -0600"
@@ -239,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2020-04-09 22:06:34 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-04-04 11:19:43 -0600"
@@ -248,6 +260,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2020-04-07 17:30:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2020-04-09 21:18:53 -0600"
     },
     "done": true
   },
@@ -302,6 +320,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-04 11:47:20 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2020-04-09 22:06:34 -0600"
     },
     "done": true
   },
@@ -377,9 +401,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2020-04-09 21:14:15 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-04-04 11:42:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2020-04-09 21:18:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2020-04-09 22:45:36 -0600"
     },
     "done": true
   },
@@ -392,6 +434,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_chiseled_sandstone": "2020-04-08 21:29:20 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2020-04-09 22:06:34 -0600"
     },
     "done": true
   },
@@ -604,6 +652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2020-04-09 19:45:00 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-04 11:47:20 -0600"
@@ -709,6 +763,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-04-08 18:03:05 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-04-09 21:18:53 -0600"
     },
     "done": true
   },
@@ -850,6 +910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2020-04-09 22:45:36 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2020-04-08 17:50:26 -0600"
@@ -916,6 +982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2020-04-09 22:58:13 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2020-04-05 14:51:33 -0600"
@@ -925,6 +997,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-04-05 14:51:33 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2020-04-09 21:18:45 -0600"
     },
     "done": true
   },
@@ -945,6 +1023,7 @@
       "minecraft:witch": "2020-04-09 09:42:38 -0600",
       "minecraft:wither_skeleton": "2020-04-07 10:30:30 -0600",
       "minecraft:cave_spider": "2020-04-07 10:02:58 -0600",
+      "minecraft:stray": "2020-04-09 23:36:20 -0600",
       "minecraft:zombie": "2020-04-07 10:08:24 -0600"
     },
     "done": false
@@ -955,9 +1034,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-04-09 22:06:34 -0600"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2020-04-04 21:15:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-09 21:38:53 -0600"
     },
     "done": true
   },
@@ -997,9 +1088,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2020-04-09 19:45:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2020-04-09 22:06:34 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-04 11:47:16 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-04-09 22:06:34 -0600"
     },
     "done": true
   },
@@ -1261,6 +1370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2020-04-09 22:27:49 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-04 11:47:16 -0600"
@@ -1276,6 +1391,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2020-04-09 18:41:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2020-04-09 22:27:18 -0600"
     },
     "done": true
   },
@@ -1306,6 +1427,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2020-04-04 10:26:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2020-04-09 19:45:00 -0600"
     },
     "done": true
   },
@@ -1378,6 +1505,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-04 10:27:05 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2020-04-09 22:27:18 -0600"
     },
     "done": true
   },
@@ -1531,6 +1664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-04-09 22:06:34 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2020-04-04 11:33:58 -0600"
@@ -1591,9 +1730,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-04-09 23:51:17 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-04-07 09:18:48 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-04-09 22:06:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-09 21:38:53 -0600"
     },
     "done": true
   },
@@ -1606,6 +1763,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2020-04-07 09:45:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2020-04-09 22:58:16 -0600"
     },
     "done": true
   },
@@ -1631,6 +1794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2020-04-09 22:27:18 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2020-04-04 11:33:58 -0600"
@@ -1646,6 +1815,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-04-07 09:18:48 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2020-04-09 21:18:45 -0600"
     },
     "done": true
   },
@@ -1841,6 +2016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-04-09 21:18:53 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2020-04-06 14:37:46 -0600"
@@ -1877,6 +2058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2020-04-09 21:18:53 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2020-04-08 21:29:30 -0600"
@@ -1886,6 +2073,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-04 11:47:20 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2020-04-09 22:06:34 -0600"
     },
     "done": true
   },
@@ -1910,6 +2103,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-04 11:47:16 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2020-04-09 19:45:00 -0600"
     },
     "done": true
   },
@@ -1946,6 +2145,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2020-04-08 17:52:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-09 21:38:53 -0600"
     },
     "done": true
   },

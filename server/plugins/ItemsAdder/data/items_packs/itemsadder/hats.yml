@@ -559,26 +559,26 @@ items:
       model_path: item/santa_hat
     behaviours:
       hat: true
-loots:
-  mobs:
-    villager:
-      type: VILLAGER
-      nbt:
-        profession:
-          path: VillagerData.profession
-          value: minecraft:farmer
-          type: string
-      items:
-        item_1:
-          item: itemsadder:straw_hat
-          min_amount: 1
-          max_amount: 1
-          chance: 100
-    ender_dragon:
-      type: ENDER_DRAGON
-      items:
-        item_1:
-          item: itemsadder:ender_dragon_wings
-          min_amount: 1
-          max_amount: 1
-          chance: 100
+# loots:
+  # mobs:
+    # villager:
+      # type: VILLAGER
+      # nbt:
+        # profession:
+          # path: VillagerData.profession
+          # value: minecraft:farmer
+          # type: string
+      # items:
+        # item_1:
+          # item: itemsadder:straw_hat
+          # min_amount: 1
+          # max_amount: 1
+          # chance: 100
+    # ender_dragon:
+      # type: ENDER_DRAGON
+      # items:
+        # item_1:
+          # item: itemsadder:ender_dragon_wings
+          # min_amount: 1
+          # max_amount: 1
+          # chance: 100

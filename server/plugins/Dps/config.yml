@@ -12,17 +12,17 @@ shiwang:
       model: 42
   '2':
     cmd: ph giveitem %player% mjy:tiaozhanzhe_axe
-    chance: 0.08
+    chance: 0.1
     icon:
       id: DIAMOND_AXE
       displayName: "&5挑战者之斧"
       model: 13
   '3':
     cmd: give %player% diamond 32
-    chance: 0.3
+    chance: 0.25
     icon:
       id: DIAMOND
-      displayName: "&6钻石10个"
+      displayName: "&6钻石32个"
       model: 0
   '4':
     cmd: give %player% diamond 64
@@ -66,6 +66,13 @@ shiwang:
       id: DIAMOND_SWORD
       displayName: "&9武士剑"
       model: 27
+  '10':
+    cmd: ph giveitem %player% mjy:gaojipaoxie_feet
+    chance: 0.03
+    icon:
+      id: LEATHER_BOOTS
+      displayName: "&5高级跑鞋"
+      model: 17
       
 # ###################
 # 凋零王BOSS
@@ -102,7 +109,7 @@ diaolingwang:
       model: 0
   '5':
     cmd: ph giveitem %player% mjy:shilian_sword
-    chance: 0.19
+    chance: 0.16
     icon:
       id: DIAMOND_SWORD
       displayName: "&8试炼剑"
@@ -121,6 +128,13 @@ diaolingwang:
       id: DIAMOND_SWORD
       displayName: "&5挑战者之剑"
       model: 49
+  '8':
+    cmd: ph giveitem %player% mjy:putongpaoxie_feet
+    chance: 0.03
+    icon:
+      id: LEATHER_BOOTS
+      displayName: "&3普通跑鞋"
+      model: 16
 
 # ###################
 # 混乱之地
@@ -129,35 +143,35 @@ hunluanzhidi:
   bonusRewardProb: 0.005
   '1':
     cmd: ph giveitem %player% mjy:shilian_sword
-    chance: 0.29
+    chance: 0.1
     icon:
       id: DIAMOND_SWORD
       displayName: "&8试炼剑"
       model: 29
   '2':
     cmd: ph giveitem %player% mjy:gujian_sword
-    chance: 0.06
+    chance: 0.04
     icon:
       id: DIAMOND_SWORD
       displayName: "&9骨剑"
       model: 35
   '3':
     cmd: eco give %player% 100
-    chance: 0.23
+    chance: 0.15
     icon:
       id: STICK
       displayName: "&6100金币"
       model: 29
   '4':
     cmd: eco give %player% 300
-    chance: 0.09
+    chance: 0.07
     icon:
       id: STICK
       displayName: "&6300金币"
       model: 29
   '5':
     cmd: give %player% diamond 4
-    chance: 0.2
+    chance: 0.14
     icon:
       id: DIAMOND
       displayName: "&6钻石4个"
@@ -170,18 +184,39 @@ hunluanzhidi:
       displayName: "&6钻石8个"
       model: 0
   '7':
-    cmd: give %player% emerald 8
-    chance: 0.03
+    cmd: ph giveitem %player% mjy:shilian_chest
+    chance: 0.1
     icon:
-      id: EMERALD
-      displayName: "&6绿宝石8个"
-      model: 0
+      id: LEATHER_CHESTPLATE
+      displayName: "&7试炼胸甲"
+      model: 14
+  '8':
+    cmd: ph giveitem %player% mjy:shilian_leg
+    chance: 0.1
+    icon:
+      id: LEATHER_LEGGINGS
+      displayName: "&7试炼护腿"
+      model: 14
+  '9':
+    cmd: ph giveitem %player% mjy:shilian_feet
+    chance: 0.1
+    icon:
+      id: LEATHER_BOOTS
+      displayName: "&7试炼战靴"
+      model: 14
+  '10':
+    cmd: ph giveitem %player% mjy:shilian_head
+    chance: 0.1
+    icon:
+      id: LEATHER_HELMET
+      displayName: "&7试炼头盔"
+      model: 13
 
 # ###################
 # 静谧之地
 # ###################
 jingmizhidi:
-  bonusRewardProb: 1
+  bonusRewardProb: 0.005
   '1':
     cmd: give %player% iron_sword 1
     chance: 0.3
@@ -238,51 +273,203 @@ jingmizhidi:
 anjinshushi:
   bonusRewardProb: 0.005
   '1':
-    cmd: give %player% iron_sword 1
-    chance: 0.3
+    cmd: give %player% diamond_sword 1
+    chance: 0.2
     icon:
-      id: IRON_SWORD
-      displayName: "&f铁剑"
+      id: DIAMOND_SWORD
+      displayName: "&f钻石剑"
       model: 0
   '2':
-    cmd: ph giveitem %player% mjy:shilian_sword
+    cmd: ph giveitem %player% mjy:anjin_sword
     chance: 0.1
     icon:
       id: DIAMOND_SWORD
-      displayName: "&8试炼剑"
-      model: 29
+      displayName: "&5暗金"
+      model: 34
   '3':
-    cmd: eco give %player% 50
-    chance: 0.2
+    cmd: eco give %player% 500
+    chance: 0.11
     icon:
       id: STICK
-      displayName: "&650金币"
+      displayName: "&6500金币"
       model: 29
   '4':
-    cmd: eco give %player% 100
-    chance: 0.1
+    cmd: ph giveitem %player% mjy:anjin_chest
+    chance: 0.08
     icon:
-      id: STICK
-      displayName: "&6100金币"
-      model: 29
+      id: LEATHER_CHESTPLATE
+      displayName: "&3暗金胸甲"
+      model: 21
   '5':
-    cmd: give %player% diamond 2
-    chance: 0.1
+    cmd: ph giveitem %player% mjy:anjin_legs
+    chance: 0.08
+    icon:
+      id: LEATHER_LEGGINGS
+      displayName: "&3暗金护腿"
+      model: 21
+  '6':
+    cmd: ph giveitem %player% mjy:anjin_boots
+    chance: 0.08
+    icon:
+      id: LEATHER_BOOTS
+      displayName: "&3暗金战靴"
+      model: 23
+  '7':
+    cmd: ph giveitem %player% mjy:anjin_head
+    chance: 0.09
+    icon:
+      id: LEATHER_HELMET
+      displayName: "&3暗金头盔"
+      model: 20
+  '8':
+    cmd: give %player% diamond 8
+    chance: 0.13
     icon:
       id: DIAMOND
-      displayName: "&6钻石2个"
+      displayName: "&6钻石8个"
+      model: 0
+  '9':
+    cmd: eco give %player% 300
+    chance: 0.13
+    icon:
+      id: STICK
+      displayName: "&6300金币"
+      model: 29
+      
+# ###################
+# 神奇矿车
+# ###################
+shenqikuangche:
+  bonusRewardProb: 0.005
+  '1':
+    cmd: give %player% diamond_shovel 1
+    chance: 0.12
+    icon:
+      id: DIAMOND_SHOVEL
+      displayName: "&f钻石锹"
+      model: 0
+  '2':
+    cmd: give %player% diamond_pickaxe 1
+    chance: 0.12
+    icon:
+      id: DIAMOND_PICKAXE
+      displayName: "&f钻石镐"
+      model: 0
+  '3':
+    cmd: give %player% diamond_axe 1
+    chance: 0.12
+    icon:
+      id: DIAMOND_AXE
+      displayName: "&f钻石斧"
+      model: 0
+  '4':
+    cmd: give %player% diamond_hoe 1
+    chance: 0.12
+    icon:
+      id: DIAMOND_HOE
+      displayName: "&f钻石锄"
+      model: 0
+  '5':
+    cmd: give %player% cake 4
+    chance: 0.16
+    icon:
+      id: CAKE
+      displayName: "&f蛋糕4个"
       model: 0
   '6':
-    cmd: give %player% iron_ingot 10
-    chance: 0.1
+    cmd: give %player% fermented_spider_eye 10
+    chance: 0.12
     icon:
-      id: IRON_INGOT
-      displayName: "&6铁10个"
+      id: FERMENTED_SPIDER_EYE
+      displayName: "&6发酵蛛眼10个"
       model: 0
   '7':
-    cmd: give %player% gold_ingot 6
-    chance: 0.1
+    cmd: give %player% blaze_powder 10
+    chance: 0.12
     icon:
-      id: GOLD_INGOT
-      displayName: "&6黄金6个"
+      id: BLAZE_POWDER
+      displayName: "&6烈焰粉10个"
       model: 0
+  '8':
+    cmd: give %player% enchanted_book{StoredEnchantments:[{id:efficiency,lvl:5}]} 1
+    chance: 0.04
+    icon:
+      id: BLAZE_POWDER
+      displayName: "&e效率5附魔书"
+      model: 0
+  '9':
+    cmd: give %player% enchanted_book{StoredEnchantments:[{id:unbreaking,lvl:3}]} 1
+    chance: 0.04
+    icon:
+      id: BLAZE_POWDER
+      displayName: "&e耐久3附魔书"
+      model: 0
+  '10':
+    cmd: give %player% enchanted_book{StoredEnchantments:[{id:silk_touch,lvl:1}]} 1
+    chance: 0.04
+    icon:
+      id: BLAZE_POWDER
+      displayName: "&e精准采集附魔书"
+      model: 0
+      
+# ###################
+# 祥和村
+# ###################
+xianghecun:
+  bonusRewardProb: 0.005
+  '1':
+    cmd: give %player% diamond_helmet 1
+    chance: 0.14
+    icon:
+      id: DIAMOND_HELMET
+      displayName: "&f钻石头盔"
+      model: 0
+  '2':
+    cmd: give %player% diamond_chestplate 1
+    chance: 0.14
+    icon:
+      id: DIAMOND_CHESTPLATE
+      displayName: "&f钻石胸甲"
+      model: 0
+  '3':
+    cmd: give %player% diamond_leggings 1
+    chance: 0.14
+    icon:
+      id: DIAMOND_LEGGINGS
+      displayName: "&f钻石护腿"
+      model: 0
+  '4':
+    cmd: give %player% diamond_boots 1
+    chance: 0.14
+    icon:
+      id: DIAMOND_BOOTS
+      displayName: "&f钻石靴子"
+      model: 0
+  '5':
+    cmd: give %player% enchanted_book{StoredEnchantments:[{id:fortune,lvl:3}]} 1
+    chance: 0.04
+    icon:
+      id: ENCHANTED_BOOK
+      displayName: "&e时运3附魔书"
+      model: 0
+  '6':
+    cmd: give %player% ghast_tear 1
+    chance: 0.12
+    icon:
+      id: GHAST_TEAR
+      displayName: "&f恶魂之泪1个"
+      model: 0
+  '7':
+    cmd: give %player% diamond 8
+    chance: 0.12
+    icon:
+      id: DIAMOND
+      displayName: "&6钻石8个"
+      model: 0
+  '8':
+    cmd: eco give %player% 200
+    chance: 0.16
+    icon:
+      id: STICK
+      displayName: "&6300金币"
+      model: 29

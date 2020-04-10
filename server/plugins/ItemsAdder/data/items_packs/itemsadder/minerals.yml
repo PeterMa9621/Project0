@@ -147,102 +147,102 @@ recipes:
       result:
         item: itemsadder:end_ingot
         amount: 1
-loots:
-  blocks:
-    ruby_ore:
-      type: itemsadder:ruby_ore
-      items:
-        ruby:
-          item: itemsadder:ruby
-          min_amount: 1
-          max_amount: 2
-          chance: 100
-    nether_quartz_ore:
-      type: NETHER_QUARTZ_ORE
-      items:
-        crystal:
-          item: itemsadder:crystal
-          min_amount: 1
-          max_amount: 2
-          chance: 10
-        knowledge_fragment:
-          item: itemsadder:knowledge_fragment
-          min_amount: 1
-          max_amount: 2
-          chance: 15
-    spinel_ore:
-      type: itemsadder:spinel_ore
-      items:
-        spinel:
-          item: itemsadder:spinel
-          min_amount: 1
-          max_amount: 2
-          chance: 100
-    turquoise_ore:
-      type: itemsadder:turquoise_ore
-      items:
-        turquoise:
-          item: itemsadder:turquoise
-          min_amount: 1
-          max_amount: 2
-          chance: 100
-    aqua_aura_ore:
-      type: itemsadder:aqua_aura_ore
-      items:
-        aqua_aura:
-          item: itemsadder:aqua_aura
-          min_amount: 1
-          max_amount: 2
-          chance: 100
-    amethyst_ore:
-      type: itemsadder:amethyst_ore
-      items:
-        amethyst:
-          item: itemsadder:amethyst
-          min_amount: 1
-          max_amount: 2
-          chance: 100
-    lapis_ore:
-      type: LAPIS_ORE
-      items:
-        amethyst_prism:
-          item: itemsadder:amethyst_prism
-          min_amount: 1
-          max_amount: 2
-          chance: 5
-    stone:
-      type: STONE
-      items:
-        fossil:
-          item: itemsadder:fossil
-          min_amount: 1
-          max_amount: 2
-          chance: 2
-    end_ore:
-      type: itemsadder:end_ore
-      items:
-        end_shard:
-          item: itemsadder:end_shard
-          min_amount: 1
-          max_amount: 2
-          chance: 100
-    coal_ore:
-      type: COAL_ORE
-      items:
-        coal_nugget:
-          item: itemsadder:coal_nugget
-          min_amount: 1
-          max_amount: 1
-          chance: 10
-  mobs:
-    witch:
-      type: WITCH
-      items:
-        item_1:
-          item: itemsadder:amethyst_prism
-          min_amount: 1
-          max_amount: 1
-          chance: 20
+# loots:
+  # blocks:
+    # ruby_ore:
+      # type: itemsadder:ruby_ore
+      # items:
+        # ruby:
+          # item: itemsadder:ruby
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 100
+    # nether_quartz_ore:
+      # type: NETHER_QUARTZ_ORE
+      # items:
+        # crystal:
+          # item: itemsadder:crystal
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 10
+        # knowledge_fragment:
+          # item: itemsadder:knowledge_fragment
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 15
+    # spinel_ore:
+      # type: itemsadder:spinel_ore
+      # items:
+        # spinel:
+          # item: itemsadder:spinel
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 100
+    # turquoise_ore:
+      # type: itemsadder:turquoise_ore
+      # items:
+        # turquoise:
+          # item: itemsadder:turquoise
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 100
+    # aqua_aura_ore:
+      # type: itemsadder:aqua_aura_ore
+      # items:
+        # aqua_aura:
+          # item: itemsadder:aqua_aura
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 100
+    # amethyst_ore:
+      # type: itemsadder:amethyst_ore
+      # items:
+        # amethyst:
+          # item: itemsadder:amethyst
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 100
+    # lapis_ore:
+      # type: LAPIS_ORE
+      # items:
+        # amethyst_prism:
+          # item: itemsadder:amethyst_prism
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 5
+    # stone:
+      # type: STONE
+      # items:
+        # fossil:
+          # item: itemsadder:fossil
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 2
+    # end_ore:
+      # type: itemsadder:end_ore
+      # items:
+        # end_shard:
+          # item: itemsadder:end_shard
+          # min_amount: 1
+          # max_amount: 2
+          # chance: 100
+    # coal_ore:
+      # type: COAL_ORE
+      # items:
+        # coal_nugget:
+          # item: itemsadder:coal_nugget
+          # min_amount: 1
+          # max_amount: 1
+          # chance: 10
+  # mobs:
+    # witch:
+      # type: WITCH
+      # items:
+        # item_1:
+          # item: itemsadder:amethyst_prism
+          # min_amount: 1
+          # max_amount: 1
+          # chance: 20
 items:
   ruby:
     display_name: Ruby

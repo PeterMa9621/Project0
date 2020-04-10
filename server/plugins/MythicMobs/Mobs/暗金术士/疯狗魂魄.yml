@@ -9,6 +9,7 @@
     AlwaysShowName: true
     MovementSpeed: 0.25
     PreventOtherDrops: true
+    Despawn: false
   Disguise:
     Type: WOLF
     Burning: true

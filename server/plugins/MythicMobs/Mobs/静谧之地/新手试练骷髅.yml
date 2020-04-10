@@ -11,6 +11,7 @@
     PreventOtherDrops: true
     PreventSunburn: true
     FollowRange: 20
+    Despawn: false
   AITargetSelectors:
   - 0 clear
   - 1 players
@@ -35,6 +36,7 @@ shilian2T1:
     PreventOtherDrops: true
     PreventSunburn: true
     FollowRange: 20
+    Despawn: false
   AITargetSelectors:
   - 0 clear
   - 1 players
@@ -55,6 +57,7 @@ shilian2T2:
     PreventOtherDrops: true
     PreventSunburn: true
     FollowRange: 20
+    Despawn: false
   AITargetSelectors:
   - 0 clear
   - 1 players

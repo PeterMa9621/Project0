@@ -13,6 +13,7 @@ Cave_Spider_T:
     ThreatTable: true
   Options:
     PreventOtherDrops: true
+    Despawn: false
   AITargetSelectors:
   - 0 ThreatHolder
   - 1 attacker
@@ -25,6 +26,7 @@ Zombie_T:
     ThreatTable: true
   Options:
     PreventOtherDrops: true
+    Despawn: false
   AITargetSelectors:
   - 0 ThreatHolder
   - 1 attacker
@@ -37,6 +39,7 @@ Baby_Zombie_T:
     ThreatTable: true
   Options:
     PreventOtherDrops: true
+    Despawn: false
   AITargetSelectors:
   - 0 ThreatHolder
   - 1 attacker
@@ -49,6 +52,7 @@ Spider_T:
     ThreatTable: true
   Options:
     PreventOtherDrops: true
+    Despawn: false
   AITargetSelectors:
   - 0 ThreatHolder
   - 1 attacker
@@ -61,6 +65,7 @@ Skeleton_T:
     ThreatTable: true
   Options:
     PreventOtherDrops: true
+    Despawn: false
   AITargetSelectors:
   - 0 ThreatHolder
   - 1 attacker
@@ -74,6 +79,7 @@ Pig_Zombie_T:
     ThreatTable: true
   Options:
     PreventOtherDrops: true
+    Despawn: false
   AITargetSelectors:
   - 0 ThreatHolder
   - 1 attacker
@@ -86,6 +92,7 @@ Baby_Pig_Zombie_T:
     ThreatTable: true
   Options:
     PreventOtherDrops: true
+    Despawn: false
   AITargetSelectors:
   - 0 ThreatHolder
   - 1 attacker
@@ -98,6 +105,7 @@ Wither_Skeleton_T:
     ThreatTable: true
   Options:
     PreventOtherDrops: true
+    Despawn: false
   AITargetSelectors:
   - 0 ThreatHolder
   - 1 attacker

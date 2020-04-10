@@ -56,6 +56,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "1db95b0d-3148-435f-8fdd-6cb1747c1b75": {
+      "uuid": "1db95b0d-3148-435f-8fdd-6cb1747c1b75",
+      "mobType": "shilian3",
+      "aliveTime": 2317,
+      "lastSeen": 1586483063109,
+      "spawnLocation": {
+        "world": {
+          "uuid": "7192cfa1-7fb5-4cb1-9144-228a64641fb3",
+          "name": "DXL_Game_0"
+        },
+        "x": -3.5,
+        "y": 6.0,
+        "z": 144.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "61b38989-d0f6-47e8-9b74-7a64baf27a01": {
       "uuid": "61b38989-d0f6-47e8-9b74-7a64baf27a01",
       "mobType": "shilian3T2",
@@ -422,6 +450,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "26bf14ce-7903-4d7f-ab4e-55ac3b81863b": {
+      "uuid": "26bf14ce-7903-4d7f-ab4e-55ac3b81863b",
+      "mobType": "shilian3",
+      "aliveTime": 1417,
+      "lastSeen": 1586483586109,
+      "spawnLocation": {
+        "world": {
+          "uuid": "96b2d5ae-ee1c-44a4-8208-b9240113ff08",
+          "name": "DXL_Game_0"
+        },
+        "x": -3.5,
+        "y": 6.0,
+        "z": 144.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "88d4f3ee-fd64-4ea8-8c88-77b553ca6ad6": {
       "uuid": "88d4f3ee-fd64-4ea8-8c88-77b553ca6ad6",
       "mobType": "shilian3",
@@ -702,6 +758,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "4e9109f4-f4a6-490a-b78e-e02668255b28": {
+      "uuid": "4e9109f4-f4a6-490a-b78e-e02668255b28",
+      "mobType": "shilian3",
+      "aliveTime": 2292,
+      "lastSeen": 1586483064108,
+      "spawnLocation": {
+        "world": {
+          "uuid": "7192cfa1-7fb5-4cb1-9144-228a64641fb3",
+          "name": "DXL_Game_0"
+        },
+        "x": -3.5,
+        "y": 6.0,
+        "z": 144.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "67300d17-a320-4f02-b217-b6f0c1e573ea": {
       "uuid": "67300d17-a320-4f02-b217-b6f0c1e573ea",
       "mobType": "diaolingshibing",
@@ -926,6 +1010,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "1da679ed-25d1-45ba-a2a4-4d6835bbd2a0": {
+      "uuid": "1da679ed-25d1-45ba-a2a4-4d6835bbd2a0",
+      "mobType": "shilian3T2",
+      "aliveTime": 2337,
+      "lastSeen": 1586483062143,
+      "spawnLocation": {
+        "world": {
+          "uuid": "7192cfa1-7fb5-4cb1-9144-228a64641fb3",
+          "name": "DXL_Game_0"
+        },
+        "x": -4.5,
+        "y": 6.0,
+        "z": 144.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "c284941a-404b-4935-8ef6-e9c36d134e3e": {
       "uuid": "c284941a-404b-4935-8ef6-e9c36d134e3e",
       "mobType": "SkeletalKnight",
@@ -939,6 +1051,34 @@
         "x": -36.5,
         "y": 4.0,
         "z": -161.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "2263cff3-12d7-47f4-97af-1eb25d8259d4": {
+      "uuid": "2263cff3-12d7-47f4-97af-1eb25d8259d4",
+      "mobType": "shilian3",
+      "aliveTime": 1098,
+      "lastSeen": 1586483813107,
+      "spawnLocation": {
+        "world": {
+          "uuid": "a61c0d2c-99e3-4e7b-b38c-2cc172b40856",
+          "name": "DXL_Game_0"
+        },
+        "x": -3.5,
+        "y": 6.0,
+        "z": 144.5,
         "yaw": 0.0,
         "pitch": 0.0
       },
@@ -1006,6 +1146,34 @@
       "stance": "default",
       "lastSignal": "",
       "playerKills": 1,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "2d1b837f-2409-41ad-baf5-d9887d6779a1": {
+      "uuid": "2d1b837f-2409-41ad-baf5-d9887d6779a1",
+      "mobType": "shilian3T2",
+      "aliveTime": 1140,
+      "lastSeen": 1586483811108,
+      "spawnLocation": {
+        "world": {
+          "uuid": "a61c0d2c-99e3-4e7b-b38c-2cc172b40856",
+          "name": "DXL_Game_0"
+        },
+        "x": -4.5,
+        "y": 6.0,
+        "z": 144.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
       "owner": {},
       "faction": {},
       "cooldowns": {}

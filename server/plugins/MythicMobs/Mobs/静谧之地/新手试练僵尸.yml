@@ -11,6 +11,7 @@
     PreventOtherDrops: true
     PreventSunburn: true
     FollowRange: 20
+    Despawn: false
   AITargetSelectors:
   - 0 ThreatHolder
   - 1 attacker
@@ -31,6 +32,7 @@ shilian1T1:
     PreventOtherDrops: true
     PreventSunburn: true
     FollowRange: 20
+    Despawn: false
   AITargetSelectors:
   - 0 ThreatHolder
   - 1 attacker
@@ -51,6 +53,7 @@ shilian1T2:
     PreventOtherDrops: true
     PreventSunburn: true
     FollowRange: 20
+    Despawn: false
   AITargetSelectors:
   - 0 ThreatHolder
   - 1 attacker
