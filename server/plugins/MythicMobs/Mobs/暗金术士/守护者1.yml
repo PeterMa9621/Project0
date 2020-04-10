@@ -21,3 +21,4 @@
   - huangjinjian:0
   Skills:
   - effect:particles{p=angryVillager;a=3;hS=0.3;vS=0.3;s=0;y=1.5;repeat=2;repeatInterval=5} @self ~onTimer:40 <50% 0.8
+  - leap{v=200} @Target ~onDamaged 0.2

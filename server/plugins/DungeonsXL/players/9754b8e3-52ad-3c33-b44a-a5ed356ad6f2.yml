@@ -2,20 +2,26 @@ configVersion: 4
 stats:
   finishedTutorial: false
   timeLastStarted:
+    jingmizhidi: 1586479972762
     boss: 1585895280389
-    test: 1586294837540
+    test: 1586471980620
     shiwang: 1585931715720
+    anjinshushi: 1586472384568
     hunluanzhidi: 1586401412707
     diaolingwang: 1586405862405
   timeLastFinished:
+    jingmizhidi: 1586479990415
     boss: 1585895291132
-    test: 1586294840247
+    test: 1586471983331
     shiwang: 1585931415140
+    anjinshushi: 1586472412205
     hunluanzhidi: 1586392231056
     diaolingwang: 1586406029202
   timeLastLoot:
+    jingmizhidi: 1586479990415
     boss: 1585895291131
-    test: 1586294840246
+    test: 1586471983330
     shiwang: 1585931415139
+    anjinshushi: 1586472412204
     hunluanzhidi: 1586392231055
     diaolingwang: 1586406029201
