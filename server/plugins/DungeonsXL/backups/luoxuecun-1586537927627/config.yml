@@ -1,0 +1,9 @@
+timeToNextPlayAfterFinish: 2
+timeToFinish: 1800
+initialLives: 2
+
+title:
+  title: "&4落雪村"
+  subtitle: "&6你共有2条命"
+  
+time: 9000

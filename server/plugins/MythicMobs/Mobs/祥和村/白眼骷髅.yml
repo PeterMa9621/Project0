@@ -23,7 +23,7 @@
   - 铁斧:0
   Options:
     AlwaysShowName: true
-    Despawn: true
+    Despawn: false
     FollowRange: 10
     PreventMobKillDrops: true
     PreventItemPickup: true

@@ -8,6 +8,7 @@
   Options:
     AlwaysShowName: true
     PreventOtherDrops: true
+    Despawn: false
   AITargetSelectors:
   - 0 ThreatHolder
   - 1 attacker
@@ -29,6 +30,7 @@
   Options:
     AlwaysShowName: true
     PreventOtherDrops: true
+    Despawn: false
   AITargetSelectors:
   - 0 ThreatHolder
   - 1 attacker
