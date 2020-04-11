@@ -2,15 +2,17 @@ configVersion: 4
 stats:
   finishedTutorial: false
   timeLastStarted:
+    lieyanwang: 1586575151422
     jingmizhidi: 1586483805721
     boss: 1585895280389
     test: 1586471980620
     shiwang: 1585931715720
-    anjinshushi: 1586472384568
+    anjinshushi: 1586582263704
     hunluanzhidi: 1586401412707
     shenqikuangche: 1586491773438
-    diaolingwang: 1586405862405
-    luoxuecun: 1586538395964
+    mingyuecheng: 1586553490318
+    diaolingwang: 1586579903873
+    luoxuecun: 1586546890033
     xianghecun: 1586497331949
   timeLastFinished:
     jingmizhidi: 1586483656875
@@ -20,7 +22,9 @@ stats:
     anjinshushi: 1586472412205
     hunluanzhidi: 1586392231056
     shenqikuangche: 1586491205938
+    mingyuecheng: 1586553384828
     diaolingwang: 1586406029202
+    luoxuecun: 1586546365184
     xianghecun: 1586497475059
   timeLastLoot:
     jingmizhidi: 1586483656873
@@ -30,5 +34,7 @@ stats:
     anjinshushi: 1586472412204
     hunluanzhidi: 1586392231055
     shenqikuangche: 1586491205936
+    mingyuecheng: 1586553384826
     diaolingwang: 1586406029201
+    luoxuecun: 1586546365182
     xianghecun: 1586497475058

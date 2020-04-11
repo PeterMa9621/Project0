@@ -1,9 +1,9 @@
 timeToNextPlayAfterFinish: 2
 timeToFinish: 1200
-initialLives: 3
+initialLives: 2
 
 title:
   title: "&4祥和村"
-  subtitle: "&6你共有3条命"
+  subtitle: "&6你共有2条命"
   
 time: 6000

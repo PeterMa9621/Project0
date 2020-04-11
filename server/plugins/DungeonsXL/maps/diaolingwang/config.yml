@@ -1,7 +1,7 @@
-initialLives: 6
+initialLives: 5
 
 title:
   title: "&4凋零王BOSS"
-  subtitle: "&6你共有6条命"
+  subtitle: "&6你共有5条命"
   
 time: 6000

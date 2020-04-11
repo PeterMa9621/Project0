@@ -2,7 +2,7 @@
   Type: ZOMBIE
   Display: '&3僵尸守卫'
   Health: 50
-  Damage: 4
+  Damage: 6.5
   Modules:
     ThreatTable: true
   Options:
@@ -10,7 +10,8 @@
     KnockbackResistance: 0.1
     PreventOtherDrops: true
     PreventMobKillDrops: true
-    FollowRange: 10
+    FollowRange: 20
+    Despawn: false
   AITargetSelectors:
   - 0 clear
   - 1 attacker
@@ -23,7 +24,7 @@
   Type: ZOMBIE
   Display: '&3僵尸战士'
   Health: 35
-  Damage: 3.5
+  Damage: 6
   Modules:
     ThreatTable: true
   Options:
@@ -31,7 +32,8 @@
     KnockbackResistance: 0.1
     PreventOtherDrops: true
     PreventMobKillDrops: true
-    FollowRange: 10
+    FollowRange: 20
+    Despawn: false
   AITargetSelectors:
   - 0 clear
   - 1 attacker
@@ -42,8 +44,8 @@
 明月城武装僵尸:
   Type: ZOMBIE
   Display: '&3武装僵尸'
-  Health: 20
-  Damage: 3
+  Health: 80
+  Damage: 5.5
   Modules:
     ThreatTable: true
   Options:
@@ -51,7 +53,8 @@
     KnockbackResistance: 0.1
     PreventOtherDrops: true
     PreventMobKillDrops: true
-    FollowRange: 10
+    FollowRange: 20
+    Despawn: false
   AITargetSelectors:
   - 0 clear
   - 1 attacker

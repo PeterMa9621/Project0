@@ -48,8 +48,8 @@ picaorouhou:
 heiguafu:
   Cooldown: 20
   Skills:
-  - summon{m=zhizhuzhanshi;a=1;r=5} @Target
-  - summon{m=zhizhusheshou;a=1;r=5} @Target
+  - summon{m=zz_zhanshi;a=1;r=5} @Target
+  - summon{m=zz_sheshou;a=1;r=5} @Target
 # 暗金术士技能1
 anjinshushi1:
   Cooldown: 15

@@ -1,14 +1,15 @@
 ﻿heiguafu:
   Type: CAVE_SPIDER
   Display: '&4黑寡妇'
-  Health: 100
-  Damage: 6
+  Health: 140
+  Damage: 8
   Armor: 1
   Options:
-    FollowRange: 10
+    FollowRange: 20
     PreventOtherDrops: true
     AlwaysShowName: true
     MovementSpeed: 0.3
+    Despawn: false
   AITargetSelectors:
   - 0 clear
   - 1 attacker

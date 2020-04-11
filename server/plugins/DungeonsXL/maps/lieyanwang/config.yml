@@ -1,0 +1,9 @@
+timeToNextPlayAfterFinish: 2
+timeToFinish: 1800
+initialLives: 5
+
+title:
+  title: "&4烈焰王"
+  subtitle: "&6你共有5条命"
+  
+time: 6000

@@ -745,15 +745,15 @@ protect:
     tnt-playerdamage: false
     tnt-minecart-explosion: true
     tnt-minecart-playerdamage: false
-    fireball-explosion: true
-    fireball-fire: false
+    fireball-explosion: false
+    fireball-fire: true
     fireball-playerdamage: false
     witherskull-explosion: true
     witherskull-playerdamage: true
     wither-spawnexplosion: true
     wither-blockreplace: true
-    creeper-explosion: true
-    creeper-playerdamage: true
+    creeper-explosion: false
+    creeper-playerdamage: false
     creeper-blockdamage: true
     enderdragon-blockdamage: true
     enderman-pickup: false

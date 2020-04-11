@@ -2,7 +2,7 @@
   MobType: zombie
   Display: '&5隐身僵尸'
   Health: 40
-  Damage: 4
+  Damage: 6
   AITargetSelectors:
   - 0 clear
   - 1 attacker
@@ -15,8 +15,9 @@
   - huangjinjian:0
   Options:
     Silent: true
-    FollowRange: 10
+    FollowRange: 20
     PreventItemPickup: true
     PreventOtherDrops: true
     ReinforcementsChance: 0
     MovementSpeed: 0.25
+    Despawn: false

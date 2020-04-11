@@ -1,9 +1,9 @@
 timeToNextPlayAfterFinish: 2
 timeToFinish: 1800
-initialLives: 4
+initialLives: 3
 
 title:
   title: "&4明月城"
-  subtitle: "&6你共有4条命"
+  subtitle: "&6你共有3条命"
   
 time: 6000

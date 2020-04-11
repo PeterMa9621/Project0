@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-04-10 20:52:33 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
     "criteria": {
       "has_light_blue_terracotta": "2020-04-09 21:14:15 -0600"
@@ -856,6 +862,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-04-10 21:21:55 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-04-07 09:18:48 -0600"
@@ -1038,6 +1050,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2020-04-10 20:52:05 -0600",
       "minecraft:skeleton": "2020-04-07 10:30:01 -0600",
       "minecraft:zombie_pigman": "2020-04-05 12:25:16 -0600",
       "minecraft:ghast": "2020-04-05 12:49:37 -0600",
@@ -1268,6 +1281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2020-04-10 16:06:12 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2020-04-04 11:33:58 -0600"
@@ -1301,6 +1320,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2020-04-08 17:18:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2020-04-10 16:06:12 -0600"
     },
     "done": true
   },
@@ -1727,6 +1752,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2020-04-04 11:33:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2020-04-10 16:06:12 -0600"
     },
     "done": true
   },

@@ -78,15 +78,15 @@ fire:
     disable-fire-spread-blocks: []
     lava-spread-blocks: []
 mobs:
-    block-creeper-explosions: true
+    block-creeper-explosions: false
     block-creeper-block-damage: true
-    block-wither-explosions: true
+    block-wither-explosions: false
     block-wither-block-damage: true
-    block-wither-skull-explosions: true
+    block-wither-skull-explosions: false
     block-wither-skull-block-damage: true
     block-enderdragon-block-damage: true
     block-enderdragon-portal-creation: true
-    block-fireball-explosions: true
+    block-fireball-explosions: false
     block-fireball-block-damage: true
     anti-wolf-dumbness: false
     allow-tamed-spawns: true
@@ -97,7 +97,7 @@ mobs:
     block-armor-stand-destroy: true
     block-plugin-spawning: true
     block-above-ground-slimes: false
-    block-other-explosions: true
+    block-other-explosions: false
     block-zombie-door-destruction: true
     block-creature-spawn: []
 player-damage:
