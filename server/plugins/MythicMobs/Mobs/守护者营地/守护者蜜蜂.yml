@@ -2,7 +2,7 @@
   Type: Bee
   Display: '&2守护者蜜蜂'
   Health: 60
-  Damage: 8
+  Damage: 10
   Armor: 3
   Modules:
     ThreatTable: true
@@ -12,6 +12,7 @@
     PreventOtherDrops: true
     Silent: true
     Despawn: false
+    FollowRange: 20
   AIGoalSelectors:
   - 0 clear
   - 1 meleeattack

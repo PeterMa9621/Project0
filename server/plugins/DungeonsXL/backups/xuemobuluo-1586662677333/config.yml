@@ -1,0 +1,9 @@
+timeToNextPlayAfterFinish: 2
+timeToFinish: 1200
+initialLives: 3
+
+title:
+  title: "&4血魔部落"
+  subtitle: "&6你共有3条命"
+  
+time: 6000

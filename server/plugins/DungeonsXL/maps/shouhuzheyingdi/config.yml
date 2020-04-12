@@ -1,0 +1,9 @@
+timeToNextPlayAfterFinish: 2
+timeToFinish: 1800
+initialLives: 3
+
+title:
+  title: "&4守护者营地"
+  subtitle: "&6你共有3条命"
+  
+time: 6000

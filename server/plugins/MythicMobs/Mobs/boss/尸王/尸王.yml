@@ -5,7 +5,7 @@ shiwang:
   Type: ZOMBIE
   Display: '&6尸王'
   Health: 2500
-  Damage: 16
+  Damage: 19
   Equipment:
   - KingsCrown HEAD
   - huangjin3 CHEST

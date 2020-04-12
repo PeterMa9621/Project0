@@ -3,7 +3,7 @@
 # You can copy and expand them however you'd like.
 # 矿车炸弹技能
 守护者技能1:
-  Cooldown: 10
+  Cooldown: 8
   Skills:
   - summon{m=守护者蜜蜂;a=2;r=5} @self 1
   - effect:explosion @Self

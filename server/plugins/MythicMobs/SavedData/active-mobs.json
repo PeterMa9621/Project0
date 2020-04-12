@@ -1372,6 +1372,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "d60b3706-5250-4b95-9a1c-c72db3a3ae38": {
+      "uuid": "d60b3706-5250-4b95-9a1c-c72db3a3ae38",
+      "mobType": "骷髅战士",
+      "aliveTime": 2752,
+      "lastSeen": 1586662161647,
+      "spawnLocation": {
+        "world": {
+          "uuid": "562ac619-8fb3-4da4-ac9e-50d034f37833",
+          "name": "DXL_Game_0"
+        },
+        "x": 7.5,
+        "y": 9.0,
+        "z": -5.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "cf27f73e-8002-4c5e-b41d-b7340984fd8d": {
       "uuid": "cf27f73e-8002-4c5e-b41d-b7340984fd8d",
       "mobType": "lx_xuerenT1",
@@ -1441,6 +1469,34 @@
         "x": -3.5,
         "y": 6.0,
         "z": 144.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "7c0547f5-522c-4e02-9fa3-21cadf486293": {
+      "uuid": "7c0547f5-522c-4e02-9fa3-21cadf486293",
+      "mobType": "守护者蜜蜂",
+      "aliveTime": 744,
+      "lastSeen": 1586651611887,
+      "spawnLocation": {
+        "world": {
+          "uuid": "4970b374-2838-45fc-86bd-ecea6519371b",
+          "name": "DXL_Game_0"
+        },
+        "x": 19.91629173703695,
+        "y": 5.625,
+        "z": 1.9025374196539993,
         "yaw": 0.0,
         "pitch": 0.0
       },
@@ -2324,6 +2380,62 @@
       "faction": {},
       "cooldowns": {}
     },
+    "98f7f9be-ecc8-4c92-a215-9dadb6056c32": {
+      "uuid": "98f7f9be-ecc8-4c92-a215-9dadb6056c32",
+      "mobType": "白眼骷髅",
+      "aliveTime": 1110,
+      "lastSeen": 1586662702715,
+      "spawnLocation": {
+        "world": {
+          "uuid": "9049fb02-89af-435a-9bb1-2cf19d0599ce",
+          "name": "DXL_Game_1"
+        },
+        "x": 12.5,
+        "y": 5.0,
+        "z": -9.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 2,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "8f19c71b-b59c-4732-8b77-f5cddb21cdaa": {
+      "uuid": "8f19c71b-b59c-4732-8b77-f5cddb21cdaa",
+      "mobType": "守护者蜜蜂",
+      "aliveTime": 590,
+      "lastSeen": 1586651886435,
+      "spawnLocation": {
+        "world": {
+          "uuid": "73726a8b-3948-4c86-9ebe-51e9120db9ea",
+          "name": "DXL_Game_0"
+        },
+        "x": 19.812520917589843,
+        "y": 14.0,
+        "z": -25.076809451491748,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "872c7d45-e131-474c-9813-274c5620d5f4": {
       "uuid": "872c7d45-e131-474c-9813-274c5620d5f4",
       "mobType": "lx_xueren",
@@ -2841,6 +2953,34 @@
         "x": -9.5,
         "y": 68.0,
         "z": 5.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "57817fcc-9508-4d2d-9d73-3a1d8c980020": {
+      "uuid": "57817fcc-9508-4d2d-9d73-3a1d8c980020",
+      "mobType": "骷髅战士",
+      "aliveTime": 195,
+      "lastSeen": 1586662702629,
+      "spawnLocation": {
+        "world": {
+          "uuid": "9049fb02-89af-435a-9bb1-2cf19d0599ce",
+          "name": "DXL_Game_1"
+        },
+        "x": 14.5,
+        "y": 9.0,
+        "z": -6.5,
         "yaw": 0.0,
         "pitch": 0.0
       },
@@ -3698,6 +3838,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "e61f164e-3626-4185-81a4-724edf6c0e81": {
+      "uuid": "e61f164e-3626-4185-81a4-724edf6c0e81",
+      "mobType": "Zombie_T",
+      "aliveTime": 733,
+      "lastSeen": 1586645026441,
+      "spawnLocation": {
+        "world": {
+          "uuid": "e556c32f-183b-45ec-869f-cce227bacb24",
+          "name": "DXL_Game_0"
+        },
+        "x": -170.5,
+        "y": 12.0,
+        "z": 115.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 3,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "82d9b28f-e7ba-402b-9ad9-d1b1c5bb48e2": {
       "uuid": "82d9b28f-e7ba-402b-9ad9-d1b1c5bb48e2",
       "mobType": "明月城武装僵尸",
@@ -3838,6 +4006,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "8c901565-3b50-49ee-ac8a-a3e0b17da3a5": {
+      "uuid": "8c901565-3b50-49ee-ac8a-a3e0b17da3a5",
+      "mobType": "守护者蜜蜂",
+      "aliveTime": 1043,
+      "lastSeen": 1586651257540,
+      "spawnLocation": {
+        "world": {
+          "uuid": "a15c1dd2-0e35-4c56-bc1b-e7484858fd8a",
+          "name": "DXL_Game_0"
+        },
+        "x": 32.9986868358663,
+        "y": 6.0,
+        "z": -15.561979225093367,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "ebecc84e-35c8-4cc2-8727-8894b12a27cd": {
       "uuid": "ebecc84e-35c8-4cc2-8727-8894b12a27cd",
       "mobType": "lx_xueren",
@@ -3851,6 +4047,34 @@
         "x": -9.5,
         "y": 68.0,
         "z": 5.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "46b650ac-a0b9-4457-9241-e8fc461df4aa": {
+      "uuid": "46b650ac-a0b9-4457-9241-e8fc461df4aa",
+      "mobType": "守护者蜜蜂",
+      "aliveTime": 977,
+      "lastSeen": 1586651600236,
+      "spawnLocation": {
+        "world": {
+          "uuid": "4970b374-2838-45fc-86bd-ecea6519371b",
+          "name": "DXL_Game_0"
+        },
+        "x": 13.946521863556526,
+        "y": 6.625,
+        "z": -1.9737800106971948,
         "yaw": 0.0,
         "pitch": 0.0
       },

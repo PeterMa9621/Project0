@@ -28,5 +28,5 @@
     PreventMobKillDrops: true
     PreventItemPickup: true
     KnockbackResistance: 0.1
-    MovementSpeed: 0.3
+    MovementSpeed: 0.25
     PreventOtherDrops: true

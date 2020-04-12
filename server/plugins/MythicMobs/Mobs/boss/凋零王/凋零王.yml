@@ -26,7 +26,7 @@ diaolingwang:
   Type: WITHER_SKELETON
   Display: '&6凋零王'
   Health: 600
-  Damage: 12
+  Damage: 13
   AITargetSelectors:
   - 0 clear
   - 1 players
@@ -53,12 +53,13 @@ diaolingwang:
     MovementSpeed: 0.25
     MaxCombatDistance: 25
     PreventOtherDrops: true
+    FollowRange: 20
 
 diaolingshibing:
   Type: SKELETON
   Display: '&2凋零士兵'
   Health: 16
-  Damage: 3
+  Damage: 6
   AITargetSelectors:
   - 0 clear
   - 1 players
