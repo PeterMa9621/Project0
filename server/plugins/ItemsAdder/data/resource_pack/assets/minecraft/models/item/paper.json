@@ -195,6 +195,12 @@
         "custom_model_data": 32
       },
       "model": "mcicons:auto_generated/icon_search"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "mjy:auto_generated/flag"
     }
   ]
 }

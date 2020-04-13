@@ -1,0 +1,11 @@
+info:
+  namespace: mjy
+items:
+  flag:
+    display_name: '&2旗帜'
+    permission: flag
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/icon/flag.png

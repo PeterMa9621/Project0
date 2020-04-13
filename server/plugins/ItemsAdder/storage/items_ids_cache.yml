@@ -630,6 +630,7 @@ PAPER:
   mcicons:icon_color_picker: 30
   mcicons:icon_comment: 31
   mcicons:icon_search: 32
+  mjy:flag: 33
 WATER_BUCKET:
   realcraft:boiled_water_bucket: 1
 COD:

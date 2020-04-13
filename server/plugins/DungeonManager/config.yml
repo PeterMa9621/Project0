@@ -1,9 +1,10 @@
 maxInstancePerDungeon: 2
+startGameDelay: 30
 dungeons:
   lieyanwang:
     displayName: '&c烈焰王'
-    minPlayers: 2
-    maxPlayers: 4
+    minPlayers: 1
+    maxPlayers: 2
   anjinshushi:
     displayName: '&c暗金术士'
     minPlayers: 2

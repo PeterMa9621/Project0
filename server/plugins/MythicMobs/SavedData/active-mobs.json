@@ -2296,6 +2296,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "371ce815-ac57-41d3-82bd-b7825a793f5d": {
+      "uuid": "371ce815-ac57-41d3-82bd-b7825a793f5d",
+      "mobType": "lieyanwang",
+      "aliveTime": 1069,
+      "lastSeen": 1586793364067,
+      "spawnLocation": {
+        "world": {
+          "uuid": "4e5d7348-4422-44c5-97e3-8d7ad82faf37",
+          "name": "DXL_Game_0"
+        },
+        "x": 34.5,
+        "y": 12.0,
+        "z": -2.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 5,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "fb6d69e3-eb57-401d-b860-8e7f6b73963f": {
       "uuid": "fb6d69e3-eb57-401d-b860-8e7f6b73963f",
       "mobType": "lx_xuerenT1",
@@ -2488,6 +2516,34 @@
       "stance": "default",
       "lastSignal": "",
       "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "ea9beaa8-b019-4b1c-ad1d-8329f2c81255": {
+      "uuid": "ea9beaa8-b019-4b1c-ad1d-8329f2c81255",
+      "mobType": "lieyanwang",
+      "aliveTime": 1390,
+      "lastSeen": 1586793360067,
+      "spawnLocation": {
+        "world": {
+          "uuid": "fec04a15-ae09-43a6-ad65-14daefee80a4",
+          "name": "DXL_Game_1"
+        },
+        "x": 34.5,
+        "y": 12.0,
+        "z": -2.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 5,
       "owner": {},
       "faction": {},
       "cooldowns": {}
@@ -3278,6 +3334,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "7ffca8ea-2c3c-46ed-ab3f-de6b2e5c961c": {
+      "uuid": "7ffca8ea-2c3c-46ed-ab3f-de6b2e5c961c",
+      "mobType": "lieyanwang",
+      "aliveTime": 1470,
+      "lastSeen": 1586794312069,
+      "spawnLocation": {
+        "world": {
+          "uuid": "d61183dd-f4d2-4218-b7ab-639bb4c11a0d",
+          "name": "DXL_Game_0"
+        },
+        "x": 34.5,
+        "y": 12.0,
+        "z": -2.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 5,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "29bd2815-7276-4a65-821e-dfec58bea922": {
       "uuid": "29bd2815-7276-4a65-821e-dfec58bea922",
       "mobType": "lx_xueren",
@@ -3526,6 +3610,34 @@
       "stance": "default",
       "lastSignal": "",
       "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "7f532750-a88a-423a-90e3-a369fa3260e9": {
+      "uuid": "7f532750-a88a-423a-90e3-a369fa3260e9",
+      "mobType": "lieyanwang",
+      "aliveTime": 2329,
+      "lastSeen": 1586792423071,
+      "spawnLocation": {
+        "world": {
+          "uuid": "49919092-0873-4b81-b39f-4c0ace662d2e",
+          "name": "DXL_Game_0"
+        },
+        "x": 34.5,
+        "y": 12.0,
+        "z": -2.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 8,
       "owner": {},
       "faction": {},
       "cooldowns": {}
