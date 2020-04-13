@@ -176,6 +176,8 @@ misc:
   'false': '&4[ 否 ]'
   okay: '&a[ OK ]'
   'true': '&a[ 是 ]'
+  'no': '&4[ 否 ]'
+  'yes': '&a[ 是 ]'
   unlimited: 无限
 player:
   blockInfo: '&6方块ID: &2&v1'

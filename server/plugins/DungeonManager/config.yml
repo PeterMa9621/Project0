@@ -1,0 +1,10 @@
+maxInstancePerDungeon: 2
+dungeons:
+  lieyanwang:
+    displayName: '&c烈焰王'
+    minPlayers: 2
+    maxPlayers: 4
+  anjinshushi:
+    displayName: '&c暗金术士'
+    minPlayers: 2
+    maxPlayers: 4
