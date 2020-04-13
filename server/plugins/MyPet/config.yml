@@ -77,7 +77,7 @@ MyPet:
   Skilltree:
     AutomaticAssignment: false
     RandomAssignment: false
-    ChooseOnce: false
+    ChooseOnce: true
     PreventLevellingWithout: true
     SwitchFee:
       Fixed: 0.0

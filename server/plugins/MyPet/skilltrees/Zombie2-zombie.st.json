@@ -1,17 +1,20 @@
 {
   "ID": "Zombie2-zombie",
-  "Order": 2,
+  "Order": 13,
   "Name": "血耐型僵尸",
+  "Requirements": [
+    "Permission:Zombie"
+  ],
   "Icon": {
-    "Material": "367"
+    "Material": "diamond_chestplate"
   },
-  "MaxLevel": 200,
+  "MaxLevel": 100,
   "Description": [
-    "血耐型宠物",
-    "最大伤害6",
-    "最大生命值100",
-    "技能：",
-    " -火焰攻击(最大概率30%，持续3秒)"
+    "\u0026c血耐型宠物",
+    "\u0026f最大伤害6",
+    "\u0026f最大生命值100",
+    "\u0026f技能：",
+    "\u0026f -火焰攻击(最大概率30%，持续3秒)"
   ],
   "MobTypes": [
     "Zombie"
@@ -56,131 +59,14 @@
     },
     "Life": {
       "Upgrades": {
-        "2": {
-          "Health": "+2"
+        "%1>1<10": {
+          "Health": "+6"
         },
-        "3": {
-          "Health": "+2"
+        "%1>11<30": {
+          "Health": "+5"
         },
-        "4": {
-          "Health": "+2"
-        },
-        "5": {
-          "Health": "+2"
-        },
-        "6": {
-          "Health": "+2"
-        },
-        "7": {
-          "Health": "+2"
-        },
-        "8": {
-          "Health": "+2"
-        },
-        "9": {
-          "Health": "+2"
-        },
-        "10": {
-          "Health": "+2"
-        },
-        "11": {
-          "Health": "+2"
-        },
-        "12": {
-          "Health": "+2"
-        },
-        "13": {
-          "Health": "+2"
-        },
-        "14": {
-          "Health": "+2"
-        },
-        "15": {
-          "Health": "+2"
-        },
-        "16": {
-          "Health": "+2"
-        },
-        "17": {
-          "Health": "+2"
-        },
-        "18": {
-          "Health": "+2"
-        },
-        "19": {
-          "Health": "+2"
-        },
-        "20": {
-          "Health": "+2"
-        },
-        "25": {
-          "Health": "+2"
-        },
-        "30": {
-          "Health": "+4"
-        },
-        "35": {
-          "Health": "+4"
-        },
-        "40": {
-          "Health": "+4"
-        },
-        "45": {
-          "Health": "+4"
-        },
-        "50": {
-          "Health": "+4"
-        },
-        "55": {
-          "Health": "+4"
-        },
-        "60": {
-          "Health": "+4"
-        },
-        "65": {
-          "Health": "+4"
-        },
-        "70": {
-          "Health": "+2"
-        },
-        "80": {
-          "Health": "+2"
-        },
-        "90": {
-          "Health": "+2"
-        },
-        "100": {
-          "Health": "+2"
-        },
-        "110": {
-          "Health": "+2"
-        },
-        "120": {
-          "Health": "+2"
-        },
-        "130": {
-          "Health": "+2"
-        },
-        "140": {
-          "Health": "+2"
-        },
-        "150": {
-          "Health": "+2"
-        },
-        "160": {
-          "Health": "+2"
-        },
-        "170": {
-          "Health": "+2"
-        },
-        "180": {
-          "Health": "+2"
-        },
-        "190": {
-          "Health": "+2"
-        },
-        "200": {
-          "Health": "+2"
+        "%1>31<100": {
+          "Health": "+1.71"
         }
       }
     },
@@ -191,26 +77,35 @@
           "Chance": "+10"
         },
         "35": {
-          "Duration": "+1",
-          "Chance": "+5"
+          "Chance": "+3"
         },
         "45": {
           "Duration": "+1",
-          "Chance": "+5"
+          "Chance": "+3"
         },
         "60": {
+          "Chance": "+3"
+        },
+        "70": {
+          "Chance": "+3"
+        },
+        "90": {
           "Duration": "+1",
           "Chance": "+5"
         },
-        "70": {
-          "Duration": "+1"
-        },
-        "90": {
-          "Duration": "+2",
-          "Chance": "+5"
-        },
         "100": {
-          "Duration": "+3"
+          "Chance": "+3"
+        }
+      }
+    },
+    "Behavior": {
+      "Upgrades": {
+        "5": {
+          "Aggro": false,
+          "Duel": false,
+          "Farm": false,
+          "Friend": true,
+          "Raid": false
         }
       }
     }
