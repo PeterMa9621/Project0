@@ -1,11 +1,39 @@
 maxInstancePerDungeon: 2
 startGameDelay: 30
 dungeons:
-  lieyanwang:
-    displayName: '&c烈焰王'
+  hunluanzhidi:
+    displayName: '&5混乱之地'
     minPlayers: 1
-    maxPlayers: 2
+    maxPlayers: 4
+  jingmizhidi:
+    displayName: '&5静谧之地'
+    minPlayers: 1
+    maxPlayers: 4
   anjinshushi:
-    displayName: '&c暗金术士'
-    minPlayers: 2
+    displayName: '&5暗金术士'
+    minPlayers: 1
+    maxPlayers: 4
+  shenqikuangche:
+    displayName: '&5神奇矿车'
+    minPlayers: 1
+    maxPlayers: 4
+  xianghecun:
+    displayName: '&5祥和村'
+    minPlayers: 1
+    maxPlayers: 4
+  luoxuecun:
+    displayName: '&5落雪村'
+    minPlayers: 1
+    maxPlayers: 4
+  mingyuecheng:
+    displayName: '&5明月城'
+    minPlayers: 1
+    maxPlayers: 4
+  shouhuzheyingdi:
+    displayName: '&5守护者营地'
+    minPlayers: 1
+    maxPlayers: 4
+  xuemobuluo:
+    displayName: '&5血魔部落'
+    minPlayers: 1
     maxPlayers: 4

@@ -1,6 +1,6 @@
 {
-  "ID": "chicken-chicken",
-  "Order": 8,
+  "ID": "chicken_chicken",
+  "Order": 16,
   "Name": "运输鸡",
   "Requirements": [
     "Permission:chicken"
@@ -34,6 +34,22 @@
           "rows": "+1",
           "drop": false
         }
+      }
+    },
+    "Behavior": {
+      "Upgrades": {
+        "5": {
+          "Aggro": false,
+          "Duel": false,
+          "Farm": false,
+          "Friend": true,
+          "Raid": false
+        }
+      }
+    },
+    "Control": {
+      "Upgrades": {
+        "5": {}
       }
     },
     "Life": {
@@ -75,22 +91,6 @@
         "15": {
           "Active": true,
           "JumpHeight": "+1.25"
-        }
-      }
-    },
-    "Control": {
-      "Upgrades": {
-        "5": {}
-      }
-    },
-    "Behavior": {
-      "Upgrades": {
-        "5": {
-          "Aggro": false,
-          "Duel": false,
-          "Farm": false,
-          "Friend": true,
-          "Raid": false
         }
       }
     }

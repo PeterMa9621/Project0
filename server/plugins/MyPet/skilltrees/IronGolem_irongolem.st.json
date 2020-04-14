@@ -1,6 +1,6 @@
 {
-  "ID": "IronGolem-irongolem",
-  "Order": 3,
+  "ID": "IronGolem_irongolem",
+  "Order": 11,
   "Name": "铁傀儡",
   "Requirements": [
     "Permission:IronGolem"
@@ -23,6 +23,24 @@
     "IronGolem"
   ],
   "Skills": {
+    "Behavior": {
+      "Upgrades": {
+        "5": {
+          "Aggro": true,
+          "Duel": true,
+          "Farm": true,
+          "Friend": true,
+          "Raid": true
+        }
+      }
+    },
+    "Control": {
+      "Upgrades": {
+        "5": {
+          "Active": true
+        }
+      }
+    },
     "Damage": {
       "Upgrades": {
         "%1>1<10": {
@@ -82,24 +100,6 @@
         "100": {
           "Damage": "+1",
           "Chance": "+5"
-        }
-      }
-    },
-    "Behavior": {
-      "Upgrades": {
-        "5": {
-          "Aggro": true,
-          "Duel": true,
-          "Farm": true,
-          "Friend": true,
-          "Raid": true
-        }
-      }
-    },
-    "Control": {
-      "Upgrades": {
-        "5": {
-          "Active": true
         }
       }
     }

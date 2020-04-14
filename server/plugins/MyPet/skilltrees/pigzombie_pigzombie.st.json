@@ -1,6 +1,6 @@
 {
-  "ID": "pigzombie-pigzombie",
-  "Order": 2,
+  "ID": "pigzombie_pigzombie",
+  "Order": 10,
   "Name": "攻血型僵尸猪人",
   "Requirements": [
     "Permission:pigzombie"
@@ -22,6 +22,21 @@
     "PigZombie"
   ],
   "Skills": {
+    "Behavior": {
+      "Upgrades": {
+        "5": {
+          "Duel": true,
+          "Farm": true,
+          "Friend": true,
+          "Raid": true
+        }
+      }
+    },
+    "Control": {
+      "Upgrades": {
+        "5": {}
+      }
+    },
     "Damage": {
       "Upgrades": {
         "%1>1<10": {
@@ -32,16 +47,6 @@
         },
         "%1>31<100": {
           "Damage": "+0.0428"
-        }
-      }
-    },
-    "Behavior": {
-      "Upgrades": {
-        "5": {
-          "Duel": true,
-          "Farm": true,
-          "Friend": true,
-          "Raid": true
         }
       }
     },
@@ -58,21 +63,6 @@
         },
         "%1>51<100": {
           "Health": "+0.6"
-        }
-      }
-    },
-    "Thorns": {
-      "Upgrades": {
-        "15": {
-          "Reflection": "+5",
-          "Chance": "+5"
-        },
-        "%1>16<30": {
-          "Reflection": "+1",
-          "Chance": "+1"
-        },
-        "%6>31<60": {
-          "Chance": "+1"
         }
       }
     },
@@ -107,9 +97,19 @@
         }
       }
     },
-    "Control": {
+    "Thorns": {
       "Upgrades": {
-        "5": {}
+        "15": {
+          "Reflection": "+5",
+          "Chance": "+5"
+        },
+        "%1>16<30": {
+          "Reflection": "+1",
+          "Chance": "+1"
+        },
+        "%6>31<60": {
+          "Chance": "+1"
+        }
       }
     }
   }

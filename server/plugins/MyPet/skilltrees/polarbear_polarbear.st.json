@@ -1,6 +1,6 @@
 {
-  "ID": "polarbear-polarbear",
-  "Order": 1,
+  "ID": "polarbear_polarbear",
+  "Order": 9,
   "Name": "北极熊",
   "Requirements": [
     "Permission:polarbear"
@@ -23,6 +23,24 @@
     "PolarBear"
   ],
   "Skills": {
+    "Behavior": {
+      "Upgrades": {
+        "5": {
+          "Aggro": true,
+          "Duel": true,
+          "Farm": true,
+          "Friend": true,
+          "Raid": true
+        }
+      }
+    },
+    "Control": {
+      "Upgrades": {
+        "5": {
+          "Active": true
+        }
+      }
+    },
     "Damage": {
       "Upgrades": {
         "%1>1<10": {
@@ -36,32 +54,16 @@
         }
       }
     },
-    "Ride": {
-      "Upgrades": {
-        "5": {
-          "Active": true,
-          "Speed": "+2",
-          "JumpHeight": "+1.25"
-        }
-      }
-    },
     "Life": {
       "Upgrades": {
         "%1>1<10": {
           "Health": "+3"
         },
-        "%1>21<40": {
-          "Health": "+2"
+        "%1>11<40": {
+          "Health": "+1.33333"
         },
         "%1>41<100": {
           "Health": "+1"
-        }
-      }
-    },
-    "Sprint": {
-      "Upgrades": {
-        "10": {
-          "Active": true
         }
       }
     },
@@ -87,14 +89,12 @@
         }
       }
     },
-    "Stomp": {
+    "Ride": {
       "Upgrades": {
-        "75": {
-          "Damage": "+2"
-        },
-        "%10>40<70": {
-          "Damage": "+2",
-          "Chance": "+10"
+        "5": {
+          "Active": true,
+          "Speed": "+2",
+          "JumpHeight": "+1.25"
         }
       }
     },
@@ -110,21 +110,21 @@
         }
       }
     },
-    "Behavior": {
+    "Sprint": {
       "Upgrades": {
-        "5": {
-          "Aggro": true,
-          "Duel": true,
-          "Farm": true,
-          "Friend": true,
-          "Raid": true
+        "10": {
+          "Active": true
         }
       }
     },
-    "Control": {
+    "Stomp": {
       "Upgrades": {
-        "5": {
-          "Active": true
+        "75": {
+          "Damage": "+2"
+        },
+        "%10>40<70": {
+          "Damage": "+2",
+          "Chance": "+10"
         }
       }
     }

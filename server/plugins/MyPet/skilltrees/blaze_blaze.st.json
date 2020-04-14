@@ -1,6 +1,6 @@
 {
-  "ID": "blaze-blaze",
-  "Order": 10,
+  "ID": "blaze_blaze",
+  "Order": 19,
   "Name": "攻击型烈焰人(近战)",
   "Requirements": [
     "Permission:blaze"
@@ -21,19 +21,6 @@
     "Blaze"
   ],
   "Skills": {
-    "Damage": {
-      "Upgrades": {
-        "%1>1<10": {
-          "Damage": "+0.4"
-        },
-        "%1>11<30": {
-          "Damage": "+0.3"
-        },
-        "%1>31<100": {
-          "Damage": "+0.0714"
-        }
-      }
-    },
     "Behavior": {
       "Upgrades": {
         "1": {
@@ -45,36 +32,16 @@
         }
       }
     },
-    "Life": {
+    "Damage": {
       "Upgrades": {
         "%1>1<10": {
-          "Health": "+4"
+          "Damage": "+0.4"
         },
         "%1>11<30": {
-          "Health": "+2"
+          "Damage": "+0.3"
         },
         "%1>31<100": {
-          "Health": "+0.5"
-        }
-      }
-    },
-    "Heal": {
-      "Upgrades": {
-        "5": {
-          "Health": "+3",
-          "Timer": "+30"
-        },
-        "15": {
-          "Health": "+3",
-          "Timer": "-5"
-        },
-        "30": {
-          "Health": "+3",
-          "Timer": "-5"
-        },
-        "50": {
-          "Health": "+1",
-          "Timer": "-5"
+          "Damage": "+0.0714"
         }
       }
     },
@@ -104,6 +71,39 @@
         "100": {
           "Duration": "+1",
           "Chance": "+3"
+        }
+      }
+    },
+    "Heal": {
+      "Upgrades": {
+        "5": {
+          "Health": "+3",
+          "Timer": "+30"
+        },
+        "15": {
+          "Health": "+3",
+          "Timer": "-5"
+        },
+        "30": {
+          "Health": "+3",
+          "Timer": "-5"
+        },
+        "50": {
+          "Health": "+1",
+          "Timer": "-5"
+        }
+      }
+    },
+    "Life": {
+      "Upgrades": {
+        "%1>1<10": {
+          "Health": "+4"
+        },
+        "%1>11<30": {
+          "Health": "+2"
+        },
+        "%1>31<100": {
+          "Health": "+0.5"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
-  "ID": "creeper-creeper",
-  "Order": 6,
+  "ID": "creeper_creeper",
+  "Order": 14,
   "Name": "综合型苦力怕",
   "Requirements": [
     "Permission:creeper"
@@ -22,6 +22,32 @@
     "Creeper"
   ],
   "Skills": {
+    "Backpack": {
+      "Upgrades": {
+        "30": {
+          "rows": "+1",
+          "drop": false
+        }
+      }
+    },
+    "Behavior": {
+      "Upgrades": {
+        "5": {
+          "Aggro": false,
+          "Duel": true,
+          "Farm": true,
+          "Friend": true,
+          "Raid": true
+        }
+      }
+    },
+    "Control": {
+      "Upgrades": {
+        "5": {
+          "Active": true
+        }
+      }
+    },
     "Damage": {
       "Upgrades": {
         "1": {
@@ -75,25 +101,6 @@
         }
       }
     },
-    "Behavior": {
-      "Upgrades": {
-        "5": {
-          "Aggro": false,
-          "Duel": true,
-          "Farm": true,
-          "Friend": true,
-          "Raid": true
-        }
-      }
-    },
-    "Backpack": {
-      "Upgrades": {
-        "30": {
-          "rows": "+1",
-          "drop": false
-        }
-      }
-    },
     "Knockback": {
       "Upgrades": {
         "15": {
@@ -114,13 +121,6 @@
           "Range": "+1"
         },
         "45,55": {}
-      }
-    },
-    "Control": {
-      "Upgrades": {
-        "5": {
-          "Active": true
-        }
       }
     }
   }

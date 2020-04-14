@@ -1,6 +1,6 @@
 {
-  "ID": "bat-bat",
-  "Order": 12,
+  "ID": "bat_bat",
+  "Order": 21,
   "Name": "骑乘型蝙蝠",
   "Requirements": [
     "Permission:bat"

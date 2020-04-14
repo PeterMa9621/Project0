@@ -1,6 +1,6 @@
 {
-  "ID": "Zombie2-zombie",
-  "Order": 13,
+  "ID": "Zombie2_zombie",
+  "Order": 22,
   "Name": "血耐型僵尸",
   "Requirements": [
     "Permission:Zombie"
@@ -20,6 +20,17 @@
     "Zombie"
   ],
   "Skills": {
+    "Behavior": {
+      "Upgrades": {
+        "5": {
+          "Aggro": false,
+          "Duel": false,
+          "Farm": false,
+          "Friend": true,
+          "Raid": false
+        }
+      }
+    },
     "Damage": {
       "Upgrades": {
         "1": {
@@ -57,19 +68,6 @@
         }
       }
     },
-    "Life": {
-      "Upgrades": {
-        "%1>1<10": {
-          "Health": "+6"
-        },
-        "%1>11<30": {
-          "Health": "+5"
-        },
-        "%1>31<100": {
-          "Health": "+1.71"
-        }
-      }
-    },
     "Fire": {
       "Upgrades": {
         "30": {
@@ -98,14 +96,16 @@
         }
       }
     },
-    "Behavior": {
+    "Life": {
       "Upgrades": {
-        "5": {
-          "Aggro": false,
-          "Duel": false,
-          "Farm": false,
-          "Friend": true,
-          "Raid": false
+        "%1>1<10": {
+          "Health": "+6"
+        },
+        "%1>11<30": {
+          "Health": "+5"
+        },
+        "%1>31<100": {
+          "Health": "+1.71"
         }
       }
     }

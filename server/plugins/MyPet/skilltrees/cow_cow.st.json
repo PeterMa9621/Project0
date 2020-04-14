@@ -1,6 +1,6 @@
 {
-  "ID": "cow-cow",
-  "Order": 7,
+  "ID": "cow_cow",
+  "Order": 15,
   "Name": "血耐型肉牛",
   "Requirements": [
     "Permission:cow"
