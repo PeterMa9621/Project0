@@ -9,3 +9,51 @@ items:
       generate: true
       textures:
       - item/icon/flag.png
+  key1:
+    display_name: '&2钥匙'
+    permission: key1
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/icon/key_1.png
+  key2:
+    display_name: '&2钥匙'
+    permission: key2
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/icon/key_2.png
+  key3:
+    display_name: '&2钥匙'
+    permission: key3
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/icon/key_3.png
+  key4:
+    display_name: '&2钥匙'
+    permission: key4
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/icon/key_4.png
+  key5:
+    display_name: '&2钥匙'
+    permission: key5
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/icon/key_5.png
+  key6:
+    display_name: '&2钥匙'
+    permission: key6
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/icon/key_6.png

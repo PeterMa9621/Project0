@@ -524,3 +524,31 @@ items:
       mainhand:
         attackDamage: 11.0
         maxHealth: 2
+        
+  test_sword:
+    display_name: '&3未知之剑'
+    permission: test_sword
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/test
+    durability:
+      max_custom_durability: 1561
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 11.0
+        maxHealth: 2
+        
+  test2_sword:
+    display_name: '&3未知之剑'
+    permission: test2_sword
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: item/test2
+    durability:
+      max_custom_durability: 1561
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 11.0
+        maxHealth: 2

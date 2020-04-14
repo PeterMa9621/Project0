@@ -2,37 +2,51 @@ vip1:
   Money: 3000
   Items:
     '1':
-      ID: diamond
-      Amount: 32
-      DisplayName: 钻石
-      Lore: 神奇钻石
-      Enchant:
-        ID: fortune
-        Level: 1
-      HideEnchant: true
+      ID: diamond_block
+      Amount: 16
+    '2':
+      ID: gold_block
+      Amount: 16
+    '3':
+      ID: iron_block
+      Amount: 16
+
 
 vip2:
-  Money: 3000
+  Money: 8000
   Items:
     '1':
-      ID: diamond
+      ID: diamond_block
       Amount: 32
-      DisplayName: 钻石
-      Lore: 神奇钻石
-      Enchant:
-        ID: fortune
-        Level: 1
-      HideEnchant: true
+    '2':
+      ID: gold_block
+      Amount: 32
+    '3':
+      ID: iron_block
+      Amount: 32
       
 vip3:
-  Money: 3000
+  Money: 18000
   Items:
     '1':
-      ID: diamond
-      Amount: 32
-      DisplayName: 钻石
-      Lore: 神奇钻石
-      Enchant:
-        ID: fortune
-        Level: 1
-      HideEnchant: true
+      ID: diamond_block
+      Amount: 64
+    '2':
+      ID: gold_block
+      Amount: 64
+    '3':
+      ID: iron_block
+      Amount: 64
+      
+# vip3:
+  # Money: 18000
+  # Items:
+    # '1':
+      # ID: diamond
+      # Amount: 32
+      # DisplayName: 钻石
+      # Lore: 神奇钻石
+      # Enchant:
+        # ID: fortune
+        # Level: 1
+      # HideEnchant: true

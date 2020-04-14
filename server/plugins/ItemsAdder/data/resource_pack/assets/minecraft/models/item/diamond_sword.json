@@ -279,6 +279,18 @@
         "custom_model_data": 55
       },
       "model": "mjy:auto_generated/shouhuzhe_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56
+      },
+      "model": "mjy:item/test"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57
+      },
+      "model": "mjy:item/test2"
     }
   ]
 }

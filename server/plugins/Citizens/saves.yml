@@ -112,21 +112,21 @@
 
 
 
-last-created-npc-id: 1
+last-created-npc-id: 3
 npc:
   '0':
-    name: 引导者
+    name: §6指引者
     uuid: dde0542e-597a-4459-bf80-a6d4f4a62f2a
     traits:
       type: PLAYER
       location:
-        headYaw: -165.63593
+        headYaw: -67.18002
         world: world
         x: '105.4995'
         y: '31.0'
         z: '-94.5414'
-        yaw: '-165.6359'
-        pitch: '4.9815'
+        yaw: '-67.18'
+        pitch: '-46.6616'
       lookclose:
         range: '5.0'
         enabled: true
@@ -145,7 +145,7 @@ npc:
       owner:
         owner: BiShop
         uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
-    traitnames: lookclose,gravity,scoreboardtrait,type,owner,location,inventory,spawned,equipment,mounttrait
+    traitnames: spawned,type,mounttrait,equipment,location,owner,gravity,inventory,lookclose,scoreboardtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -154,7 +154,7 @@ npc:
       nameplate-visible: 'true'
       player-skin-name: bishop
   '1':
-    name: 渔夫
+    name: §6渔夫
     uuid: edac2078-35af-4c67-bcb6-6a96a6e4e175
     traits:
       spawned: true
@@ -174,20 +174,110 @@ npc:
           '0': 0.0
           '1': 360.0
       location:
-        headYaw: -163.45102
+        headYaw: 0.0
         world: world
-        x: '109.3527'
-        y: '31.0'
-        z: '-90.4392'
-        yaw: '-163.451'
-        pitch: '4.6437'
+        x: '143.5371'
+        y: '15.5'
+        z: '-60.532'
+        yaw: '0.0'
+        pitch: '-34.5478'
       owner:
         owner: BiShop
         uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
-    traitnames: fishshop,lookclose,gravity,scoreboardtrait,type,location,owner,spawned,inventory,equipment,mounttrait
+    traitnames: spawned,type,mounttrait,equipment,fishshop,location,gravity,owner,inventory,scoreboardtrait,lookclose
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
       usedefaultstuckaction: true
     metadata:
       player-skin-name: fisher
+  '3':
+    name: §6宠物大师
+    uuid: 99ec9a2f-88e2-4bda-ba3f-4d0c9a3140cc
+    traits:
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      commandtrait:
+        commands:
+          '0':
+            command: petshop
+            hand: RIGHT
+            player: true
+            op: true
+            cooldown: 0
+            n: -1
+      spawned: true
+      type: PLAYER
+      location:
+        headYaw: 0.0
+        world: world
+        x: '106.5575'
+        y: '29.5'
+        z: '-69.4912'
+        yaw: '0.0'
+        pitch: '-47.4685'
+      gravity:
+        enabled: false
+      owner:
+        owner: BiShop
+        uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
+    traitnames: spawned,type,mounttrait,equipment,location,owner,gravity,commandtrait,inventory,lookclose,scoreboardtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    name: §6副本使者
+    uuid: 9e999137-5635-4000-b5c2-49dbabfc30ee
+    traits:
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      commandtrait:
+        commands:
+          '0':
+            command: dm
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            n: -1
+      spawned: true
+      type: PLAYER
+      location:
+        headYaw: 0.0
+        world: world
+        x: '88.4423'
+        y: '26.0'
+        z: '-111.4712'
+        yaw: '0.0'
+        pitch: '-22.5709'
+      gravity:
+        enabled: false
+      owner:
+        owner: BiShop
+        uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
+    traitnames: spawned,type,mounttrait,equipment,location,owner,gravity,commandtrait,inventory,lookclose,scoreboardtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

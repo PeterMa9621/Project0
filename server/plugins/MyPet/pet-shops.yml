@@ -8,7 +8,7 @@ Shops:
   all:
 # When Default is set to true /petshop will open the sop instead of the shop selection GUI
 #    Default: true
-    Name: "所有宠物"
+    Name: "普通宠物"
     Balance:
       Type: Private
     Position: 0
@@ -32,37 +32,37 @@ Shops:
         Name: 蝙蝠
         PetType: Bat
         EXP: 0
-        Price: 100
+        Price: 1000
       blaze:
         Name: 烈焰人
         PetType: Blaze
         EXP: 0
-        Price: 100
+        Price: 5000
       cavespider:
         Name: 洞穴蜘蛛
         PetType: CaveSpider
         EXP: 0
-        Price: 100
+        Price: 2000
       chicken:
         Name: 小鸡
         PetType: Chicken
         EXP: 0
-        Price: 100
+        Price: 1000
       cow:
         Name: 奶牛
         PetType: Cow
         EXP: 0
-        Price: 100
+        Price: 2000
       creeper:
         Name: 苦力怕
         PetType: Creeper
         EXP: 0
-        Price: 100
+        Price: 2000
       donkey:
         Name: 驴
         PetType: Donkey
         EXP: 0
-        Price: 100
+        Price: 1000
       # elder_guardian:
         # Name: Elder Guardian
         # Description:
@@ -74,7 +74,7 @@ Shops:
         Name: 末影人
         PetType: Enderman
         EXP: 0
-        Price: 100
+        Price: 5000
       # endermite:
         # Name: Endermite
         # Description:
@@ -100,12 +100,12 @@ Shops:
         Name: 马
         PetType: Horse
         EXP: 0
-        Price: 100
+        Price: 1000
       iron_golem:
         Name: 铁傀儡
         PetType: IronGolem
         EXP: 0
-        Price: 100
+        Price: 5000
       # illusioner:
         # Name: Illusioner
         # Description:
@@ -117,7 +117,7 @@ Shops:
         Name: 羊驼
         PetType: Llama
         EXP: 0
-        Price: 100
+        Price: 5000
       # magmacube:
         # Name: MagmaCube
         # Description:
@@ -138,17 +138,17 @@ Shops:
         Name: 骡子
         PetType: Mule
         EXP: 0
-        Price: 100
+        Price: 2000
       ocelot:
         Name: 豹猫
         PetType: Ocelot
         EXP: 0
-        Price: 100
+        Price: 3000
       parrot:
         Name: 鹦鹉
         PetType: Parrot
         EXP: 0
-        Price: 100
+        Price: 4000
       # pig:
         # Name: 猪
         # PetType: Pig
@@ -158,37 +158,37 @@ Shops:
         Name: 僵尸猪人
         PetType: PigZombie
         EXP: 0
-        Price: 100
+        Price: 3000
       polarbear:
         Name: 北极熊
         PetType: PolarBear
         EXP: 0
-        Price: 100
+        Price: 5000
       rabbit:
         Name: 兔子
         PetType: Rabbit
         EXP: 0
-        Price: 100
+        Price: 2000
       sheep:
         Name: 羊
         PetType: Sheep
         EXP: 0
-        Price: 100
+        Price: 1000
       silverfish:
         Name: 蠹虫
         PetType: Silverfish
         EXP: 0
-        Price: 100
+        Price: 3000
       skeleton:
         Name: 骷髅
         PetType: Skeleton
         EXP: 0
-        Price: 100
+        Price: 1000
       skeleton_horse:
         Name: 骷髅马
         PetType: SkeletonHorse
         EXP: 0
-        Price: 100
+        Price: 5000
       # slime:
         # Name: Slime
         # Description:
@@ -202,12 +202,12 @@ Shops:
         Name: 雪人
         PetType: Snowman
         EXP: 0
-        Price: 100
+        Price: 3000
       spider:
         Name: 蜘蛛
         PetType: Spider
         EXP: 0
-        Price: 100
+        Price: 1000
       # squid:
         # Name: Squid
         # Description:
@@ -219,7 +219,7 @@ Shops:
         Name: 流浪者
         PetType: Stray
         EXP: 0
-        Price: 100
+        Price: 5000
       # witch:
         # Name: Witch
         # Description:
@@ -231,17 +231,17 @@ Shops:
         Name: 凋零
         PetType: Wither
         EXP: 0
-        Price: 100
+        Price: 10000
       wither_skeleton:
         Name: 凋零骷髅
         PetType: WitherSkeleton
         EXP: 0
-        Price: 100
+        Price: 5000
       wolf:
         Name: 狼
         PetType: Wolf
         EXP: 0
-        Price: 100
+        Price: 2000
         Options:
           - tamed
       # vex:
@@ -269,37 +269,37 @@ Shops:
         Name: 僵尸
         PetType: Zombie
         EXP: 0
-        Price: 100
+        Price: 1000
       zombie_horse:
         Name: 僵尸马
         PetType: ZombieHorse
         EXP: 0
-        Price: 100
+        Price: 3000
       phantom:
         Name: 幻翼
         PetType: Phantom
         EXP: 0
-        Price: 100
+        Price: 5000
       drowned:
         Name: 溺尸
         PetType: Drowned
         EXP: 0
-        Price: 100
+        Price: 5000
       bee:
         Name: 蜜蜂
         PetType: Bee
         EXP: 0
-        Price: 100
+        Price: 3000
       ravager:
         Name: 掠夺兽
         PetType: Ravager
         EXP: 0
-        Price: 100
+        Price: 10000
       panda:
         Name: 熊猫
         PetType: Panda
         EXP: 0
-        Price: 100
+        Price: 5000
       # zombie_villager:
         # Name: Zombie Villager
         # Description:
@@ -329,7 +329,7 @@ Shops:
 #        EXP: 0
 #        Price: 100
   babies:
-    Name: "Baby Shop"
+    Name: "宝宝宠物"
     Balance:
       Type: Private
     Position: 1
@@ -340,7 +340,7 @@ Shops:
           - <green>这是鸡宝宝!
         PetType: Chicken
         EXP: 0
-        Price: 50
+        Price: 1000
         Options:
           - baby
       baby_cow:
@@ -349,7 +349,7 @@ Shops:
           - <green>这是牛宝宝!
         PetType: Cow
         EXP: 0
-        Price: 50
+        Price: 2000
         Options:
           - baby
       baby_donkey:
@@ -358,7 +358,7 @@ Shops:
           - <green>这是驴宝宝!
         PetType: Donkey
         EXP: 0
-        Price: 50
+        Price: 1000
         Options:
           - baby
       baby_horse:
@@ -367,7 +367,7 @@ Shops:
           - <green>这是马宝宝!
         PetType: Horse
         EXP: 0
-        Price: 50
+        Price: 1000
         Options:
           - baby
       baby_llama:
@@ -376,7 +376,7 @@ Shops:
           - <green>这是羊驼宝宝!
         PetType: Llama
         EXP: 0
-        Price: 50
+        Price: 5000
         Options:
           - baby
       # baby_mooshroom:
@@ -394,7 +394,7 @@ Shops:
           - <green>这是骡子宝宝!
         PetType: Mule
         EXP: 0
-        Price: 50
+        Price: 2000
         Options:
           - baby
       baby_ocelot:
@@ -403,7 +403,7 @@ Shops:
           - <green>这是豹猫宝宝!
         PetType: Ocelot
         EXP: 0
-        Price: 50
+        Price: 3000
         Options:
           - baby
       # baby_pig:
@@ -421,7 +421,7 @@ Shops:
           - <green>这是僵尸猪人宝宝!
         PetType: PigZombie
         EXP: 0
-        Price: 50
+        Price: 3000
         Options:
           - baby
       baby_polar_bear:
@@ -430,7 +430,7 @@ Shops:
           - <green>这是北极熊宝宝!
         PetType: PolarBear
         EXP: 0
-        Price: 50
+        Price: 5000
         Options:
           - baby
       baby_rabbit:
@@ -439,7 +439,7 @@ Shops:
           - <green>这是兔子宝宝!
         PetType: Rabbit
         EXP: 0
-        Price: 50
+        Price: 2000
         Options:
           - baby
       baby_sheep:
@@ -448,7 +448,7 @@ Shops:
           - <green>这是羊宝宝!
         PetType: Sheep
         EXP: 0
-        Price: 50
+        Price: 1000
         Options:
           - baby
       baby_skeleton_horse:
@@ -457,7 +457,7 @@ Shops:
           - <green>这是骷髅马宝宝!
         PetType: SkeletonHorse
         EXP: 0
-        Price: 50
+        Price: 5000
         Options:
           - baby
       # baby_villager:
@@ -475,7 +475,7 @@ Shops:
           - <green>这是凋零宝宝!
         PetType: Wither
         EXP: 0
-        Price: 50
+        Price: 10000
         Options:
           - baby
       baby_wolf:
@@ -484,7 +484,7 @@ Shops:
           - <green>这是狼宝宝!
         PetType: Wolf
         EXP: 0
-        Price: 50
+        Price: 2000
         Options:
           - tamed
           - baby
@@ -494,7 +494,7 @@ Shops:
           - <green>这是僵尸宝宝!
         PetType: Zombie
         EXP: 0
-        Price: 50
+        Price: 1000
         Options:
           - baby
       baby_zombie_horse:
@@ -503,7 +503,7 @@ Shops:
           - <green>这是僵尸马宝宝!
         PetType: ZombieHorse
         EXP: 0
-        Price: 50
+        Price: 3000
         Options:
           - baby
       baby_panda:
@@ -512,7 +512,7 @@ Shops:
           - <green>这是熊猫宝宝!
         PetType: Panda
         EXP: 0
-        Price: 50
+        Price: 5000
         Options:
           - baby
       # baby_zombie_villager:

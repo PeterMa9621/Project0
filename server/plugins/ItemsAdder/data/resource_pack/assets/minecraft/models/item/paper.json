@@ -201,6 +201,42 @@
         "custom_model_data": 33
       },
       "model": "mjy:auto_generated/flag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "mjy:auto_generated/key1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "mjy:auto_generated/key2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "mjy:auto_generated/key3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "mjy:auto_generated/key4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "mjy:auto_generated/key5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "mjy:auto_generated/key6"
     }
   ]
 }

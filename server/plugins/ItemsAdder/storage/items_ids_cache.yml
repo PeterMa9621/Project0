@@ -54,6 +54,8 @@ DIAMOND_SWORD:
   itemsadder:shouhuzhe_sword: 53
   mjy:lieyan_sword: 54
   mjy:shouhuzhe_sword: 55
+  mjy:test_sword: 56
+  mjy:test2_sword: 57
 LEATHER_HELMET:
   itemsadder:ruby_head: 1
   itemsadder:spinel_head: 2
@@ -631,6 +633,12 @@ PAPER:
   mcicons:icon_comment: 31
   mcicons:icon_search: 32
   mjy:flag: 33
+  mjy:key1: 34
+  mjy:key2: 35
+  mjy:key3: 36
+  mjy:key4: 37
+  mjy:key5: 38
+  mjy:key6: 39
 WATER_BUCKET:
   realcraft:boiled_water_bucket: 1
 COD:
@@ -655,3 +663,10 @@ COOKED_COD:
   mjy:squid: 17
   mjy:jellyfish: 18
   mjy:turtle: 19
+TRIPWIRE_HOOK:
+  mjy:key1: 1
+  mjy:key2: 2
+  mjy:key3: 3
+  mjy:key4: 4
+  mjy:key5: 5
+  mjy:key6: 6
