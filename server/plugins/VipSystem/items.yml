@@ -1,52 +1,57 @@
 vip1:
-  Money: 3000
+  Money: 0
+  MinInventory: 8
   Items:
     '1':
-      ID: diamond_block
-      Amount: 16
+      Command: ph give %player% diamond_block 16
     '2':
-      ID: gold_block
-      Amount: 16
+      Command: ph give %player% gold_block 16
     '3':
-      ID: iron_block
-      Amount: 16
+      Command: ph give %player% iron_block 16
+    '4':
+      Command: cc give p 九选一 3 %player%
+    '5':
+      Command: cc give p 快速 3 %player%
 
 
 vip2:
-  Money: 8000
+  Money: 5000
+  MinInventory: 8
   Items:
     '1':
-      ID: diamond_block
-      Amount: 32
+      Command: ph give %player% diamond_block 32
     '2':
-      ID: gold_block
-      Amount: 32
+      Command: ph give %player% gold_block 32
     '3':
-      ID: iron_block
-      Amount: 32
+      Command: ph give %player% iron_block 32
+    '4':
+      Command: cc give p 九选一 3 %player%
+    '5':
+      Command: cc give p 快速 3 %player%
+    '6':
+      Command: cc give p 老虎机 3 %player%
+    '7':
+      Command: cc give p 跑马灯 3 %player% 
       
 vip3:
-  Money: 18000
+  Money: 10000
+  MinInventory: 8
   Items:
     '1':
-      ID: diamond_block
-      Amount: 64
+      Command: ph give %player% diamond_block 64
     '2':
-      ID: gold_block
-      Amount: 64
+      Command: ph give %player% gold_block 64
     '3':
-      ID: iron_block
-      Amount: 64
-      
-# vip3:
-  # Money: 18000
-  # Items:
-    # '1':
-      # ID: diamond
-      # Amount: 32
-      # DisplayName: 钻石
-      # Lore: 神奇钻石
-      # Enchant:
-        # ID: fortune
-        # Level: 1
-      # HideEnchant: true
+      Command: ph give %player% iron_block 64
+    '4':
+      Command: cc give p 九选一 3 %player%
+    '5':
+      Command: cc give p 快速 3 %player%
+    '6':
+      Command: cc give p 老虎机 3 %player%
+    '7':
+      Command: cc give p 跑马灯 3 %player% 
+    '8':
+      Command: cc give p 烟花 3 %player%
+    '9':
+      Command: cc give p 疯狂 3 %player% 

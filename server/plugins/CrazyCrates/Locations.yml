@@ -149,3 +149,27 @@ Locations:
     X: 185
     Y: 32
     Z: -97
+  '26':
+    Crate: 快速
+    World: world
+    X: 178
+    Y: 23
+    Z: -102
+  '27':
+    Crate: 快速
+    World: world
+    X: 178
+    Y: 23
+    Z: -103
+  '28':
+    Crate: 快速
+    World: world
+    X: 178
+    Y: 23
+    Z: -104
+  '29':
+    Crate: 快速
+    World: world
+    X: 178
+    Y: 23
+    Z: -105

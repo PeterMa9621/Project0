@@ -216,12 +216,6 @@
     },
     {
       "predicate": {
-        "custom_model_data": 40
-      },
-      "model": "mjy:auto_generated/aokuzhe_sword"
-    },
-    {
-      "predicate": {
         "custom_model_data": 41
       },
       "model": "mjy:item/yitian_sword"
@@ -291,6 +285,12 @@
         "custom_model_data": 57
       },
       "model": "mjy:item/test2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "mjy:auto_generated/tongkuzhe_sword"
     }
   ]
 }

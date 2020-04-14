@@ -260,9 +260,9 @@ items:
         attackDamage: 11.0
         attackSpeed: 2.4
         
-  aokuzhe_sword:
+  tongkuzhe_sword:
     display_name: '&c恸哭者'
-    permission: aokuzhe_sword
+    permission: tongkuzhe_sword
     lore:
     - '&8死神之镰'
     - '&8所到之处即带来&c死亡'
@@ -270,7 +270,7 @@ items:
       material: DIAMOND_SWORD
       generate: true
       textures:
-      - item/aokuzhe/aokuzhe_sword.png
+      - item/tongkuzhe/tongkuzhe_sword.png
     durability:
       max_custom_durability: 1999
     attribute_modifiers:
