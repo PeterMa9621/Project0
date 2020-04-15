@@ -1,28 +1,28 @@
 lastAccountName: Test
 timestamps:
-  login: 1586932073615
+  login: 1586971394617
   kits:
     color: 1586795244429
     tools: 1585116686238
   lastteleport: 1586923332305
-  logout: 1586934054429
+  logout: 1586971388443
   command-cooldowns:
   - pattern: .*( .*)?
     expiry: 1586922858623
 ipAddress: 127.0.0.1
 lastlocation:
-  world: shengcun
-  x: -388.7020408327662
-  y: 70.0
-  z: -161.80206356272012
-  yaw: -118.944916
-  pitch: 15.900097
+  world: DXL_Game_0
+  x: 11.699999988079071
+  y: 5.0
+  z: 157.70074391936512
+  yaw: 90.0
+  pitch: 0.0
 afk: false
 logoutlocation:
   world: world
   x: 106.82307413738036
   y: 31.0
   z: -104.28778990810332
-  yaw: 0.0
-  pitch: 34.16747
+  yaw: 90.15
+  pitch: 41.067513
 money: '9152.25'

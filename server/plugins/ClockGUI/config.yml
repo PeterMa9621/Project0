@@ -6,6 +6,12 @@ Clock:
   Name: §a钟表菜单
   # 钟表菜单Lore
   Lore: §6服务器钟表菜单%§6右键我打开菜单
+  World:
+  - world
+  - world_nether
+  - world_the_end
+  - shengcun
+  - kuangjie
 
 # 所有菜单的详细设置
 GUI:
@@ -41,9 +47,9 @@ GUI:
           # 花费的价格
           Price: 0
         # 按下按钮发给玩家的信息
-        Message: §a你已打开商城%§c测试
+        #Message: §a你已打开商城%§c测试
         # 按钮按下次数(每个玩家都有这么多次数，按下一次即为一次，一旦玩家按下次数超过这个数值则该按钮不再显示)
-        Frequency: 3
+        #Frequency: -1
         # 按下这个按钮的功能(可以都不选，也可以都选)
         Function:
           # 打开另一个GUI窗口
@@ -117,12 +123,12 @@ GUI:
         Position: 9
         # 物品ID为 "主ID:附加值"
         ItemID: 'BREAD'
-        Name: §6传送至新手村
-        Lore: §2点击传送至新手村
+        Name: §6传送至副本使者
+        Lore: §2点击传送至副本使者
         Function:
           Command:
             Use: true
-            Content: /warp xs
+            Content: /warp fb
           OpenAnotherGUI:
             Use: false
             Number: 2
@@ -467,6 +473,7 @@ GUI:
         ItemID: 'REDSTONE'
         Name: §a返回主页
         Lore: §2点击返回主页
+        BanInDungeon: true
         Cost:
           Type: Money
           Price: 0
@@ -561,3 +568,31 @@ GUI:
           OpenAnotherGUI:
             Use: true
             Number: 0
+            
+  '4':
+    Name: §e§l副本帮助
+    Item:
+      '1':
+        Position: 0
+        ItemID: 'DIAMOND_HORSE_ARMOR'
+        Name: §6打开宠物助手
+        Lore: §2点击打开宠物助手
+        Function:
+          Command:
+            Use: false
+            Content: /cc
+          OpenAnotherGUI:
+            Use: true
+            Number: 2
+      '2':
+        Position: 1
+        ItemID: 'ANVIL'
+        Name: §6离开副本
+        Lore: §3点击离开副本
+        Cost:
+          Type: Money
+          Price: 0
+        Function:
+          Command:
+            Use: true
+            Content: /dxl leave
