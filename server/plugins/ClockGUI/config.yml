@@ -56,7 +56,7 @@ GUI:
           Command:
             # 是否开启这个功能
             Use: false
-            # 指令内容(每一个指令用%隔开。变量说明:{player}代表按下这个按钮的玩家,{ignoreOP}为无视权限执行这个指令)
+            # 指令内容(每一个指令用%隔开。变量说明:{player}代表按下这个按钮的玩家,为无视权限执行这个指令)
             Content: /say 钟表菜单%/say hahaha
       '2':
         Position: 24
@@ -274,7 +274,7 @@ GUI:
         Function:
           Command:
             Use: true
-            Content: /qh get 1{ignoreOP}
+            Content: /qh get 1
       '2':
         Position: 2
         ItemID: 'GOLDEN_APPLE'
@@ -290,7 +290,7 @@ GUI:
         Function:
           Command:
             Use: true
-            Content: /qh get 2{ignoreOP}
+            Content: /qh get 2
       '3':
         Position: 9
         ItemID: 'TRIPWIRE_HOOK'
@@ -306,7 +306,7 @@ GUI:
         Function:
           Command:
             Use: true
-            Content: /crazycrate give Physical 跑马灯 1 {player}{ignoreOP}
+            Content: /crazycrate give Physical 跑马灯 1 {player}
       '4':
         Position: 10
         ItemID: 'TRIPWIRE_HOOK'
@@ -322,7 +322,7 @@ GUI:
         Function:
           Command:
             Use: true
-            Content: /crazycrate give Physical 老虎机 1 {player}{ignoreOP}
+            Content: /crazycrate give Physical 老虎机 1 {player}
       '5':
         Position: 11
         ItemID: 'TRIPWIRE_HOOK'
@@ -338,7 +338,7 @@ GUI:
         Function:
           Command:
             Use: true
-            Content: /crazycrate give Physical 快速 1 {player}{ignoreOP}
+            Content: /crazycrate give Physical 快速 1 {player}
       '6':
         Position: 12
         ItemID: 'TRIPWIRE_HOOK'
@@ -354,7 +354,7 @@ GUI:
         Function:
           Command:
             Use: true
-            Content: /crazycrate give Physical 九选一 1 {player}{ignoreOP}
+            Content: /crazycrate give Physical 九选一 1 {player}
       '7':
         Position: 13
         ItemID: 'TRIPWIRE_HOOK'
@@ -370,7 +370,7 @@ GUI:
         Function:
           Command:
             Use: true
-            Content: /crazycrate give Physical 烟花 1 {player}{ignoreOP}
+            Content: /crazycrate give Physical 烟花 1 {player}
       '8':
         Position: 14
         ItemID: 'TRIPWIRE_HOOK'
@@ -386,7 +386,7 @@ GUI:
         Function:
           Command:
             Use: true
-            Content: /crazycrate give Physical 疯狂 1 {player}{ignoreOP}
+            Content: /crazycrate give Physical 疯狂 1 {player}
       '9':
         Position: 26
         ItemID: 'REDSTONE'

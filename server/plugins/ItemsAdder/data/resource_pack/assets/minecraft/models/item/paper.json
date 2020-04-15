@@ -237,6 +237,12 @@
         "custom_model_data": 39
       },
       "model": "mjy:auto_generated/key6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "mjy:auto_generated/palm"
     }
   ]
 }

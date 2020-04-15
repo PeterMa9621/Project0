@@ -57,3 +57,12 @@ items:
       generate: true
       textures:
       - item/icon/key_6.png
+      
+  palm:
+    display_name: '&2上拳头'
+    permission: palm
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/icon/palm.png

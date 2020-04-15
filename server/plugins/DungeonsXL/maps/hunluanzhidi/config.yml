@@ -8,3 +8,85 @@ title:
   subtitle: "&6你共有2条命"
   
 time: 6000
+
+dungeonManager:
+  minPlayers: 1
+  maxPlayers: 4
+  minLevel: 1
+  icon:
+    id: PAPER
+    model: 18
+    
+dps:
+  exp: 100-200
+  bonusRewardProb: 0.005
+  '1':
+    cmd: ph giveitem %player% mjy:shilian_sword
+    chance: 0.1
+    icon:
+      id: DIAMOND_SWORD
+      displayName: "&8试炼剑"
+      model: 29
+  '2':
+    cmd: ph giveitem %player% mjy:gujian_sword
+    chance: 0.04
+    icon:
+      id: DIAMOND_SWORD
+      displayName: "&9骨剑"
+      model: 35
+  '3':
+    cmd: eco give %player% 100
+    chance: 0.15
+    icon:
+      id: STICK
+      displayName: "&6100金币"
+      model: 29
+  '4':
+    cmd: eco give %player% 200
+    chance: 0.07
+    icon:
+      id: STICK
+      displayName: "&6200金币"
+      model: 29
+  '5':
+    cmd: give %player% diamond 2
+    chance: 0.14
+    icon:
+      id: DIAMOND
+      displayName: "&6钻石2个"
+      model: 0
+  '6':
+    cmd: give %player% diamond 4
+    chance: 0.1
+    icon:
+      id: DIAMOND
+      displayName: "&6钻石4个"
+      model: 0
+  '7':
+    cmd: ph giveitem %player% mjy:shilian_chest
+    chance: 0.1
+    icon:
+      id: LEATHER_CHESTPLATE
+      displayName: "&7试炼胸甲"
+      model: 14
+  '8':
+    cmd: ph giveitem %player% mjy:shilian_leg
+    chance: 0.1
+    icon:
+      id: LEATHER_LEGGINGS
+      displayName: "&7试炼护腿"
+      model: 14
+  '9':
+    cmd: ph giveitem %player% mjy:shilian_feet
+    chance: 0.1
+    icon:
+      id: LEATHER_BOOTS
+      displayName: "&7试炼战靴"
+      model: 14
+  '10':
+    cmd: ph giveitem %player% mjy:shilian_head
+    chance: 0.1
+    icon:
+      id: LEATHER_HELMET
+      displayName: "&7试炼头盔"
+      model: 13

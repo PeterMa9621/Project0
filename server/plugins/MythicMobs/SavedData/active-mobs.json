@@ -84,6 +84,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "c1446dd0-d8f5-4fa1-b207-9bd6e88e679c": {
+      "uuid": "c1446dd0-d8f5-4fa1-b207-9bd6e88e679c",
+      "mobType": "diaolingwang",
+      "aliveTime": 236,
+      "lastSeen": 1586925545888,
+      "spawnLocation": {
+        "world": {
+          "uuid": "a4ab5c4a-f4c2-489a-9da6-3f98476393a4",
+          "name": "DXL_Game_0"
+        },
+        "x": 53.5,
+        "y": 5.0,
+        "z": 7.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "7a8ce3bf-cf48-41b4-ad2f-aeebf6fa3cf2": {
       "uuid": "7a8ce3bf-cf48-41b4-ad2f-aeebf6fa3cf2",
       "mobType": "lx_xueren",
@@ -196,6 +224,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "b7df1216-d09f-4fec-91c6-494c1ad8b4e0": {
+      "uuid": "b7df1216-d09f-4fec-91c6-494c1ad8b4e0",
+      "mobType": "anjinshushi",
+      "aliveTime": 220,
+      "lastSeen": 1586929060888,
+      "spawnLocation": {
+        "world": {
+          "uuid": "6449ca0f-f4c9-4a50-9aff-1050124e91ec",
+          "name": "DXL_Game_0"
+        },
+        "x": -127.5,
+        "y": 13.0,
+        "z": -18.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "529b21f6-c3d3-40e8-8d8b-6e4fbf3e87a5": {
       "uuid": "529b21f6-c3d3-40e8-8d8b-6e4fbf3e87a5",
       "mobType": "lx_xueren",
@@ -237,6 +293,34 @@
         "x": -9.5,
         "y": 68.0,
         "z": 5.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "66fdd879-6834-49a4-b801-f10072adc7b4": {
+      "uuid": "66fdd879-6834-49a4-b801-f10072adc7b4",
+      "mobType": "守卫者2",
+      "aliveTime": 219,
+      "lastSeen": 1586929060933,
+      "spawnLocation": {
+        "world": {
+          "uuid": "6449ca0f-f4c9-4a50-9aff-1050124e91ec",
+          "name": "DXL_Game_0"
+        },
+        "x": -124.5,
+        "y": 14.0,
+        "z": -14.5,
         "yaw": 0.0,
         "pitch": 0.0
       },
@@ -336,6 +420,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "73736850-295f-4924-b083-2d004386ee49": {
+      "uuid": "73736850-295f-4924-b083-2d004386ee49",
+      "mobType": "lx_xueren",
+      "aliveTime": 554,
+      "lastSeen": 1586538178563,
+      "spawnLocation": {
+        "world": {
+          "uuid": "b5ed12b3-b8c1-41d1-94a4-719528731ff0",
+          "name": "DXL_Game_1"
+        },
+        "x": -9.5,
+        "y": 68.0,
+        "z": 5.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "e4b2dab9-f5d6-43d5-aea4-89eb0a2f167c": {
       "uuid": "e4b2dab9-f5d6-43d5-aea4-89eb0a2f167c",
       "mobType": "shilian3",
@@ -364,19 +476,131 @@
       "faction": {},
       "cooldowns": {}
     },
-    "73736850-295f-4924-b083-2d004386ee49": {
-      "uuid": "73736850-295f-4924-b083-2d004386ee49",
-      "mobType": "lx_xueren",
-      "aliveTime": 554,
-      "lastSeen": 1586538178563,
+    "955338cc-4fb0-4e5c-aab6-265b596fece5": {
+      "uuid": "955338cc-4fb0-4e5c-aab6-265b596fece5",
+      "mobType": "守卫者1",
+      "aliveTime": 338,
+      "lastSeen": 1586925397887,
       "spawnLocation": {
         "world": {
-          "uuid": "b5ed12b3-b8c1-41d1-94a4-719528731ff0",
-          "name": "DXL_Game_1"
+          "uuid": "1fdca83b-8f01-44e0-b588-93a404511be3",
+          "name": "DXL_Game_0"
         },
-        "x": -9.5,
-        "y": 68.0,
-        "z": 5.5,
+        "x": -154.5,
+        "y": 9.0,
+        "z": 76.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "eb10c205-9abf-4700-817f-0ce1da5d5e7f": {
+      "uuid": "eb10c205-9abf-4700-817f-0ce1da5d5e7f",
+      "mobType": "守卫者2",
+      "aliveTime": 338,
+      "lastSeen": 1586925397885,
+      "spawnLocation": {
+        "world": {
+          "uuid": "1fdca83b-8f01-44e0-b588-93a404511be3",
+          "name": "DXL_Game_0"
+        },
+        "x": -142.5,
+        "y": 9.0,
+        "z": 76.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "b72d6862-7bd5-4d07-8781-a2387a8f56b3": {
+      "uuid": "b72d6862-7bd5-4d07-8781-a2387a8f56b3",
+      "mobType": "fengniu",
+      "aliveTime": 258,
+      "lastSeen": 1586925401885,
+      "spawnLocation": {
+        "world": {
+          "uuid": "1fdca83b-8f01-44e0-b588-93a404511be3",
+          "name": "DXL_Game_0"
+        },
+        "x": -135.5,
+        "y": 12.0,
+        "z": -12.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "dcc671ed-d9bc-4c0e-b913-f31052b6be36": {
+      "uuid": "dcc671ed-d9bc-4c0e-b913-f31052b6be36",
+      "mobType": "守卫者2",
+      "aliveTime": 280,
+      "lastSeen": 1586929057885,
+      "spawnLocation": {
+        "world": {
+          "uuid": "6449ca0f-f4c9-4a50-9aff-1050124e91ec",
+          "name": "DXL_Game_0"
+        },
+        "x": -142.5,
+        "y": 9.0,
+        "z": 76.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "63d38810-a43b-4bab-b245-20afc1e3d047": {
+      "uuid": "63d38810-a43b-4bab-b245-20afc1e3d047",
+      "mobType": "守卫者1",
+      "aliveTime": 219,
+      "lastSeen": 1586929060933,
+      "spawnLocation": {
+        "world": {
+          "uuid": "6449ca0f-f4c9-4a50-9aff-1050124e91ec",
+          "name": "DXL_Game_0"
+        },
+        "x": -131.5,
+        "y": 17.0,
+        "z": -21.5,
         "yaw": 0.0,
         "pitch": 0.0
       },
@@ -476,6 +700,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "3ebb6147-ce51-42c9-888c-d077af1301a4": {
+      "uuid": "3ebb6147-ce51-42c9-888c-d077af1301a4",
+      "mobType": "守卫者1",
+      "aliveTime": 279,
+      "lastSeen": 1586925400934,
+      "spawnLocation": {
+        "world": {
+          "uuid": "1fdca83b-8f01-44e0-b588-93a404511be3",
+          "name": "DXL_Game_0"
+        },
+        "x": -131.5,
+        "y": 15.0,
+        "z": -14.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "7193c252-f4ff-44d2-a90a-2059d6c8225e": {
       "uuid": "7193c252-f4ff-44d2-a90a-2059d6c8225e",
       "mobType": "lx_xueren",
@@ -517,6 +769,34 @@
         "x": 12.5,
         "y": 68.0,
         "z": 25.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "7dbbf867-39f9-47d3-a98b-3ea486147dfc": {
+      "uuid": "7dbbf867-39f9-47d3-a98b-3ea486147dfc",
+      "mobType": "Skeleton_T",
+      "aliveTime": 300,
+      "lastSeen": 1586929056884,
+      "spawnLocation": {
+        "world": {
+          "uuid": "6449ca0f-f4c9-4a50-9aff-1050124e91ec",
+          "name": "DXL_Game_0"
+        },
+        "x": -157.5,
+        "y": 12.0,
+        "z": 79.5,
         "yaw": 0.0,
         "pitch": 0.0
       },
@@ -616,6 +896,62 @@
       "faction": {},
       "cooldowns": {}
     },
+    "e8a2db17-7ed6-4e04-8a1f-1500ea6d6d2d": {
+      "uuid": "e8a2db17-7ed6-4e04-8a1f-1500ea6d6d2d",
+      "mobType": "守卫者1",
+      "aliveTime": 280,
+      "lastSeen": 1586929057885,
+      "spawnLocation": {
+        "world": {
+          "uuid": "6449ca0f-f4c9-4a50-9aff-1050124e91ec",
+          "name": "DXL_Game_0"
+        },
+        "x": -154.5,
+        "y": 9.0,
+        "z": 76.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "93f376b6-0708-4fd1-a34c-8286c4756019": {
+      "uuid": "93f376b6-0708-4fd1-a34c-8286c4756019",
+      "mobType": "fengniu",
+      "aliveTime": 220,
+      "lastSeen": 1586929060885,
+      "spawnLocation": {
+        "world": {
+          "uuid": "6449ca0f-f4c9-4a50-9aff-1050124e91ec",
+          "name": "DXL_Game_0"
+        },
+        "x": -135.5,
+        "y": 12.0,
+        "z": -12.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "0bf8c5ef-cab8-4923-9cce-64f56603a08f": {
       "uuid": "0bf8c5ef-cab8-4923-9cce-64f56603a08f",
       "mobType": "明月城隐身僵尸",
@@ -700,6 +1036,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "17636910-1061-4a50-80fc-f7e5b188e0ee": {
+      "uuid": "17636910-1061-4a50-80fc-f7e5b188e0ee",
+      "mobType": "守卫者1",
+      "aliveTime": 318,
+      "lastSeen": 1586925398885,
+      "spawnLocation": {
+        "world": {
+          "uuid": "1fdca83b-8f01-44e0-b588-93a404511be3",
+          "name": "DXL_Game_0"
+        },
+        "x": -154.5,
+        "y": 9.0,
+        "z": 76.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "d4839f1e-bf9a-4d6f-84a4-b208d3793682": {
       "uuid": "d4839f1e-bf9a-4d6f-84a4-b208d3793682",
       "mobType": "lx_xueren",
@@ -769,6 +1133,34 @@
         "x": -9.5,
         "y": 68.0,
         "z": 5.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "48830735-a614-4187-b944-1edfbe6fb491": {
+      "uuid": "48830735-a614-4187-b944-1edfbe6fb491",
+      "mobType": "Zombie_T",
+      "aliveTime": 300,
+      "lastSeen": 1586929056884,
+      "spawnLocation": {
+        "world": {
+          "uuid": "6449ca0f-f4c9-4a50-9aff-1050124e91ec",
+          "name": "DXL_Game_0"
+        },
+        "x": -147.5,
+        "y": 9.0,
+        "z": 69.5,
         "yaw": 0.0,
         "pitch": 0.0
       },
@@ -989,6 +1381,34 @@
         "world": {
           "uuid": "b5ed12b3-b8c1-41d1-94a4-719528731ff0",
           "name": "DXL_Game_1"
+        },
+        "x": 12.5,
+        "y": 68.0,
+        "z": 25.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "b4f366c8-709f-4f52-b616-ecc3528cb8ff": {
+      "uuid": "b4f366c8-709f-4f52-b616-ecc3528cb8ff",
+      "mobType": "lx_xueren",
+      "aliveTime": 400,
+      "lastSeen": 1586928986883,
+      "spawnLocation": {
+        "world": {
+          "uuid": "ea65e586-ed56-4fe7-8ada-d1236574691a",
+          "name": "DXL_Game_0"
         },
         "x": 12.5,
         "y": 68.0,
@@ -1428,6 +1848,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "f6557ed4-c2fe-4f74-99e7-ab4609ac566e": {
+      "uuid": "f6557ed4-c2fe-4f74-99e7-ab4609ac566e",
+      "mobType": "lx_xueren",
+      "aliveTime": 440,
+      "lastSeen": 1586928984884,
+      "spawnLocation": {
+        "world": {
+          "uuid": "ea65e586-ed56-4fe7-8ada-d1236574691a",
+          "name": "DXL_Game_0"
+        },
+        "x": 12.5,
+        "y": 68.0,
+        "z": 25.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "b3e6347c-2901-402a-852f-c6cb6b03d73f": {
       "uuid": "b3e6347c-2901-402a-852f-c6cb6b03d73f",
       "mobType": "lx_xueren",
@@ -1437,6 +1885,34 @@
         "world": {
           "uuid": "b5ed12b3-b8c1-41d1-94a4-719528731ff0",
           "name": "DXL_Game_1"
+        },
+        "x": -9.5,
+        "y": 68.0,
+        "z": 5.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "8a383719-14b0-4f70-8e09-b95d924c6990": {
+      "uuid": "8a383719-14b0-4f70-8e09-b95d924c6990",
+      "mobType": "lx_xueren",
+      "aliveTime": 320,
+      "lastSeen": 1586928990883,
+      "spawnLocation": {
+        "world": {
+          "uuid": "ea65e586-ed56-4fe7-8ada-d1236574691a",
+          "name": "DXL_Game_0"
         },
         "x": -9.5,
         "y": 68.0,
@@ -1568,6 +2044,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "2572a08c-fec9-4f0c-9edb-440bd54d6ac9": {
+      "uuid": "2572a08c-fec9-4f0c-9edb-440bd54d6ac9",
+      "mobType": "守卫者2",
+      "aliveTime": 277,
+      "lastSeen": 1586925400934,
+      "spawnLocation": {
+        "world": {
+          "uuid": "1fdca83b-8f01-44e0-b588-93a404511be3",
+          "name": "DXL_Game_0"
+        },
+        "x": -128.5,
+        "y": 16.0,
+        "z": -14.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "ac459d76-7c31-46f2-a6ef-9fadb1d8891a": {
       "uuid": "ac459d76-7c31-46f2-a6ef-9fadb1d8891a",
       "mobType": "shilian3T1",
@@ -1680,6 +2184,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "5d33fd0b-84da-4906-b994-975a458528de": {
+      "uuid": "5d33fd0b-84da-4906-b994-975a458528de",
+      "mobType": "lx_xueren",
+      "aliveTime": 300,
+      "lastSeen": 1586928991882,
+      "spawnLocation": {
+        "world": {
+          "uuid": "ea65e586-ed56-4fe7-8ada-d1236574691a",
+          "name": "DXL_Game_0"
+        },
+        "x": -9.5,
+        "y": 68.0,
+        "z": 5.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "bf297f84-d2ad-4bb5-8f48-f44cd782e741": {
       "uuid": "bf297f84-d2ad-4bb5-8f48-f44cd782e741",
       "mobType": "明月城隐身僵尸",
@@ -1693,6 +2225,34 @@
         "x": 27.5,
         "y": 6.0,
         "z": -26.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "c1844e06-72f3-412e-b3d7-f5619759cec4": {
+      "uuid": "c1844e06-72f3-412e-b3d7-f5619759cec4",
+      "mobType": "lx_xueren",
+      "aliveTime": 340,
+      "lastSeen": 1586928989882,
+      "spawnLocation": {
+        "world": {
+          "uuid": "ea65e586-ed56-4fe7-8ada-d1236574691a",
+          "name": "DXL_Game_0"
+        },
+        "x": -9.5,
+        "y": 68.0,
+        "z": 5.5,
         "yaw": 0.0,
         "pitch": 0.0
       },
@@ -1960,6 +2520,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "f6e09cc4-d548-4894-ac75-690ffe7fec7b": {
+      "uuid": "f6e09cc4-d548-4894-ac75-690ffe7fec7b",
+      "mobType": "Zombie_T",
+      "aliveTime": 338,
+      "lastSeen": 1586925397884,
+      "spawnLocation": {
+        "world": {
+          "uuid": "1fdca83b-8f01-44e0-b588-93a404511be3",
+          "name": "DXL_Game_0"
+        },
+        "x": -147.5,
+        "y": 9.0,
+        "z": 69.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "bf6dc771-5afb-4e15-82c2-6b1eaab3db17": {
       "uuid": "bf6dc771-5afb-4e15-82c2-6b1eaab3db17",
       "mobType": "SkeletalKnight",
@@ -2029,6 +2617,34 @@
         "x": -154.5,
         "y": 9.0,
         "z": 76.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "bed56906-9adc-48ee-9c68-8726afbfb29a": {
+      "uuid": "bed56906-9adc-48ee-9c68-8726afbfb29a",
+      "mobType": "Skeleton_T",
+      "aliveTime": 340,
+      "lastSeen": 1586929054883,
+      "spawnLocation": {
+        "world": {
+          "uuid": "6449ca0f-f4c9-4a50-9aff-1050124e91ec",
+          "name": "DXL_Game_0"
+        },
+        "x": -169.5,
+        "y": 12.0,
+        "z": 109.5,
         "yaw": 0.0,
         "pitch": 0.0
       },
@@ -2128,6 +2744,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "77d61af6-2537-4d58-8f56-c4e5899facec": {
+      "uuid": "77d61af6-2537-4d58-8f56-c4e5899facec",
+      "mobType": "fenggou",
+      "aliveTime": 220,
+      "lastSeen": 1586929060885,
+      "spawnLocation": {
+        "world": {
+          "uuid": "6449ca0f-f4c9-4a50-9aff-1050124e91ec",
+          "name": "DXL_Game_0"
+        },
+        "x": -119.5,
+        "y": 12.0,
+        "z": -1.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "6870ef02-5ac2-4669-b917-bd7ce6e889ca": {
       "uuid": "6870ef02-5ac2-4669-b917-bd7ce6e889ca",
       "mobType": "shilian3",
@@ -2169,6 +2813,34 @@
         "x": -157.5,
         "y": 12.0,
         "z": 79.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "9ce8a466-597f-48aa-aca5-750eabb80ad9": {
+      "uuid": "9ce8a466-597f-48aa-aca5-750eabb80ad9",
+      "mobType": "anjinshushi",
+      "aliveTime": 280,
+      "lastSeen": 1586925400885,
+      "spawnLocation": {
+        "world": {
+          "uuid": "1fdca83b-8f01-44e0-b588-93a404511be3",
+          "name": "DXL_Game_0"
+        },
+        "x": -127.5,
+        "y": 13.0,
+        "z": -18.5,
         "yaw": 0.0,
         "pitch": 0.0
       },
@@ -2380,6 +3052,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "a5731143-8a0b-4722-b418-5a7adf4b29a7": {
+      "uuid": "a5731143-8a0b-4722-b418-5a7adf4b29a7",
+      "mobType": "lx_xueren",
+      "aliveTime": 360,
+      "lastSeen": 1586928988882,
+      "spawnLocation": {
+        "world": {
+          "uuid": "ea65e586-ed56-4fe7-8ada-d1236574691a",
+          "name": "DXL_Game_0"
+        },
+        "x": -9.5,
+        "y": 68.0,
+        "z": 5.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "97f56476-46d5-4b96-b0c7-5cbd97792258": {
       "uuid": "97f56476-46d5-4b96-b0c7-5cbd97792258",
       "mobType": "lx_xueren",
@@ -2432,6 +3132,34 @@
       "stance": "default",
       "lastSignal": "",
       "playerKills": 2,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "7acdc959-214a-44ab-86fb-adc2a2dfd80f": {
+      "uuid": "7acdc959-214a-44ab-86fb-adc2a2dfd80f",
+      "mobType": "守卫者1",
+      "aliveTime": 300,
+      "lastSeen": 1586929056886,
+      "spawnLocation": {
+        "world": {
+          "uuid": "6449ca0f-f4c9-4a50-9aff-1050124e91ec",
+          "name": "DXL_Game_0"
+        },
+        "x": -154.5,
+        "y": 9.0,
+        "z": 76.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
       "owner": {},
       "faction": {},
       "cooldowns": {}
@@ -2912,6 +3640,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "82d96b43-fcf5-44d8-9620-2fc37c7e859f": {
+      "uuid": "82d96b43-fcf5-44d8-9620-2fc37c7e859f",
+      "mobType": "守卫者2",
+      "aliveTime": 318,
+      "lastSeen": 1586925398884,
+      "spawnLocation": {
+        "world": {
+          "uuid": "1fdca83b-8f01-44e0-b588-93a404511be3",
+          "name": "DXL_Game_0"
+        },
+        "x": -142.5,
+        "y": 9.0,
+        "z": 76.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "fd214bb8-9739-4ef8-9fba-29129d74b133": {
       "uuid": "fd214bb8-9739-4ef8-9fba-29129d74b133",
       "mobType": "diaolingwang",
@@ -2996,6 +3752,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "d71fa55f-965f-40a7-9933-13cecaa4575b": {
+      "uuid": "d71fa55f-965f-40a7-9933-13cecaa4575b",
+      "mobType": "Skeleton_T",
+      "aliveTime": 358,
+      "lastSeen": 1586925396884,
+      "spawnLocation": {
+        "world": {
+          "uuid": "1fdca83b-8f01-44e0-b588-93a404511be3",
+          "name": "DXL_Game_0"
+        },
+        "x": -157.5,
+        "y": 12.0,
+        "z": 79.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "13743c32-f39c-459c-842b-9e93da70f935": {
       "uuid": "13743c32-f39c-459c-842b-9e93da70f935",
       "mobType": "lx_xueren",
@@ -3037,6 +3821,34 @@
         "x": 14.5,
         "y": 9.0,
         "z": -6.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "41565ae2-82bd-4ba2-a786-a0d56e79383f": {
+      "uuid": "41565ae2-82bd-4ba2-a786-a0d56e79383f",
+      "mobType": "Zombie_T",
+      "aliveTime": 380,
+      "lastSeen": 1586929052883,
+      "spawnLocation": {
+        "world": {
+          "uuid": "6449ca0f-f4c9-4a50-9aff-1050124e91ec",
+          "name": "DXL_Game_0"
+        },
+        "x": -170.5,
+        "y": 12.0,
+        "z": 115.5,
         "yaw": 0.0,
         "pitch": 0.0
       },
@@ -3164,6 +3976,34 @@
       "faction": {},
       "cooldowns": {}
     },
+    "aaaccb97-ab59-4acc-b737-cc1670199f53": {
+      "uuid": "aaaccb97-ab59-4acc-b737-cc1670199f53",
+      "mobType": "守卫者2",
+      "aliveTime": 300,
+      "lastSeen": 1586929056885,
+      "spawnLocation": {
+        "world": {
+          "uuid": "6449ca0f-f4c9-4a50-9aff-1050124e91ec",
+          "name": "DXL_Game_0"
+        },
+        "x": -142.5,
+        "y": 9.0,
+        "z": 76.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
     "1db95b0d-3148-435f-8fdd-6cb1747c1b75": {
       "uuid": "1db95b0d-3148-435f-8fdd-6cb1747c1b75",
       "mobType": "shilian3",
@@ -3229,6 +4069,34 @@
         "world": {
           "uuid": "30db8d89-7f40-48f1-b606-1e184442e906",
           "name": "DXL_Game_1"
+        },
+        "x": 12.5,
+        "y": 68.0,
+        "z": 25.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "87fce0c7-f12d-4367-9628-ee6b05e3db16": {
+      "uuid": "87fce0c7-f12d-4367-9628-ee6b05e3db16",
+      "mobType": "lx_xueren",
+      "aliveTime": 380,
+      "lastSeen": 1586928987883,
+      "spawnLocation": {
+        "world": {
+          "uuid": "ea65e586-ed56-4fe7-8ada-d1236574691a",
+          "name": "DXL_Game_0"
         },
         "x": 12.5,
         "y": 68.0,
@@ -3371,6 +4239,34 @@
         "world": {
           "uuid": "30db8d89-7f40-48f1-b606-1e184442e906",
           "name": "DXL_Game_1"
+        },
+        "x": 12.5,
+        "y": 68.0,
+        "z": 25.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "variables": {
+        "entries": {}
+      },
+      "level": 0.0,
+      "globalCooldown": 0,
+      "stance": "default",
+      "lastSignal": "",
+      "playerKills": 0,
+      "owner": {},
+      "faction": {},
+      "cooldowns": {}
+    },
+    "d4598055-4982-44d4-8cff-055268fa2bd8": {
+      "uuid": "d4598055-4982-44d4-8cff-055268fa2bd8",
+      "mobType": "lx_xueren",
+      "aliveTime": 420,
+      "lastSeen": 1586928985882,
+      "spawnLocation": {
+        "world": {
+          "uuid": "ea65e586-ed56-4fe7-8ada-d1236574691a",
+          "name": "DXL_Game_0"
         },
         "x": 12.5,
         "y": 68.0,

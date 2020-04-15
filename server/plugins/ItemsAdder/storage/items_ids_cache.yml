@@ -640,6 +640,7 @@ PAPER:
   mjy:key4: 37
   mjy:key5: 38
   mjy:key6: 39
+  mjy:palm: 40
 WATER_BUCKET:
   realcraft:boiled_water_bucket: 1
 COD:
