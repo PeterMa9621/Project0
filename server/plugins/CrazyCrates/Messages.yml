@@ -1,7 +1,7 @@
 Messages:
   No-Teleporting: '&c你正在抽奖！不能传送！'
   No-Commands-While-In-Crate: '&c你正在抽奖！不能使用指令！'
-  No-Key: '&c想打开这个抽奖箱，你必须手持一把钥匙 %Key% '
+  No-Key: '&c想打开这个抽奖箱，你必须手持一把 %Key% '
   No-Virtual-Key: '&c你需要获得钥匙才能打开抽奖箱.'
   Not-On-Block: '&c你必须站在一个方块上才能抽奖.'
   Already-Opening-Crate: '&c你已经打开了一个抽奖箱.'

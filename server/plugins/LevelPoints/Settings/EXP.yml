@@ -21,18 +21,18 @@
   #####################################
   #      Lose EXP on Player Death     #
   #####################################
-  EXP-Lost-On-Death-Player: false
+  EXP-Lost-On-Death-Player: true
 
   #####################################
   #       Amount of EXP on Death      #
   #####################################
-  EXP-Lost-Amount: 0
+  EXP-Lost-Amount: 50
 
 
   #####################################
   #  Earn EXP on Hostile Mobs kill    #
   #####################################
-  Exp-Kill-Mob: false
+  Exp-Kill-Mob: true
 
 
 
@@ -47,18 +47,39 @@
   # Zombie: 50 == would give a random #
   # between 0-50 exp                  #
   #####################################
-  RandomEXP: false
+  RandomEXP: true
   #this works for all types of exp as long as they are active
 
 
   #####################################
   #    Amount of EXP for Mob Kill     #
   #####################################
-  ZOMBIE: 0
-  SKELETON: 0
-  SPIDER: 0
-  CREEPER: 0
-  ENDERMAN: 0
+  ZOMBIE: 10
+  SKELETON: 10
+  SPIDER: 10
+  CREEPER: 10
+  ENDERMAN: 10
+  BLAZE: 30
+  DROWNED: 10
+  ELDER_GUARDIAN: 50
+  ENDERMITE: 10
+  EVOKER: 30
+  GHAST: 20
+  GUARDIAN: 10
+  HUSK: 10
+  MAGMA_CUBE: 10
+  PHANTOM: 20
+  PILLAGER: 15
+  RAVAGER: 80
+  SHULKER: 20
+  SILVERFISH: 5
+  SLIME: 10
+  STRAY: 30
+  VEX: 10
+  VINDICATOR: 15
+  WITCH: 15
+  WITHER_SKELETON: 40
+  ZOMBIE_VILLAGER: 10
 
   #####################################
   #  Earn EXP on Passive Mobs Kill    #
@@ -89,7 +110,7 @@
   #####################################
   #        Earn EXP From ORES         #
   #####################################
-  Resources: true
+  Resources: false
 
 
   #####################################

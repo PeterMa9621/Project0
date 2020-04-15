@@ -59,8 +59,8 @@ lpLevelUpBottom: '&b你现在的等级为 {lp_level}'
 
 lpRewardMessage: '&b你已收到等级奖励'
 
-lpRewardTitleTop: '&b你已收到等级奖励'
-lpRewardTitleBottom: '&8奖励: &b'
+lpRewardTitleTop: '&b你的等级已提升'
+lpRewardTitleBottom: ''
 
 lpPerLevelOre: '&c你需要达到 {lp_required_level} 级才能挖这个方块'
 
