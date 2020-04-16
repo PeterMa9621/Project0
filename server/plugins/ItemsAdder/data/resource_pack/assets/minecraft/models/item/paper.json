@@ -243,6 +243,30 @@
         "custom_model_data": 40
       },
       "model": "mjy:auto_generated/palm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "mjy:auto_generated/treasure_chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "mjy:auto_generated/chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "mjy:auto_generated/open_chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "mjy:auto_generated/unicorn"
     }
   ]
 }

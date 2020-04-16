@@ -20,21 +20,21 @@ dps:
       model: 38
   '2':
     cmd: give %player% diamond 16
-    chance: 0.14
+    chance: 0.13
     icon:
       id: DIAMOND
       displayName: "&6钻石16个"
       model: 0
   '3':
     cmd: give %player% diamond 10
-    chance: 0.2
+    chance: 0.19
     icon:
       id: DIAMOND
       displayName: "&6钻石10个"
       model: 0
   '4':
     cmd: give %player% emerald 7
-    chance: 0.18
+    chance: 0.16
     icon:
       id: EMERALD
       displayName: "&6绿宝石7个"
@@ -67,3 +67,10 @@ dps:
       id: LEATHER_BOOTS
       displayName: "&3普通跑鞋"
       model: 16
+  '9':
+    cmd: cc give p 烟花 1 %player%
+    chance: 0.04
+    icon:
+      id: PAPER
+      displayName: "&5烟花抽奖箱钥匙"
+      model: 39

@@ -66,3 +66,39 @@ items:
       generate: true
       textures:
       - item/icon/palm.png
+      
+  treasure_chest:
+    display_name: '&2宝箱'
+    permission: treasure_chest
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/pixelbuddha/treasure_chest.png
+      
+  chest:
+    display_name: '&2箱子'
+    permission: chest
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/pixelbuddha/chest.png
+      
+  open_chest:
+    display_name: '&2打开的箱子'
+    permission: open_chest
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/pixelbuddha/open_chest.png
+      
+  unicorn:
+    display_name: '&2独角兽'
+    permission: unicorn
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/pixelbuddha/unicorn.png

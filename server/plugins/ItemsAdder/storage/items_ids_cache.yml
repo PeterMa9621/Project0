@@ -641,6 +641,10 @@ PAPER:
   mjy:key5: 38
   mjy:key6: 39
   mjy:palm: 40
+  mjy:treasure_chest: 41
+  mjy:chest: 42
+  mjy:open_chest: 43
+  mjy:unicorn: 44
 WATER_BUCKET:
   realcraft:boiled_water_bucket: 1
 COD:

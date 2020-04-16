@@ -49,7 +49,7 @@ dps:
       model: 11
   '5':
     cmd: give %player% iron_ingot 16
-    chance: 0.18
+    chance: 0.14
     icon:
       id: IRON_INGOT
       displayName: "&f铁锭16个"
@@ -89,3 +89,10 @@ dps:
       id: DIAMOND
       displayName: "&6钻石14个"
       model: 0
+  '11':
+    cmd: cc give p 快速 1 %player%
+    chance: 0.04
+    icon:
+      id: PAPER
+      displayName: "&5快速抽奖箱钥匙"
+      model: 36

@@ -9,10 +9,10 @@ Global:
   versionCheck: true
   # This loads the <language>.yml file in the Residence Language folder
   # All Residence text comes from this file. (NOT DONE YET)
-  Language: English
+  Language: Chinese
   # Wooden Hoe is the default selection tool for Residence.
   # You can change it to another item ID listed here: http://www.minecraftwiki.net/wiki/Data_values
-  SelectionToolId: WOODEN_HOE
+  SelectionToolId: STICK
   Selection:
     # By setting this to true, all selections will be made from bedrock to sky ignoring Y coordinates
     IgnoreY: false
@@ -24,7 +24,7 @@ Global:
     NoCostForYBlocks: false
   # This determins which tool you can use to see info on residences, default is String.
   # Simply equip this tool and hit a location inside the residence and it will display the info for it.
-  InfoToolId: STRING
+  InfoToolId: ARROW
   Optimizations:
     # This will slightly change behavior of groups file CanTeleport section which will include server owner into check
     # When this is set to false and CanTeleport set to false, players will not have option to teleport to other player residences, only to their own
@@ -32,10 +32,10 @@ Global:
     # Keep in mind that this only applies for commands like /res tp
     CanTeleportIncludeOwner: false
     # Name of your main residence world. Usually normal starting world 'World'. Capitalization essential
-    DefaultWorld: world
+    DefaultWorld: shengcun
     DisabledWorlds:
       # List Of Worlds where this plugin is disabled
-      List: []
+      List: [world, kuangjie, world_nether, world_the_end]
       # Disables all listeners in included worlds
       DisableListeners: true
       # Disabled any command usage in included worlds
@@ -60,13 +60,13 @@ Global:
     BlockAnyTeleportation: true
     # Set this as low as possible depending of residence.max.res.[number] permission you are using
     # In example if you are giving max number of 10 for players, set it to 15, if its 30, set it to 35 just to have some small buffer in case
-    MaxResCount: 30
+    MaxResCount: 15
     # Set this as low as possible depending of residence.max.rents.[number] permission you are using
     # In example if you are giving max number of 10 for players, set it to 15, if its 30, set it to 35 just to have some small buffer in case
-    MaxRentCount: 10
+    MaxRentCount: 13
     # Set this as low as possible depending of residence.max.subzones.[number] permission you are using
     # In example if you are giving max number of 10 for players, set it to 15, if its 30, set it to 35 just to have some small buffer in case
-    MaxSubzoneCount: 5
+    MaxSubzoneCount: 10
     # Set this as low as possible depending of residence.max.subzonedepth.[number] permission you are using
     # In example if you are giving max number of 10 for players, set it to 15, if its 30, set it to 35 just to have some small buffer in case
     MaxSubzoneDepthCount: 5
@@ -109,7 +109,7 @@ Global:
     Intervals:
       # How often in seconds to heal/feed players in residence with appropriate flag
       # Bigger numbers can save some resources
-      Heal: 1
+      Heal: 2
       Feed: 5
     # Potions containing one of thos effects will be ignored if residence dont have pvp true flag set
     NegativePotionEffects:

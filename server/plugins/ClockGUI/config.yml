@@ -32,6 +32,7 @@ GUI:
         Name: §e商城
         # 按钮显示Lore(每一行用%隔开)
         Lore: §a点击打开商城
+        HideItem: true
         # 物品显示附魔
         Enchantment:
           # 附魔ID
@@ -122,7 +123,7 @@ GUI:
       '6':
         Position: 9
         # 物品ID为 "主ID:附加值"
-        ItemID: 'BREAD'
+        ItemID: 'PLAYER_HEAD'
         Name: §6传送至副本使者
         Lore: §2点击传送至副本使者
         Function:
@@ -133,9 +134,10 @@ GUI:
             Use: false
             Number: 2
       '7':
-        Position: 17
+        Position: 7
         # 物品ID为 "主ID:附加值"
-        ItemID: 'CHEST'
+        ItemID: 'PAPER'
+        Model: 41
         Name: §6传送至抽奖屋
         Lore: §2点击传送至抽奖屋
         Function:
@@ -174,7 +176,7 @@ GUI:
       '10':
         Position: 5
         # 物品ID为 "主ID:附加值"
-        ItemID: 'OAK_DOOR'
+        ItemID: 'DARK_OAK_DOOR'
         Name: §6传送至小区
         Lore: §2点击传送至小区
         Function:
@@ -187,7 +189,8 @@ GUI:
       '11':
         Position: 6
         # 物品ID为 "主ID:附加值"
-        ItemID: 'ITEM_FRAME'
+        ItemID: 'STICK'
+        Model: 29
         Name: §6传送至主城商店
         Lore: §2点击传送至主城商店
         Function:
@@ -200,7 +203,7 @@ GUI:
       '12':
         Position: 18
         # 物品ID为 "主ID:附加值"
-        ItemID: 'PLAYER_HEAD'
+        ItemID: 'ZOMBIE_HEAD'
         Name: §6副本菜单
         Lore: §2点击打开副本菜单
         Function:
@@ -214,6 +217,7 @@ GUI:
         Position: 20
         # 物品ID为 "主ID:附加值"
         ItemID: 'DIAMOND_SWORD'
+        Model: 16
         Name: §6开启/关闭PVP
         Lore: §2点击开启/关闭PVP
         Function:
@@ -226,7 +230,8 @@ GUI:
       '14':
         Position: 19
         # 物品ID为 "主ID:附加值"
-        ItemID: 'DIAMOND_HORSE_ARMOR'
+        ItemID: 'PAPER'
+        Model: 44
         Name: §6打开宠物助手
         Lore: §2点击打开宠物助手
         Function:
@@ -254,6 +259,7 @@ GUI:
         # 物品ID为 "主ID:附加值"
         ItemID: 'ANVIL'
         Name: §6打开强化系统
+        HideItem: true
         Lore: §2点击打开强化系统
         Function:
           Command:
@@ -262,6 +268,19 @@ GUI:
           OpenAnotherGUI:
             Use: false
             Number: 3
+      '17':
+        Position: 10
+        # 物品ID为 "主ID:附加值"
+        ItemID: 'PLAYER_HEAD'
+        Name: §6传送至渔夫
+        Lore: §2点击传送至渔夫
+        Function:
+          Command:
+            Use: true
+            Content: /warp fish
+          OpenAnotherGUI:
+            Use: false
+            Number: 2
   '1':
     Name: §e§l点券商城 §3§l1RMB等于100点券
     Item:
@@ -395,7 +414,8 @@ GUI:
             Content: /crazycrate give Physical 疯狂 1 {player}
       '9':
         Position: 26
-        ItemID: 'REDSTONE'
+        ItemID: 'PAPER'
+        Model: 12
         Name: §a返回主页
         Lore: §2点击返回主页
         Cost:
@@ -470,7 +490,8 @@ GUI:
             Content: /petrelease
       '6':
         Position: 8
-        ItemID: 'REDSTONE'
+        ItemID: 'PAPER'
+        Model: 12
         Name: §a返回主页
         Lore: §2点击返回主页
         BanInDungeon: true
@@ -522,7 +543,8 @@ GUI:
             Content: /ob open 1
       '4':
         Position: 3
-        ItemID: 'COD'
+        ItemID: 'WRITTEN_BOOK'
+        Model: 1
         Name: §6历练等级手册
         Lore: §3点击打开历练等级手册
         Cost:
@@ -546,7 +568,7 @@ GUI:
             Content: /ob open 2
       '6':
         Position: 5
-        ItemID: 'IRON_DOOR'
+        ItemID: 'ZOMBIE_HEAD'
         Name: §6副本手册
         Lore: §3点击打开副本手册
         Cost:
@@ -558,7 +580,8 @@ GUI:
             Content: /ob open 5
       '7':
         Position: 8
-        ItemID: 'REDSTONE'
+        ItemID: 'PAPER'
+        Model: 12
         Name: §a返回主页
         Lore: §2点击返回主页
         Cost:

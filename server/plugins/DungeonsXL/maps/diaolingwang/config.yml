@@ -18,21 +18,21 @@ dps:
       model: 28
   '2':
     cmd: give %player% diamond 14
-    chance: 0.15
+    chance: 0.14
     icon:
       id: DIAMOND
       displayName: "&6钻石14个"
       model: 0
   '3':
     cmd: give %player% diamond 8
-    chance: 0.19
+    chance: 0.17
     icon:
       id: DIAMOND
       displayName: "&6钻石8个"
       model: 0
   '4':
     cmd: give %player% emerald 6
-    chance: 0.12
+    chance: 0.11
     icon:
       id: EMERALD
       displayName: "&6绿宝石6个"
@@ -72,3 +72,10 @@ dps:
       id: DIAMOND_SWORD
       displayName: "&9骨剑"
       model: 35
+  '10':
+    cmd: cc give p 跑马灯 1 %player%
+    chance: 0.04
+    icon:
+      id: PAPER
+      displayName: "&5跑马灯抽奖箱钥匙"
+      model: 38
