@@ -1,15 +1,9 @@
 newbie1:
   location: world, 106.965, 33.200, -104.521
   lines:
-  - '&f欢迎您的到来'
-newbie2:
-  location: world, 106.963, 32.750, -104.552
-  lines:
-  - '&f输入/warp zy进入资源世界，/warp dy进入地狱'
-newbie3:
-  location: world, 107.023, 32.388, -104.609
-  lines:
-  - '&f输入/warp md进入末地'
+  - '&9&l欢迎您的到来'
+  - '&6&l打开&c钟表菜单&6&l获悉指令'
+  - '&6&l您也可以与&c指引者&6&l聊一聊'
 cj1:
   location: world, 183.335, 21.688, -99.507
   lines:

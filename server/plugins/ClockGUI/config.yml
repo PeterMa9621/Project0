@@ -62,7 +62,7 @@ GUI:
           Command:
             # 是否开启这个功能
             Use: false
-            # 指令内容(每一个指令用%隔开。变量说明:{player}代表按下这个按钮的玩家,为无视权限执行这个指令)
+            # 指令内容(每一个指令用%隔开。变量说明:{player}代表按下这个按钮的玩家,{ignoreOP}为无视权限执行这个指令)
             Content: /say 钟表菜单%/say hahaha
       '2':
         Position: 24
@@ -201,25 +201,25 @@ GUI:
         Position: 18
         # 物品ID为 "主ID:附加值"
         ItemID: 'PLAYER_HEAD'
-        Name: §6打开好友菜单
-        Lore: §2点击打开好友菜单
+        Name: §6副本菜单
+        Lore: §2点击打开副本菜单
         Function:
           Command:
             Use: true
-            Content: /f
+            Content: /dm
           OpenAnotherGUI:
             Use: false
             Number: 2
       '13':
         Position: 20
         # 物品ID为 "主ID:附加值"
-        ItemID: 'IRON_DOOR'
-        Name: §6打开家族助手
-        Lore: §2点击打开家族助手
+        ItemID: 'DIAMOND_SWORD'
+        Name: §6开启/关闭PVP
+        Lore: §2点击开启/关闭PVP
         Function:
           Command:
             Use: true
-            Content: /cc
+            Content: /pvp
           OpenAnotherGUI:
             Use: false
             Number: 2

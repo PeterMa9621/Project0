@@ -120,13 +120,13 @@ npc:
     traits:
       type: PLAYER
       location:
-        headYaw: -227.75793
+        headYaw: -165.88739
         world: world
         x: '105.4995'
         y: '31.0'
         z: '-94.5414'
-        yaw: '-227.7579'
-        pitch: '7.7609'
+        yaw: '-165.8874'
+        pitch: '4.9707'
       lookclose:
         range: '5.0'
         enabled: true
@@ -145,7 +145,7 @@ npc:
       owner:
         owner: BiShop
         uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
-    traitnames: type,location,lookclose,inventory,gravity,spawned,mounttrait,scoreboardtrait,owner,equipment
+    traitnames: type,mounttrait,lookclose,equipment,scoreboardtrait,owner,inventory,location,spawned,gravity
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -184,7 +184,7 @@ npc:
       owner:
         owner: BiShop
         uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
-    traitnames: type,fishshop,location,inventory,lookclose,gravity,spawned,mounttrait,scoreboardtrait,owner,equipment
+    traitnames: type,mounttrait,lookclose,fishshop,equipment,inventory,scoreboardtrait,owner,location,spawned,gravity
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -231,7 +231,7 @@ npc:
       owner:
         owner: BiShop
         uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
-    traitnames: type,location,lookclose,inventory,commandtrait,gravity,spawned,mounttrait,scoreboardtrait,owner,equipment
+    traitnames: type,commandtrait,mounttrait,lookclose,equipment,owner,scoreboardtrait,inventory,location,spawned,gravity
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -264,19 +264,19 @@ npc:
       spawned: true
       type: PLAYER
       location:
-        headYaw: -178.37099
+        headYaw: -76.90428
         world: world
         x: '88.4423'
         y: '26.0'
         z: '-111.4712'
-        yaw: '-178.371'
-        pitch: '13.8393'
+        yaw: '-76.9043'
+        pitch: '-75.4329'
       gravity:
         enabled: false
       owner:
         owner: BiShop
         uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
-    traitnames: type,location,lookclose,inventory,commandtrait,gravity,spawned,mounttrait,scoreboardtrait,owner,equipment
+    traitnames: type,commandtrait,mounttrait,lookclose,equipment,owner,inventory,scoreboardtrait,location,spawned,gravity
     navigator:
       speedmodifier: '1.0'
       avoidwater: false

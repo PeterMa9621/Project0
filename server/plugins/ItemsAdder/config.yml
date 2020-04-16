@@ -71,13 +71,15 @@ debug:
     log-extract-default-resources: false
     log-not-extract-default-resources-already-exist: false
   blocks:
-    log-save: true
+    log-save: false
+    log-save-on-unload: false
+    log-mined-unknown-blocks: true
   worlds-populators:
     log-loading: false
     log-loading-no-populators: false
     log-generation: false
   player-stats:
-    log-save: true
+    log-save: false
   performance:
     loading-ms: true
   huds:
