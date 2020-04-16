@@ -507,7 +507,7 @@ GUI:
         Function:
           Command:
             Use: true
-            Content: /ob open 1
+            Content: /ob open 4
       '3':
         Position: 2
         ItemID: 'FISHING_ROD'
@@ -519,19 +519,19 @@ GUI:
         Function:
           Command:
             Use: true
-            Content: /ob open 2
+            Content: /ob open 1
       '4':
         Position: 3
         ItemID: 'COD'
-        Name: §6如何喂宠物
-        Lore: §3点击了解如何喂宠物
+        Name: §6历练等级手册
+        Lore: §3点击打开历练等级手册
         Cost:
           Type: Money
           Price: 0
         Function:
           Command:
             Use: true
-            Content: /ob open 3
+            Content: /ob open 5
       '5':
         Position: 4
         ItemID: 'WRITABLE_BOOK'
@@ -543,12 +543,12 @@ GUI:
         Function:
           Command:
             Use: true
-            Content: /ob open 4
+            Content: /ob open 2
       '6':
         Position: 5
         ItemID: 'IRON_DOOR'
-        Name: §6家族手册
-        Lore: §3点击打开家族手册
+        Name: §6副本手册
+        Lore: §3点击打开副本手册
         Cost:
           Type: Money
           Price: 0

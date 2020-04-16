@@ -1,4 +1,5 @@
 maxLevel: 30
+chatPrefix: true
 formula:
   coefficient:
   - 10.0

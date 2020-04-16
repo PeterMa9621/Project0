@@ -1,14 +1,14 @@
 lastAccountName: Test
 timestamps:
-  login: 1586971394617
+  login: 1587013818895
   kits:
     color: 1586795244429
     tools: 1585116686238
   lastteleport: 1586923332305
-  logout: 1586971388443
+  logout: 1587013819148
   command-cooldowns:
   - pattern: .*( .*)?
-    expiry: 1586922858623
+    expiry: 1587013206195
 ipAddress: 127.0.0.1
 lastlocation:
   world: DXL_Game_0
@@ -20,9 +20,9 @@ lastlocation:
 afk: false
 logoutlocation:
   world: world
-  x: 106.82307413738036
+  x: 109.72182781519123
   y: 31.0
-  z: -104.28778990810332
-  yaw: 90.15
-  pitch: 41.067513
+  z: -106.34014171596537
+  yaw: 263.61917
+  pitch: 19.617434
 money: '9152.25'
