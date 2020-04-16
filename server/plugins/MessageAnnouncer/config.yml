@@ -65,14 +65,14 @@ announcements:
   QQ:
   - '[{"text":"[小提示] ","color":"gold"},{"text":"进群以获取更多信息和最新的公告，QQ群：X。","color":"aqua"}]'
   boss:
-  - '[{"text":"[小提示] ","color":"gold"},{"text":"每天的晚上8点会刷尸王BOSS，参与的时候别忘记带弓箭哦","color":"aqua"}]'
+  - '[{"text":"[小提示] ","color":"gold"},{"text":"每天晚上8点都有BOSS活动，周末会有不同的BOSS及奖励，参与的时候别忘记带弓箭哦","color":"aqua"}]'
   antiCheat:
   - '[{"text":"[服务器公告] ","color":"light_purple"},{"text":"服务器内严禁一切作弊行为，如有发现1次警告，再犯直接封IP。","color":"red"}]'
   lottery:
   - '[{"text":"[小提示] ","color":"gold"},{"text":"在投掷器上贴上木牌，在木牌第一行写[抽奖]，第二行写价格数目，第三行写金币或者点券，即可创建一个私人抽奖箱哦","color":"aqua"}]'
   level:
   - '[{"text":"[小提示] ","color":"gold"},{"text":"想了解更多跟历练等级相关的信息，","color":"white"},{"text":"请点击了解更多","color":"dark_purple","bold":true,"underlined":true,"clickEvent":{"action":"run_command","value":"/ob
-    open 2"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"点击查看更多内容","color":"yellow"}]}}}]'
+    open 5"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"点击查看更多内容","color":"yellow"}]}}}]'
   dungeon:
   - '[{"text":"[小提示] ","color":"gold"},{"text":"这里有详细的副本信息介绍，","color":"white"},{"text":"请点击了解更多","color":"dark_purple","bold":true,"underlined":true,"clickEvent":{"action":"run_command","value":"/ob
-    open 2"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"点击查看更多内容","color":"yellow"}]}}}]'
+    open 3"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"点击查看更多内容","color":"yellow"}]}}}]'

@@ -18,7 +18,7 @@ dungeonManager:
     model: 18
     
 dps:
-  exp: 100-200
+  exp: 20-35
   bonusRewardProb: 0.005
   '1':
     cmd: ph giveitem %player% mjy:shilian_sword

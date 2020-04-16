@@ -17,7 +17,7 @@ dungeonManager:
     model: 18
     
 dps:
-  exp: 100-200
+  exp: 30-80
   bonusRewardProb: 0.005
   '1':
     cmd: give %player% diamond_sword 1

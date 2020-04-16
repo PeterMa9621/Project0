@@ -7,7 +7,7 @@ title:
 time: 6000
 
 dps:
-  exp: 100-200
+  exp: 100-400
   bonusRewardProb: 0.005
   '1':
     cmd: ph giveitem %player% mjy:fenji_sword
