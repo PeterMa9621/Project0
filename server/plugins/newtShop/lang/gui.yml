@@ -1,0 +1,53 @@
+# Customize GUI messages. Support alternate color codes
+gui-messages:
+   # Title of the main shop GUI
+   shop-name: "Shop"
+   
+   # Prefix for the titles of the "Item Shop - $item" GUIs
+   item-shop-name: "Item Shop - "
+
+   # Button label for the sell inventory button, if enabled
+   sellinv: "&cSell Inventory"
+
+   # Button label to return to the categories screen
+   return-to-categories: "&9Back to Categories"
+   
+   # Button label for the exit button
+   exit: "&cExit"
+   
+   # Button label for the next page button
+   next-page: "&fNext Page"
+   
+   # Button label for the previous page button
+   prev-page: "&fPrevious Page"
+   
+   # Button label for buy buttons
+   # @amount@ = number of items to buy
+   buy: "&aBuy @amount@"
+   
+   # Button label for sell buttons
+   # @amount@ = number of items to sell
+   sell: "&cSell @amount@"
+   
+   # Button label for the fill inventory button
+   fill-inv: "&aFill Inventory"
+   
+   # Lore for the fill inventory button
+   # @amount@ = number of items to buy
+   # @price@ = the amount purchased for
+   fill-inv-lore: "&7Buy @amount@ for &e@price@"
+   
+   # Button label for the sell all button
+   sell-all: "&cSell All"
+   
+   # Lore for the sell all button
+   # @amount@ = number of items to sell
+   # @price@ = the amount sold for
+   sell-all-lore: "&7Sell @amount@ for &e@price@"
+   
+   # Button label to return to the item list
+   # @category@ = the category to return to
+   return-to-items: "&9Back to @category@"
+   
+   # Button label for the emerald that shows the player's balance
+   balance: "&2Balance"

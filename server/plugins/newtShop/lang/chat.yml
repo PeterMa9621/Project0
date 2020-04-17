@@ -1,0 +1,126 @@
+# Customize chat messages. Support alternate color codes
+chat-messages:
+   # Message sent when a player buys an item
+   # @amount@ = number of items bought
+   # @item@ = the item bought
+   # @price@ = the amount purchased for
+   buy-message: "&7Bought &e@amount@ @item@ &7for &e@price@"
+   
+   # Message sent when a player doesn't have enough money to buy an item
+   not-enough-money: "&cYou don't have enough money!"
+   
+   # Message sent when a player doesn't have enough inventory space to buy an item
+   not-enough-space: "&cYou don't have enough inventory space!"
+   
+   # Message sent when a player sells an item
+   # @amount@ = number of items bought
+   # @item@ = the item bought
+   # @price@ = the amount sold for
+   sell-message: "&7Sold &e@amount@ @item@ &7for &e@price@"
+   
+   # Message sent when a player doesn't have enough of an item to sell
+   not-enough-items: "&cYou don't have enough to sell!"
+   
+   # Message sent when an item can't be sold with /sell or /sellall
+   cant-sell: "&cThis item can't be sold!"
+   
+   # Message sent to confirm /sell
+   # @amount@ = number of items bought
+   # @item@ = the item bought
+   # @price@ = the amount sold for
+   confirm-sell: "&7Type '/sell' again to confirm the sale of &e@amount@ @item@ &7for &e@price@"
+   
+   # Message sent when /sell is used with too many arguments
+   sell-arguments: "&cToo many arguments! Usage: /sell"
+   
+   # Message sent to confirm /sellall
+   # @amount@ = number of items bought
+   # @item@ = the item bought
+   # @price@ = the amount sold for
+   confirm-sellall: "&7Type '/sellall' again to confirm the sale of &e@amount@ @item@ &7for &e@price@"
+   
+   # Message sent when /sellall is used with too many arguments
+   sellall-arguments: "&cToo many arguments! Usage: /sellall"
+   
+   # Message sent to confirm /sellinv
+   # @list@ = the list of items to be sold
+   confirm-sellinv: "&7Type '/sellinv' again to confirm the sale of @list@"
+   
+   # Message sent when /sellinv is used with too many arguments
+   sellinv-arguments: "&cToo many arguments! Usage: /sellinv"
+   
+   # Message sent when items are sold with /sellinv
+   # @amount@ = the amount of items sold
+   # @price@ = the total amount sold for
+   sellinv-message: "&7Sold &e@amount@ items &7for &e@price@"
+   
+   # Message sent when a player uses /sellinv but has no sellable items
+   nothing-to-sell: "&cNo items to be sold!"
+   
+   # Message sent when /shop is used with too many arguments
+   shop-arguments: "&cToo many arguments! Usage: /shop or /shop <category>"
+   
+   # Message sent when /shop <category> is used and the category doesn't exist
+   shop-no-category: "&cNo category with that name!"
+   
+   # Message sent when /shop is used with too many arguments and tab complete is disabled
+   shop-arguments-notab: "&cToo many arguments! Usage: /shop"
+   
+   # Message sent when a player doesn't have permission for a command
+   no-permission: "&cYou don't have permission!"
+   
+   # Message sent when a player uses the /shop reload command
+   reload: "&aConfigs reloaded successfully!"
+   
+   # Message sent when /shopmanage is used with incorrect arguments
+   manage-arguments: "&cIncorrect arguments! Usage: /shopmanage <add|edit> ..."
+   
+   # Message sent when the category given in /shopmanage doesn't exist
+   # @category@ = the category used in the command
+   manage-no-category: "&cThere is no category with label: @category@!"
+   
+   # Message sent when '/shopmanage add' is used with incorrect arguments
+   manage-add-arguments: "&cIncorrect arguments! Usage: /shopmanage add <category_id> <item_id> <buy> <sell> <shop_name>"
+   
+   # Message sent when '/shopmanage edit' is used with incorrect arguments
+   manage-edit-arguments: "&cIncorrect arguments! Usage: /shopmanage edit <buy|sell> <category_id> <item_id> <price>"
+   
+   # Message sent when an item is added with '/shopmanage add'
+   # @item@ = the item added
+   manage-item-added: "&aSuccessfully added item: @item@!"
+   
+   # Message sent when a buy price is updated with '/shopmanage edit buy'
+   # @item@ = the item that was updated
+   # @price@ = the new price
+   manage-buy-changed: "&aBuy price for @item@ set to: &e@price@"
+   
+   # Message sent when a sell price is updated with '/shopmanage edit sell'
+   # @item@ = the item that was updated
+   # @price@ = the new price
+   manage-sell-changed: "&aSell price for @item@ set to: &e@price@"
+   
+   # Message sent when a player places a sell chest
+   sell-chest-placed: "&aYou placed a sell chest!"
+   
+   # Message sent when a player tries to place a sell chest next to another chest
+   sell-chest-double: "&cYou're not allowed to place sell chests near other chests!"
+   
+   # Message sent when a player tries to place a sell chest, but isn't allowed
+   sell-chest-no-place-permission: "&cYou don't have permission to place sell chests!"
+   
+   # Message sent when a player tries to break a sell chest, but isn't allowed
+   sell-chest-no-break-permission: "&cYou don't have permission to break sell chests!" 
+   
+   # Message sent when a player receives money from sell chests
+   # @amount@ = the amount earned
+   sell-chest-sold: "&7You made &e@amount@ &7from your sell chests!"
+   
+   # Message sent when a player receives money from using the sell wand
+   # @amount@ = the amount earned
+   sell-wand-sold: "&7You made &e@amount@ &7with your sell wand!"
+   
+   # Message sent when a player uses the sell wand on a block that isn't a container
+   sell-wand-not-container: "&cThat's not a container!"
+   
+   # Message sent when a player uses the sell wand on a container with no sellable items
+   sell-wand-nothing-to-sell: "&cThere's nothing to sell in that container!"

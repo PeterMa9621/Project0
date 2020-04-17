@@ -137,7 +137,7 @@ Settings:
         Enabled: true
         Commands:
             #格式 '自定义命令': '目标命令'
-            'shop': 'ca gui'
+            #'shop': 'ca gui'
             'market': 'ca gui'
             'ah': 'ca gui'
             'hdv': 'ca gui'

@@ -44,7 +44,7 @@ announcements:
   - '[{"text":"[小提示] ","color":"gold"},{"text":"不要忘记给你的宠物喂食，宠物饥饿为0的情况下会掉血的！","color":"white"},{"text":"怎么喂食","color":"gold","bold":true,"underlined":true,"clickEvent":{"action":"run_command","value":"/ob
     open 0"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"点击查看帮助","color":"red"}]}}}]'
   fish:
-  - '[{"text":"[小提示]","color":"gold"},{"text":" 每天的10:30和19:30是钓鱼竞赛的时间。","color":"aqua"},{"text":"了解更多","bold":true,"underlined":true,"color":"dark_purple","clickEvent":{"action":"run_command","value":"/ob
+  - '[{"text":"[小提示]","color":"gold"},{"text":" 每天的12:45和19:30是钓鱼竞赛的时间，每次持续15分钟，前三名会有抽奖钥匙作为奖励。","color":"aqua"},{"text":"了解更多","bold":true,"underlined":true,"color":"dark_purple","clickEvent":{"action":"run_command","value":"/ob
     open 1"},"hoverEvent":{"action":"show_text","value":"点击了解更多"}}]'
   betterWeapon:
   - '[{"text":"[小提示]","color":"gold"},{"text":" "},{"text":"想让武器装备属性更上一层？输入/qh gui
@@ -56,7 +56,7 @@ announcements:
   - '[{"text":"[小提示] ","color":"gold"},{"text":"输入/trade <玩家名> 即可与该玩家交易，或者按住Shift右键
     玩家也可以交易哦","color":"aqua"}]'
   residence:
-  - '[{"text":"[小提示] ","color":"gold"},{"text":"圈地工具是用箭(➹)哦。","color":"aqua"}]'
+  - '[{"text":"[小提示] ","color":"gold"},{"text":"你只能在生存区圈地，圈地工具是木棍。","color":"aqua"}]'
   prefix:
   - '[{"text":"[小提示] ","color":"gold"},{"text":"输入/ch shop可以打开称号商店，输入/ch my可以查看自己
     拥有的称号并自由切换。","color":"aqua"}]'

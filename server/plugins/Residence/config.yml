@@ -35,7 +35,11 @@ Global:
     DefaultWorld: shengcun
     DisabledWorlds:
       # List Of Worlds where this plugin is disabled
-      List: [world, kuangjie, world_nether, world_the_end]
+      List:
+      - world
+      - kuangjie
+      - world_nether
+      - world_the_end
       # Disables all listeners in included worlds
       DisableListeners: true
       # Disabled any command usage in included worlds
@@ -143,7 +147,7 @@ Global:
     TeleportTitleMessage: true
   RandomTeleportation:
     # How long force player to wait before using command again.
-    Cooldown: 5
+    Cooldown: 60
     # How many times to try find correct location for teleportation.
     # Keep it at low number, as player always can try again after delay
     MaxTries: 20
@@ -155,7 +159,7 @@ Global:
   Backup:
     AutoCleanUp:
       # Do you want to automatically remove backup files from main backup folder if they are older than defined day amount
-      Use: false
+      Use: true
       Days: 30
     # Do you want to backup files by creating zip files in main residence folder in backup folder
     # This wont have effect on regular backuped files made in save folder
@@ -265,7 +269,7 @@ Global:
   DateFormatShort: MM.dd hh:mm
   # Sets time zone for showing date, useful when server is in different country then main server player base
   # Full list of possible time zones can be found at http://www.mkyong.com/java/java-display-list-of-timezone-with-gmt/
-  TimeZone: America/Denver
+  TimeZone: Asia/Shanghai
   # Enable / Disable money returning on residence removal.
   ResMoneyBack: false
   # The interval, in minutes, between residence lease checks (if leases are enabled).
@@ -357,7 +361,7 @@ Global:
   # Setting this to true creates residence around players placed chest if he don't have any.
   # Only once every server restart if he still don't have any residence
   NewPlayer:
-    Use: false
+    Use: true
     # Setting this to true, residence will be created for free
     # By setting to false, money will be taken from player, if he has them
     Free: true
@@ -375,7 +379,7 @@ Global:
     Use: true
     # Range in blocks to draw particle effects for player
     # Keep it no more as 30, as player cant see more than 16 blocks
-    Range: 16
+    Range: 10
     # For how long in miliseconds (5000 = 5sec) to show particle effects
     ShowFor: 5000
     # How often in ticks to update particles for player

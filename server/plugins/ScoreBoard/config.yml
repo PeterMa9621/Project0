@@ -13,5 +13,5 @@ ScoreBoard:
     Line9: '%peterHelper_itemInfo%'
     Line10: 'Armor: %peterHelper_armorInfo%'
     Line11: 'TPS:%server_tps%'
-    Line12: '金币: %vault_eco_balance%'
+    Line12: '金币: %vault_eco_balance_fixed%'
     Line13: '点券: %playerpoints_points%'

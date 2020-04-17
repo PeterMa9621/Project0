@@ -22,25 +22,25 @@ general:
 contest-prizes: 
   1:
     commands:
-      - "say @p is 1st"
+      - "cc give p 九选一 2 @p"
   2~3:
     commands:
-      - "say @p is 2nd~3rd"
-  4~:
+      - "cc give p 九选一 1 @p"
+  4~10:
     commands:
-      - "say @p is 4th~"
+      - "eco give @p 200"
+  11~:
+    commands:
+      - "eco give @p 50"
 
 auto-running:
   enable: true
   required-players: 1
-  timer: 600
+  timer: 900
   # HH:mm (H: 0-23, m: 0-59)
   start-time:
-  - "09:00"
-  - "11:30"
-  - "14:00"
-  - "15:32"
-  - "21:00"
+  - "12:45"
+  - "19:30"
 
 fish-shop:
   enable: true

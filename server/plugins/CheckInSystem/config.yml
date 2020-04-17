@@ -1,375 +1,127 @@
 CheckIn:
   Days:
-    '19':
-      Money: 0
-      Gift:
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        HideEnchant: true
-        TypeID: diamond
-        Amount: 1
-        Enchantment:
-          Level: 1
-          ID: fortune
-        Name: §f未鉴定的宝石
-      Describe: §7奖品为绿宝石一个
-    '6':
-      Describe: §7奖品为绿宝石一个
-      Gift:
-        HideEnchant: true
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        Name: §f未鉴定的宝石
-        Amount: 1
-        Enchantment:
-          Level: 1
-          ID: fortune
-        TypeID: diamond
-      Money: 0
-    '22':
-      Gift:
-        Enchantment:
-          ID: fortune
-          Level: 1
-        HideEnchant: true
-        Name: §f未鉴定的宝石
-        TypeID: diamond
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        Amount: 1
-      Describe: §7奖品为绿宝石一个
-      Money: 0
-    '16':
-      Gift:
-        Enchantment:
-          Level: 1
-          ID: fortune
-        HideEnchant: true
-        Name: §f未鉴定的宝石
-        TypeID: diamond
-        Amount: 1
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-      Describe: §7奖品为绿宝石一个
-      Money: 0
-    '17':
-      Gift:
-        Name: §f未鉴定的宝石
-        Enchantment:
-          ID: fortune
-          Level: 1
-        HideEnchant: true
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        TypeID: diamond
-        Amount: 1
-      Money: 0
-      Describe: §7奖品为绿宝石一个
-    '3':
-      Money: 0
-      Gift:
-        Enchantment:
-          ID: fortune
-          Level: 1
-        HideEnchant: true
-        TypeID: diamond
-        Amount: 1
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        Name: §f未鉴定的宝石
-      Describe: §7奖品为绿宝石一个
-    '28':
-      Gift:
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        Name: §f未鉴定的宝石
-        Enchantment:
-          ID: fortune
-          Level: 1
-        TypeID: diamond
-        HideEnchant: true
-        Amount: 1
-      Describe: §7奖品为绿宝石一个
-      Money: 0
-    '24':
-      Describe: §7奖品为绿宝石一个
-      Gift:
-        Name: §f未鉴定的宝石
-        Enchantment:
-          ID: fortune
-          Level: 1
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        HideEnchant: true
-        TypeID: diamond
-        Amount: 1
-      Money: 0
-    '26':
-      Money: 0
-      Gift:
-        HideEnchant: true
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        Enchantment:
-          ID: fortune
-          Level: 1
-        TypeID: diamond
-        Amount: 1
-        Name: §f未鉴定的宝石
-      Describe: §7奖品为绿宝石一个
-    '10':
-      Gift:
-        Enchantment:
-          ID: fortune
-          Level: 1
-        TypeID: diamond
-        Name: §f未鉴定的宝石
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        HideEnchant: true
-        Amount: 1
-      Describe: §7奖品为绿宝石一个
-      Money: 0
-    '25':
-      Gift:
-        Enchantment:
-          Level: 1
-          ID: fortune
-        Name: §f未鉴定的宝石
-        Amount: 1
-        HideEnchant: true
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        TypeID: diamond
-      Describe: §7奖品为绿宝石一个
-      Money: 0
-    '5':
-      Gift:
-        Name: §f未鉴定的宝石
-        TypeID: diamond
-        HideEnchant: true
-        Amount: 1
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        Enchantment:
-          ID: fortune
-          Level: 1
-      Money: 0
-      Describe: §7奖品为绿宝石一个
-    '2':
-      Gift:
-        Enchantment:
-          Level: 1
-          ID: fortune
-        HideEnchant: true
-        Amount: 1
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        Name: §f未鉴定的宝石
-        TypeID: diamond
-      Money: 0
-      Describe: §7奖品为绿宝石一个
-    '9':
-      Gift:
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        Enchantment:
-          Level: 1
-          ID: fortune
-        TypeID: diamond
-        Amount: 1
-        HideEnchant: true
-        Name: §f未鉴定的宝石
-      Money: 0
-      Describe: §7奖品为绿宝石一个
-    '29':
-      Describe: §7奖品为绿宝石一个
-      Gift:
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        Amount: 1
-        Enchantment:
-          Level: 1
-          ID: fortune
-        Name: §f未鉴定的宝石
-        TypeID: diamond
-        HideEnchant: true
-      Money: 0
-    '8':
-      Gift:
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        HideEnchant: true
-        Amount: 1
-        Enchantment:
-          Level: 1
-          ID: fortune
-        Name: §f未鉴定的宝石
-        TypeID: diamond
-      Money: 0
-      Describe: §7奖品为绿宝石一个
-    '27':
-      Gift:
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        Enchantment:
-          Level: 1
-          ID: fortune
-        HideEnchant: true
-        Amount: 1
-        TypeID: diamond
-        Name: §f未鉴定的宝石
-      Money: 0
-      Describe: §7奖品为绿宝石一个
     '1':
-      Gift:
-        Enchantment:
-          ID: fortune
-          Level: 1
-        TypeID: diamond
-        Name: §f未鉴定的宝石
-        Amount: 1
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        HideEnchant: true
-      Describe: §7奖品为绿宝石一个
-      Money: 0
-    '11':
-      Gift:
-        HideEnchant: true
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        Name: §f未鉴定的宝石
-        Enchantment:
-          Level: 1
-          ID: fortune
-        Amount: 1
-        TypeID: diamond
-      Money: 0
-      Describe: §7奖品为绿宝石一个
-    '20':
-      Money: 0
-      Gift:
-        Enchantment:
-          Level: 1
-          ID: fortune
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        TypeID: diamond
-        Name: §f未鉴定的宝石
-        HideEnchant: true
-        Amount: 1
-      Describe: §7奖品为绿宝石一个
+      Describe: §7签到奖励为§68个铁锭
+      Command:
+      - give %player% iron_ingot 8
+    '2':
+      Describe: §7签到奖励为§68个金锭
+      Command:
+      - give %player% gold_ingot 8
+    '3':
+      Describe: §7签到奖励为§616个铁锭
+      Command:
+      - give %player% iron_ingot 16
     '4':
-      Gift:
-        Name: §f未鉴定的宝石
-        Enchantment:
-          Level: 1
-          ID: fortune
-        Amount: 1
-        TypeID: diamond
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        HideEnchant: true
-      Describe: §7奖品为绿宝石一个
-      Money: 0
-    '21':
-      Gift:
-        HideEnchant: true
-        Amount: 1
-        Enchantment:
-          ID: fortune
-          Level: 1
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        TypeID: diamond
-        Name: §f未鉴定的宝石
-      Money: 0
-      Describe: §7奖品为绿宝石一个
-    '30':
-      Gift:
-        Amount: 1
-        Enchantment:
-          Level: 1
-          ID: fortune
-        Name: §f未鉴定的宝石
-        HideEnchant: true
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        TypeID: diamond
-      Describe: §7奖品为绿宝石一个
-      Money: 0
-    '15':
-      Gift:
-        Name: §f未鉴定的宝石
-        Enchantment:
-          ID: fortune
-          Level: 1
-        TypeID: diamond
-        Amount: 1
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        HideEnchant: true
-      Money: 0
-      Describe: §7奖品为绿宝石一个
-    '18':
-      Gift:
-        Enchantment:
-          Level: 1
-          ID: fortune
-        Name: §f未鉴定的宝石
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        HideEnchant: true
-        TypeID: diamond
-        Amount: 1
-      Describe: §7奖品为绿宝石一个
-      Money: 0
+      Describe: §7签到奖励为§616个金锭
+      Command:
+      - give %player% gold_ingot 16
+    '5':
+      Describe: §7签到奖励为§6九选一抽奖箱钥匙1把
+      Command:
+      - cc give p 九选一 1 %player%
+    '6':
+      Describe: §7签到奖励为§6240金币
+      Command:
+      - eco give %player% 240
     '7':
-      Gift:
-        Name: §f未鉴定的宝石
-        Enchantment:
-          Level: 1
-          ID: fortune
-        TypeID: diamond
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        Amount: 1
-        HideEnchant: true
-      Describe: §7奖品为绿宝石一个
-      Money: 0
-    '31':
-      Gift:
-        Amount: 1
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        Name: §f未鉴定的宝石
-        TypeID: diamond
-        Enchantment:
-          ID: fortune
-          Level: 1
-        HideEnchant: true
-      Describe: §7奖品为绿宝石一个
-      Money: 0
+      Describe: §7签到奖励为§6快速抽奖箱钥匙1把
+      Command:
+      - cc give p 快速 1 %player%
+    '8':
+      Describe: §7签到奖励为§6350金币
+      Command:
+      - eco give %player% 350
+    '9':
+      Describe: §7签到奖励为§68个钻石
+      Command:
+      - give %player% diamond 8
+    '10':
+      Describe: §7签到奖励为§6快速抽奖箱钥匙2把
+      Command:
+      - cc give p 快速 2 %player%
+    '11':
+      Describe: §7签到奖励为§614个钻石
+      Command:
+      - give %player% diamond 14
     '12':
-      Money: 0
-      Describe: §7奖品为绿宝石一个
-      Gift:
-        TypeID: diamond
-        Enchantment:
-          ID: fortune
-          Level: 1
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        Amount: 1
-        Name: §f未鉴定的宝石
-        HideEnchant: true
-    '14':
-      Gift:
-        Enchantment:
-          ID: fortune
-          Level: 1
-        TypeID: diamond
-        HideEnchant: true
-        Amount: 1
-        Name: §f未鉴定的宝石
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-      Money: 0
-      Describe: §7奖品为绿宝石一个
-    '23':
-      Gift:
-        Name: §f未鉴定的宝石
-        Amount: 1
-        Enchantment:
-          ID: fortune
-          Level: 1
-        TypeID: diamond
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        HideEnchant: true
-      Money: 0
-      Describe: §7奖品为绿宝石一个
+      Describe: §7签到奖励为§620个钻石
+      Command:
+      - give %player% diamond 20
     '13':
-      Gift:
-        Enchantment:
-          ID: fortune
-          Level: 1
-        TypeID: diamond
-        Amount: 1
-        HideEnchant: true
-        Lore: §e[未鉴定]%§6一块看起来普通的石头
-        Name: §f未鉴定的宝石
-      Money: 0
-      Describe: §7奖品为绿宝石一个
+      Describe: §7签到奖励为§6600金币
+      Command:
+      - eco give %player% 600
+    '14':
+      Describe: §7签到奖励为§6老虎机抽奖箱钥匙1把
+      Command:
+      - cc give p 老虎机 1 %player%
+    '15':
+      Describe: §7签到奖励为§6800金币
+      Command:
+      - eco give %player% 800
+    '16':
+      Describe: §7签到奖励为§632个铁锭
+      Command:
+      - give %player% iron_ingot 32
+    '17':
+      Describe: §7签到奖励为§6跑马灯抽奖箱钥匙1把
+      Command:
+      - cc give p 跑马灯 1 %player%
+    '18':
+      Describe: §7签到奖励为§632个金锭
+      Command:
+      - give %player% gold_ingot 32
+    '19':
+      Describe: §7签到奖励为§66个绿宝石
+      Command:
+      - give %player% emerald 6
+    '20':
+      Describe: §7签到奖励为§6烟花抽奖箱钥匙1把
+      Command:
+      - cc give p 烟花 1 %player%
+    '21':
+      Describe: §7签到奖励为§6下界之星1个
+      Command:
+      - give %player% nether_star 1
+    '22':
+      Describe: §7签到奖励为§61000金币
+      Command:
+      - eco give %player% 1000
+    '23':
+      Describe: §7签到奖励为§612个绿宝石
+      Command:
+      - give %player% emerald 12
+    '24':
+      Describe: §7签到奖励为§6烟花抽奖箱钥匙2把
+      Command:
+      - cc give p 烟花 2 %player%
+    '25':
+      Describe: §7签到奖励为§632个钻石
+      Command:
+      - give %player% diamond 32
+    '26':
+      Describe: §7签到奖励为§6潮涌之心1个
+      Command:
+      - give %player% heart_of_the_sea 1
+    '27':
+      Describe: §7签到奖励为§6疯狂抽奖箱钥匙1把
+      Command:
+      - cc give p 疯狂 1 %player%
+    '28':
+      Describe: §7签到奖励为§632个绿宝石
+      Command:
+      - give %player% emerald 12
+    '29':
+      Describe: §7签到奖励为§6烟花抽奖箱钥匙2把
+      Command:
+      - cc give p 烟花 2 %player%
+    '30':
+      Describe: §7签到奖励为§6疯狂抽奖箱钥匙2把
+      Command:
+      - cc give p 疯狂 2 %player%
+    '31':
+      Describe: §7签到奖励为§6疯狂抽奖箱钥匙2把
+      Command:
+      - cc give p 疯狂 2 %player%
   Database: MYSQL
