@@ -33,6 +33,23 @@
         }
       }
     },
+    "Control": {
+      "Upgrades": {
+        "5": {
+          "Active": true
+        }
+      }
+    },
+    "Life": {
+      "Upgrades": {
+        "%1>1<50": {
+          "Health": "+1"
+        },
+        "%1>51<100": {
+          "Health": "+0.6"
+        }
+      }
+    },
     "Ranged": {
       "Upgrades": {
         "1": {
@@ -52,19 +69,9 @@
         }
       }
     },
-    "Life": {
+    "Ride": {
       "Upgrades": {
-        "%1>1<50": {
-          "Health": "+1"
-        },
-        "%1>51<100": {
-          "Health": "+0.6"
-        }
-      }
-    },
-    "Control": {
-      "Upgrades": {
-        "5": {
+        "30": {
           "Active": true
         }
       }
@@ -76,13 +83,6 @@
         },
         "50,60": {
           "Duration": "+1"
-        }
-      }
-    },
-    "Ride": {
-      "Upgrades": {
-        "30": {
-          "Active": true
         }
       }
     }

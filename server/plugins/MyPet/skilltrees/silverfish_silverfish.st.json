@@ -20,6 +20,22 @@
     "Silverfish"
   ],
   "Skills": {
+    "Behavior": {
+      "Upgrades": {
+        "5": {
+          "Aggro": true,
+          "Duel": true,
+          "Farm": true,
+          "Friend": true,
+          "Raid": true
+        }
+      }
+    },
+    "Control": {
+      "Upgrades": {
+        "5": {}
+      }
+    },
     "Damage": {
       "Upgrades": {
         "%1>1<10": {
@@ -33,17 +49,6 @@
         },
         "%1>41<100": {
           "Damage": "+0.13333"
-        }
-      }
-    },
-    "Behavior": {
-      "Upgrades": {
-        "5": {
-          "Aggro": true,
-          "Duel": true,
-          "Farm": true,
-          "Friend": true,
-          "Raid": true
         }
       }
     },
@@ -89,11 +94,6 @@
         "100": {
           "Chance": "+2"
         }
-      }
-    },
-    "Control": {
-      "Upgrades": {
-        "5": {}
       }
     }
   }

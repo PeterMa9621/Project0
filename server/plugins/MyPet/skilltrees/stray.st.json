@@ -32,6 +32,33 @@
         }
       }
     },
+    "Control": {
+      "Upgrades": {
+        "5": {
+          "Active": true
+        }
+      }
+    },
+    "Life": {
+      "Upgrades": {
+        "%1>1<50": {
+          "Health": "+1"
+        },
+        "%1>51<100": {
+          "Health": "+0.4"
+        }
+      }
+    },
+    "Knockback": {
+      "Upgrades": {
+        "30": {
+          "Chance": "+5"
+        },
+        "%2>31<70": {
+          "Chance": "+1"
+        }
+      }
+    },
     "Ranged": {
       "Upgrades": {
         "1": {
@@ -48,33 +75,6 @@
         },
         "%1>31<100": {
           "Damage": "+0.1"
-        }
-      }
-    },
-    "Life": {
-      "Upgrades": {
-        "%1>1<50": {
-          "Health": "+1"
-        },
-        "%1>51<100": {
-          "Health": "+0.4"
-        }
-      }
-    },
-    "Control": {
-      "Upgrades": {
-        "5": {
-          "Active": true
-        }
-      }
-    },
-    "Knockback": {
-      "Upgrades": {
-        "30": {
-          "Chance": "+5"
-        },
-        "%2>31<70": {
-          "Chance": "+1"
         }
       }
     }

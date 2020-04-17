@@ -18,31 +18,6 @@
     "Ravager"
   ],
   "Skills": {
-    "Sprint": {
-      "Upgrades": {
-        "30": {
-          "Active": true
-        }
-      }
-    },
-    "Stomp": {
-      "Upgrades": {
-        "40": {
-          "Damage": "+3",
-          "Chance": "+5"
-        },
-        "70": {
-          "Chance": "+3"
-        },
-        "80": {
-          "Chance": "+2"
-        },
-        "45,50,55,60": {
-          "Damage": "+1",
-          "Chance": "+4"
-        }
-      }
-    },
     "Behavior": {
       "Upgrades": {
         "5": {
@@ -86,6 +61,31 @@
         },
         "%1>51<100": {
           "Health": "+1.2"
+        }
+      }
+    },
+    "Sprint": {
+      "Upgrades": {
+        "30": {
+          "Active": true
+        }
+      }
+    },
+    "Stomp": {
+      "Upgrades": {
+        "40": {
+          "Damage": "+3",
+          "Chance": "+5"
+        },
+        "70": {
+          "Chance": "+3"
+        },
+        "80": {
+          "Chance": "+2"
+        },
+        "45,50,55,60": {
+          "Damage": "+1",
+          "Chance": "+4"
         }
       }
     }

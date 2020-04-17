@@ -54,10 +54,10 @@ MyPet:
     Time:
       Disabled: false
       Default:
-        Factor: 5
+        Factor: 2
         Fixed: 0
       Player:
-        Factor: 5
+        Factor: 2
         Fixed: 0
     EconomyCost:
       Fixed: 0.0
@@ -98,10 +98,10 @@ MyPet:
       Always-Grant-Passive-XP: true
       PercentPerMonster: 25
     Loss:
-      Percent: 0
+      Percent: 2
       Fixed: 0.0
       Drop: true
-      Allow-Level-Drowngrade: false
+      Allow-Level-Drowngrade: true
     Gain:
       PreventFromSpawnReason: []
     LevelCap: 100

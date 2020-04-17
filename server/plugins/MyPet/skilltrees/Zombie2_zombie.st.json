@@ -12,7 +12,7 @@
   "Description": [
     "\u0026c血耐型宠物",
     "\u0026f最大伤害6",
-    "\u0026f最大生命值100",
+    "\u0026f最大生命值257",
     "\u0026f技能：",
     "\u0026f -火焰攻击(最大概率30%，持续3秒)"
   ],
@@ -23,9 +23,6 @@
     "Behavior": {
       "Upgrades": {
         "5": {
-          "Aggro": false,
-          "Duel": false,
-          "Farm": false,
           "Friend": true,
           "Raid": false
         }
@@ -105,7 +102,7 @@
           "Health": "+5"
         },
         "%1>31<100": {
-          "Health": "+1.71"
+          "Health": "+1.1"
         }
       }
     }

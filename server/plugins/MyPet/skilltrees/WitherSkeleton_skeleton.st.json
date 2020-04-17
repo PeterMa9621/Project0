@@ -18,6 +18,32 @@
     "WitherSkeleton"
   ],
   "Skills": {
+    "Backpack": {
+      "Upgrades": {
+        "20": {
+          "rows": "+1",
+          "drop": false
+        }
+      }
+    },
+    "Behavior": {
+      "Upgrades": {
+        "5": {
+          "Aggro": true,
+          "Duel": true,
+          "Farm": true,
+          "Friend": true,
+          "Raid": true
+        }
+      }
+    },
+    "Control": {
+      "Upgrades": {
+        "5": {
+          "Active": true
+        }
+      }
+    },
     "Damage": {
       "Upgrades": {
         "%1>1<10": {
@@ -47,25 +73,6 @@
         }
       }
     },
-    "Behavior": {
-      "Upgrades": {
-        "5": {
-          "Aggro": true,
-          "Duel": true,
-          "Farm": true,
-          "Friend": true,
-          "Raid": true
-        }
-      }
-    },
-    "Backpack": {
-      "Upgrades": {
-        "20": {
-          "rows": "+1",
-          "drop": false
-        }
-      }
-    },
     "Wither": {
       "Upgrades": {
         "30": {
@@ -79,13 +86,6 @@
         },
         "%6>55<85": {
           "Chance": "+5"
-        }
-      }
-    },
-    "Control": {
-      "Upgrades": {
-        "5": {
-          "Active": true
         }
       }
     }

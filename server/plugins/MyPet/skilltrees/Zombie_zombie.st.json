@@ -12,7 +12,7 @@
   "Description": [
     "\u0026c攻血型宠物",
     "\u0026f最大宠物攻击10",
-    "\u0026f最大宠物血量250",
+    "\u0026f最大宠物血量220",
     "\u0026f宠物技能：",
     "\u0026f -击退攻击(最大概率30%)"
   ],
@@ -23,9 +23,6 @@
     "Behavior": {
       "Upgrades": {
         "5": {
-          "Aggro": false,
-          "Duel": false,
-          "Farm": false,
           "Friend": true,
           "Raid": false
         }
@@ -47,10 +44,10 @@
     "Life": {
       "Upgrades": {
         "%1>1<10": {
-          "Health": "+5"
+          "Health": "+4"
         },
         "%1>11<30": {
-          "Health": "+4"
+          "Health": "+3"
         },
         "%1>31<100": {
           "Health": "+1.42"

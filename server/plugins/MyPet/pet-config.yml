@@ -13,6 +13,7 @@ MyPet:
       - spider_eye
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -26,6 +27,7 @@ MyPet:
       - gunpowder
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -39,6 +41,7 @@ MyPet:
       - cod
       LeashRequirements:
       - Tamed
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -51,6 +54,7 @@ MyPet:
       - rotten_flesh
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -63,6 +67,7 @@ MyPet:
       - wheat_seeds
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -78,6 +83,7 @@ MyPet:
       - seagrass
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -90,6 +96,7 @@ MyPet:
       - wheat
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -104,6 +111,7 @@ MyPet:
       - gunpowder
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -115,7 +123,7 @@ MyPet:
       Food:
       - cod
       LeashRequirements:
-      - LowHp
+      - Impossible
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -130,6 +138,7 @@ MyPet:
       - apple
       LeashRequirements:
       - Tamed
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -143,6 +152,7 @@ MyPet:
       - rotten_flesh
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -155,6 +165,7 @@ MyPet:
       - sugar
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -180,6 +191,7 @@ MyPet:
       - soul_sand
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -192,6 +204,7 @@ MyPet:
       - sugar
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -204,6 +217,7 @@ MyPet:
       - apple
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -216,6 +230,7 @@ MyPet:
       - sweet_berries
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -241,6 +256,7 @@ MyPet:
       - rotten_flesh
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -253,6 +269,7 @@ MyPet:
       - sugar
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -267,6 +284,7 @@ MyPet:
       - apple
       LeashRequirements:
       - Tamed
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -280,6 +298,7 @@ MyPet:
       - rotten_flesh
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -291,7 +310,7 @@ MyPet:
       Food:
       - apple
       LeashRequirements:
-      - LowHp
+      - Impossible
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -304,6 +323,7 @@ MyPet:
       - iron_ingot
       LeashRequirements:
       - UserCreated
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -317,6 +337,7 @@ MyPet:
       - wheat
       LeashRequirements:
       - Tamed
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -329,7 +350,7 @@ MyPet:
       Food:
       - redstone
       LeashRequirements:
-      - LowHp
+      - Impossible
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -341,7 +362,7 @@ MyPet:
       Food:
       - wheat
       LeashRequirements:
-      - LowHp
+      - Impossible
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -358,6 +379,7 @@ MyPet:
       - apple
       LeashRequirements:
       - Tamed
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -372,6 +394,7 @@ MyPet:
       - salmon
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -385,6 +408,7 @@ MyPet:
       - bamboo
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -398,6 +422,7 @@ MyPet:
       - sweet_berries
       LeashRequirements:
       - Tamed
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -411,6 +436,7 @@ MyPet:
       - rotten_flesh
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -424,6 +450,7 @@ MyPet:
       - carrot
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -437,6 +464,7 @@ MyPet:
       - rotten_flesh
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -449,7 +477,7 @@ MyPet:
       Food:
       - apple
       LeashRequirements:
-      - LowHp
+      - Impossible
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -462,6 +490,7 @@ MyPet:
       - cod
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -473,7 +502,7 @@ MyPet:
       Food:
       - seagrass
       LeashRequirements:
-      - LowHp
+      - Impossible
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -486,6 +515,7 @@ MyPet:
       - carrot
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -500,6 +530,7 @@ MyPet:
       - mutton
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -511,7 +542,7 @@ MyPet:
       Food:
       - seagrass
       LeashRequirements:
-      - LowHp
+      - Impossible
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -524,6 +555,7 @@ MyPet:
       - wheat
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -539,6 +571,7 @@ MyPet:
       - sugar
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -551,6 +584,7 @@ MyPet:
       - bone
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -563,6 +597,7 @@ MyPet:
       - bone
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -575,7 +610,7 @@ MyPet:
       Food:
       - sugar
       LeashRequirements:
-      - LowHp
+      - Impossible
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -589,6 +624,7 @@ MyPet:
       - snowball
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -602,6 +638,7 @@ MyPet:
       - rotten_flesh
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -613,7 +650,7 @@ MyPet:
       Food:
       - cod
       LeashRequirements:
-      - LowHp
+      - Impossible
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -626,6 +663,7 @@ MyPet:
       - bone
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -638,6 +676,7 @@ MyPet:
       - wheat
       LeashRequirements:
       - Tamed
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -649,7 +688,7 @@ MyPet:
       Food:
       - seagrass
       LeashRequirements:
-      - LowHp
+      - Impossible
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -662,6 +701,7 @@ MyPet:
       - seagrass
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -673,7 +713,7 @@ MyPet:
       Food:
       - apple
       LeashRequirements:
-      - LowHp
+      - Impossible
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -686,7 +726,7 @@ MyPet:
       Food:
       - apple
       LeashRequirements:
-      - LowHp
+      - Impossible
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -699,7 +739,7 @@ MyPet:
       Food:
       - apple
       LeashRequirements:
-      - LowHp
+      - Impossible
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -711,7 +751,7 @@ MyPet:
       Food:
       - apple
       LeashRequirements:
-      - LowHp
+      - Impossible
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -723,7 +763,7 @@ MyPet:
       Food:
       - mushroom_stew
       LeashRequirements:
-      - LowHp
+      - Impossible
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -749,6 +789,7 @@ MyPet:
       - bone
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -762,6 +803,7 @@ MyPet:
       - mutton
       LeashRequirements:
       - Tamed
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -775,6 +817,7 @@ MyPet:
       - rotten_flesh
       LeashRequirements:
       - LowHp
+      - Chance:10
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -788,6 +831,7 @@ MyPet:
       - rotten_flesh
       LeashRequirements:
       - LowHp
+      - Chance:5
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -800,7 +844,7 @@ MyPet:
       Food:
       - rotten_flesh
       LeashRequirements:
-      - LowHp
+      - Impossible
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead
@@ -825,6 +869,7 @@ MyPet:
       - wither_rose
       LeashRequirements:
       - LowHp
+      - Chance:3
       CustomRespawnTimeFactor: 0
       CustomRespawnTimeFixed: 0
       LeashItem: lead

@@ -22,28 +22,11 @@
     "Snowman"
   ],
   "Skills": {
-    "Ranged": {
+    "Backpack": {
       "Upgrades": {
-        "1": {
-          "Rate": "+60",
-          "Projectile": "Snowball"
-        },
-        "%1>1<30": {
-          "Damage": "+0.25",
-          "Rate": "-1"
-        },
-        "%1>31<80": {
-          "Damage": "+0.09"
-        }
-      }
-    },
-    "Life": {
-      "Upgrades": {
-        "%1>1<30": {
-          "Health": "+1.5"
-        },
-        "%2>31<100": {
-          "Health": "+1"
+        "20": {
+          "rows": "+1",
+          "drop": false
         }
       }
     },
@@ -58,11 +41,20 @@
         }
       }
     },
-    "Backpack": {
+    "Control": {
       "Upgrades": {
-        "20": {
-          "rows": "+1",
-          "drop": false
+        "5": {
+          "Active": true
+        }
+      }
+    },
+    "Life": {
+      "Upgrades": {
+        "%1>1<30": {
+          "Health": "+1.5"
+        },
+        "%2>31<100": {
+          "Health": "+1"
         }
       }
     },
@@ -85,10 +77,18 @@
         }
       }
     },
-    "Control": {
+    "Ranged": {
       "Upgrades": {
-        "5": {
-          "Active": true
+        "1": {
+          "Rate": "+60",
+          "Projectile": "Snowball"
+        },
+        "%1>1<30": {
+          "Damage": "+0.25",
+          "Rate": "-1"
+        },
+        "%1>31<80": {
+          "Damage": "+0.09"
         }
       }
     }

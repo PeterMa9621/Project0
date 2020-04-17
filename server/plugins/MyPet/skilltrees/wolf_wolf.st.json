@@ -21,6 +21,22 @@
     "Wolf"
   ],
   "Skills": {
+    "Behavior": {
+      "Upgrades": {
+        "5": {
+          "Aggro": true,
+          "Duel": true,
+          "Farm": true,
+          "Friend": true,
+          "Raid": true
+        }
+      }
+    },
+    "Control": {
+      "Upgrades": {
+        "5": {}
+      }
+    },
     "Damage": {
       "Upgrades": {
         "%1>1<10": {
@@ -53,17 +69,6 @@
         }
       }
     },
-    "Behavior": {
-      "Upgrades": {
-        "5": {
-          "Aggro": true,
-          "Duel": true,
-          "Farm": true,
-          "Friend": true,
-          "Raid": true
-        }
-      }
-    },
     "Knockback": {
       "Upgrades": {
         "20": {
@@ -88,11 +93,6 @@
         "20": {
           "Active": true
         }
-      }
-    },
-    "Control": {
-      "Upgrades": {
-        "5": {}
       }
     }
   }
