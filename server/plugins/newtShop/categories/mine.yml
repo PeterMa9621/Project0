@@ -1,0 +1,56 @@
+name: '&9矿物'
+id: 'mine'
+display-item:
+  display-type: ITEM
+  material: DIAMOND
+slot: 3
+sort-type: FILL
+items:
+  COAL:
+    buy: 0.8
+    sell: 0.4
+    item:
+      type: NORMAL
+      material: COAL
+  CHARCOAL:
+    buy: 0.8
+    sell: 0.4
+    item:
+      type: NORMAL
+      material: CHARCOAL
+  DIAMOND:
+    buy: 45
+    sell: 35
+    item:
+      type: NORMAL
+      material: DIAMOND
+  IRON_INGOT:
+    buy: 8
+    sell: 5
+    item:
+      type: NORMAL
+      material: IRON_INGOT
+  GOLD_INGOT:
+    buy: 11
+    sell: 8
+    item:
+      type: NORMAL
+      material: GOLD_INGOT
+  EMERALD:
+    buy: 70
+    sell: 55
+    item:
+      type: NORMAL
+      material: EMERALD
+  LAPIS_LAZULI:
+    buy: 0.6
+    sell: 0.3
+    item:
+      type: NORMAL
+      material: LAPIS_LAZULI
+  REDSTONE:
+    buy: 0.7
+    sell: 0.35
+    item:
+      type: NORMAL
+      material: REDSTONE

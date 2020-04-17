@@ -281,6 +281,19 @@ GUI:
           OpenAnotherGUI:
             Use: false
             Number: 2
+      '18':
+        Position: 11
+        # 物品ID为 "主ID:附加值"
+        ItemID: 'PLAYER_HEAD'
+        Name: §6传送至宠物助手
+        Lore: §2点击传送至宠物助手
+        Function:
+          Command:
+            Use: true
+            Content: /warp pet
+          OpenAnotherGUI:
+            Use: false
+            Number: 2
   '1':
     Name: §e§l点券商城 §3§l1RMB等于100点券
     Item:
@@ -477,7 +490,7 @@ GUI:
             Use: true
             Content: /petskill
       '5':
-        Position: 4
+        Position: 15
         ItemID: 'BARRIER'
         Name: §c放生宠物
         Lore: §5点击放生宠物
@@ -489,7 +502,7 @@ GUI:
             Use: true
             Content: /petrelease
       '6':
-        Position: 8
+        Position: 17
         ItemID: 'PAPER'
         Model: 12
         Name: §a返回主页
@@ -502,6 +515,30 @@ GUI:
           OpenAnotherGUI:
             Use: true
             Number: 0
+      '7':
+        Position: 5
+        ItemID: 'DIAMOND_HORSE_ARMOR'
+        Name: §c切换宠物
+        Lore: §5点击切换宠物
+        Cost:
+          Type: Money
+          Price: 0
+        Function:
+          Command:
+            Use: true
+            Content: /psw
+      '8':
+        Position: 4
+        ItemID: 'TURTLE_EGG'
+        Name: §c打开宠物商店
+        Lore: §5点击打开宠物商店
+        Cost:
+          Type: Money
+          Price: 0
+        Function:
+          Command:
+            Use: true
+            Content: /petshop
   '3':
     Name: §e§l服务器帮助
     Item:

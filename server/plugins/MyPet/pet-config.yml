@@ -17,7 +17,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       CanGlide: true
     Blaze:
       HP: 20.0
@@ -30,7 +30,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       CanGlide: true
     Cat:
       HP: 20.0
@@ -43,7 +43,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     CaveSpider:
       HP: 20.0
       Speed: 0.3
@@ -55,7 +55,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Chicken:
       HP: 20.0
       Speed: 0.3
@@ -67,7 +67,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       CanGlide: true
       CanLayEggs: true
       GrowUpItem: experience_bottle
@@ -82,7 +82,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Cow:
       HP: 20.0
       Speed: 0.3
@@ -94,7 +94,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       CanGiveMilk: true
       GrowUpItem: experience_bottle
     Creeper:
@@ -108,7 +108,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Dolphin:
       HP: 20.0
       Speed: 0.3
@@ -120,7 +120,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Donkey:
       HP: 20.0
       Speed: 0.3
@@ -134,7 +134,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       GrowUpItem: experience_bottle
     Drowned:
       HP: 20.0
@@ -147,7 +147,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     ElderGuardian:
       HP: 20.0
       Speed: 0.3
@@ -159,7 +159,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     EnderDragon:
       HP: 20.0
       Speed: 0.3
@@ -171,7 +171,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       CanGlide: true
     Enderman:
       HP: 20.0
@@ -184,7 +184,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Endermite:
       HP: 20.0
       Speed: 0.3
@@ -196,7 +196,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Evoker:
       HP: 20.0
       Speed: 0.3
@@ -208,7 +208,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Fox:
       HP: 20.0
       Speed: 0.3
@@ -220,7 +220,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Ghast:
       HP: 20.0
       Speed: 0.3
@@ -232,7 +232,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       CanGlide: true
     Giant:
       HP: 20.0
@@ -245,7 +245,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Guardian:
       HP: 20.0
       Speed: 0.3
@@ -257,7 +257,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Horse:
       HP: 20.0
       Speed: 0.3
@@ -271,7 +271,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       GrowUpItem: bread
     Husk:
       HP: 20.0
@@ -284,7 +284,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Illusioner:
       HP: 20.0
       Speed: 0.3
@@ -296,7 +296,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     IronGolem:
       HP: 20.0
       Speed: 0.3
@@ -308,7 +308,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       CanTossUp: true
     Llama:
       HP: 20.0
@@ -321,7 +321,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       GrowUpItem: experience_bottle
     MagmaCube:
       HP: 20.0
@@ -334,7 +334,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Mooshroom:
       HP: 20.0
       Speed: 0.3
@@ -346,7 +346,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       GrowUpItem: experience_bottle
       CanGiveStew: false
     Mule:
@@ -362,7 +362,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       GrowUpItem: experience_bottle
     Ocelot:
       HP: 20.0
@@ -376,7 +376,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       GrowUpItem: experience_bottle
     Panda:
       HP: 20.0
@@ -389,7 +389,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Parrot:
       HP: 20.0
       Speed: 0.3
@@ -402,7 +402,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       CanGlide: true
     Phantom:
       HP: 20.0
@@ -415,7 +415,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       CanGlide: true
     Pig:
       HP: 20.0
@@ -428,7 +428,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       GrowUpItem: experience_bottle
     PigZombie:
       HP: 20.0
@@ -441,7 +441,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       GrowUpItem: experience_bottle
     Pillager:
       HP: 20.0
@@ -454,7 +454,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     PolarBear:
       HP: 20.0
       Speed: 0.3
@@ -466,7 +466,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Pufferfish:
       HP: 20.0
       Speed: 0.3
@@ -478,7 +478,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Rabbit:
       HP: 20.0
       Speed: 0.3
@@ -490,7 +490,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       GrowUpItem: experience_bottle
     Ravager:
       HP: 20.0
@@ -504,7 +504,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Salmon:
       HP: 20.0
       Speed: 0.3
@@ -516,7 +516,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Sheep:
       HP: 20.0
       Speed: 0.3
@@ -528,7 +528,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       CanBeSheared: true
       CanRegrowWool: true
       GrowUpItem: experience_bottle
@@ -543,7 +543,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Skeleton:
       HP: 20.0
       Speed: 0.3
@@ -555,7 +555,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     SkeletonHorse:
       HP: 20.0
       Speed: 0.3
@@ -567,7 +567,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       GrowUpItem: experience_bottle
     Slime:
       HP: 20.0
@@ -580,7 +580,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Snowman:
       HP: 20.0
       Speed: 0.3
@@ -593,7 +593,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       FixSnowTrack: true
     Spider:
       HP: 20.0
@@ -606,7 +606,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Squid:
       HP: 20.0
       Speed: 0.3
@@ -618,7 +618,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Stray:
       HP: 20.0
       Speed: 0.3
@@ -630,7 +630,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     TraderLlama:
       HP: 20.0
       Speed: 0.3
@@ -642,7 +642,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     TropicalFish:
       HP: 20.0
       Speed: 0.3
@@ -654,7 +654,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Turtle:
       HP: 20.0
       Speed: 0.3
@@ -666,7 +666,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Vex:
       HP: 20.0
       Speed: 0.3
@@ -678,7 +678,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       CanGlide: true
     Villager:
       HP: 20.0
@@ -691,7 +691,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       GrowUpItem: experience_bottle
     Vindicator:
       HP: 20.0
@@ -704,7 +704,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     WanderingTrader:
       HP: 20.0
       Speed: 0.3
@@ -716,7 +716,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Witch:
       HP: 20.0
       Speed: 0.3
@@ -728,7 +728,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Wither:
       HP: 20.0
       Speed: 0.3
@@ -740,7 +740,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       CanGlide: true
     WitherSkeleton:
       HP: 20.0
@@ -753,7 +753,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Wolf:
       HP: 20.0
       Speed: 0.3
@@ -766,7 +766,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       GrowUpItem: experience_bottle
     Zombie:
       HP: 20.0
@@ -779,7 +779,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       GrowUpItem: experience_bottle
     ZombieHorse:
       HP: 20.0
@@ -792,7 +792,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       GrowUpItem: experience_bottle
     ZombieVillager:
       HP: 20.0
@@ -805,7 +805,7 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
     Bee:
       HP: 20.0
       Speed: 0.3
@@ -829,5 +829,5 @@ MyPet:
       CustomRespawnTimeFixed: 0
       LeashItem: lead
       ReleaseOnDeath: false
-      RemoveAfterRelease: false
+      RemoveAfterRelease: true
       CanGlide: true

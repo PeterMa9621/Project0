@@ -267,6 +267,12 @@
         "custom_model_data": 44
       },
       "model": "mjy:auto_generated/unicorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "mjy:auto_generated/chest2"
     }
   ]
 }

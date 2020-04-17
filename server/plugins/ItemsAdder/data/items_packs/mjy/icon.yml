@@ -85,6 +85,15 @@ items:
       textures:
       - item/pixelbuddha/chest.png
       
+  chest2:
+    display_name: '&2箱子'
+    permission: chest2
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/pixelbuddha/chest2.png
+      
   open_chest:
     display_name: '&2打开的箱子'
     permission: open_chest

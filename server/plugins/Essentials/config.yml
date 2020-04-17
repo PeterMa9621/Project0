@@ -790,7 +790,7 @@ protect:
       enderman: false
       cave_spider: false
       silverfish: false
-      blaze: false
+      blaze: fal
       magma_cube: false
       ender_dragon: true
       pig: false
@@ -809,6 +809,7 @@ protect:
       witch: false
       horse: false
       phantom: false
+      wandering_trader: true
 
   # Maximum height the creeper should explode. -1 allows them to explode everywhere.
   # Set prevent.creeper-explosion to true, if you want to disable creeper explosions.

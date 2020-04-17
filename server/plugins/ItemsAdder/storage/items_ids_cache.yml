@@ -645,6 +645,7 @@ PAPER:
   mjy:chest: 42
   mjy:open_chest: 43
   mjy:unicorn: 44
+  mjy:chest2: 45
 WATER_BUCKET:
   realcraft:boiled_water_bucket: 1
 COD:
