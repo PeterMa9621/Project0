@@ -14,7 +14,8 @@ regions:
         min: {x: -400, y: 0, z: -175}
         max: {x: -370, y: 255, z: -144}
         members: {}
-        flags: {}
+        flags: {deny-message: §c你不被允许这么做, exit-deny-message: §c你不能离开这个区域, use: allow,
+            entry-deny-message: §c你不能进去这个区域, chest-access: allow}
         owners: {}
         type: cuboid
         priority: 0

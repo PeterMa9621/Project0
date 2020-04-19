@@ -112,7 +112,7 @@
 
 
 
-last-created-npc-id: 6
+last-created-npc-id: 9
 npc:
   '0':
     name: §6指引者
@@ -126,7 +126,7 @@ npc:
         y: '31.0'
         z: '-94.5414'
         yaw: '0.0'
-        pitch: '-45.1146'
+        pitch: '2.1661'
       lookclose:
         range: '5.0'
         enabled: true
@@ -145,7 +145,7 @@ npc:
       owner:
         owner: BiShop
         uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
-    traitnames: gravity,lookclose,equipment,location,type,scoreboardtrait,mounttrait,owner,inventory,spawned
+    traitnames: mounttrait,gravity,inventory,type,equipment,lookclose,scoreboardtrait,spawned,location,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -184,7 +184,7 @@ npc:
       owner:
         owner: BiShop
         uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
-    traitnames: gravity,fishshop,lookclose,equipment,location,type,scoreboardtrait,mounttrait,owner,inventory,spawned
+    traitnames: mounttrait,inventory,gravity,type,equipment,lookclose,fishshop,spawned,scoreboardtrait,location,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -231,7 +231,7 @@ npc:
       owner:
         owner: BiShop
         uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
-    traitnames: gravity,equipment,lookclose,location,type,scoreboardtrait,mounttrait,owner,inventory,spawned,commandtrait
+    traitnames: mounttrait,inventory,gravity,type,equipment,lookclose,spawned,location,scoreboardtrait,commandtrait,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -270,13 +270,13 @@ npc:
         y: '26.0'
         z: '-111.4712'
         yaw: '0.0'
-        pitch: '-75.4329'
+        pitch: '-24.896'
       gravity:
         enabled: false
       owner:
         owner: BiShop
         uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
-    traitnames: gravity,lookclose,equipment,location,type,scoreboardtrait,mounttrait,owner,inventory,commandtrait,spawned
+    traitnames: mounttrait,inventory,gravity,type,equipment,lookclose,spawned,scoreboardtrait,location,commandtrait,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -321,7 +321,7 @@ npc:
       owner:
         owner: BiShop
         uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
-    traitnames: gravity,lookclose,equipment,location,type,scoreboardtrait,mounttrait,owner,inventory,spawned,commandtrait
+    traitnames: mounttrait,inventory,gravity,type,equipment,lookclose,spawned,location,scoreboardtrait,commandtrait,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -366,7 +366,79 @@ npc:
       owner:
         owner: BiShop
         uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
-    traitnames: gravity,equipment,lookclose,location,type,scoreboardtrait,mounttrait,owner,inventory,commandtrait,spawned
+    traitnames: mounttrait,gravity,inventory,type,equipment,lookclose,location,spawned,scoreboardtrait,commandtrait,owner
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '9':
+    name: test3
+    uuid: 2e3a7e8e-a1d2-44ae-ae51-f470fa08434f
+    traits:
+      location:
+        headYaw: 0.0
+        world: world
+        x: '107.676'
+        y: '31.0'
+        z: '-88.5688'
+        yaw: '0.0'
+        pitch: '10.7998'
+      gravity:
+        enabled: false
+      type: PLAYER
+      spawned: true
+      owner:
+        owner: BiShop
+        uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
+    traitnames: mounttrait,inventory,gravity,type,equipment,location,spawned,scoreboardtrait,owner
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    name: test2
+    uuid: dd9e0251-eed5-4d21-81be-077967c94595
+    traits:
+      location:
+        headYaw: 0.0
+        world: world
+        x: '110.4726'
+        y: '31.0'
+        z: '-88.5171'
+        yaw: '0.0'
+        pitch: '10.7998'
+      gravity:
+        enabled: false
+      type: PLAYER
+      spawned: true
+      owner:
+        owner: BiShop
+        uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
+    traitnames: mounttrait,gravity,inventory,type,equipment,spawned,location,scoreboardtrait,owner
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '7':
+    name: test
+    uuid: 51e08537-643a-4733-bd65-cfef220a1d79
+    traits:
+      location:
+        headYaw: 0.0
+        world: world
+        x: '110.4561'
+        y: '31.0'
+        z: '-85.4951'
+        yaw: '0.0'
+        pitch: '3.5998'
+      gravity:
+        enabled: false
+      type: PLAYER
+      spawned: true
+      owner:
+        owner: BiShop
+        uuid: 9754b8e3-52ad-3c33-b44a-a5ed356ad6f2
+    traitnames: mounttrait,gravity,inventory,type,equipment,location,scoreboardtrait,spawned,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false

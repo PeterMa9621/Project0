@@ -1,11 +1,11 @@
 lastAccountName: Test
 timestamps:
-  login: 1587095402594
+  login: 1587258127682
   kits:
     color: 1586795244429
     tools: 1585116686238
   lastteleport: 1587096052490
-  logout: 1587100634882
+  logout: 1587258150770
   command-cooldowns:
   - pattern: .*( .*)?
     expiry: 1587095450789

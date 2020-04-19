@@ -14,7 +14,11 @@ regions:
         min: {x: -18, y: 0, z: -186}
         max: {x: 194, y: 255, z: 8}
         members: {}
-        flags: {}
+        flags: {time-lock: '9000', deny-message: §c你不被允许这么做, exit-deny-message: §c你不能离开这个区域,
+            use: allow, lighter: deny, vehicle-destroy: deny, interact: allow, pvp: deny,
+            chest-access: allow, block-place: deny, weather-lock: clear, vehicle-place: deny,
+            build: deny, item-frame-rotation: deny, block-break: deny, damage-animals: deny,
+            entry-deny-message: §c你不能进入这个区域, tnt: deny}
         owners: {}
         type: cuboid
         priority: 0

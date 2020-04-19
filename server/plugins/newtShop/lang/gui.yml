@@ -51,3 +51,11 @@ gui-messages:
    
    # Button label for the emerald that shows the player's balance
    balance: "&2余额"
+   
+   # Text shown for the buy price in price previews
+   # @price@ = the buy price
+   preview-buy: "&a购买: &e@price@"
+   
+   # Text shown for the sell price in price previews
+   # @price@ = the sell price
+   preview-sell: "&c出售: &e@price@"

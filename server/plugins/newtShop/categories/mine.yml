@@ -1,5 +1,5 @@
 name: '&9矿物'
-id: 'mine'
+id: mine
 display-item:
   display-type: ITEM
   material: DIAMOND
@@ -54,3 +54,33 @@ items:
     item:
       type: NORMAL
       material: REDSTONE
+  ZISHUIJING:
+    item:
+      type: SPECIAL
+      display-name: mine
+      serial:
+        v: 2230
+        type: GLOWSTONE_DUST
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §f§f紫水晶
+          custom-model-data: 1
+          internal: H4sIAAAAAAAAAAXBQQ6AIAwEwA1eoL9sbKNLUkKsHuT1zAggEL4eqWb+VLSh4Tn1dBzR/4pCgyzm/bFzXMAG4j0vxjQAAAA=
+    buy: 40.0
+    sell: 25.0
+  HUANGSHUIJING:
+    item:
+      type: SPECIAL
+      display-name: '&f黄水晶'
+      serial:
+        v: 2230
+        type: GLOWSTONE_DUST
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §f§f黄水晶
+          custom-model-data: 2
+          internal: H4sIAAAAAAAAAAXB0QrAIAgF0Et7acI+UqaUgRK5Hvb3nUMAgexTTxbRVVFM8PTN0bJvGxat4g52zcmv4vLxAwf71jb/NwAAAA==
+    buy: 30.0
+    sell: 20.0

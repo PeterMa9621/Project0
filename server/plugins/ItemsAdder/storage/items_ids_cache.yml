@@ -677,3 +677,8 @@ TRIPWIRE_HOOK:
   mjy:key4: 4
   mjy:key5: 5
   mjy:key6: 6
+FLINT:
+  mjy:zishuijing: 1
+GLOWSTONE_DUST:
+  mjy:zishuijing: 1
+  mjy:huangshuijing: 2

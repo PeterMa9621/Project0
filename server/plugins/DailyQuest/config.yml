@@ -1,0 +1,40 @@
+DefaultDailyLimit: 20
+ChanceGetReward: 0.3
+Group:
+- vip1:30
+- vip2:50
+- vip3:70
+Gui:
+  NPC:
+    Id: PLAYER_HEAD
+    DisplayName: '&3%name%&a对你说:'
+    Lore:
+    - '&5你找我有什么事吗?'
+    Model: 0
+  GiveUp:
+    Id: PLAYER_HEAD
+    DisplayName: '&c我来放弃任务'
+    Model: 0
+  GoBack:
+    Id: PLAYER_HEAD
+    DisplayName: '&6我点错了'
+    Model: 0
+  WhatIsDailyQuest:
+    Id: PLAYER_HEAD
+    DisplayName: '&6什么是日常任务？'
+    Model: 0
+  Accept:
+    Id: PLAYER_HEAD
+    DisplayName: '&6我来领取任务'
+    Model: 0
+  FinishQuest:
+    Id: PLAYER_HEAD
+    DisplayName: '&6我来交任务'
+    Model: 0
+RandomItemMaxQuantity: 3
+SeriesFinish:
+  AdditionMoney: 100
+  ExtraRewardItemQuantity: 1
+GetQuestNPCId: 7
+EnableCommandGetQuest: true
+Database: MYSQL

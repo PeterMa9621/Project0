@@ -1,0 +1,149 @@
+Quest:
+  '1':
+    Type: mob
+    Describe: §a请前往坐标(-344,100,256)杀2个僵尸
+    RewardMessage: §7你完成了任务
+    NPCID: 9
+    Item:
+      ID: DIAMOND
+      Model: 0
+      Amount: 1
+    # Mob:
+      # ID: ZOMBIE
+      # Amount: 2
+    Reward:
+      Money: "30:50"
+  '2':
+    Type: item
+    Describe: §a请前往坐标(-344,100,256)附近上交石头10个
+    RewardMessage: §7你完成了任务
+    NPCID: 9
+    Item:
+      ID: DIAMOND
+      Model: 0
+      Amount: 1
+      Enchantment:
+        ID: fortune
+        Level: 0
+    Reward:
+      Money: "50:100"
+  '3':
+    Type: item
+    Describe: §a请前往坐标(-344,100,256)附近上交石头10个
+    RewardMessage: §7你完成了任务
+    NPCID: 9
+    Item:
+      ID: DIAMOND
+      Model: 0
+      Amount: 1
+      Enchantment:
+        ID: fortune
+        Level: 0
+    Reward:
+      Money: "50:100"
+  '4':
+    Type: item
+    Describe: §a请前往坐标(-344,100,256)附近上交石头10个
+    RewardMessage: §7你完成了任务
+    NPCID: 9
+    Item:
+      ID: DIAMOND
+      Model: 0
+      Amount: 1
+      Enchantment:
+        ID: fortune
+        Level: 0
+    Reward:
+      Money: "50:100"
+  '5':
+    Type: item
+    Describe: §a请前往坐标(-344,100,256)附近上交石头10个
+    RewardMessage: §7你完成了任务
+    NPCID: 9
+    Item:
+      ID: DIAMOND
+      Model: 0
+      Amount: 1
+      Enchantment:
+        ID: fortune
+        Level: 0
+    Reward:
+      Money: "50:100"
+  '6':
+    Type: item
+    Describe: §a请前往坐标(-344,100,256)附近上交石头10个
+    RewardMessage: §7你完成了任务
+    NPCID: 9
+    Item:
+      ID: DIAMOND
+      Model: 0
+      Amount: 1
+      Enchantment:
+        ID: fortune
+        Level: 0
+    Reward:
+      Money: "50:100"
+  '7':
+    Type: item
+    Describe: §a请前往坐标(-344,100,256)附近上交石头10个
+    RewardMessage: §7你完成了任务
+    NPCID: 9
+    Item:
+      ID: DIAMOND
+      Model: 0
+      Amount: 1
+      Enchantment:
+        ID: fortune
+        Level: 0
+    Reward:
+      Money: "50:100"
+  '8':
+    Type: item
+    Describe: §a请前往坐标(-344,100,256)附近上交石头10个
+    RewardMessage: §7你完成了任务
+    NPCID: 9
+    Item:
+      ID: DIAMOND
+      Model: 0
+      Amount: 1
+      Enchantment:
+        ID: fortune
+        Level: 0
+    Reward:
+      Money: "50:100"
+  '9':
+    Type: item
+    Describe: §a请前往坐标(-344,100,256)附近上交石头10个
+    RewardMessage: §7你完成了任务
+    NPCID: 9
+    Item:
+      ID: DIAMOND
+      Model: 0
+      Amount: 1
+      Enchantment:
+        ID: fortune
+        Level: 0
+    Reward:
+      Money: "50:100"
+  '10':
+    Type: item
+    Describe: §a请前往坐标(-344,100,256)附近上交石头10个
+    RewardMessage: §7你完成了任务
+    NPCID: 9
+    Item:
+      ID: DIAMOND
+      Model: 0
+      Amount: 1
+    Reward:
+      Money: "50:100"
+  '11':
+    Type: item
+    Describe: §a请前往坐标(-344,100,256)附近上交石头10个
+    RewardMessage: §7你完成了任务
+    NPCID: 9
+    Item:
+      ID: DIAMOND
+      Model: 0
+      Amount: 1
+    Reward:
+      Money: "50:100"
