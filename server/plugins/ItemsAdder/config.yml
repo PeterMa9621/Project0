@@ -23,7 +23,7 @@ blocks:
     send-actionbar: true
     mining-fatigue:
       enabled: true
-      duration: 20
+      duration: 40
       amplifier: 1
   campfire:
     unlit-on-place: true
@@ -73,7 +73,7 @@ debug:
   blocks:
     log-save: false
     log-save-on-unload: false
-    log-mined-unknown-blocks: true
+    log-mined-unknown-blocks: false
   worlds-populators:
     log-loading: false
     log-loading-no-populators: false

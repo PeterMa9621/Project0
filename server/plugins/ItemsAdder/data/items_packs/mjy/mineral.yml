@@ -17,3 +17,21 @@ items:
       generate: true
       textures:
       - item/mineral/huangshuijing.png
+loots:
+  blocks:
+    zishuijing_ore:
+      type: mjy:zishuijing_ore
+      items:
+        ruby:
+          item: mjy:zishuijing
+          min_amount: 1
+          max_amount: 2
+          chance: 100
+    huangshuijing_ore:
+      type: mjy:huangshuijing_ore
+      items:
+        ruby:
+          item: mjy:huangshuijing
+          min_amount: 1
+          max_amount: 2
+          chance: 100

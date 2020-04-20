@@ -387,7 +387,7 @@
         "down": false
       },
       "apply": {
-        "model": "minecraft:block/original/brown_mushroom_block_true"
+        "model": "mjy:auto_generated/zishuijing_ore"
       }
     },
     {
@@ -400,7 +400,7 @@
         "down": false
       },
       "apply": {
-        "model": "minecraft:block/original/brown_mushroom_block_true"
+        "model": "mjy:auto_generated/huangshuijing_ore"
       }
     },
     {

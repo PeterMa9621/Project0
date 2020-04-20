@@ -172,6 +172,8 @@ QUARTZ_BLOCK:
 REDSTONE_ORE:
   itemsadder:ruby_ore: 1
   itemsadder:spinel_ore: 2
+  mjy:zishuijing_ore: 3
+  mjy:huangshuijing_ore: 4
 DIAMOND_ORE:
   itemsadder:turquoise_ore: 1
   itemsadder:aqua_aura_ore: 2
