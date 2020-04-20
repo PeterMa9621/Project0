@@ -294,6 +294,19 @@ GUI:
           OpenAnotherGUI:
             Use: false
             Number: 2
+      '19':
+        Position: 23
+        # 物品ID为 "主ID:附加值"
+        ItemID: 'BOOK'
+        Name: §6打开任务列表
+        Lore: §2点击打开任务列表
+        Function:
+          Command:
+            Use: true
+            Content: /mq quest list
+          OpenAnotherGUI:
+            Use: false
+            Number: 2
   '1':
     Name: §e§l点券商城 §3§l1RMB等于100点券
     Item:

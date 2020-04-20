@@ -113,10 +113,11 @@ items:
       max_custom_durability: 1561
     attribute_modifiers:
       mainhand:
-        attackDamage: 9
+        attackDamage: 11
         attackSpeed: 1.6
     specific_properties:
       anvil_repair_item: mjy:zishuijing
+    level: 10
   tiechi_sword:
     display_name: '&2铁齿剑'
     permission: tiechi_sword
@@ -154,6 +155,7 @@ items:
         attackSpeed: 1.6
     specific_properties:
       anvil_repair_item: mjy:zishuijing
+    level: 7
   shilian_sword:
     display_name: '&8试练剑'
     permission: shilian_sword
@@ -207,6 +209,7 @@ items:
         attackSpeed: 0.9
     specific_properties:
       anvil_repair_item: mjy:zishuijing
+    level: 9
   riyue_sword:
     display_name: '&5日月剑'
     permission: riyue_sword
@@ -225,6 +228,7 @@ items:
         attackSpeed: 1.6
     specific_properties:
       anvil_repair_item: mjy:zishuijing
+    level: 15
   xinglun_sword:
     display_name: '&5星轮剑'
     permission: xinglun_sword
@@ -243,6 +247,7 @@ items:
         attackSpeed: 2.0
     specific_properties:
       anvil_repair_item: mjy:zishuijing
+    level: 15
   yeren_sword:
     display_name: '&8夜刃'
     permission: yeren_sword
@@ -281,6 +286,7 @@ items:
         attackSpeed: 1.8
     specific_properties:
       anvil_repair_item: mjy:zishuijing
+    level: 8
   gujian_sword:
     display_name: '&9骨剑'
     permission: gujian_sword
@@ -300,6 +306,7 @@ items:
         maxHealth: 2
     specific_properties:
       anvil_repair_item: mjy:zishuijing
+    level: 4
   shiyue_axe:
     display_name: '&c蚀月斧'
     permission: shiyue_axe
@@ -374,6 +381,7 @@ items:
         attackSpeed: 2.4
     specific_properties:
       anvil_repair_item: mjy:zishuijing
+    level: 17
   tongkuzhe_sword:
     display_name: '&c恸哭者'
     permission: tongkuzhe_sword
@@ -634,10 +642,11 @@ items:
       max_custom_durability: 1050
     attribute_modifiers:
       mainhand:
-        attackDamage: 13.0
+        attackDamage: 12.5
         attackSpeed: 1.9
     specific_properties:
       anvil_repair_item: mjy:zishuijing
+    level: 12
   shouhuzhe_sword:
     display_name: '&3守护者之剑'
     permission: shouhuzhe_sword
@@ -654,6 +663,7 @@ items:
         maxHealth: 2
     specific_properties:
       anvil_repair_item: mjy:zishuijing
+    level: 10
   test_sword:
     display_name: '&3未知之剑'
     permission: test_sword

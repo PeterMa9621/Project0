@@ -11,7 +11,7 @@ groups:
       id: ZOMBIE_HEAD
     startGameCmd: dxl play shiwang
     day: 
-    - 4
+    - 6
     time: '16:00'
   group2:
     name: diaolingwang
@@ -33,5 +33,5 @@ groups:
       id: ZOMBIE_HEAD
     startGameCmd: dxl play shiwangbaobao
     day: 
-    - 4
-    time: '09:31'
+    - 7
+    time: '22:27'

@@ -29,15 +29,15 @@ dps:
       displayName: "&8试炼剑"
       model: 29
   '2':
-    cmd: ph giveitem %player% mjy:gujian_sword
-    chance: 0.04
+    cmd: ph giveitem %player% mjy:shilian_head
+    chance: 0.1
     icon:
-      id: DIAMOND_SWORD
-      displayName: "&9骨剑"
-      model: 35
+      id: LEATHER_HELMET
+      displayName: "&7试炼头盔"
+      model: 13
   '3':
     cmd: eco give %player% 100
-    chance: 0.15
+    chance: 0.19
     icon:
       id: STICK
       displayName: "&6100金币"
@@ -84,10 +84,4 @@ dps:
       id: LEATHER_BOOTS
       displayName: "&7试炼战靴"
       model: 14
-  '10':
-    cmd: ph giveitem %player% mjy:shilian_head
-    chance: 0.1
-    icon:
-      id: LEATHER_HELMET
-      displayName: "&7试炼头盔"
-      model: 13
+    

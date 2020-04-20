@@ -11,7 +11,7 @@ time: 6000
 dungeonManager:
   minPlayers: 1
   maxPlayers: 4
-  minLevel: 9
+  minLevel: 12
   icon:
     id: PAPER
     model: 18
@@ -27,11 +27,11 @@ dps:
       displayName: "&c烈焰"
       model: 54
   '2':
-    cmd: ph giveitem %player% mjy:tiechi_sword
-    chance: 0.18
+    cmd: ph giveitem %player% mjy:rongyan_sword
+    chance: 0.1
     icon:
       id: DIAMOND_SWORD
-      displayName: "&2铁齿剑"
+      displayName: "&2熔岩剑"
       model: 26
   '3':
     cmd: ph giveitem %player% mjy:shilian_sword
@@ -42,28 +42,28 @@ dps:
       model: 29
   '4':
     cmd: give %player% gold_ingot 32
-    chance: 0.16
+    chance: 0.17
     icon:
       id: GOLD_INGOT
       displayName: "&f金锭32个"
       model: 0
   '5':
     cmd: give %player% blaze_rod 16
-    chance: 0.1
+    chance: 0.13
     icon:
       id: BLAZE_ROD
       displayName: "&f烈焰棒16个"
       model: 0
   '6':
     cmd: give %player% diamond 10
-    chance: 0.11
+    chance: 0.13
     icon:
       id: DIAMOND
       displayName: "&6钻石10个"
       model: 0
   '7':
     cmd: eco give %player% 400
-    chance: 0.11
+    chance: 0.13
     icon:
       id: STICK
       displayName: "&6400金币"

@@ -200,73 +200,73 @@ Crate:
     ########################################
     # 强化物品
     ########################################
-    13:
-      DisplayName: '&a熔炼石'
-      DisplayItem: '318'
-      DisplayAmount: 1
-      Lore:
-        - '&3一种稀有的石头'
-        - '&2[使用方法]&a打开熔炼系统'
-        - '&a熔炼装备'
-      MaxRange: 1000
-      Chance: 100
-      Firework: false
-      Glowing: false
-      Items:
-        - 'Item:318, Amount:1, Name:&a熔炼石, Lore:&3一种稀有的石头,&2[使用方法]&a打开熔炼系统,&a熔炼装备, LUCK:1'
-      Messages:
-        - '&7你获得了&e1块熔炼石.'
-    14:
-      DisplayName: '&b金刚石'
-      DisplayItem: '264'
-      DisplayAmount: 1
-      Lore:
-        - '§3这是一种十分坚硬的石头'
-        - '§2[用途]§a用于辅助强化装备'
-        - '§a在装备强化失败时装备'
-        - '§a不会碎掉'
-      MaxRange: 1000
-      Chance: 60
-      Firework: false
-      Glowing: false
-      Items:
-        - 'Item:318, Amount:1, Name:&b金刚石, Lore:§3这是一种十分坚硬的石头,§2[用途]§a用于辅助强化装备,§a在装备强化失败时装备,§a不会碎掉'
-      Messages:
-        - '&7你获得了1个&b金刚石.'
-    15:
-      DisplayName: '§b幸运果'
-      DisplayItem: '322'
-      DisplayAmount: 1
-      Lore:
-        - '§3幸运果实'
-        - '§2[用途]§a用于辅助强化装备'
-        - '§a在下一次强化装备时'
-        - '§a一定成功'
-      MaxRange: 1000
-      Chance: 20
-      Firework: true
-      Glowing: false
-      Commands:
-        - 'broadcast 恭喜&6&l%Player%&7通过抽奖获得了1个&c&l幸运果！'
-      Items:
-        - 'Item:322, Amount:1, Name:§b幸运果, Lore:§3幸运果实,§2[用途]§a用于辅助强化装备,§a在下一次强化装备时,§a一定成功'
-      Messages:
-        - '&7你获得了1个§b幸运果.'
-    16:
-      DisplayName: '§f未鉴定的宝石'
-      DisplayItem: '263:1'
-      DisplayAmount: 1
-      Lore:
-        - '§e[未鉴定]'
-        - '§6一块看起来普通的石头'
-      MaxRange: 1000
-      Chance: 100
-      Firework: false
-      Glowing: false
-      Items:
-        - 'Item:318, Amount:1, Name:§f未鉴定的宝石, Lore:§e[未鉴定],§6一块看起来普通的石头'
-      Messages:
-        - '&7你获得了1个§f未鉴定的宝石.'
+    # 13:
+      # DisplayName: '&a熔炼石'
+      # DisplayItem: '318'
+      # DisplayAmount: 1
+      # Lore:
+        # - '&3一种稀有的石头'
+        # - '&2[使用方法]&a打开熔炼系统'
+        # - '&a熔炼装备'
+      # MaxRange: 1000
+      # Chance: 100
+      # Firework: false
+      # Glowing: false
+      # Items:
+        # - 'Item:318, Amount:1, Name:&a熔炼石, Lore:&3一种稀有的石头,&2[使用方法]&a打开熔炼系统,&a熔炼装备, LUCK:1'
+      # Messages:
+        # - '&7你获得了&e1块熔炼石.'
+    # 14:
+      # DisplayName: '&b金刚石'
+      # DisplayItem: '264'
+      # DisplayAmount: 1
+      # Lore:
+        # - '§3这是一种十分坚硬的石头'
+        # - '§2[用途]§a用于辅助强化装备'
+        # - '§a在装备强化失败时装备'
+        # - '§a不会碎掉'
+      # MaxRange: 1000
+      # Chance: 60
+      # Firework: false
+      # Glowing: false
+      # Items:
+        # - 'Item:318, Amount:1, Name:&b金刚石, Lore:§3这是一种十分坚硬的石头,§2[用途]§a用于辅助强化装备,§a在装备强化失败时装备,§a不会碎掉'
+      # Messages:
+        # - '&7你获得了1个&b金刚石.'
+    # 15:
+      # DisplayName: '§b幸运果'
+      # DisplayItem: '322'
+      # DisplayAmount: 1
+      # Lore:
+        # - '§3幸运果实'
+        # - '§2[用途]§a用于辅助强化装备'
+        # - '§a在下一次强化装备时'
+        # - '§a一定成功'
+      # MaxRange: 1000
+      # Chance: 20
+      # Firework: true
+      # Glowing: false
+      # Commands:
+        # - 'broadcast 恭喜&6&l%Player%&7通过抽奖获得了1个&c&l幸运果！'
+      # Items:
+        # - 'Item:322, Amount:1, Name:§b幸运果, Lore:§3幸运果实,§2[用途]§a用于辅助强化装备,§a在下一次强化装备时,§a一定成功'
+      # Messages:
+        # - '&7你获得了1个§b幸运果.'
+    # 16:
+      # DisplayName: '§f未鉴定的宝石'
+      # DisplayItem: '263:1'
+      # DisplayAmount: 1
+      # Lore:
+        # - '§e[未鉴定]'
+        # - '§6一块看起来普通的石头'
+      # MaxRange: 1000
+      # Chance: 100
+      # Firework: false
+      # Glowing: false
+      # Items:
+        # - 'Item:318, Amount:1, Name:§f未鉴定的宝石, Lore:§e[未鉴定],§6一块看起来普通的石头'
+      # Messages:
+        # - '&7你获得了1个§f未鉴定的宝石.'
     ########################################
     # 中级装备兑换券
     ########################################
@@ -491,7 +491,7 @@ Crate:
       Commands:
         - 'broadcast 恭喜&6&l%Player%&7通过抽奖获得了1个&c&l高级强化镐子！'
       Items:
-        - 'Item:DIAMOND_PICKAXE#4, Amount:1, Name:&c&l高级强化镐子, Lore:&8一个强化过的镐子, Unbreaking:6, Efficiency:5'
+        - 'Item:DIAMOND_PICKAXE#4, Amount:1, Name:&c&l高级强化镐子, Lore:&8一个强化过的镐子, Unbreaking:7, Efficiency:5'
       Messages:
         - '&7你获得了&c&l高级强化镐子'
     34:

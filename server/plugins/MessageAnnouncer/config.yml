@@ -14,16 +14,13 @@ interval_announcement_list:
 - checkIn
 - showItem
 - fish
-- betterWeapon
 - choujiang
 - trade
 - residence
-- prefix
 - antiXray
 - QQ
 - boss
 - antiCheat
-- lottery
 - level
 - dungeon
 announcements:

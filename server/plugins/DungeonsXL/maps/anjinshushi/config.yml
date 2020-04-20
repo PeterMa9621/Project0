@@ -11,7 +11,7 @@ time: 6000
 dungeonManager:
   minPlayers: 1
   maxPlayers: 4
-  minLevel: 5
+  minLevel: 8
   icon:
     id: PAPER
     model: 18

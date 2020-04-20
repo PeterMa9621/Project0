@@ -11,7 +11,7 @@ time: 6000
 dungeonManager:
   minPlayers: 1
   maxPlayers: 4
-  minLevel: 3
+  minLevel: 4
   icon:
     id: PAPER
     model: 18
@@ -56,7 +56,7 @@ dps:
       model: 0
   '6':
     cmd: give %player% ghast_tear 1
-    chance: 0.12
+    chance: 0.08
     icon:
       id: GHAST_TEAR
       displayName: "&f恶魂之泪1个"
@@ -75,3 +75,10 @@ dps:
       id: STICK
       displayName: "&6200金币"
       model: 29
+  '9':
+    cmd: ph giveitem %player% mjy:gujian_sword
+    chance: 0.04
+    icon:
+      id: DIAMOND_SWORD
+      displayName: "&9骨剑"
+      model: 35

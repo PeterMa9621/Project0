@@ -204,8 +204,8 @@ items:
     attribute_modifiers:
       head:
         armor: 4.5
-        armorToughness: 1
-    level: 5
+        armorToughness: 3.5
+    level: 13
   wushi_chest:
     display_name: 武士护甲
     permission: rongyan
@@ -221,8 +221,8 @@ items:
     attribute_modifiers:
       chest:
         armor: 9.5
-        armorToughness: 1
-    level: 5
+        armorToughness: 3.5
+    level: 13
   wushi_leg:
     display_name: 武士护腿
     permission: rongyan
@@ -238,8 +238,8 @@ items:
     attribute_modifiers:
       legs:
         armor: 7.5
-        armorToughness: 1
-    level: 5
+        armorToughness: 3.5
+    level: 13
   wushi_feet:
     display_name: 武士靴子
     permission: rongyan
@@ -255,8 +255,8 @@ items:
     attribute_modifiers:
       feet:
         armor: 4.5
-        armorToughness: 1
-    level: 5
+        armorToughness: 3.5
+    level: 13
   diaolingwang_head:
     display_name: '&d凋零王的皇冠'
     permission: diaolingwang
@@ -361,6 +361,7 @@ items:
         armor: 3.5
         armorToughness: 2
         maxHealth: 4
+    level: 17
   xuemo_chest:
     display_name: '&e血魔(盔甲)'
     permission: xuemo
@@ -381,6 +382,7 @@ items:
         armor: 8.5
         armorToughness: 2
         maxHealth: 10
+    level: 17
   xuemo_leg:
     display_name: '&e血魔(护腿)'
     permission: xuemo
@@ -401,6 +403,7 @@ items:
         armor: 6.5
         armorToughness: 2
         maxHealth: 3
+    level: 17
   xuemo_feet:
     display_name: '&e血魔(战靴)'
     permission: xuemo
@@ -421,6 +424,7 @@ items:
         armor: 3.5
         armorToughness: 2
         maxHealth: 3
+    level: 17
   shilian_head:
     display_name: '&8试练头盔'
     permission: shilian
@@ -799,7 +803,7 @@ items:
         armor: 3
         armorToughness: 2
         maxHealth: 1
-    level: 5
+    level: 8
   anjin_chest:
     display_name: '&3暗金铠甲'
     permission: anjin
@@ -821,7 +825,7 @@ items:
         armorToughness: 2
         knockbackResistance: 0.05
         maxHealth: 4
-    level: 5
+    level: 8
   anjin_legs:
     display_name: '&3暗金护腿'
     permission: anjin
@@ -842,7 +846,7 @@ items:
         armor: 6
         armorToughness: 2
         maxHealth: 2
-    level: 5
+    level: 8
   anjin_boots:
     display_name: '&3暗金战靴'
     permission: anjin
@@ -863,4 +867,4 @@ items:
         armor: 3
         armorToughness: 2
         maxHealth: 1
-    level: 5
+    level: 8
