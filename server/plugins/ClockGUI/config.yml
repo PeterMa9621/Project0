@@ -272,8 +272,8 @@ GUI:
         Position: 10
         # 物品ID为 "主ID:附加值"
         ItemID: 'PLAYER_HEAD'
-        Name: §6传送至渔夫
-        Lore: §2点击传送至渔夫
+        Name: §6传送至鱼贩
+        Lore: §2点击传送至鱼贩
         Function:
           Command:
             Use: true
