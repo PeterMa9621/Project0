@@ -15,8 +15,8 @@ regions:
         max: {x: 194, y: 255, z: 8}
         members: {}
         flags: {deny-message: §c你不被允许这么做, time-lock: '9000', exit-deny-message: §c你不能离开这个区域,
-            use: allow, lighter: deny, vehicle-destroy: deny, interact: allow, chest-access: allow,
-            pvp: deny, mob-spawning: deny, weather-lock: clear, block-place: deny,
+            use: deny, lighter: deny, vehicle-destroy: deny, interact: allow, pvp: deny,
+            chest-access: allow, mob-spawning: deny, weather-lock: clear, block-place: deny,
             vehicle-place: deny, build: deny, item-frame-rotation: deny, block-break: deny,
             damage-animals: deny, entry-deny-message: §c你不能进入这个区域, tnt: deny}
         owners: {}

@@ -140,7 +140,7 @@ error:
   notInvited: "&4你没有收到队伍 &6&v1&4 的邀请."
   notLeader: "&4你不是队伍的队长."
   notSaved: "&4地图 &6&v1&4 已被保存至 &6DungeonsXL/maps/ &4目录下."
-  ready: "&4请先选择职业."
+  ready: "&4请满足条件后再挑战该副本."
   requirements: "&4你不满足进入该副本的条件."
   selfNotInGroup: "&4你不在任何队伍中."
   signWrongFormat: "&4这个牌子书写错误."

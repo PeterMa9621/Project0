@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2020-04-20 21:38:33 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2020-04-14 00:48:05 -0600"
@@ -563,15 +569,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
-    "criteria": {
-      "has_smooth_quartz": "2020-04-20 16:52:43 -0600"
-    },
-    "done": true
-  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2020-04-20 15:51:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2020-04-20 16:52:43 -0600"
     },
     "done": true
   },
@@ -1247,6 +1253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2020-04-20 21:09:59 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-04 11:47:20 -0600"
@@ -1604,9 +1616,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-04-06 17:17:47 -0600",
+      "sweet_berries": "2020-04-20 22:05:54 -0600",
+      "apple": "2020-04-20 22:09:59 -0600",
       "cooked_cod": "2020-04-07 00:34:14 -0600",
       "bread": "2020-04-06 17:24:24 -0600",
       "rotten_flesh": "2020-04-08 16:12:37 -0600",
+      "dried_kelp": "2020-04-20 21:10:15 -0600",
       "cod": "2020-04-06 17:22:55 -0600",
       "carrot": "2020-04-08 17:25:07 -0600"
     },

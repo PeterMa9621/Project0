@@ -325,6 +325,7 @@ items:
         attackSpeed: 0.7
     specific_properties:
       anvil_repair_item: mjy:zishuijing
+    level: 20
   riyue_axe:
     display_name: '&c日月斧'
     permission: riyue_axe
@@ -343,6 +344,7 @@ items:
         attackSpeed: 0.9
     specific_properties:
       anvil_repair_item: mjy:zishuijing
+    level: 20
   tulong_sword:
     display_name: '&c屠龙刀'
     permission: tulong_sword
