@@ -64,6 +64,7 @@ ItemBlackList:
 - PAINTING
 - TOTEM_OF_UNDYING
 - TRIDENT
+- ENDER_PEARL
 MobBlackList:
 - ARMOR_STAND
 - ENDER_DRAGON
@@ -75,7 +76,7 @@ ItemWildcardBlackList:
 - _HEAD
 - _BANNER_
 - _MINECART
-- _POTION
+- POTION
 - MUSIC_DISC_
 - _SKULL
 - _ARROW

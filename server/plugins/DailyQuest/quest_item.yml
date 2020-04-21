@@ -1,8 +1,8 @@
 ACACIA_BOAT:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e金合欢木船§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e金合欢木船§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 13
   Item:
     ID: ACACIA_BOAT
     Model: 0
@@ -11,9 +11,9 @@ ACACIA_BOAT:
     Money: 30:100
 APPLE:
   Type: item
-  Describe: §atest3§f需要§e2§f个§e苹果§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e苹果§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 11
   Item:
     ID: APPLE
     Model: 0
@@ -22,7 +22,7 @@ APPLE:
     Money: 30:100
 ARROW:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e箭§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e箭§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 10
   Item:
@@ -33,9 +33,9 @@ ARROW:
     Money: 30:100
 BAKED_POTATO:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e烤马铃薯§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e烤马铃薯§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 9
   Item:
     ID: BAKED_POTATO
     Model: 0
@@ -44,9 +44,9 @@ BAKED_POTATO:
     Money: 30:100
 BEEF:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e生牛肉§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e生牛肉§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 10
   Item:
     ID: BEEF
     Model: 0
@@ -55,9 +55,9 @@ BEEF:
     Money: 30:100
 BEETROOT:
   Type: item
-  Describe: §atest3§f需要§e2§f个§e甜菜根§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e甜菜根§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 10
   Item:
     ID: BEETROOT
     Model: 0
@@ -66,7 +66,7 @@ BEETROOT:
     Money: 30:100
 BEETROOT_SEEDS:
   Type: item
-  Describe: §atest6§f需要§e1§f个§e甜菜种子§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e甜菜种子§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 12
   Item:
@@ -77,9 +77,9 @@ BEETROOT_SEEDS:
     Money: 30:100
 BEETROOT_SOUP:
   Type: item
-  Describe: §atest6§f需要§e1§f个§e甜菜汤§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e甜菜汤§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 14
   Item:
     ID: BEETROOT_SOUP
     Model: 0
@@ -88,9 +88,9 @@ BEETROOT_SOUP:
     Money: 30:100
 BIRCH_BOAT:
   Type: item
-  Describe: §atest6§f需要§e2§f个§e白桦木船§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e白桦木船§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 10
   Item:
     ID: BIRCH_BOAT
     Model: 0
@@ -99,9 +99,9 @@ BIRCH_BOAT:
     Money: 30:100
 BLACK_DYE:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e黑色染料§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e黑色染料§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 11
   Item:
     ID: BLACK_DYE
     Model: 0
@@ -110,20 +110,20 @@ BLACK_DYE:
     Money: 30:100
 BLAZE_POWDER:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e烈焰粉§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e2§f个§e烈焰粉§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 14
   Item:
     ID: BLAZE_POWDER
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 BLAZE_ROD:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e烈焰棒§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e烈焰棒§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 12
   Item:
     ID: BLAZE_ROD
     Model: 0
@@ -132,9 +132,9 @@ BLAZE_ROD:
     Money: 30:100
 BLUE_DYE:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e蓝色染料§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e蓝色染料§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 11
   Item:
     ID: BLUE_DYE
     Model: 0
@@ -143,20 +143,20 @@ BLUE_DYE:
     Money: 30:100
 BONE:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e骨头§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e2§f个§e骨头§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 14
   Item:
     ID: BONE
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 BONE_MEAL:
   Type: item
-  Describe: §atest7§f需要§e2§f个§e骨粉§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e骨粉§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 11
   Item:
     ID: BONE_MEAL
     Model: 0
@@ -165,9 +165,9 @@ BONE_MEAL:
     Money: 30:100
 BOOK:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e书§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e书§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 11
   Item:
     ID: BOOK
     Model: 0
@@ -176,9 +176,9 @@ BOOK:
     Money: 30:100
 BOW:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e弓§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e弓§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 9
   Item:
     ID: BOW
     Model: 0
@@ -187,42 +187,42 @@ BOW:
     Money: 30:100
 BOWL:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e碗§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e2§f个§e碗§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 10
   Item:
     ID: BOWL
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 BREAD:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e面包§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e2§f个§e面包§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 14
   Item:
     ID: BREAD
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 BREWING_STAND:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e酿造台§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e2§f个§e酿造台§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 14
   Item:
     ID: BREWING_STAND
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 BRICK:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e红砖§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e红砖§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 9
   Item:
     ID: BRICK
     Model: 0
@@ -231,20 +231,20 @@ BRICK:
     Money: 30:100
 BROWN_DYE:
   Type: item
-  Describe: §atest8§f需要§e2§f个§e棕色染料§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e2§f个§e棕色染料§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 14
+  NPCID: 10
   Item:
     ID: BROWN_DYE
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 BUCKET:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e桶§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e桶§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 10
   Item:
     ID: BUCKET
     Model: 0
@@ -253,20 +253,20 @@ BUCKET:
     Money: 30:100
 CARROT:
   Type: item
-  Describe: §atest5§f需要§e1§f个§e胡萝卜§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e2§f个§e胡萝卜§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 10
   Item:
     ID: CARROT
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 CARROT_ON_A_STICK:
   Type: item
-  Describe: §atest8§f需要§e1§f个§e胡萝卜钓竿§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e胡萝卜钓竿§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 14
+  NPCID: 9
   Item:
     ID: CARROT_ON_A_STICK
     Model: 0
@@ -275,9 +275,9 @@ CARROT_ON_A_STICK:
     Money: 30:100
 CAULDRON:
   Type: item
-  Describe: §atest3§f需要§e1§f个§e炼药锅§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e炼药锅§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 11
   Item:
     ID: CAULDRON
     Model: 0
@@ -286,20 +286,20 @@ CAULDRON:
     Money: 30:100
 CHARCOAL:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e木炭§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e2§f个§e木炭§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 9
   Item:
     ID: CHARCOAL
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 CHICKEN:
   Type: item
-  Describe: §atest5§f需要§e1§f个§e生鸡肉§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e生鸡肉§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 10
   Item:
     ID: CHICKEN
     Model: 0
@@ -308,20 +308,20 @@ CHICKEN:
     Money: 30:100
 CHORUS_FRUIT:
   Type: item
-  Describe: §atest8§f需要§e1§f个§e紫颂果§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e2§f个§e紫颂果§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 14
   Item:
     ID: CHORUS_FRUIT
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 CLAY_BALL:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e粘土§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e粘土§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 13
   Item:
     ID: CLAY_BALL
     Model: 0
@@ -330,7 +330,7 @@ CLAY_BALL:
     Money: 30:100
 CLOCK:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e时钟§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e时钟§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 10
   Item:
@@ -341,31 +341,31 @@ CLOCK:
     Money: 30:100
 COAL:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e煤炭§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e2§f个§e煤炭§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 11
   Item:
     ID: COAL
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 COCOA_BEANS:
   Type: item
-  Describe: §atest5§f需要§e1§f个§e可可豆§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e2§f个§e可可豆§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 14
   Item:
     ID: COCOA_BEANS
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 COD:
   Type: item
-  Describe: §atest3§f需要§e2§f个§e生鳕鱼§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e生鳕鱼§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 10
   Item:
     ID: COD
     Model: 0
@@ -374,9 +374,9 @@ COD:
     Money: 30:100
 COMPASS:
   Type: item
-  Describe: §atest3§f需要§e1§f个§e指南针§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e指南针§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 10
   Item:
     ID: COMPASS
     Model: 0
@@ -385,7 +385,7 @@ COMPASS:
     Money: 30:100
 COOKED_BEEF:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e牛排§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e牛排§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 13
   Item:
@@ -396,31 +396,31 @@ COOKED_BEEF:
     Money: 30:100
 COOKED_CHICKEN:
   Type: item
-  Describe: §atest3§f需要§e1§f个§e熟鸡肉§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e2§f个§e熟鸡肉§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 12
   Item:
     ID: COOKED_CHICKEN
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 COOKED_COD:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e熟鳕鱼§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e2§f个§e熟鳕鱼§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 13
   Item:
     ID: COOKED_COD
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 COOKED_MUTTON:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e熟羊肉§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e熟羊肉§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 9
   Item:
     ID: COOKED_MUTTON
     Model: 0
@@ -429,53 +429,53 @@ COOKED_MUTTON:
     Money: 30:100
 COOKED_PORKCHOP:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e熟猪排§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e2§f个§e熟猪排§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 10
   Item:
     ID: COOKED_PORKCHOP
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 COOKED_RABBIT:
   Type: item
-  Describe: §atest3§f需要§e2§f个§e熟兔肉§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e2§f个§e熟兔肉§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 9
   Item:
     ID: COOKED_RABBIT
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 COOKED_SALMON:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e熟鲑鱼§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e2§f个§e熟鲑鱼§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 13
   Item:
     ID: COOKED_SALMON
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 COOKIE:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e曲奇§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e2§f个§e曲奇§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 14
   Item:
     ID: COOKIE
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 CROSSBOW:
   Type: item
-  Describe: §atest8§f需要§e2§f个§e弩§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e弩§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 14
+  NPCID: 11
   Item:
     ID: CROSSBOW
     Model: 0
@@ -484,20 +484,20 @@ CROSSBOW:
     Money: 30:100
 CYAN_DYE:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e青色染料§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e2§f个§e青色染料§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 9
   Item:
     ID: CYAN_DYE
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 DARK_OAK_BOAT:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e深色橡木船§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e深色橡木船§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 10
   Item:
     ID: DARK_OAK_BOAT
     Model: 0
@@ -506,20 +506,20 @@ DARK_OAK_BOAT:
     Money: 30:100
 DIAMOND:
   Type: item
-  Describe: §atest6§f需要§e1§f个§e钻石§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e2§f个§e钻石§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 12
   Item:
     ID: DIAMOND
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 DIAMOND_AXE:
   Type: item
-  Describe: §atest7§f需要§e2§f个§e钻石斧§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e钻石斧§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 9
   Item:
     ID: DIAMOND_AXE
     Model: 0
@@ -528,9 +528,9 @@ DIAMOND_AXE:
     Money: 30:100
 DIAMOND_BOOTS:
   Type: item
-  Describe: §atest5§f需要§e1§f个§e钻石靴子§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e钻石靴子§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 12
   Item:
     ID: DIAMOND_BOOTS
     Model: 0
@@ -539,9 +539,9 @@ DIAMOND_BOOTS:
     Money: 30:100
 DIAMOND_CHESTPLATE:
   Type: item
-  Describe: §atest6§f需要§e1§f个§e钻石胸甲§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e钻石胸甲§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 13
   Item:
     ID: DIAMOND_CHESTPLATE
     Model: 0
@@ -550,9 +550,9 @@ DIAMOND_CHESTPLATE:
     Money: 30:100
 DIAMOND_HELMET:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e钻石头盔§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e钻石头盔§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 12
   Item:
     ID: DIAMOND_HELMET
     Model: 0
@@ -561,9 +561,9 @@ DIAMOND_HELMET:
     Money: 30:100
 DIAMOND_HOE:
   Type: item
-  Describe: §atest6§f需要§e1§f个§e钻石锄§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e钻石锄§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 11
   Item:
     ID: DIAMOND_HOE
     Model: 0
@@ -572,9 +572,9 @@ DIAMOND_HOE:
     Money: 30:100
 DIAMOND_HORSE_ARMOR:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e钻石马铠§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e钻石马铠§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 10
   Item:
     ID: DIAMOND_HORSE_ARMOR
     Model: 0
@@ -583,9 +583,9 @@ DIAMOND_HORSE_ARMOR:
     Money: 30:100
 DIAMOND_LEGGINGS:
   Type: item
-  Describe: §atest3§f需要§e1§f个§e钻石护腿§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e钻石护腿§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 14
   Item:
     ID: DIAMOND_LEGGINGS
     Model: 0
@@ -594,9 +594,9 @@ DIAMOND_LEGGINGS:
     Money: 30:100
 DIAMOND_PICKAXE:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e钻石镐§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e钻石镐§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 12
   Item:
     ID: DIAMOND_PICKAXE
     Model: 0
@@ -605,9 +605,9 @@ DIAMOND_PICKAXE:
     Money: 30:100
 DIAMOND_SHOVEL:
   Type: item
-  Describe: §atest6§f需要§e1§f个§e钻石锹§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e钻石锹§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 10
   Item:
     ID: DIAMOND_SHOVEL
     Model: 0
@@ -616,9 +616,9 @@ DIAMOND_SHOVEL:
     Money: 30:100
 DIAMOND_SWORD:
   Type: item
-  Describe: §atest6§f需要§e2§f个§e钻石剑§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e钻石剑§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 13
   Item:
     ID: DIAMOND_SWORD
     Model: 0
@@ -627,9 +627,9 @@ DIAMOND_SWORD:
     Money: 30:100
 DRIED_KELP:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e干海带§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e干海带§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 14
   Item:
     ID: DRIED_KELP
     Model: 0
@@ -638,9 +638,9 @@ DRIED_KELP:
     Money: 30:100
 EGG:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e鸡蛋§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e鸡蛋§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 14
   Item:
     ID: EGG
     Model: 0
@@ -649,9 +649,9 @@ EGG:
     Money: 30:100
 EMERALD:
   Type: item
-  Describe: §atest7§f需要§e2§f个§e绿宝石§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e绿宝石§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 12
   Item:
     ID: EMERALD
     Model: 0
@@ -660,9 +660,9 @@ EMERALD:
     Money: 30:100
 ENDER_EYE:
   Type: item
-  Describe: §atest5§f需要§e1§f个§e末影之眼§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e末影之眼§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 10
   Item:
     ID: ENDER_EYE
     Model: 0
@@ -671,9 +671,9 @@ ENDER_EYE:
     Money: 30:100
 ENDER_PEARL:
   Type: item
-  Describe: §atest3§f需要§e2§f个§e末影珍珠§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e末影珍珠§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 11
   Item:
     ID: ENDER_PEARL
     Model: 0
@@ -682,9 +682,9 @@ ENDER_PEARL:
     Money: 30:100
 END_CRYSTAL:
   Type: item
-  Describe: §atest6§f需要§e1§f个§e末影水晶§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e末影水晶§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 14
   Item:
     ID: END_CRYSTAL
     Model: 0
@@ -693,20 +693,20 @@ END_CRYSTAL:
     Money: 30:100
 FEATHER:
   Type: item
-  Describe: §atest7§f需要§e2§f个§e羽毛§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e2§f个§e羽毛§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 10
   Item:
     ID: FEATHER
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 FERMENTED_SPIDER_EYE:
   Type: item
-  Describe: §atest8§f需要§e2§f个§e发酵蛛眼§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e发酵蛛眼§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 14
+  NPCID: 12
   Item:
     ID: FERMENTED_SPIDER_EYE
     Model: 0
@@ -715,9 +715,9 @@ FERMENTED_SPIDER_EYE:
     Money: 30:100
 FISHING_ROD:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e钓鱼竿§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e钓鱼竿§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 10
   Item:
     ID: FISHING_ROD
     Model: 0
@@ -726,7 +726,7 @@ FISHING_ROD:
     Money: 30:100
 FLINT:
   Type: item
-  Describe: §atest6§f需要§e2§f个§e燧石§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e燧石§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 12
   Item:
@@ -737,9 +737,9 @@ FLINT:
     Money: 30:100
 FLINT_AND_STEEL:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e打火石§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e打火石§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 12
   Item:
     ID: FLINT_AND_STEEL
     Model: 0
@@ -748,7 +748,7 @@ FLINT_AND_STEEL:
     Money: 30:100
 FLOWER_POT:
   Type: item
-  Describe: §atest6§f需要§e2§f个§e花盆§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e花盆§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 12
   Item:
@@ -759,9 +759,9 @@ FLOWER_POT:
     Money: 30:100
 GHAST_TEAR:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e恶魂之泪§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e恶魂之泪§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 14
   Item:
     ID: GHAST_TEAR
     Model: 0
@@ -770,7 +770,7 @@ GHAST_TEAR:
     Money: 30:100
 GLASS_BOTTLE:
   Type: item
-  Describe: §atest6§f需要§e1§f个§e玻璃瓶§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e玻璃瓶§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 12
   Item:
@@ -781,7 +781,7 @@ GLASS_BOTTLE:
     Money: 30:100
 GLISTERING_MELON_SLICE:
   Type: item
-  Describe: §atest7§f需要§e2§f个§e闪烁的西瓜片§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e闪烁的西瓜片§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 13
   Item:
@@ -792,31 +792,31 @@ GLISTERING_MELON_SLICE:
     Money: 30:100
 GLOWSTONE_DUST:
   Type: item
-  Describe: §atest8§f需要§e1§f个§e荧石粉§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e2§f个§e荧石粉§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 14
   Item:
     ID: GLOWSTONE_DUST
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 GOLDEN_APPLE:
   Type: item
-  Describe: §atest6§f需要§e1§f个§e金苹果§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e2§f个§e金苹果§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 13
   Item:
     ID: GOLDEN_APPLE
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 GOLDEN_AXE:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e金斧§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e金斧§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 14
   Item:
     ID: GOLDEN_AXE
     Model: 0
@@ -825,9 +825,9 @@ GOLDEN_AXE:
     Money: 30:100
 GOLDEN_BOOTS:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e金靴子§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e金靴子§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 14
   Item:
     ID: GOLDEN_BOOTS
     Model: 0
@@ -836,9 +836,9 @@ GOLDEN_BOOTS:
     Money: 30:100
 GOLDEN_CARROT:
   Type: item
-  Describe: §atest3§f需要§e1§f个§e金胡萝卜§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e金胡萝卜§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 12
   Item:
     ID: GOLDEN_CARROT
     Model: 0
@@ -847,9 +847,9 @@ GOLDEN_CARROT:
     Money: 30:100
 GOLDEN_CHESTPLATE:
   Type: item
-  Describe: §atest8§f需要§e1§f个§e金胸甲§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e金胸甲§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 14
+  NPCID: 13
   Item:
     ID: GOLDEN_CHESTPLATE
     Model: 0
@@ -858,9 +858,9 @@ GOLDEN_CHESTPLATE:
     Money: 30:100
 GOLDEN_HELMET:
   Type: item
-  Describe: §atest8§f需要§e2§f个§e金头盔§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e金头盔§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 14
+  NPCID: 11
   Item:
     ID: GOLDEN_HELMET
     Model: 0
@@ -869,9 +869,9 @@ GOLDEN_HELMET:
     Money: 30:100
 GOLDEN_HOE:
   Type: item
-  Describe: §atest7§f需要§e2§f个§e金锄§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e金锄§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 10
   Item:
     ID: GOLDEN_HOE
     Model: 0
@@ -880,9 +880,9 @@ GOLDEN_HOE:
     Money: 30:100
 GOLDEN_HORSE_ARMOR:
   Type: item
-  Describe: §atest6§f需要§e1§f个§e金马铠§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e金马铠§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 10
   Item:
     ID: GOLDEN_HORSE_ARMOR
     Model: 0
@@ -891,9 +891,9 @@ GOLDEN_HORSE_ARMOR:
     Money: 30:100
 GOLDEN_LEGGINGS:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e金护腿§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e金护腿§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 12
   Item:
     ID: GOLDEN_LEGGINGS
     Model: 0
@@ -902,7 +902,7 @@ GOLDEN_LEGGINGS:
     Money: 30:100
 GOLDEN_PICKAXE:
   Type: item
-  Describe: §atest8§f需要§e1§f个§e金镐§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e金镐§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 14
   Item:
@@ -913,9 +913,9 @@ GOLDEN_PICKAXE:
     Money: 30:100
 GOLDEN_SHOVEL:
   Type: item
-  Describe: §atest8§f需要§e1§f个§e金锹§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e金锹§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 14
+  NPCID: 10
   Item:
     ID: GOLDEN_SHOVEL
     Model: 0
@@ -924,9 +924,9 @@ GOLDEN_SHOVEL:
     Money: 30:100
 GOLDEN_SWORD:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e金剑§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e金剑§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 13
   Item:
     ID: GOLDEN_SWORD
     Model: 0
@@ -935,20 +935,20 @@ GOLDEN_SWORD:
     Money: 30:100
 GOLD_INGOT:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e金锭§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e2§f个§e金锭§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 12
   Item:
     ID: GOLD_INGOT
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 GOLD_NUGGET:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e金粒§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e金粒§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 12
   Item:
     ID: GOLD_NUGGET
     Model: 0
@@ -957,7 +957,7 @@ GOLD_NUGGET:
     Money: 30:100
 GRAY_DYE:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e灰色染料§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e灰色染料§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 13
   Item:
@@ -968,9 +968,9 @@ GRAY_DYE:
     Money: 30:100
 GREEN_DYE:
   Type: item
-  Describe: §atest3§f需要§e1§f个§e绿色染料§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e绿色染料§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 12
   Item:
     ID: GREEN_DYE
     Model: 0
@@ -979,7 +979,7 @@ GREEN_DYE:
     Money: 30:100
 GUNPOWDER:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e火药§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e火药§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 10
   Item:
@@ -990,7 +990,7 @@ GUNPOWDER:
     Money: 30:100
 HONEYCOMB:
   Type: item
-  Describe: §atest6§f需要§e2§f个§e蜜脾§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e蜜脾§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 12
   Item:
@@ -1001,20 +1001,20 @@ HONEYCOMB:
     Money: 30:100
 HONEY_BOTTLE:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e蜂蜜瓶§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e2§f个§e蜂蜜瓶§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 10
   Item:
     ID: HONEY_BOTTLE
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 INK_SAC:
   Type: item
-  Describe: §atest6§f需要§e2§f个§e墨囊§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e墨囊§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 13
   Item:
     ID: INK_SAC
     Model: 0
@@ -1023,9 +1023,9 @@ INK_SAC:
     Money: 30:100
 IRON_AXE:
   Type: item
-  Describe: §atest6§f需要§e2§f个§e铁斧§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e铁斧§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 9
   Item:
     ID: IRON_AXE
     Model: 0
@@ -1034,9 +1034,9 @@ IRON_AXE:
     Money: 30:100
 IRON_BOOTS:
   Type: item
-  Describe: §atest5§f需要§e1§f个§e铁靴子§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e铁靴子§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 14
   Item:
     ID: IRON_BOOTS
     Model: 0
@@ -1045,9 +1045,9 @@ IRON_BOOTS:
     Money: 30:100
 IRON_CHESTPLATE:
   Type: item
-  Describe: §atest6§f需要§e2§f个§e铁胸甲§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e铁胸甲§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 11
   Item:
     ID: IRON_CHESTPLATE
     Model: 0
@@ -1056,9 +1056,9 @@ IRON_CHESTPLATE:
     Money: 30:100
 IRON_HELMET:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e铁头盔§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e铁头盔§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 13
   Item:
     ID: IRON_HELMET
     Model: 0
@@ -1067,9 +1067,9 @@ IRON_HELMET:
     Money: 30:100
 IRON_HOE:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e铁锄§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e铁锄§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 13
   Item:
     ID: IRON_HOE
     Model: 0
@@ -1078,9 +1078,9 @@ IRON_HOE:
     Money: 30:100
 IRON_HORSE_ARMOR:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e铁马铠§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e铁马铠§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 9
   Item:
     ID: IRON_HORSE_ARMOR
     Model: 0
@@ -1089,18 +1089,18 @@ IRON_HORSE_ARMOR:
     Money: 30:100
 IRON_INGOT:
   Type: item
-  Describe: §atest7§f需要§e2§f个§e铁锭§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e2§f个§e铁锭§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 14
   Item:
     ID: IRON_INGOT
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 IRON_LEGGINGS:
   Type: item
-  Describe: §atest6§f需要§e1§f个§e铁护腿§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e铁护腿§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 12
   Item:
@@ -1111,20 +1111,20 @@ IRON_LEGGINGS:
     Money: 30:100
 IRON_NUGGET:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e铁粒§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e2§f个§e铁粒§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 9
   Item:
     ID: IRON_NUGGET
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 IRON_PICKAXE:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e铁镐§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e铁镐§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 11
   Item:
     ID: IRON_PICKAXE
     Model: 0
@@ -1133,9 +1133,9 @@ IRON_PICKAXE:
     Money: 30:100
 IRON_SHOVEL:
   Type: item
-  Describe: §atest6§f需要§e2§f个§e铁锹§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e铁锹§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 10
   Item:
     ID: IRON_SHOVEL
     Model: 0
@@ -1144,7 +1144,7 @@ IRON_SHOVEL:
     Money: 30:100
 IRON_SWORD:
   Type: item
-  Describe: §atest8§f需要§e1§f个§e铁剑§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e铁剑§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 14
   Item:
@@ -1155,9 +1155,9 @@ IRON_SWORD:
     Money: 30:100
 ITEM_FRAME:
   Type: item
-  Describe: §atest6§f需要§e2§f个§e物品展示框§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e物品展示框§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 11
   Item:
     ID: ITEM_FRAME
     Model: 0
@@ -1166,9 +1166,9 @@ ITEM_FRAME:
     Money: 30:100
 JUNGLE_BOAT:
   Type: item
-  Describe: §atest5§f需要§e1§f个§e丛林木船§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e丛林木船§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 10
   Item:
     ID: JUNGLE_BOAT
     Model: 0
@@ -1177,20 +1177,20 @@ JUNGLE_BOAT:
     Money: 30:100
 LAPIS_LAZULI:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e青金石§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e2§f个§e青金石§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 13
   Item:
     ID: LAPIS_LAZULI
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 LEAD:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e拴绳§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e拴绳§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 14
   Item:
     ID: LEAD
     Model: 0
@@ -1199,9 +1199,9 @@ LEAD:
     Money: 30:100
 LEATHER:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e皮革§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e皮革§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 9
   Item:
     ID: LEATHER
     Model: 0
@@ -1210,9 +1210,9 @@ LEATHER:
     Money: 30:100
 LEATHER_BOOTS:
   Type: item
-  Describe: §atest7§f需要§e2§f个§e皮革靴子§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e皮革靴子§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 10
   Item:
     ID: LEATHER_BOOTS
     Model: 0
@@ -1221,9 +1221,9 @@ LEATHER_BOOTS:
     Money: 30:100
 LEATHER_CHESTPLATE:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e皮革外套§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e皮革外套§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 14
   Item:
     ID: LEATHER_CHESTPLATE
     Model: 0
@@ -1232,9 +1232,9 @@ LEATHER_CHESTPLATE:
     Money: 30:100
 LEATHER_HELMET:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e皮革帽子§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e皮革帽子§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 11
   Item:
     ID: LEATHER_HELMET
     Model: 0
@@ -1243,9 +1243,9 @@ LEATHER_HELMET:
     Money: 30:100
 LEATHER_HORSE_ARMOR:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e皮革马铠§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e皮革马铠§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 13
   Item:
     ID: LEATHER_HORSE_ARMOR
     Model: 0
@@ -1254,9 +1254,9 @@ LEATHER_HORSE_ARMOR:
     Money: 30:100
 LEATHER_LEGGINGS:
   Type: item
-  Describe: §atest8§f需要§e2§f个§e皮革裤子§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e皮革裤子§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 14
+  NPCID: 13
   Item:
     ID: LEATHER_LEGGINGS
     Model: 0
@@ -1265,9 +1265,9 @@ LEATHER_LEGGINGS:
     Money: 30:100
 LIGHT_BLUE_DYE:
   Type: item
-  Describe: §atest3§f需要§e2§f个§e淡蓝色染料§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e淡蓝色染料§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 10
   Item:
     ID: LIGHT_BLUE_DYE
     Model: 0
@@ -1276,9 +1276,9 @@ LIGHT_BLUE_DYE:
     Money: 30:100
 LIGHT_GRAY_DYE:
   Type: item
-  Describe: §atest6§f需要§e1§f个§e淡灰色染料§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e淡灰色染料§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 10
   Item:
     ID: LIGHT_GRAY_DYE
     Model: 0
@@ -1287,20 +1287,20 @@ LIGHT_GRAY_DYE:
     Money: 30:100
 LIME_DYE:
   Type: item
-  Describe: §atest3§f需要§e2§f个§e黄绿色染料§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e2§f个§e黄绿色染料§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 11
   Item:
     ID: LIME_DYE
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 MAGENTA_DYE:
   Type: item
-  Describe: §atest7§f需要§e2§f个§e品红色染料§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e品红色染料§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 11
   Item:
     ID: MAGENTA_DYE
     Model: 0
@@ -1309,9 +1309,9 @@ MAGENTA_DYE:
     Money: 30:100
 MAGMA_CREAM:
   Type: item
-  Describe: §atest7§f需要§e2§f个§e岩浆膏§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e岩浆膏§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 10
   Item:
     ID: MAGMA_CREAM
     Model: 0
@@ -1320,9 +1320,9 @@ MAGMA_CREAM:
     Money: 30:100
 MAP:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e空地图§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e空地图§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 11
   Item:
     ID: MAP
     Model: 0
@@ -1331,9 +1331,9 @@ MAP:
     Money: 30:100
 MELON_SEEDS:
   Type: item
-  Describe: §atest7§f需要§e2§f个§e西瓜种子§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e西瓜种子§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 9
   Item:
     ID: MELON_SEEDS
     Model: 0
@@ -1342,18 +1342,18 @@ MELON_SEEDS:
     Money: 30:100
 MELON_SLICE:
   Type: item
-  Describe: §atest8§f需要§e1§f个§e西瓜片§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e2§f个§e西瓜片§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 14
+  NPCID: 12
   Item:
     ID: MELON_SLICE
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 MINECART:
   Type: item
-  Describe: §atest8§f需要§e2§f个§e矿车§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e矿车§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 14
   Item:
@@ -1364,7 +1364,7 @@ MINECART:
     Money: 30:100
 MUSHROOM_STEW:
   Type: item
-  Describe: §atest3§f需要§e1§f个§e蘑菇煲§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e蘑菇煲§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 9
   Item:
@@ -1375,20 +1375,20 @@ MUSHROOM_STEW:
     Money: 30:100
 MUTTON:
   Type: item
-  Describe: §atest3§f需要§e1§f个§e生羊肉§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e2§f个§e生羊肉§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 10
   Item:
     ID: MUTTON
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 NAME_TAG:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e命名牌§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e命名牌§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 12
   Item:
     ID: NAME_TAG
     Model: 0
@@ -1397,9 +1397,9 @@ NAME_TAG:
     Money: 30:100
 NAUTILUS_SHELL:
   Type: item
-  Describe: §atest6§f需要§e1§f个§e鹦鹉螺壳§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e鹦鹉螺壳§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 11
   Item:
     ID: NAUTILUS_SHELL
     Model: 0
@@ -1408,9 +1408,9 @@ NAUTILUS_SHELL:
     Money: 30:100
 NETHER_BRICK:
   Type: item
-  Describe: §atest8§f需要§e2§f个§e地狱砖§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e地狱砖§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 14
+  NPCID: 13
   Item:
     ID: NETHER_BRICK
     Model: 0
@@ -1419,20 +1419,20 @@ NETHER_BRICK:
     Money: 30:100
 NETHER_WART:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e地狱疣§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e2§f个§e地狱疣§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 10
   Item:
     ID: NETHER_WART
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 OAK_BOAT:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e橡木船§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e橡木船§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 10
   Item:
     ID: OAK_BOAT
     Model: 0
@@ -1441,7 +1441,7 @@ OAK_BOAT:
     Money: 30:100
 ORANGE_DYE:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e橙色染料§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e1§f个§e橙色染料§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 10
   Item:
@@ -1452,29 +1452,29 @@ ORANGE_DYE:
     Money: 30:100
 PAPER:
   Type: item
-  Describe: §atest7§f需要§e2§f个§e纸§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e2§f个§e纸§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 11
   Item:
     ID: PAPER
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 PHANTOM_MEMBRANE:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e幻翼膜§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e2§f个§e幻翼膜§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 14
   Item:
     ID: PHANTOM_MEMBRANE
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 PINK_DYE:
   Type: item
-  Describe: §atest3§f需要§e2§f个§e粉红色染料§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e粉红色染料§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 9
   Item:
@@ -1485,7 +1485,7 @@ PINK_DYE:
     Money: 30:100
 POISONOUS_POTATO:
   Type: item
-  Describe: §atest6§f需要§e2§f个§e毒马铃薯§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e毒马铃薯§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 12
   Item:
@@ -1496,9 +1496,9 @@ POISONOUS_POTATO:
     Money: 30:100
 POPPED_CHORUS_FRUIT:
   Type: item
-  Describe: §atest7§f需要§e2§f个§e爆裂紫颂果§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e爆裂紫颂果§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 11
   Item:
     ID: POPPED_CHORUS_FRUIT
     Model: 0
@@ -1507,40 +1507,29 @@ POPPED_CHORUS_FRUIT:
     Money: 30:100
 PORKCHOP:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e生猪排§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e2§f个§e生猪排§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 10
   Item:
     ID: PORKCHOP
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 POTATO:
   Type: item
-  Describe: §atest8§f需要§e1§f个§e马铃薯§f，你快去帮帮他吧！
-  RewardMessage: §7你完成了任务
-  NPCID: 14
-  Item:
-    ID: POTATO
-    Model: 0
-    Amount: 1
-  Reward:
-    Money: 30:100
-POTION:
-  Type: item
-  Describe: §atest5§f需要§e1§f个§e药水§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e2§f个§e马铃薯§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 11
   Item:
-    ID: POTION
+    ID: POTATO
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 PRISMARINE_CRYSTALS:
   Type: item
-  Describe: §atest8§f需要§e1§f个§e海晶砂粒§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e海晶砂粒§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 14
   Item:
@@ -1551,20 +1540,20 @@ PRISMARINE_CRYSTALS:
     Money: 30:100
 PRISMARINE_SHARD:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e海晶碎片§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e2§f个§e海晶碎片§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 12
   Item:
     ID: PRISMARINE_SHARD
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 PUFFERFISH:
   Type: item
-  Describe: §atest7§f需要§e2§f个§e河豚§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e河豚§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 11
   Item:
     ID: PUFFERFISH
     Model: 0
@@ -1573,20 +1562,20 @@ PUFFERFISH:
     Money: 30:100
 PUMPKIN_PIE:
   Type: item
-  Describe: §atest3§f需要§e1§f个§e南瓜派§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e2§f个§e南瓜派§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 11
   Item:
     ID: PUMPKIN_PIE
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 PUMPKIN_SEEDS:
   Type: item
-  Describe: §atest3§f需要§e2§f个§e南瓜种子§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e南瓜种子§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 14
   Item:
     ID: PUMPKIN_SEEDS
     Model: 0
@@ -1595,42 +1584,42 @@ PUMPKIN_SEEDS:
     Money: 30:100
 PURPLE_DYE:
   Type: item
-  Describe: §atest6§f需要§e1§f个§e紫色染料§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e2§f个§e紫色染料§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 9
   Item:
     ID: PURPLE_DYE
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 QUARTZ:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e下界石英§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e2§f个§e下界石英§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 12
   Item:
     ID: QUARTZ
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 RABBIT:
   Type: item
-  Describe: §atest6§f需要§e1§f个§e生兔肉§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e2§f个§e生兔肉§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 9
   Item:
     ID: RABBIT
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 RABBIT_FOOT:
   Type: item
-  Describe: §atest7§f需要§e2§f个§e兔子脚§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e兔子脚§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 14
   Item:
     ID: RABBIT_FOOT
     Model: 0
@@ -1639,9 +1628,9 @@ RABBIT_FOOT:
     Money: 30:100
 RABBIT_HIDE:
   Type: item
-  Describe: §atest3§f需要§e1§f个§e兔子皮§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e兔子皮§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 12
   Item:
     ID: RABBIT_HIDE
     Model: 0
@@ -1650,9 +1639,9 @@ RABBIT_HIDE:
     Money: 30:100
 RABBIT_STEW:
   Type: item
-  Describe: §atest8§f需要§e2§f个§e兔肉煲§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e兔肉煲§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 14
+  NPCID: 12
   Item:
     ID: RABBIT_STEW
     Model: 0
@@ -1661,9 +1650,9 @@ RABBIT_STEW:
     Money: 30:100
 REDSTONE:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e红石粉§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e红石粉§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 12
   Item:
     ID: REDSTONE
     Model: 0
@@ -1672,31 +1661,31 @@ REDSTONE:
     Money: 30:100
 RED_DYE:
   Type: item
-  Describe: §atest5§f需要§e1§f个§e红色染料§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e2§f个§e红色染料§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 9
   Item:
     ID: RED_DYE
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 ROTTEN_FLESH:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e腐肉§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e2§f个§e腐肉§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 14
   Item:
     ID: ROTTEN_FLESH
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 SADDLE:
   Type: item
-  Describe: §atest8§f需要§e2§f个§e鞍§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e鞍§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 14
+  NPCID: 9
   Item:
     ID: SADDLE
     Model: 0
@@ -1705,9 +1694,9 @@ SADDLE:
     Money: 30:100
 SALMON:
   Type: item
-  Describe: §atest3§f需要§e1§f个§e生鲑鱼§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e生鲑鱼§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 13
   Item:
     ID: SALMON
     Model: 0
@@ -1716,18 +1705,18 @@ SALMON:
     Money: 30:100
 SCUTE:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e鳞甲§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e2§f个§e鳞甲§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 13
   Item:
     ID: SCUTE
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 SHEARS:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e剪刀§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e剪刀§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 13
   Item:
@@ -1738,9 +1727,9 @@ SHEARS:
     Money: 30:100
 SHIELD:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e盾牌§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e盾牌§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 11
   Item:
     ID: SHIELD
     Model: 0
@@ -1749,9 +1738,9 @@ SHIELD:
     Money: 30:100
 SHULKER_SHELL:
   Type: item
-  Describe: §atest5§f需要§e1§f个§e潜影壳§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e潜影壳§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 14
   Item:
     ID: SHULKER_SHELL
     Model: 0
@@ -1760,9 +1749,9 @@ SHULKER_SHELL:
     Money: 30:100
 SLIME_BALL:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e粘液球§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e粘液球§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 11
   Item:
     ID: SLIME_BALL
     Model: 0
@@ -1771,20 +1760,20 @@ SLIME_BALL:
     Money: 30:100
 SNOWBALL:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e雪球§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e2§f个§e雪球§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 9
   Item:
     ID: SNOWBALL
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 SPIDER_EYE:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e蜘蛛眼§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e蜘蛛眼§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 14
   Item:
     ID: SPIDER_EYE
     Model: 0
@@ -1793,9 +1782,9 @@ SPIDER_EYE:
     Money: 30:100
 SPRUCE_BOAT:
   Type: item
-  Describe: §atest3§f需要§e2§f个§e云杉木船§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e云杉木船§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 14
   Item:
     ID: SPRUCE_BOAT
     Model: 0
@@ -1804,20 +1793,20 @@ SPRUCE_BOAT:
     Money: 30:100
 STICK:
   Type: item
-  Describe: §atest4§f需要§e2§f个§e木棍§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e2§f个§e木棍§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 10
   Item:
     ID: STICK
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 STONE_AXE:
   Type: item
-  Describe: §atest6§f需要§e1§f个§e石斧§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e石斧§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 14
   Item:
     ID: STONE_AXE
     Model: 0
@@ -1826,9 +1815,9 @@ STONE_AXE:
     Money: 30:100
 STONE_HOE:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e石锄§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e石锄§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 9
   Item:
     ID: STONE_HOE
     Model: 0
@@ -1837,9 +1826,9 @@ STONE_HOE:
     Money: 30:100
 STONE_PICKAXE:
   Type: item
-  Describe: §atest8§f需要§e2§f个§e石镐§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e石镐§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 14
+  NPCID: 11
   Item:
     ID: STONE_PICKAXE
     Model: 0
@@ -1848,9 +1837,9 @@ STONE_PICKAXE:
     Money: 30:100
 STONE_SHOVEL:
   Type: item
-  Describe: §atest7§f需要§e1§f个§e石锹§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e石锹§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 13
+  NPCID: 9
   Item:
     ID: STONE_SHOVEL
     Model: 0
@@ -1859,9 +1848,9 @@ STONE_SHOVEL:
     Money: 30:100
 STONE_SWORD:
   Type: item
-  Describe: §atest3§f需要§e1§f个§e石剑§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e1§f个§e石剑§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 12
   Item:
     ID: STONE_SWORD
     Model: 0
@@ -1870,29 +1859,29 @@ STONE_SWORD:
     Money: 30:100
 STRING:
   Type: item
-  Describe: §atest5§f需要§e1§f个§e线§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e2§f个§e线§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 12
   Item:
     ID: STRING
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 SUGAR:
   Type: item
-  Describe: §atest8§f需要§e1§f个§e糖§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e2§f个§e糖§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 14
+  NPCID: 13
   Item:
     ID: SUGAR
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 SUSPICIOUS_STEW:
   Type: item
-  Describe: §atest5§f需要§e1§f个§e迷之炖菜§f，你快去帮帮他吧！
+  Describe: §a§6铁匠§f需要§e1§f个§e迷之炖菜§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 11
   Item:
@@ -1903,31 +1892,31 @@ SUSPICIOUS_STEW:
     Money: 30:100
 SWEET_BERRIES:
   Type: item
-  Describe: §atest3§f需要§e2§f个§e甜浆果§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e2§f个§e甜浆果§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 9
   Item:
     ID: SWEET_BERRIES
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 TROPICAL_FISH:
   Type: item
-  Describe: §atest8§f需要§e1§f个§e热带鱼§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e2§f个§e热带鱼§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 14
+  NPCID: 10
   Item:
     ID: TROPICAL_FISH
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 TURTLE_HELMET:
   Type: item
-  Describe: §atest5§f需要§e1§f个§e海龟壳§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e海龟壳§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 9
   Item:
     ID: TURTLE_HELMET
     Model: 0
@@ -1936,42 +1925,42 @@ TURTLE_HELMET:
     Money: 30:100
 WHEAT:
   Type: item
-  Describe: §atest5§f需要§e1§f个§e小麦§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e2§f个§e小麦§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 9
   Item:
     ID: WHEAT
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 WHEAT_SEEDS:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e小麦种子§f，你快去帮帮他吧！
+  Describe: §a§6巫婆§f需要§e2§f个§e小麦种子§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
   NPCID: 10
   Item:
     ID: WHEAT_SEEDS
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 WHITE_DYE:
   Type: item
-  Describe: §atest5§f需要§e1§f个§e白色染料§f，你快去帮帮他吧！
+  Describe: §a§6大叔§f需要§e2§f个§e白色染料§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 12
   Item:
     ID: WHITE_DYE
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100
 WOODEN_AXE:
   Type: item
-  Describe: §atest5§f需要§e2§f个§e木斧§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e木斧§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 11
+  NPCID: 14
   Item:
     ID: WOODEN_AXE
     Model: 0
@@ -1980,9 +1969,9 @@ WOODEN_AXE:
     Money: 30:100
 WOODEN_HOE:
   Type: item
-  Describe: §atest3§f需要§e1§f个§e木锄§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e木锄§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 9
+  NPCID: 13
   Item:
     ID: WOODEN_HOE
     Model: 0
@@ -1991,9 +1980,9 @@ WOODEN_HOE:
     Money: 30:100
 WOODEN_PICKAXE:
   Type: item
-  Describe: §atest8§f需要§e2§f个§e木镐§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e1§f个§e木镐§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 14
+  NPCID: 13
   Item:
     ID: WOODEN_PICKAXE
     Model: 0
@@ -2002,9 +1991,9 @@ WOODEN_PICKAXE:
     Money: 30:100
 WOODEN_SHOVEL:
   Type: item
-  Describe: §atest6§f需要§e2§f个§e木锹§f，你快去帮帮他吧！
+  Describe: §a§6小花§f需要§e1§f个§e木锹§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 9
   Item:
     ID: WOODEN_SHOVEL
     Model: 0
@@ -2013,9 +2002,9 @@ WOODEN_SHOVEL:
     Money: 30:100
 WOODEN_SWORD:
   Type: item
-  Describe: §atest4§f需要§e1§f个§e木剑§f，你快去帮帮他吧！
+  Describe: §a§6北门守卫§f需要§e1§f个§e木剑§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 10
+  NPCID: 14
   Item:
     ID: WOODEN_SWORD
     Model: 0
@@ -2024,12 +2013,12 @@ WOODEN_SWORD:
     Money: 30:100
 YELLOW_DYE:
   Type: item
-  Describe: §atest6§f需要§e2§f个§e黄色染料§f，你快去帮帮他吧！
+  Describe: §a§6东门守卫§f需要§e2§f个§e黄色染料§f，你快去帮帮他吧！
   RewardMessage: §7你完成了任务
-  NPCID: 12
+  NPCID: 13
   Item:
     ID: YELLOW_DYE
     Model: 0
-    Amount: 1
+    Amount: 2
   Reward:
     Money: 30:100

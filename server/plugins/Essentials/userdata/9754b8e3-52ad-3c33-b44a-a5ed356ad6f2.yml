@@ -1,8 +1,8 @@
 lastAccountName: BiShop
 timestamps:
-  login: 1587399154252
-  logout: 1587400932213
-  lastteleport: 1587400600389
+  login: 1587417025524
+  logout: 1587415781171
+  lastteleport: 1587420087186
   kits:
     color: 1587237640481
     tools: 1585116551834
@@ -11,19 +11,19 @@ timestamps:
     expiry: 1587257840826
 ipAddress: 127.0.0.1
 lastlocation:
-  world: shengcun
-  x: -384.0812690630594
-  y: 70.0
-  z: -158.40649448671135
-  yaw: 72.60375
-  pitch: 21.599957
+  world: DXL_Game_0
+  x: 46.98055637349815
+  y: 12.0
+  z: -20.154747957755905
+  yaw: 258.7727
+  pitch: 12.600197
 logoutlocation:
   world: world
-  x: 107.03749419501088
+  x: 110.09294755233223
   y: 31.0
-  z: -85.78578286364296
-  yaw: -148.27744
-  pitch: 6.267498
+  z: -86.06749873490837
+  yaw: -205.58765
+  pitch: 17.51746
 afk: false
 powertools: {}
-money: '278021.18'
+money: '278682.18'
