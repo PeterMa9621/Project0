@@ -387,6 +387,30 @@
         "custom_model_data": 64
       },
       "model": "itemsadder:auto_generated/shotgun_cartridge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 65
+      },
+      "model": "mjy:auto_generated/quest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 66
+      },
+      "model": "mjy:auto_generated/quest_quit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 67
+      },
+      "model": "mjy:auto_generated/quest_finish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68
+      },
+      "model": "mjy:auto_generated/quest_question"
     }
   ]
 }

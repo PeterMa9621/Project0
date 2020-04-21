@@ -105,3 +105,35 @@ items:
       generate: true
       textures:
       - item/pixelbuddha/unicorn.png
+  quest:
+    display_name: '&2接受任务'
+    permission: quest
+    resource:
+      material: STICK
+      generate: true
+      textures:
+      - item/icon/quest.png
+  quest_quit:
+    display_name: '&2离开任务'
+    permission: quest_quit
+    resource:
+      material: STICK
+      generate: true
+      textures:
+      - item/icon/quest_quit.png
+  quest_finish:
+    display_name: '&2离开任务'
+    permission: quest_finish
+    resource:
+      material: STICK
+      generate: true
+      textures:
+      - item/icon/quest_finish.png
+  quest_question:
+    display_name: '&2任务问号'
+    permission: quest_question
+    resource:
+      material: STICK
+      generate: true
+      textures:
+      - item/icon/quest_question.png

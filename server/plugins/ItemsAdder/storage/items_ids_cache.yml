@@ -466,6 +466,10 @@ STICK:
   itemsadder:carton_box: 62
   itemsadder:cut_spruce_log: 63
   itemsadder:shotgun_cartridge: 64
+  mjy:quest: 65
+  mjy:quest_quit: 66
+  mjy:quest_finish: 67
+  mjy:quest_question: 68
 IRON_INGOT:
   itemsadder:ruby: 1
   itemsadder:crystal: 2
