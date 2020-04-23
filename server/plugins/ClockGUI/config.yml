@@ -27,12 +27,13 @@ GUI:
         # 按钮位置(0号为左上角第一个)
         Position: 26
         # 按钮显示物品ID
-        ItemID: 'IRON_INGOT'
+        ItemID: 'PAPER'
+        Model: 47
         # 按钮显示名称
         Name: §e商城
         # 按钮显示Lore(每一行用%隔开)
         Lore: §a点击打开商城
-        HideItem: true
+        HideItem: false
         # 物品显示附魔
         Enchantment:
           # 附魔ID
@@ -308,45 +309,62 @@ GUI:
             Use: false
             Number: 2
   '1':
-    Name: §e§l点券商城 §3§l1RMB等于100点券
+    Name: §5§l赞助商城
     Item:
       '1':
-        Position: 0
-        ItemID: 'EMERALD'
-        Name: §a购买一个金刚石
-        Lore: §3这是一种十分坚硬的石头%§2[用途]§a用于辅助强化装备%§a在装备强化失败时装备%§a不会碎掉%§5价格:200点券%§6点击即可购买
-        Enchantment:
-          ID: fortune
-          Level: 1
-        HideEnchant: true
-        Cost:
-          Type: PlayerPoints
-          Price: 200
-        Function:
-          Command:
-            Use: true
-            Content: /qh get 1
-      '2':
         Position: 2
-        ItemID: 'GOLDEN_APPLE'
-        Name: §a购买一个幸运果，价格1500点券
-        Lore: §3幸运果实%§2[用途]§a用于辅助强化装备%§a在下一次强化装备时%§a一定成功%§5价格:1500点券%§6点击即可购买
+        ItemID: 'PAPER'
+        Model: 46
+        Name: §a购买Vip1(31天)
+        Lore: §3特权请查看Vip手册%§5价格:15元%§6点击选择支付方式
+        HideEnchant: true
+        Function:
+          Command:
+            Use: true
+            Content: /paygui vip1
+      '2':
+        Position: 4
+        ItemID: 'PAPER'
+        Model: 47
+        Name: §a购买Vip2
+        Lore: §3特权请查看Vip手册%§5价格:25元%§6点击选择支付方式
+        HideEnchant: true
+        Function:
+          Command:
+            Use: true
+            Content: /paygui vip2
+      '3':
+        Position: 6
+        ItemID: 'PAPER'
+        Model: 48
+        Name: §a购买Vip3
+        Lore: §3特权请查看Vip手册%§5价格:40元%§6点击选择支付方式
+        HideEnchant: true
+        Function:
+          Command:
+            Use: true
+            Content: /paygui vip3
+      '11':
+        Position: 13
+        ItemID: 'PAPER'
+        Model: 34
+        Name: §a购买一个钥匙礼包
+        Lore: §7内含6把钥匙%§76种抽奖钥匙各一把%§5价格:12元%§6点击选择支付方式
+        HideItem: false
         Enchantment:
           ID: fortune
           Level: 1
         HideEnchant: true
-        Cost:
-          Type: PlayerPoints
-          Price: 1500
         Function:
           Command:
             Use: true
-            Content: /qh get 2
-      '3':
-        Position: 9
+            Content: /paygui 钥匙礼包
+      '10':
+        Position: 10
         ItemID: 'TRIPWIRE_HOOK'
-        Name: §a购买一个§e§l跑马灯抽奖箱§3§l的钥匙
-        Lore: §7一把开启抽奖箱的钥匙%§7用它打开§e§l跑马灯抽奖箱%§5价格:300点券%§6点击即可购买
+        Name: §a购买一个§e§l老虎机抽奖箱§3§l的钥匙
+        Lore: §7一把开启抽奖箱的钥匙%§7用它打开§e§l老虎机抽奖箱%§5价格:300点券%§6点击即可购买
+        HideItem: true
         Enchantment:
           ID: fortune
           Level: 1
@@ -357,12 +375,13 @@ GUI:
         Function:
           Command:
             Use: true
-            Content: /crazycrate give Physical 跑马灯 1 {player}
+            Content: /crazycrate give Physical 老虎机 1 {player}
       '4':
         Position: 10
         ItemID: 'TRIPWIRE_HOOK'
         Name: §a购买一个§e§l老虎机抽奖箱§3§l的钥匙
         Lore: §7一把开启抽奖箱的钥匙%§7用它打开§e§l老虎机抽奖箱%§5价格:300点券%§6点击即可购买
+        HideItem: true
         Enchantment:
           ID: fortune
           Level: 1
@@ -379,6 +398,7 @@ GUI:
         ItemID: 'TRIPWIRE_HOOK'
         Name: §a购买一个§e§l快速抽奖箱§3§l的钥匙
         Lore: §7一把开启抽奖箱的钥匙%§7用它打开§e§l快速抽奖箱%§5价格:300点券%§6点击即可购买
+        HideItem: true
         Enchantment:
           ID: fortune
           Level: 1
@@ -395,6 +415,7 @@ GUI:
         ItemID: 'TRIPWIRE_HOOK'
         Name: §a购买一个§e§l九选一抽奖箱§3§l的钥匙
         Lore: §7一把开启抽奖箱的钥匙%§7用它打开§e§l九选一抽奖箱%§5价格:300点券%§6点击即可购买
+        HideItem: true
         Enchantment:
           ID: fortune
           Level: 1
@@ -411,6 +432,7 @@ GUI:
         ItemID: 'TRIPWIRE_HOOK'
         Name: §a购买一个§e§l烟花抽奖箱§3§l的钥匙
         Lore: §7一把开启抽奖箱的钥匙%§7用它打开§e§l烟花抽奖箱%§5价格:400点券%§6点击即可购买
+        HideItem: true
         Enchantment:
           ID: fortune
           Level: 1
@@ -427,6 +449,7 @@ GUI:
         ItemID: 'TRIPWIRE_HOOK'
         Name: §a购买一个§5§l疯狂抽奖箱§3§l的钥匙
         Lore: §7一把开启抽奖箱的钥匙%§7用它打开§e§l疯狂抽奖箱%§5价格:1000点券%§6点击即可购买
+        HideItem: true
         Enchantment:
           ID: fortune
           Level: 1
@@ -465,6 +488,7 @@ GUI:
         Function:
           Command:
             Use: true
+            CloseGui: true
             Content: /pinfo
       '2':
         Position: 1
@@ -477,6 +501,7 @@ GUI:
         Function:
           Command:
             Use: true
+            CloseGui: true
             Content: /pc
       '3':
         Position: 2
@@ -489,6 +514,7 @@ GUI:
         Function:
           Command:
             Use: true
+            CloseGui: true
             Content: /psa
       '4':
         Position: 3
@@ -501,6 +527,7 @@ GUI:
         Function:
           Command:
             Use: true
+            CloseGui: true
             Content: /petskill
       '5':
         Position: 15
@@ -513,6 +540,7 @@ GUI:
         Function:
           Command:
             Use: true
+            CloseGui: true
             Content: /petrelease
       '6':
         Position: 17

@@ -429,6 +429,24 @@
         "custom_model_data": 71
       },
       "model": "mjy:auto_generated/lock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 72
+      },
+      "model": "mjy:auto_generated/qq"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 73
+      },
+      "model": "mjy:auto_generated/wechat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 74
+      },
+      "model": "mjy:auto_generated/alipay"
     }
   ]
 }

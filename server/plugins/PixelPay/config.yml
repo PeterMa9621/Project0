@@ -3,9 +3,9 @@
 #MCBBS介绍帖：http://www.mcbbs.net/thread-857710-1-1.html
 #网站控制台的左侧找到：“我的服务器”，点击后在右侧的 “我旗下的服务器” 栏目中找到你的服务器信息
 #找到SID(编号)、KEY(密钥)两项，填入即可
-SID: 1
+SID: 2124
 #服务器Key
-Key: Le4wG4GMrL6JwKS4
+Key: 3FszaInCGJ94ZKOl
 #填写示范：
 #SID:(空格)123
 #Key:(空格)abcdefghijklmn
@@ -24,7 +24,7 @@ lang: zh
 useMap: true
 
 #latestAPI 是否使用最新的地图API(地图无法显示二维码请尝试切换该配置项的值,通常用于1.13和以上版本)
-latestAPI: false
+latestAPI: true
 
 #支付方式，设置后将会转换为变量{2}
 payway:
@@ -62,7 +62,7 @@ openCommands:
 #{0}代表支付方式
 #{1}代表金额
 #只支持英文！填入中文会报错
-mapWords: '{0} | : {1} RMB'
+mapWords: '{0} -> {1} RMB'
 
 #自定义支付地图的物品名称及描述
 map:

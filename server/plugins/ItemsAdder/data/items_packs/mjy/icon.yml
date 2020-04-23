@@ -161,3 +161,51 @@ items:
       generate: true
       textures:
       - item/icon/lock.png
+  qq:
+    display_name: '&2QQ'
+    permission: qq
+    resource:
+      material: STICK
+      generate: true
+      textures:
+      - item/icon/qq.png
+  wechat:
+    display_name: '&2wechat'
+    permission: wechat
+    resource:
+      material: STICK
+      generate: true
+      textures:
+      - item/icon/wechat.png
+  alipay:
+    display_name: '&2alipay'
+    permission: alipay
+    resource:
+      material: STICK
+      generate: true
+      textures:
+      - item/icon/alipay.png
+  vip1:
+    display_name: '&2vip1'
+    permission: vip1
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/icon/vip1.png
+  vip2:
+    display_name: '&2vip2'
+    permission: vip2
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/icon/vip2.png
+  vip3:
+    display_name: '&2vip3'
+    permission: vip3
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+      - item/icon/vip3.png

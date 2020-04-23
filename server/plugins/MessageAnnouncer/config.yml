@@ -25,7 +25,8 @@ interval_announcement_list:
 - dungeon
 announcements:
   donate:
-  - '[{"text":"[服务器公告] ","color":"light_purple"},{"text":"如果你喜欢我们服务器，欢迎赞助我们。","color":"green"},{"text":"点击打开赞助网站","color":"gold","bold":true,"underlined":true,"clickEvent":{"action":"open_url","value":"http://t.cn/RS0yWIl"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"点击打开赞助网站","color":"red"}]}}}]'
+  - '[{"text":"[服务器公告] ","color":"light_purple"},{"text":"如果你喜欢我们服务器，欢迎赞助我们。","color":"green"},{"text":"点击打开赞助界面","color":"gold","bold":true,"underlined":true,"clickEvent":{"action":"run_command","value":"/clock
+    open 1"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"点击打开赞助网站","color":"red"}]}}}]'
   pet:
   - '[{"text":"[小提示] ","color":"gold"},{"text":"拥有一只宠物不仅能给你提供帮助，还能增添无限的乐趣。","color":"aqua"},{"text":"点击了解更多","color":"dark_purple","bold":true,"underlined":true,"clickEvent":{"action":"run_command","value":"/ob
     open 宠物手册 "},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"点击查看更多内容","color":"yellow"}]}}}]'

@@ -273,6 +273,24 @@
         "custom_model_data": 45
       },
       "model": "mjy:auto_generated/chest2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "mjy:auto_generated/vip1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "mjy:auto_generated/vip2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "mjy:auto_generated/vip3"
     }
   ]
 }

@@ -17,11 +17,11 @@ Gui:
     Model: 66
   GoBack:
     Id: PAPER
-    DisplayName: '&6我点错了'
+    DisplayName: '&f我点错了'
     Model: 12
   WhatIsDailyQuest:
     Id: STICK
-    DisplayName: '&6什么是日常任务？'
+    DisplayName: '&3什么是日常任务？'
     Model: 68
   Accept:
     Id: STICK
