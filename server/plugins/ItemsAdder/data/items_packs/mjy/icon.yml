@@ -137,3 +137,27 @@ items:
       generate: true
       textures:
       - item/icon/quest_question.png
+  zombie_king:
+    display_name: '&2尸王'
+    permission: zombie_king
+    resource:
+      material: STICK
+      generate: true
+      textures:
+      - item/icon/zombie_king.png
+  dungeon_1:
+    display_name: '&2副本'
+    permission: dungeon_1
+    resource:
+      material: STICK
+      generate: true
+      textures:
+      - item/icon/dungeon_1.png
+  lock:
+    display_name: '&2锁'
+    permission: lock
+    resource:
+      material: STICK
+      generate: true
+      textures:
+      - item/icon/lock.png

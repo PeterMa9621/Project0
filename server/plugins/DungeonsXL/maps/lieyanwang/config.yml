@@ -13,8 +13,8 @@ dungeonManager:
   maxPlayers: 4
   minLevel: 12
   icon:
-    id: PAPER
-    model: 18
+    id: STICK
+    model: 70
     
 dps:
   exp: 30-100

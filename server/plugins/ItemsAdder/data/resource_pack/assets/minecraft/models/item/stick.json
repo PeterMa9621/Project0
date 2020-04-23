@@ -411,6 +411,24 @@
         "custom_model_data": 68
       },
       "model": "mjy:auto_generated/quest_question"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 69
+      },
+      "model": "mjy:auto_generated/zombie_king"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 70
+      },
+      "model": "mjy:auto_generated/dungeon_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 71
+      },
+      "model": "mjy:auto_generated/lock"
     }
   ]
 }

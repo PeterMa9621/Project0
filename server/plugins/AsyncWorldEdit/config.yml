@@ -37,7 +37,7 @@ awe:
   #Use -1 to disable force flush.
   forceFlushBlocks: 10000
   #Check for updates
-  checkVersion: true  
+  checkVersion: false  
   physicsFreeze:
     #Disable or enable blocks physics freeze when placing blocks  
     enabled: true

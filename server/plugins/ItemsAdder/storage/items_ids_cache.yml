@@ -470,6 +470,9 @@ STICK:
   mjy:quest_quit: 66
   mjy:quest_finish: 67
   mjy:quest_question: 68
+  mjy:zombie_king: 69
+  mjy:dungeon_1: 70
+  mjy:lock: 71
 IRON_INGOT:
   itemsadder:ruby: 1
   itemsadder:crystal: 2
